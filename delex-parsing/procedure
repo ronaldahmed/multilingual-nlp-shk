@@ -1,0 +1,76 @@
+cat ~/ud-treebanks-v2.1/UD_Dutch/nl-ud-train.conllu ~/ud-treebanks-v2.1/UD_Dutch-LassySmall/nl_lassysmall-ud-train.conllu > data/nl-train.conllu
+
+cat ~/ud-treebanks-v2.1/UD_Latin/la-ud-train.conllu ~/ud-treebanks-v2.1/UD_Latin-ITTB/la_ittb-ud-train.conllu \
+~/ud-treebanks-v2.1/UD_Latin-PROIEL/la_proiel-ud-train.conllu > data/la-train.conllu
+
+
+cat ~/ud-treebanks-v2.1/UD_Swedish/sv-ud-train.conllu \
+~/ud-treebanks-v2.1/UD_Swedish-LinES/sv_lines-ud-train.conllu \
+~/ud-treebanks-v2.1/UD_Swedish_Sign_Language/swl-ud-train.conllu > data/sv-train.conllu
+
+cat ~/ud-treebanks-v2.1/UD_Finnish/fi-ud-train.conllu \
+~/ud-treebanks-v2.1/UD_Finnish-FTB/fi_ftb-ud-train.conllu > data/fi-train.conllu
+
+cat ~/ud-treebanks-v2.1/UD_Czech/cs-ud-train.conllu \
+~/ud-treebanks-v2.1/UD_Czech-CAC/cs_cac-ud-train.conllu \
+~/ud-treebanks-v2.1/UD_Czech-CLTT/cs_cltt-ud-train.conllu \
+~/ud-treebanks-v2.1/UD_Czech-FicTree/cs_fictree-ud-train.conllu > data/cs-train.conllu
+
+
+
+=====================================================================================
+
+NL
+
+cat data/nl-train.conllu | udpipe --train --parser='embedding_form=0;embedding_feats=0;' --tokenizer=none --tagger=none models/nl.delex.parser.udpipe
+
+HR
+
+cat ~/ud-treebanks-v2.1/UD_Croatian/hr-ud-train.conllu | udpipe --train --parser='embedding_form=0;embedding_feats=0;' --tokenizer=none --tagger=none models/hr.delex.parser.udpipe
+
+LA
+
+cat data/la-train.conllu | udpipe --train --parser='embedding_form=0;embedding_feats=0;' --tokenizer=none --tagger=none models/la.delex.parser.udpipe
+
+HI
+
+cat ~/ud-treebanks-v2.1/UD_Hindi/hi-ud-train.conllu | udpipe --train --parser='embedding_form=0;embedding_feats=0;' --tokenizer=none --tagger=none models/hi.delex.parser.udpipe
+
+SV
+
+cat data/sv-train.conllu | udpipe --train --parser='embedding_form=0;embedding_feats=0;' --tokenizer=none --tagger=none models/sv.delex.parser.udpipe
+
+FI
+
+cat data/fi-train.conllu | udpipe --train --parser='embedding_form=0;embedding_feats=0;' --tokenizer=none --tagger=none models/fi.delex.parser.udpipe
+
+SHK
+
+cat ud-shp-v3.5.conllu.annot | udpipe --train --parser='embedding_form=0;embedding_feats=0;' --tokenizer=none --tagger=none models/shk.delex.parser.udpipe
+
+========
+aux_clit -> mark
+
+Lexicalized baseline
+
+cat ud-shp-v3.5.conllu.annot | udpipe --train --parser --tokenizer=none --tagger=none models/shk.lex.parser.udpipe
+
+==
+parse 
+
+udpipe --parse --input=conllu models/cs.delex.parser.udpipe < ud-shp-v3.5.conllu.annot > out.conllu
+
+
+decode
+python3 multi_src_dec.py -l cs,fi,hi,la,nl,sv -o comb.klcpos -wm klcpos
+
+evaluate
+python3 conll17_ud_eval.py ud-shp-v3.5.conllu.annot comb.klcpos -v
+
+
+===========================
+
+wals reordering
+
+cd pair_ops
+UDPATH=~/ud-treebanks-v2.1 ./pair_ops.py 

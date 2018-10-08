@@ -1,0 +1,10 @@
+joo	joo	ONOM 
+keska	keska	ONOM 
+saí	saí	ONOM 
+tan	tan	ONOM 
+tes	tes	ONOM 
+to	to	ONOM 
+too	too	ONOM 
+tíi	tíi	ONOM 
+xoon	xoon	ONOM 
+yoyo	yoyo	ONOM 

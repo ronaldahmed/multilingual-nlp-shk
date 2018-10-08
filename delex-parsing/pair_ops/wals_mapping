@@ -1,0 +1,21 @@
+37A Definite affix	del-def
+37A Definite word distinct from demonstrative	all-def
+37A Demonstrative word used as definite article	all-def
+37A No definite, but indefinite article	del-def
+37A No definite or indefinite article	del-d
+38A Indefinite word distinct from &#39;one&#39;	all-ind
+38A Indefinite word same as &#39;one&#39;	all-ind
+38A No definite or indefinite article	del-d
+38A No indefinite, but definite article	del-ind
+85A No dominant order	adp-50
+85A Postpositions	n-adp
+85A Prepositions	adp-n
+86A Genitive-Noun	ngen-n
+86A No dominant order	ngen-50
+86A Noun-Genitive	n-ngen
+87A Adjective-Noun	a-n
+87A Noun-Adjective	n-a
+88A Demonstrative-Noun	d-n
+88A Mixed	det-50
+88A Noun-Demonstrative	n-d
+89A Numeral-Noun	num-n

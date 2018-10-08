@@ -1,0 +1,17 @@
+UFEATS PROPOSALS
+
+1 Switch-reference system
+
+subject: same/different
+
+Subj=Same
+Subj=Diff
+
+event: simultaneous / previous / following
+
+Tense=RelSim
+Tense=RelPrev
+Tense=RelNext
+
+ discourse continuity?
+ syntactic orientation? S-A-O

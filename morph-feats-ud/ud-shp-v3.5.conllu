@@ -1,0 +1,5071 @@
+# newdoc_id = Parte3_3_2.xml
+# sent_id = Parte3_3_2.xml-0
+# text = ¿ Jatianki jawen ibon jawe aká iki ?
+# es_text = ¿Qué le hizo el dueño al final?
+1	¿	_	PUNCT	_	_	8	punct	_	_
+2-3	Jatian-ki	_	_	_	_	_	_	_	_
+2	Jatian	_	CONJ	_	_	8	cc	_	_
+3	-ki	_	CL2P	_	_	8	aux_clit	_	_
+4	jawen	_	DET	_	_	5	det	_	_
+5-6	ibo-n	_	_	_	_	_	_	_	_
+5	ibo	_	NOUN	_	_	8	nsubj	_	_
+6	-n	_	CLNOM	_	_	5	case	_	_
+7	jawe	_	PINT	_	_	8	obj	_	_
+8	ati-a	_	VERB	_	_	0	root	_	_
+9	iki	_	AUX	_	_	8	aux	_	_
+10	?	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = Parte3_3_2.xml
+# sent_id = Parte3_3_2.xml-1
+# text = ¿ Jatianki joni jaweraki yoia iki ?
+# es_text = ¿Cómo respondió el hombre al tigre?
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2-3	Jatian-ki	_	_	_	_	_	_	_	_
+2	Jatian	_	CONJ	_	_	6	cc	_	_
+3	-ki	_	CL2P	_	_	6	aux_clit	_	_
+4	joni	_	NOUN	_	_	6	nsubj	_	_
+5	jaweraki	_	PINT	_	_	6	advmod	_	_
+6	yoiti-a	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = Parte3_3_2.xml
+# sent_id = Parte3_3_2.xml-2
+# text = ¿ Jawekeskáakinki jonin ino parana iki ?
+# es_text = ¿Cómo engañó el hombre al tigre?
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2-3	Jawekeskáakin-ki	_	_	_	_	_	_	_	_
+2	Jawekeskáakin	_	PINT	_	_	6	advmod	_	_
+3	-ki	_	CL2P	_	_	6	aux_clit	_	_
+4	joni-n	_	NOUN	_	_	6	nsubj	_	_
+5	ino	_	NOUN	_	_	6	iobj	_	_
+6	paranti-a	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = Parte3_3_2.xml
+# sent_id = Parte3_3_2.xml-4
+# text = ¿ Jaweki jonin aata iki ?
+# es_text = ¿Qué hacía el hombre?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2-3	jawe-ki	_	_	_	_	_	_	_	_
+2	jawe	_	PINT	_	_	5	obj	_	_
+3	-ki	_	CL2P	_	_	5	aux_clit	_	_
+4	joni-n	_	NOUN	_	_	5	nsubj	_	_
+5	aati-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = Parte3_3_1.xml
+# sent_id = Parte3_3_1.xml-0
+# text = Jonironki iká iki konxan bema toweiki iiti , xoboanoxon .
+# es_text = Cierto día, un hombre partió un árbol de cedro para los horcones de su casa.
+1-2	joni-ronki	_	_	_	_	_	_	_	_
+1	joni	_	NOUN	_	_	7	nsubj	_	_
+2	-ronki	_	CL2P	_	_	7	aux_clit	_	_
+3	iki-a	_	VERB	_	_	8	aux	_	_
+4	iki	_	AUX	_	_	3	aux	_	_
+5	konxan	_	NOUN	_	_	6	compound	_	_
+6	bema	_	NOUN	_	_	7	obj	_	_
+7	toweiki	_	VERB	_	_	0	root	_	_
+8	iiti	_	VERB	_	_	7	aux	_	_
+9	,	_	PUNCT	_	_	7	punct	_	_
+10	xoboati-noxon	_	VERB	_	_	7	advcl	_	_
+11	.	_	PUNCT	_	_	10	punct	_	_
+
+# newdoc_id = transcripcion4_31_2.xml
+# sent_id = transcripcion4_31_2.xml-1
+# text = ¿ Jawekeskatiki jaskatai ? ¡ Papá !
+# es_text = ¿Por qué? papá.
+1	¿	_	PUNCT	_	_	4	punct	_	_
+2-3	jáwekeskati-ki	_	_	_	_	_	_	_	_
+2	jáwekeskati	_	PINT	_	_	4	advmod	_	_
+3	-ki	_	CL2P	_	_	4	aux_clit	_	_
+4	jaskáti-ai	_	VERB	_	_	0	root	_	_
+5	?	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion4_31_2.xml
+# sent_id = transcripcion4_31_2.xml-1
+# text = ¿ Jawekeskatiki jaskatai ? ¡ Papá !
+# es_text = ¿Por qué? papá.
+1	¡	_	PUNCT	_	_	2	punct	_	_
+2	Papá	_	NOUN	_	_	0	root	_	_
+3	!	_	PUNCT	_	_	2	punct	_	_
+
+# newdoc_id = transcripcion4_31_2.xml
+# sent_id = transcripcion4_31_2.xml-2
+# text = Jiwira niamai , ni teéyama , ni kirika onanyamai .
+# es_text = Ellos no andan, ni trabajan, ni estudian.
+1-2	jiwi-ra	_	_	_	_	_	_	_	_
+1	jiwi	_	NOUN	_	_	3	nsubj	_	_
+2	-ra	_	CL2P	_	_	3	aux_clit	_	_
+3	níti-ama-ai	_	VERB	_	_	0	root	_	_
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	ni	_	CONJ	_	_	6	cc	_	_
+6	téeti-yama	_	VERB	_	_	3	conj	_	_
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	ni	_	CONJ	_	_	10	cc	_	_
+9	kirika	_	NOUN	_	_	10	obj	_	_
+10	onanti-yama-ai	_	VERB	_	_	3	conj	_	_
+11	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion4_31_2.xml
+# sent_id = transcripcion4_31_2.xml-3
+# text = Jeeen , enra moa onanke .
+# es_text = Ah, eso ya sé.
+1	Jeeen	_	INTJ	_	_	7	discourse	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3-5	ea-n-ra	_	_	_	_	_	_	_	_
+3	ea	_	PRON	_	_	7	nsubj	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5	-ra	_	CL2P	_	_	7	aux_clit	_	_
+6	moa	_	ADV	_	_	7	advmod	_	_
+7	onanti-ke	_	VERB	_	_	0	root	_	_
+8	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte3_3_1.xml
+# sent_id = TrasncripcionLea-parte3_3_1.xml-0
+# text = ¿ Jaweki nexnexen piai ?
+# es_text = ¿Qué come el shansho?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2-3	jawe-ki	_	_	_	_	_	_	_	_
+2	jawe	_	PINT	_	_	5	obj	_	_
+3	-ki	_	CL2P	_	_	5	aux_clit	_	_
+4	nexnex-en	_	NOUN	_	_	5	nsubj	_	_
+5	piti-ai	_	VERB	_	_	0	root	_	_
+6	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion6_15.xml
+# sent_id = transcripcion6_15.xml-0
+# text = ¿ Jatianki inon jawe beá iki ?
+# es_text = Entonces, ¿qué trajo el tigre?
+1	¿	_	PUNCT	_	_	7	punct	_	_
+2-3	Jatian-ki	_	_	_	_	_	_	_	_
+2	Jatian	_	CONJ	_	_	7	cc	_	_
+3	-ki	_	CL2P	_	_	7	aux_clit	_	_
+4-5	ino-n	_	_	_	_	_	_	_	_
+4	ino	_	NOUN	_	_	7	nsubj	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	jawe	_	PINT	_	_	7	obj	_	_
+7	beti-a	_	VERB	_	_	0	root	_	_
+8	iki	_	AUX	_	_	7	aux	_	_
+9	?	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion6_15.xml
+# sent_id = transcripcion6_15.xml-1
+# text = ¿ Wetsa netenki inon chaxo jawe aká iki ?
+# es_text = ¿Qué dijo un día el tigre al venado?
+1	¿	_	PUNCT	_	_	10	punct	_	_
+2	Wetsa	_	ADJ	_	_	3	amod	_	_
+3-5	nete-n-ki	_	_	_	_	_	_	_	_
+3	nete	_	NOUN	_	_	10	obl	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5	-ki	_	CL2P	_	_	10	aux_clit	_	_
+6-7	ino-n	_	_	_	_	_	_	_	_
+6	ino	_	NOUN	_	_	10	nsubj	_	_
+7	-n	_	CLNOM	_	_	6	case	_	_
+8	chaxo	_	NOUN	_	_	9	iobj	_	_
+9	jawe	_	PINT	_	_	10	obj	_	_
+10	ati-a	_	VERB	_	_	0	root	_	_
+11	iki	_	AUX	_	_	10	aux	_	_
+12	?	_	PUNCT	_	_	10	punct	_	_
+
+# newdoc_id = transcripcion6_15.xml
+# sent_id = transcripcion6_15.xml-4
+# text = Mapó ainbo iní
+# es_text = La mujer greda
+1	Mapó	_	NOUN	_	_	0	root	_	_
+2	ainbo	_	NOUN	_	_	1	nsubj	_	_
+3	iki-ni	_	VERB	_	_	1	cop	_	_
+
+# newdoc_id = transcripcion5_77.xml
+# sent_id = transcripcion5_77.xml-1
+# text = ¿ Miaki jawetii xetaya iki ?
+# es_text = ¿Cuántos dientes tienes tú?
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2-4	mia-a-ki	_	_	_	_	_	_	_	_
+2	mia	_	PRON	_	_	6	nsubj	_	_
+3	-a	_	CLNOM	_	_	2	case	_	_
+4	-ki	_	CL2P	_	_	6	aux_clit	_	_
+5	jawetii	_	PINT	_	_	6	amod	_	_
+6-7	xeta-ya	_	_	_	_	_	_	_	_
+6	xeta	_	NOUN	_	_	0	root	_	_
+7	-ya	_	CLNOM	_	_	6	case	_	_
+8	iki	_	VERB	_	_	6	cop	_	_
+9	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_3_2.xml
+# sent_id = Lea_Transcripcion2_parte3_3_2.xml-0
+# text = ¿ Jainoaki inon jaweraki atoshia iki ?
+# es_text = ¿Qué le dijo el tigre al motelito?
+1	¿	_	PUNCT	_	_	7	punct	_	_
+2-3	jainoa-ki	_	_	_	_	_	_	_	_
+2	jainoa	_	CONJ	_	_	7	cc	_	_
+3	-ki	_	CL2P	_	_	7	aux_clit	_	_
+4-5	ino-n	_	_	_	_	_	_	_	_
+4	ino	_	NOUN	_	_	7	nsubj	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	jaweraki	_	PINT	_	_	7	obj	_	_
+7	ati-toshi-a	_	VERB	_	_	0	root	_	_
+8	iki	_	AUX	_	_	7	aux	_	_
+9	?	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_3_2.xml
+# sent_id = Lea_Transcripcion2_parte3_3_2.xml-1
+# text = ¿ Jawekeskaaxonki mananxawen ino tetea iki ?
+# es_text = ¿Cómo mató el motelito al tigre?
+1	¿	_	PUNCT	_	_	7	punct	_	_
+2-3	jawekeskaaxon-ki	_	_	_	_	_	_	_	_
+2	jawekeskaaxon	_	PINT	_	_	7	advmod	_	_
+3	-ki	_	CL2P	_	_	7	aux_clit	_	_
+4-5	mananxawe-n	_	_	_	_	_	_	_	_
+4	mananxawe	_	NOUN	_	_	7	nsubj	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	ino	_	NOUN	_	_	7	obj	_	_
+7	reteti-a	_	VERB	_	_	0	root	_	_
+8	iki	_	AUX	_	_	7	aux	_	_
+9	?	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_3_2.xml
+# sent_id = Lea_Transcripcion2_parte3_3_2.xml-2
+# text = Ainbaon wiso ino reteni
+# es_text = La mujer que mató a un yana-puma
+1-2	ainbo-n	_	_	_	_	_	_	_	_
+1	ainbo	_	NOUN	_	_	5	nsubj	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3	wiso	_	ADJ	_	_	4	amod	_	_
+4	ino	_	NOUN	_	_	5	obj	_	_
+5	reteti-ni	_	VERB	_	_	0	root	_	_
+
+# newdoc_id = transcripcion4_26_2.xml
+# sent_id = transcripcion4_26_2.xml-2
+# text = Ochíti iki mecha .
+# es_text = Los perros son buenos cazadores.
+1	Ochíti	_	NOUN	_	_	3	nsubj	_	_
+2	iki	_	VERB	_	_	3	cop	_	_
+3	mecha	_	ADJ	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion5_46.xml
+# sent_id = transcripcion5_46.xml-1
+# text = Llama iki Perúainxon kaíakanai jawéki .
+# es_text = La llama es un animal doméstico del Perú.
+1	Llama	_	NOUN	_	_	6	nsubj	_	_
+2	iki	_	VERB	_	_	6	cop	_	_
+3-4	Perú-ainxon	_	_	_	_	_	_	_	_
+3	Perú	_	PROPN	_	_	5	obl	_	_
+4	-ainxon	_	CLNOM	_	_	3	case	_	_
+5	kaíati-kan-ai	_	VERB	_	_	6	amod	_	_
+6	jawéki	_	NOUN	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion5_46.xml
+# sent_id = transcripcion5_46.xml-2
+# text = Jaa llama jake matsinkobiribi , bochiki .
+# es_text = Vive en lugares altos y fríos.
+1	Ja	_	DET	_	_	2	det	_	_
+2	llama	_	NOUN	_	_	3	nsubj	_	_
+3	jati-ke	_	VERB	_	_	0	root	_	_
+4	matsin-nko-bi-ribi	_	NOUN	_	_	3	obl	_	_
+5	,	_	PUNCT	_	_	4	punct	_	_
+6	bochiki	_	ADV	_	_	3	advmod	_	_
+7	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_5_2.xml
+# sent_id = Lea_Transcripcion2_parte2_5_2.xml-1
+# text = Jaskákenbiki ja xawen joni meraa iki .
+# es_text = Mientras el hombre la miraba, la charapa lo vio que estaba escondido.
+1-2	jaskáken-bi-ki	_	_	_	_	_	_	_	_
+1	jaskáken-bi	_	CONJ	_	_	7	cc	_	_
+2	-ki	_	CL2P	_	_	7	aux_clit	_	_
+3	ja	_	DET	_	_	4	det	_	_
+4-5	xawe-n	_	_	_	_	_	_	_	_
+4	xawe	_	NOUN	_	_	7	nsubj	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	joni	_	NOUN	_	_	7	obj	_	_
+7	mérati-a	_	VERB	_	_	0	root	_	_
+8	iki	_	AUX	_	_	7	aux	_	_
+9	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_5_2.xml
+# sent_id = Lea_Transcripcion2_parte2_5_2.xml-2
+# text = Merataananki xawe ikonbiressiki ishtoa iki ; koin poto chankákaini .
+# es_text = En ese instante la charapa se volteó y corrió rápidamente hasta dejar una polvareda en el camino.
+1-2	merati-taanan-ki	_	_	_	_	_	_	_	_
+1	merati-taanan	_	VERB	_	_	6	advcl	_	_
+2	-ki	_	CL2P	_	_	6	aux_clit	_	_
+3	xawe	_	NOUN	_	_	6	nsubj	_	_
+4-5	ikon-bires-i-ki	_	_	_	_	_	_	_	_
+4	ikon-bires-i	_	ADJ	_	_	6	advcl	_	_
+5	-ki	_	CL2P	_	_	6	aux_clit	_	_
+6	íshtoti-a	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	;	_	PUNCT	_	_	6	punct	_	_
+9	koin	_	NOUN	_	_	10	compound	_	_
+10	poto	_	NOUN	_	_	11	obj	_	_
+11	chankáti-kain-i	_	VERB	_	_	6	advcl	_	_
+12	.	_	PUNCT	_	_	11	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_5_2.xml
+# sent_id = Lea_Transcripcion2_parte2_5_2.xml-3
+# text = ¿ Tsoaboki yoiai nato kointonin ?
+# es_text = ¿De qué trata el cuento?
+1	¿	_	PUNCT	_	_	4	punct	_	_
+2-3	tsoa-bo-ki	_	_	_	_	_	_	_	_
+2	tsoa-bo	_	PINT	_	_	4	obj	_	_
+3	-ki	_	CL2P	_	_	4	aux_clit	_	_
+4	yoiti-ai	_	VERB	_	_	0	root	_	_
+5	nato	_	DET	_	_	6	det	_	_
+6	kointo-nin	_	NOUN	_	_	4	nsubj	_	_
+7	?	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_5_2.xml
+# sent_id = Lea_Transcripcion2_parte2_5_2.xml-4
+# text = ¿ Jaton axébiribiki jawekeska ikátiai ?
+# es_text = ¿Qué hábitos tenían la mujer charapa y su esposo?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2	Jaton	_	DET	_	_	3	det	_	_
+3-4	axé-bi-ribi-ki	_	_	_	_	_	_	_	_
+3	axé-bi-ribi	_	NOUN	_	_	5	nsubj	_	_
+4	-ki	_	CL2P	_	_	5	aux_clit	_	_
+5	jawekeska	_	PINT	_	_	0	root	_	_
+6	iki-kati-ai	_	VERB	_	_	5	cop	_	_
+7	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion7_45.xml
+# sent_id = transcripcion7_45.xml-1
+# text = Jatian moa mapéketian oinnax pikóribia iki .
+# es_text = Luego salió otra vez y vio que la mujer ya estaba cerquita.
+1	Jatian	_	CONJ	_	_	5	cc	_	_
+2	moa	_	ADV	_	_	5	advmod	_	_
+3	mapéti-ketian	_	VERB	_	_	5	advcl	_	_
+4	oinax-ax	_	VERB	_	_	5	advcl	_	_
+5	pikóti-ribi-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion7_45.xml
+# sent_id = transcripcion7_45.xml-2
+# text = Pikóxon jonin ja ainbo yatana iki . Ja yatana yoia iki :
+# es_text = En ese momento el hombre agarró la mujer y ella le dijo:
+1	pikóti-xon	_	VERB	_	_	6	advcl	_	_
+2-3	joni-n	_	_	_	_	_	_	_	_
+2	joni	_	NOUN	_	_	6	nsubj	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4	ja	_	DET	_	_	5	det	_	_
+5	ainbo	_	NOUN	_	_	6	obj	_	_
+6	yatanti-a	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion7_45.xml
+# sent_id = transcripcion7_45.xml-2
+# text = Pikóxon jonin ja ainbo yatana iki . Ja yatana yoia iki :
+# es_text = En ese momento el hombre agarró la mujer y ella le dijo:
+1	Ja	_	DET	_	_	2	det	_	_
+2	yatanti-a	_	VERB	_	_	3	nsubj	_	_
+3	yoiti-a	_	VERB	_	_	0	root	_	_
+4	iki	_	AUX	_	_	3	aux	_	_
+5	:	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion7_45.xml
+# sent_id = transcripcion7_45.xml-4
+# text = Eara jaton ináres iki - akin ainbaon aká iki .
+# es_text = Yo no soy nada más que su sierva.
+1-3	ea-a-ra	_	_	_	_	_	_	_	_
+1	ea	_	PRON	_	_	6	nsubj	_	_
+2	-a	_	CLNOM	_	_	1	case	_	_
+3	-ra	_	CL2P	_	_	7	aux_clit	_	_
+4-5	jato-n	_	_	_	_	_	_	_	_
+4	jato	_	PRON	_	_	6	nmod	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	iná-res	_	NOUN	_	_	7	obj	_	_
+7	iki	_	VERB	_	_	0	root	_	_
+8	-	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion7_45.xml
+# sent_id = transcripcion7_45.xml-4
+# text = Eara jaton ináres iki - akin ainbaon aká iki .
+# es_text = Yo no soy nada más que su sierva.
+1	ati-kin	_	VERB	_	_	3	advcl	_	_
+2	ainbo-baon	_	NOUN	_	_	3	nsubj	_	_
+3	ati-a	_	VERB	_	_	0	root	_	_
+4	iki	_	AUX	_	_	3	aux	_	_
+5	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte2_2_1.xml
+# sent_id = TrasncripcionLea-parte2_2_1.xml-2
+# text = Jatibi bakera jawen bimi kokotinin kennai .
+# es_text = A todos los niños les gusta comer su fruta.
+1	Jatibi	_	ADJ	_	_	2	amod	_	_
+2-3	bake-ra	_	_	_	_	_	_	_	_
+2	bake	_	NOUN	_	_	7	iobj	_	_
+3	-ra	_	CL2P	_	_	7	aux_clit	_	_
+4	jawen	_	DET	_	_	5	det	_	_
+5	bimi	_	NOUN	_	_	6	nsubj	_	_
+6	kókoti-nin	_	VERB	_	_	7	nsubj	_	_
+7	kéenti-ai	_	VERB	_	_	0	root	_	_
+8	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte2_2_1.xml
+# sent_id = TrasncripcionLea-parte2_2_1.xml-3
+# text = ¿ Jawetio anirin jawen jiwi ?
+# es_text = ¿De qué tamaño es su árbol?
+1	¿	_	PUNCT	_	_	3	punct	_	_
+2	Jawetio	_	PINT	_	_	3	amod	_	_
+3-4	ani-rin	_	_	_	_	_	_	_	_
+3	ani	_	ADJ	_	_	0	root	_	_
+4	-rin	_	CL2P	_	_	3	cop	_	_
+5	jawen	_	DET	_	_	6	det	_	_
+6	jiwi	_	NOUN	_	_	3	nsubj	_	_
+7	?	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte2_2_1.xml
+# sent_id = TrasncripcionLea-parte2_2_1.xml-4
+# text = ¿ Jawetio anirin isonxoman jawen jiwi ?
+# es_text = ¿De qué tamaño es el árbol del sapote?
+1	¿	_	PUNCT	_	_	3	punct	_	_
+2	Jawetio	_	PINT	_	_	3	amod	_	_
+3-4	ani-rin	_	_	_	_	_	_	_	_
+3	ani	_	ADJ	_	_	0	root	_	_
+4	-rin	_	CL2P	_	_	3	cop	_	_
+5-6	isonxoma-n	_	_	_	_	_	_	_	_
+5	isonxoma	_	NOUN	_	_	8	nmod	_	_
+6	-n	_	CLNOM	_	_	5	case	_	_
+7	jawen	_	DET	_	_	8	det	_	_
+8	jiwi	_	NOUN	_	_	3	nsubj	_	_
+9	?	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion4_7_2.xml
+# sent_id = transcripcion4_7_2.xml-0
+# text = Jaa joni joai iki non maestro .
+# es_text = Viene nuestro maestro.
+1	Ja	_	DET	_	_	2	det	_	_
+2	joni	_	NOUN	_	_	7	nsubj	_	_
+3	joti-ai	_	VERB	_	_	2	amod	_	_
+4	iki	_	VERB	_	_	7	cop	_	_
+5-6	non-n	_	_	_	_	_	_	_	_
+5	non	_	PRON	_	_	7	nmod	_	_
+6	-n	_	CLNOM	_	_	5	case	_	_
+7	maestro	_	NOUN	_	_	0	root	_	_
+8	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion4_7_2.xml
+# sent_id = transcripcion4_7_2.xml-1
+# text = Buenos días , ¡ bakebo !
+# es_text = Buenos días, alumnos.
+1	Buenos	_	ADJ	_	_	2	amod	_	_
+2	días	_	NOUN	_	_	5	discourse	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	¡	_	PUNCT	_	_	5	punct	_	_
+5	bake-bo	_	NOUN	_	_	0	root	_	_
+6	!	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion4_7_2.xml
+# sent_id = transcripcion4_7_2.xml-3
+# text = ¿ Jaweatiki non shiroatima iki non rarebo ?
+# es_text = ¿Por qué respetamos a nuestros parientes?
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2-3	jaweati-ki	_	_	_	_	_	_	_	_
+2	jaweati	_	PINT	_	_	6	advmod	_	_
+3	-ki	_	CL2P	_	_	6	aux_clit	_	_
+4-5	noa-n	_	_	_	_	_	_	_	_
+4	noa	_	PRON	_	_	6	nsubj	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	shíroati-ti-ma	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8-9	noa-n	_	_	_	_	_	_	_	_
+8	noa	_	PRON	_	_	10	nmod	_	_
+9	-n	_	CLNOM	_	_	8	case	_	_
+10	rarebo	_	NOUN	_	_	6	obj	_	_
+11	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion4_7_2.xml
+# sent_id = transcripcion4_7_2.xml-4
+# text = ¿ Jaweatiki non rarebo non noiti iki ?
+# es_text = ¿Por qué queremos a nuestros parientes?
+1	¿	_	PUNCT	_	_	8	punct	_	_
+2-3	jaweati-ki	_	_	_	_	_	_	_	_
+2	jaweati	_	PINT	_	_	8	advmod	_	_
+3	-ki	_	CL2P	_	_	8	advcl	_	_
+4-5	noa-n	_	_	_	_	_	_	_	_
+4	noa	_	PRON	_	_	6	nmod	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	rarebo	_	NOUN	_	_	8	obj	_	_
+7	noa-n	_	PRON	_	_	8	nsubj	_	_
+8	noiti-ti	_	VERB	_	_	0	root	_	_
+9	iki	_	AUX	_	_	8	aux	_	_
+10	?	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = transcripcion4_6_2.xml
+# sent_id = transcripcion4_6_2.xml-0
+# text = Joyamarai Teniente .
+# es_text = No viene el Teniente Gobernador.
+1	joti-yama-ai	_	VERB	_	_	0	root	_	_
+2	Teniente	_	NOUN	_	_	1	nsubj	_	_
+3	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion4_6_2.xml
+# sent_id = transcripcion4_6_2.xml-1
+# text = ¿ Escuela oiniki wetsa apo joyamai ?
+# es_text = ¿Viene el Inspector de Educación Pública?
+1	¿	_	PUNCT	_	_	7	punct	_	_
+2	Iskoira	_	NOUN	_	_	3	obj	_	_
+3-4	ointi-i-ki	_	_	_	_	_	_	_	_
+3	ointi-i	_	VERB	_	_	7	advcl	_	_
+4	-ki	_	CL2P	_	_	7	aux_clit	_	_
+5	wetsa	_	DET	_	_	6	det	_	_
+6	apo	_	NOUN	_	_	7	nsubj	_	_
+7	joti-yama-ai	_	VERB	_	_	0	root	_	_
+8	?	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion4_6_2.xml
+# sent_id = transcripcion4_6_2.xml-2
+# text = Joyamarai escuela oini .
+# es_text = No viene el Inspector de Educación Pública.
+1	joti-yama-ai	_	VERB	_	_	0	root	_	_
+2	escuela	_	NOUN	_	_	3	obj	_	_
+3	ointi-i	_	VERB	_	_	1	advcl	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion4_6_2.xml
+# sent_id = transcripcion4_6_2.xml-3
+# text = ¿ Non jema koshiaa joniki joyamai ?
+# es_text = ¿Viene el jefe del pueblo?
+1	¿	_	PUNCT	_	_	7	punct	_	_
+2	Non	_	DET	_	_	3	det	_	_
+3	jema	_	NOUN	_	_	5	compound	_	_
+4	koshiati-a	_	VERB	_	_	5	amod	_	_
+5-6	joni-ki	_	_	_	_	_	_	_	_
+5	joni	_	NOUN	_	_	7	nsubj	_	_
+6	-ki	_	CLNOM	_	_	7	aux_clit	_	_
+7	joti-yama-ai	_	VERB	_	_	0	root	_	_
+8	?	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion4_6_2.xml
+# sent_id = transcripcion4_6_2.xml-4
+# text = Joyamarai .
+# es_text = No viene.
+1	joti-yama-ai	_	VERB	_	_	0	root	_	_
+2	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte2_1_2.xml
+# sent_id = TrasncripcionLea-parte2_1_2.xml-0
+# text = Inonra piai nami .
+# es_text = El tigre come carne.
+1-3	ino-n-ra	_	_	_	_	_	_	_	_
+1	ino	_	NOUN	_	_	4	nsubj	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3	-ra	_	CL2P	_	_	4	aux_clit	_	_
+4	piti-ai	_	VERB	_	_	0	root	_	_
+5	nami	_	NOUN	_	_	4	obj	_	_
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte2_1_2.xml
+# sent_id = TrasncripcionLea-parte2_1_2.xml-1
+# text = Shinora jinaya iki . Jawen jinanra jiwin paniai . Panixonra wetsa jawékibires yatanai .
+# es_text = El mono tiene rabo. Con su rabo se cuelga de los árboles. Colgándose, coge cualquier cosa.
+1-2	shino-ra	_	_	_	_	_	_	_	_
+1	shino	_	NOUN	_	_	3	nsubj	_	_
+2	-ra	_	CL2P	_	_	3	aux_clit	_	_
+3-4	jina-ya	_	_	_	_	_	_	_	_
+3	jina	_	NOUN	_	_	0	root	_	_
+4	-ya	_	CLNOM	_	_	3	case	_	_
+5	iki	_	VERB	_	_	3	cop	_	_
+6	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte2_1_2.xml
+# sent_id = TrasncripcionLea-parte2_1_2.xml-2
+# text = Jara jiwin netai .
+# es_text = Sube a los árboles.
+1-2	ja-ra	_	_	_	_	_	_	_	_
+1	ja	_	PRON	_	_	5	nsubj	_	_
+2	-ra	_	CL2P	_	_	5	aux_clit	_	_
+3-4	jiwi-n	_	_	_	_	_	_	_	_
+3	jiwi	_	NOUN	_	_	5	obl	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5	néeti-ai	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion4_17_1.xml
+# sent_id = transcripcion4_17_1.xml-2
+# text = Kikinshaman akin esé onanwe .
+# es_text = Practica estas reglas de cortesía con otros.
+1	kikín-shaman	_	ADV	_	_	4	advmod	_	_
+2	ati-kin	_	VERB	_	_	4	advcl	_	_
+3	esé	_	NOUN	_	_	4	obj	_	_
+4	onanti-we	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion4_17_1.xml
+# sent_id = transcripcion4_17_1.xml-4
+# text = Noara akinananai .
+# es_text = Nos ayudamos unos a otros.
+1-3	noa-a-ra	_	_	_	_	_	_	_	_
+1	noa	_	PRON	_	_	4	nsubj	_	_
+2	-a	_	CLNOM	_	_	1	case	_	_
+3	-ra	_	CL2P	_	_	4	aux_clit	_	_
+4	akinti-anan-ai	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion5_16.xml
+# sent_id = transcripcion5_16.xml-0
+# text = Jainoax San Martín Chilenko joá iki .
+# es_text = Después vino a Chile.
+1	Jainoax	_	CONJ	_	_	6	cc	_	_
+2	San	_	PROPN	_	_	6	nsubj	_	_
+3	Martín	_	PROPN	_	_	2	flat	_	_
+4-5	Chile-nko	_	_	_	_	_	_	_	_
+4	Chile	_	PROPN	_	_	6	obl	_	_
+5	-nko	_	CLNOM	_	_	4	case	_	_
+6	joti-a	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_5_2.xml
+# sent_id = Lea_Transcripcion2_parte3_5_2.xml-0
+# text = Abo ronki ikátiai nete benatianki Inka .
+# es_text = Dicen que poco tiempo después de la creación del mundo, el toyuyo er un Inca.
+1	Ikaxbi	_	CONJ	_	_	10	cc	_	_
+2	jawen	_	DET	_	_	3	det	_	_
+3-4	bake-n	_	_	_	_	_	_	_	_
+3	bake	_	NOUN	_	_	10	nsubj	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5-6	bene-ki	_	_	_	_	_	_	_	_
+5	bene	_	NOUN	_	_	3	nmod	_	_
+6	-ki	_	CL2P	_	_	10	aux_clit	_	_
+7	iki-a	_	VERB	_	_	10	cop	_	_
+8	iki	_	AUX	_	_	7	aux	_	_
+9	kikin-bires	_	ADV	_	_	10	amod	_	_
+10	shinan	_	NOUN	_	_	0	root	_	_
+11-12	koshi-a	_	_	_	_	_	_	_	_
+11	koshi	_	ADJ	_	_	10	amod	_	_
+12	-a	_	CLNOM	_	_	10	case	_	_
+13	.	_	PUNCT	_	_	10	punct	_	_
+
+# newdoc_id = transcripcion7_47.xml
+# sent_id = transcripcion7_47.xml-0
+# text = Eara moa kaai - akin aká iki , jawen papan iná .
+# es_text = Ahora me voy.
+1-3	ea-a-ra	_	_	_	_	_	_	_	_
+1	ea	_	PRON	_	_	5	nsubj	_	_
+2	-a	_	CLNOM	_	_	1	case	_	_
+3	-ra	_	CL2P	_	_	5	aux_clit	_	_
+4	moa	_	ADV	_	_	5	advmod	_	_
+5	kati-ai	_	VERB	_	_	8	obj	_	_
+6	-	_	PUNCT	_	_	5	punct	_	_
+7	ati-kin	_	VERB	_	_	8	advcl	_	_
+8	ati-a	_	VERB	_	_	0	root	_	_
+9	iki	_	AUX	_	_	8	aux	_	_
+10	,	_	PUNCT	_	_	8	punct	_	_
+11	jawen	_	DET	_	_	12	det	_	_
+12-13	papa-n	_	_	_	_	_	_	_	_
+12	papa	_	NOUN	_	_	8	nsubj	_	_
+13	-n	_	CLNOM	_	_	12	case	_	_
+14	iná	_	NOUN	_	_	8	iobj	_	_
+15	.	_	PUNCT	_	_	14	punct	_	_
+
+# newdoc_id = transcripcion7_47.xml
+# sent_id = transcripcion7_47.xml-1
+# text = Jaskáataanan moa kaa iki . Jakaya biti ikenbi jonin biamaa ikonbiressi notsikainax Incan bake jawen papaiba karíbaa iki .
+# es_text = Salió y volvió muy enojada a su padre porque él la había enviado a un hombre que no la recibió.
+1	Jaskáataanan	_	CONJ	_	_	3	cc	_	_
+2	moa	_	ADV	_	_	3	advmod	_	_
+3	kati-a	_	VERB	_	_	0	root	_	_
+4	iki	_	AUX	_	_	3	aux	_	_
+5	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion5_50.xml
+# sent_id = transcripcion5_50.xml-0
+# text = Wishawe , siná jawékinin janeboribi .
+# es_text = Escribe los nombres de algunos animales salvajes del reino animal.
+1	wíshati-we	_	VERB	_	_	0	root	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	siná	_	ADJ	_	_	4	amod	_	_
+4-5	jawéki-nin	_	_	_	_	_	_	_	_
+4	jawéki	_	NOUN	_	_	6	nmod	_	_
+5	-nin	_	CLNOM	_	_	4	case	_	_
+6	jane-bo-ribi	_	NOUN	_	_	1	obj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion5_50.xml
+# sent_id = transcripcion5_50.xml-1
+# text = Wishawe , wetsa isakan janeboribi .
+# es_text = Escribe los nombres de algunos pájaros del reino animal.
+1	wíshati-we	_	VERB	_	_	0	root	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	wetsa	_	ADJ	_	_	4	amod	_	_
+4-5	isá-kan	_	_	_	_	_	_	_	_
+4	isá	_	NOUN	_	_	6	nmod	_	_
+5	-kan	_	CLNOM	_	_	4	case	_	_
+6	jane-bo-ribi	_	NOUN	_	_	1	obj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion5_50.xml
+# sent_id = transcripcion5_50.xml-2
+# text = Wishawe , wetsa ronon janeboribi .
+# es_text = Escribe los nombres de algunas culebras del reino animal.
+1	wíshati-we	_	VERB	_	_	0	root	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	wetsa	_	ADJ	_	_	4	amod	_	_
+4-5	rono-n	_	_	_	_	_	_	_	_
+4	rono	_	NOUN	_	_	6	nmod	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	jane-bo-ribi	_	NOUN	_	_	1	obj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion5_50.xml
+# sent_id = transcripcion5_50.xml-3
+# text = Wishawe , wetsa yapan janeboribi .
+# es_text = Escribe los nombres de algunos peces del reino animal.
+1	wíshati-we	_	VERB	_	_	0	root	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	wetsa	_	ADJ	_	_	4	amod	_	_
+4-5	yapa-n	_	_	_	_	_	_	_	_
+4	yapa	_	NOUN	_	_	6	nmod	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	jane-bo-ribi	_	NOUN	_	_	1	obj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion4_18_2.xml
+# sent_id = transcripcion4_18_2.xml-2
+# text = Min maestro kirika yokáwe . Yokáxon min kirika pexkan awe .
+# es_text = Pide papel a tu maestro y forra tus libros.
+1-2	mia-n	_	_	_	_	_	_	_	_
+1	mia	_	PRON	_	_	3	nmod	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3	maestro	_	NOUN	_	_	5	iobj	_	_
+4	kirika	_	NOUN	_	_	5	obj	_	_
+5	yokáti-we	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_4_2.xml
+# sent_id = Lea_Transcripcion2_parte1_4_2.xml-0
+# text = ¿ Jenenkoniaxki jawe iká iki ?
+# es_text = ¿Qué le sucedió estando en el agua?
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2-4	jene-nkoniax-ki	_	_	_	_	_	_	_	_
+2	jene	_	NOUN	_	_	6	nmod	_	_
+3	-nkoniax	_	CLNOM	_	_	2	case	_	_
+4	-ki	_	CL2P	_	_	6	aux_clit	_	_
+5	jawe	_	PINT	_	_	6	nsubj	_	_
+6	iki-a	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_4_2.xml
+# sent_id = Lea_Transcripcion2_parte1_4_2.xml-1
+# text = ¿ Joxonki jaweraki aká iki ?
+# es_text = ¿Qué le dijo la visitante a la mujer?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2-3	joti-xon-ki	_	_	_	_	_	_	_	_
+2	joti-xon	_	VERB	_	_	5	advcl	_	_
+3	-ki	_	CL2P	_	_	5	aux_clit	_	_
+4	jaweraki	_	PINT	_	_	5	obj	_	_
+5	ati-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_4_2.xml
+# sent_id = Lea_Transcripcion2_parte1_4_2.xml-4
+# text = ¿ Kakinki jawe meraa iki ?
+# es_text = ¿Qué halló en el trayecto?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2-3	kati-kin-ki	_	_	_	_	_	_	_	_
+2	kati-kin	_	VERB	_	_	5	advcl	_	_
+3	-ki	_	CL2P	_	_	5	aux_clit	_	_
+4	jawe	_	PINT	_	_	5	obj	_	_
+5	mérati-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion5_26.xml
+# sent_id = transcripcion5_26.xml-1
+# text = ¿ Jaweatiki min caucho banai ? akin akana iki jonibaon .
+# es_text = ¿Por qué sembrarás caucho? le pregunta la gente.
+1	¿	_	PUNCT	_	_	7	punct	_	_
+2-3	jáweati-ki	_	_	_	_	_	_	_	_
+2	jáweati	_	PINT	_	_	7	advmod	_	_
+3	-ki	_	CL2P	_	_	7	aux_clit	_	_
+4-5	mia-n	_	_	_	_	_	_	_	_
+4	mia	_	PRON	_	_	7	nsubj	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	caucho	_	NOUN	_	_	7	obj	_	_
+7	bánati-ai	_	VERB	_	_	0	root	_	_
+8	?	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion5_26.xml
+# sent_id = transcripcion5_26.xml-1
+# text = ¿ Jaweatiki min caucho banai ? akin akana iki jonibaon .
+# es_text = ¿Por qué sembrarás caucho? le pregunta la gente.
+1	ati-kin	_	VERB	_	_	2	advcl	_	_
+2	ati-kan-a	_	VERB	_	_	0	root	_	_
+3	iki	_	AUX	_	_	2	aux	_	_
+4-5	joni-baon	_	_	_	_	_	_	_	_
+4	joni	_	NOUN	_	_	2	nsubj	_	_
+5	-baon	_	CLNOM	_	_	4	case	_	_
+6	.	_	PUNCT	_	_	2	punct	_	_
+
+# newdoc_id = transcripcion5_26.xml
+# sent_id = transcripcion5_26.xml-4
+# text = Jainxon wetsa jonibaon Kosi osana iki .
+# es_text = Algunas personas se ríen de Pepe.
+1	Jainxon	_	CONJ	_	_	6	cc	_	_
+2	wetsa	_	ADJ	_	_	3	amod	_	_
+3-4	joni-baon	_	_	_	_	_	_	_	_
+3	joni	_	NOUN	_	_	6	nsubj	_	_
+4	-baon	_	CLNOM	_	_	3	case	_	_
+5	Kosi	_	PROPN	_	_	6	obj	_	_
+6	osánti-a	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion3_4_1.xml
+# sent_id = transcripcion3_4_1.xml-0
+# text = Moa meshotax pakéketian yawishan piá iki .
+# es_text = El tigre se quemó y cayó asado, y la carachupa se lo comió.
+1	Moa	_	ADV	_	_	2	advmod	_	_
+2	meshoti-ax	_	VERB	_	_	6	advcl	_	_
+3	pakéti-ketian	_	VERB	_	_	6	advcl	_	_
+4-5	yawish-an	_	_	_	_	_	_	_	_
+4	yawish	_	NOUN	_	_	6	nsubj	_	_
+5	-an	_	CLNOM	_	_	4	case	_	_
+6	piti-a	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion3_4_1.xml
+# sent_id = transcripcion3_4_1.xml-2
+# text = ¿ Yawishanki , jaweraki ino parana iki ?
+# es_text = ¿Cómo engañó la carachupa al tigre?
+1	¿	_	PUNCT	_	_	8	punct	_	_
+2-4	yawish-an-ki	_	_	_	_	_	_	_	_
+2	yawish	_	NOUN	_	_	8	nsubj	_	_
+3	-an	_	CLNOM	_	_	2	case	_	_
+4	-ki	_	CL2P	_	_	8	aux_clit	_	_
+5	,	_	PUNCT	_	_	2	punct	_	_
+6	jaweraki	_	PINT	_	_	8	advmod	_	_
+7	ino	_	NOUN	_	_	8	obj	_	_
+8	paranti-a	_	VERB	_	_	0	root	_	_
+9	iki	_	AUX	_	_	8	aux	_	_
+10	?	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = transcripcion3_4_1.xml
+# sent_id = transcripcion3_4_1.xml-3
+# text = ¿ Jainxonki yawishen jaweraki paranribia iki ?
+# es_text = ¿Cómo le siguió engañando después?
+1	¿	_	PUNCT	_	_	7	punct	_	_
+2-3	jainxon-ki	_	_	_	_	_	_	_	_
+2	jainxon	_	CONJ	_	_	7	cc	_	_
+3	-ki	_	CL2P	_	_	7	aux_clit	_	_
+4-5	yawish-en	_	_	_	_	_	_	_	_
+4	yawish	_	NOUN	_	_	7	nsubj	_	_
+5	-en	_	CLNOM	_	_	4	case	_	_
+6	jaweraki	_	PINT	_	_	7	advmod	_	_
+7	paranti-ribi-a	_	VERB	_	_	0	root	_	_
+8	iki	_	AUX	_	_	7	aux	_	_
+9	?	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion3_4_1.xml
+# sent_id = transcripcion3_4_1.xml-4
+# text = ¿ Jawekeskataxki ino mawata iki ?
+# es_text = ¿Cómo murió el tigre?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2-3	jawekeskatax-ki	_	_	_	_	_	_	_	_
+2	jawekeskatax	_	PINT	_	_	5	advmod	_	_
+3	-ki	_	CL2P	_	_	5	aux_clit	_	_
+4	ino	_	NOUN	_	_	5	nsubj	_	_
+5	mawati-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion5_117.xml
+# sent_id = transcripcion5_117.xml-4
+# text = Nií meranra ikai xana , shokores matsi .
+# es_text = Hace mucho calor y poco frío en la selva.
+1	Nií	_	NOUN	_	_	5	obl	_	_
+2-3	meran-ra	_	_	_	_	_	_	_	_
+2	meran	_	POSTP	_	_	1	case	_	_
+3	-ra	_	CL2P	_	_	5	aux_clit	_	_
+4	iki-ai	_	VERB	_	_	5	cop	_	_
+5	xana	_	ADJ	_	_	0	root	_	_
+6	,	_	PUNCT	_	_	8	punct	_	_
+7	shokores	_	ADV	_	_	8	advmod	_	_
+8	matsi	_	ADJ	_	_	5	conj	_	_
+9	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_3_1.xml
+# sent_id = Lea_Transcripcion2_parte2_3_1.xml-0
+# text = Ja maxó bakeranonmanki , ¿ jaweraki jawen tita aká iki ?
+# es_text = ¿Qué dijo el joven zorro a su madre?
+1	Ja	_	DET	_	_	3	det	_	_
+2	maxó	_	NOUN	_	_	3	compound	_	_
+3-5	bákeranon-man-ki	_	_	_	_	_	_	_	_
+3	bákeranon	_	NOUN	_	_	11	nsubj	_	_
+4	-man	_	CLNOM	_	_	3	case	_	_
+5	-ki	_	CL2P	_	_	11	aux_clit	_	_
+6	,	_	PUNCT	_	_	3	punct	_	_
+7	¿	_	PUNCT	_	_	11	punct	_	_
+8	jaweraki	_	PINT	_	_	11	obj	_	_
+9	jawen	_	DET	_	_	10	det	_	_
+10	tita	_	NOUN	_	_	11	iobj	_	_
+11	ati-a	_	VERB	_	_	0	root	_	_
+12	iki	_	AUX	_	_	11	aux	_	_
+13	?	_	PUNCT	_	_	11	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_3_1.xml
+# sent_id = Lea_Transcripcion2_parte2_3_1.xml-1
+# text = ¿ Jatianki jawen titan jaweraki aká iki ?
+# es_text = ¿Qué respondió la madre?
+1	¿	_	PUNCT	_	_	8	punct	_	_
+2-3	jatian-ki	_	_	_	_	_	_	_	_
+2	jatian	_	CONJ	_	_	8	cc	_	_
+3	-ki	_	CL2P	_	_	8	aux_clit	_	_
+4	jawen	_	DET	_	_	5	det	_	_
+5-6	tita-n	_	_	_	_	_	_	_	_
+5	tita	_	NOUN	_	_	8	nsubj	_	_
+6	-n	_	CLNOM	_	_	5	case	_	_
+7	jaweraki	_	PINT	_	_	8	obj	_	_
+8	ati-a	_	VERB	_	_	0	root	_	_
+9	iki	_	AUX	_	_	8	aux	_	_
+10	?	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_3_1.xml
+# sent_id = Lea_Transcripcion2_parte2_3_1.xml-2
+# text = ¿ Atapa beketian , jawe menitiki jawen titan yoia iki ?
+# es_text = ¿Qué le prometió su mamá para premiar su valentía?
+1	¿	_	PUNCT	_	_	10	punct	_	_
+2	Atapa	_	NOUN	_	_	3	obj	_	_
+3	beti-ketian	_	VERB	_	_	10	advcl	_	_
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	jawe	_	PINT	_	_	6	obj	_	_
+6-7	méniti-ti-ki	_	_	_	_	_	_	_	_
+6	méniti-ti	_	VERB	_	_	10	obj	_	_
+7	-ki	_	CL2P	_	_	10	aux_clit	_	_
+8	jawen	_	DET	_	_	9	det	_	_
+9	tita-n	_	NOUN	_	_	10	nsubj	_	_
+10	yoiti-a	_	VERB	_	_	0	root	_	_
+11	iki	_	AUX	_	_	10	aux	_	_
+12	?	_	PUNCT	_	_	10	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_3_1.xml
+# sent_id = Lea_Transcripcion2_parte2_3_1.xml-3
+# text = ¿ Jawetii joniki ja maxó bakeranonman jato boá iki ?
+# es_text = ¿Cuántos hombres se fueron con el joven?
+1	¿	_	PUNCT	_	_	10	punct	_	_
+2	Jawetii	_	PINT	_	_	3	amod	_	_
+3-4	joni-ki	_	_	_	_	_	_	_	_
+3	joni	_	NOUN	_	_	10	nsubj	_	_
+4	-ki	_	CL2P	_	_	10	aux_clit	_	_
+5	ja	_	PRON	_	_	7	det	_	_
+6	maxó	_	NOUN	_	_	7	compound	_	_
+7-8	bákeranon-man	_	_	_	_	_	_	_	_
+7	bákeranon	_	NOUN	_	_	10	obl	_	_
+8	-man	_	CLNOM	_	_	7	case	_	_
+9	jato	_	PRON	_	_	3	appos	_	_
+10	boti-a	_	VERB	_	_	0	root	_	_
+11	iki	_	AUX	_	_	10	aux	_	_
+12	?	_	PUNCT	_	_	10	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_3_1.xml
+# sent_id = Lea_Transcripcion2_parte2_3_1.xml-4
+# text = ¿ Jaweanoaki jawen titan meraa iki ?
+# es_text = ¿Dónde encontró la madre al joven?
+1	¿	_	PUNCT	_	_	7	punct	_	_
+2-3	jaweranoa-ki	_	_	_	_	_	_	_	_
+2	jaweranoa	_	PINT	_	_	7	advmod	_	_
+3	-ki	_	CL2P	_	_	7	aux_clit	_	_
+4	jawen	_	DET	_	_	5	det	_	_
+5-6	tita-n	_	_	_	_	_	_	_	_
+5	tita	_	NOUN	_	_	7	nsubj	_	_
+6	-n	_	CLNOM	_	_	5	case	_	_
+7	mérati-a	_	VERB	_	_	0	root	_	_
+8	iki	_	AUX	_	_	7	aux	_	_
+9	?	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion3_12_2.xml
+# sent_id = transcripcion3_12_2.xml-4
+# text = ¿ Ja bakeki jawe baneta iki ?
+# es_text = ¿En qué se convirtió el muchacho?
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2	Ja	_	DET	_	_	3	det	_	_
+3-4	bake-ki	_	_	_	_	_	_	_	_
+3	bake	_	NOUN	_	_	6	nsubj	_	_
+4	-ki	_	CL2P	_	_	6	aux_clit	_	_
+5	jawe	_	PINT	_	_	6	obj	_	_
+6	baneti-a	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = Parte3_1_2.xml
+# sent_id = Parte3_1_2.xml-0
+# text = Jabi jeneyamaa iki .
+# es_text = Pero no lo soltó.
+1	ja-bi	_	PRON	_	_	2	nsubj	_	_
+2	jeneti-yama-a	_	VERB	_	_	0	root	_	_
+3	iki	_	AUX	_	_	2	aux	_	_
+4	.	_	PUNCT	_	_	2	punct	_	_
+
+# newdoc_id = Parte3_1_2.xml
+# sent_id = Parte3_1_2.xml-4
+# text = Ja konxan towei to iitaitianki , inon ninkata iki .
+# es_text = Mientras partía el árbol, el tigre oyó el ruido que el hombre hacía.
+1	Ja	_	DET	_	_	2	det	_	_
+2	konxan	_	NOUN	_	_	3	obj	_	_
+3	toeti-i	_	VERB	_	_	10	obj	_	_
+4	to	_	ONOM	_	_	5	obj	_	_
+5-6	iiti-aitian-ki	_	_	_	_	_	_	_	_
+5	iiti-aitian	_	VERB	_	_	3	advcl	_	_
+6	-ki	_	CL2P	_	_	3	aux_clit	_	_
+7	,	_	PUNCT	_	_	3	punct	_	_
+8-9	ino-n	_	_	_	_	_	_	_	_
+8	ino	_	NOUN	_	_	10	nsubj	_	_
+9	-n	_	CLNOM	_	_	8	case	_	_
+10	nikati-a	_	VERB	_	_	0	root	_	_
+11	iki	_	AUX	_	_	10	aux	_	_
+12	.	_	PUNCT	_	_	10	punct	_	_
+
+# newdoc_id = transcripcion5_85.xml
+# sent_id = transcripcion5_85.xml-0
+# text = Min cuaderno meran wishawe , pichika jiwin jane .
+# es_text = Escribe en tu cuaderno los nombres de cinco árboles.
+1-2	mia-n	_	_	_	_	_	_	_	_
+1	mia	_	PRON	_	_	3	det	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3	cuaderno	_	NOUN	_	_	5	obl	_	_
+4	meran	_	POSTP	_	_	3	case	_	_
+5	wishati-we	_	VERB	_	_	0	root	_	_
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	pichika	_	NUM	_	_	10	nummod	_	_
+8-9	jiwi-n	_	_	_	_	_	_	_	_
+8	jiwi	_	NOUN	_	_	10	nmod	_	_
+9	-n	_	CLNOM	_	_	8	case	_	_
+10	jane	_	NOUN	_	_	5	obj	_	_
+11	.	_	PUNCT	_	_	10	punct	_	_
+
+# newdoc_id = transcripcion4_10_2.xml
+# sent_id = transcripcion4_10_2.xml-0
+# text = Min aíbatabo jakiribi yoyo aribawe .
+# es_text = Repasa las primeras páginas.
+1-2	mia-n	_	_	_	_	_	_	_	_
+1	mia	_	PRON	_	_	3	nsubj	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3	ati-ibat-a-bo	_	VERB	_	_	6	obj	_	_
+4	jakiribi	_	ADV	_	_	6	advmod	_	_
+5	yoyo	_	ONOM	_	_	6	compound	_	_
+6	ati-riba-we	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion4_10_2.xml
+# sent_id = transcripcion4_10_2.xml-1
+# text = Oinkayata nato joniakin akana .
+# es_text = Fíjate bien en los dibujos.
+1	ointi-kaya-ta	_	VERB	_	_	0	root	_	_
+2	nato	_	PRON	_	_	3	obj	_	_
+3	joniati-kin	_	VERB	_	_	4	advcl	_	_
+4	ati-kan-a	_	VERB	_	_	1	obj	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion4_10_2.xml
+# sent_id = transcripcion4_10_2.xml-2
+# text = ¿ Jawerato bakeki iká ?
+# es_text = ¿Cuál alumno dice?:
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2	Jawerato	_	PINT	_	_	3	amod	_	_
+3-4	bake-ki	_	_	_	_	_	_	_	_
+3	bake	_	NOUN	_	_	5	nsubj	_	_
+4	-ki	_	CL2P	_	_	5	aux_clit	_	_
+5	iki-a	_	VERB	_	_	0	root	_	_
+6	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion7_54.xml
+# sent_id = transcripcion7_54.xml-3
+# text = Jaskarabiribironki ipaonike jawen tee .
+# es_text = Esta era su ocupación.
+1-2	Jaskara-bi-ribi-ronki	_	_	_	_	_	_	_	_
+1	Jaskara-bi-ribi	_	ADJ	_	_	5	nsubj	_	_
+2	-ronki	_	CL2P	_	_	5	aux_clit	_	_
+3	iki-pao-ni-ke	_	VERB	_	_	5	cop	_	_
+4	jawen	_	DET	_	_	5	det	_	_
+5	tee	_	NOUN	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_1_1.xml
+# sent_id = Lea_Transcripcion2_parte1_1_1.xml-0
+# text = Wetsa netebaon ronki iká iki chaxo betan mananxawe nokoanani . Ja nokoananaxonki iká iki yoyo ibekoni .
+# es_text = Un día se encontró el motelo con el venado y los dos se pusieron a conversar.
+1-2	jainoax-ki	_	_	_	_	_	_	_	_
+1	jainoax	_	CONJ	_	_	4	cc	_	_
+2	-ki	_	CL2P	_	_	4	aux_clit	_	_
+3	koshi	_	ADJ	_	_	4	compound	_	_
+4	méeti-anan-a	_	VERB	_	_	0	root	_	_
+5	iki	_	AUX	_	_	4	aux	_	_
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_1_1.xml
+# sent_id = Lea_Transcripcion2_parte1_1_1.xml-1
+# text = Jainoaxki koshi meaanana iki .
+# es_text = Mientras subía, algo le impidió subir y vio que era una boa.
+1	Jatian	_	ADV	_	_	3	advmod	_	_
+2	ja	_	PRON	_	_	3	nsubj	_	_
+3-4	keoti-aitian-ki	_	_	_	_	_	_	_	_
+3	keoti-aitian	_	VERB	_	_	9	advcl	_	_
+4	-ki	_	CL2P	_	_	9	aux_clit	_	_
+5	,	_	PUNCT	_	_	3	punct	_	_
+6-7	ainbo-baon	_	_	_	_	_	_	_	_
+6	ainbo	_	NOUN	_	_	9	nsubj	_	_
+7	-baon	_	CLNOM	_	_	6	case	_	_
+8	mawa	_	VERB	_	_	9	compound	_	_
+9	mawati-a	_	VERB	_	_	0	root	_	_
+10	iki	_	AUX	_	_	9	aux	_	_
+11	.	_	PUNCT	_	_	9	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_1_1.xml
+# sent_id = Lea_Transcripcion2_parte1_1_1.xml-2
+# text = Ja rikan rikankin ronki aká iki jonin amen mapokin . Ixonbi ja jonin onanyamaa iki .
+# es_text = Mientras echaba la tarrafa, agarró un ronsoco, pero el hombre no sabía que era ronsoco.
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2-3	Jainxon-ki	_	_	_	_	_	_	_	_
+2	Jainxon	_	CONJ	_	_	6	cc	_	_
+3	-ki	_	CL2P	_	_	6	aux_clit	_	_
+4	ja	_	DET	_	_	5	det	_	_
+5	ainbo	_	NOUN	_	_	6	nsubj	_	_
+6	jáwekeskaati-a	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion4_11_1.xml
+# sent_id = transcripcion4_11_1.xml-2
+# text = Nokon mentsis keras iketian nokon borosiko meran en niaa iki .
+# es_text = Debo dejar las manos en los bolsillos porque las uñas están sucias.
+1	Nokon	_	DET	_	_	2	det	_	_
+2	mentsis	_	NOUN	_	_	10	obj	_	_
+3	keras	_	ADJ	_	_	2	amod	_	_
+4	iki-ketian	_	VERB	_	_	10	advcl	_	_
+5	nokon	_	DET	_	_	6	det	_	_
+6	borosiko	_	NOUN	_	_	10	obl	_	_
+7	meran	_	POSTP	_	_	6	case	_	_
+8-9	ea-n	_	_	_	_	_	_	_	_
+8	ea	_	PRON	_	_	10	nsubj	_	_
+9	-n	_	CLNOM	_	_	8	case	_	_
+10	níati-a	_	VERB	_	_	0	root	_	_
+11	iki	_	AUX	_	_	10	aux	_	_
+12	.	_	PUNCT	_	_	10	punct	_	_
+
+# newdoc_id = transcripcion4_11_1.xml
+# sent_id = transcripcion4_11_1.xml-4
+# text = Eara keenyamai maestron ointinin .
+# es_text = No quiero que me vea el maestro.
+1-3	ea-a-ra	_	_	_	_	_	_	_	_
+1	ea	_	PRON	_	_	4	nsubj	_	_
+2	-a	_	CLNOM	_	_	1	case	_	_
+3	-ra	_	CL2P	_	_	4	aux_clit	_	_
+4	kéenti-yama-ai	_	VERB	_	_	0	root	_	_
+5-6	maestro-n	_	_	_	_	_	_	_	_
+5	maestro	_	NOUN	_	_	7	nsubj	_	_
+6	-n	_	CLNOM	_	_	5	case	_	_
+7	ointi-ti-nin	_	VERB	_	_	4	obj	_	_
+8	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_5_1.xml
+# sent_id = Lea_Transcripcion2_parte2_5_1.xml-0
+# text = ¿ Joninki ja roo icha meraxon jawekeskáa iki ?
+# es_text = ¿Qué hizo el hombre al hallar los cotomonos?
+1	¿	_	PUNCT	_	_	9	punct	_	_
+2-4	joni-n-ki	_	_	_	_	_	_	_	_
+2	joni	_	NOUN	_	_	9	nsubj	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4	-ki	_	CL2P	_	_	9	aux_clit	_	_
+5	ja	_	DET	_	_	6	det	_	_
+6	roo	_	NOUN	_	_	8	obj	_	_
+7	icha	_	ADJ	_	_	6	amod	_	_
+8	mérati-xon	_	VERB	_	_	9	advcl	_	_
+9	jawekeskáati-a	_	VERB	_	_	0	root	_	_
+10	iki	_	AUX	_	_	9	aux	_	_
+11	?	_	PUNCT	_	_	9	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_5_1.xml
+# sent_id = Lea_Transcripcion2_parte2_5_1.xml-1
+# text = Xawe ainbaon jawen bene potani
+# es_text = La mujer charapa que huyó de su esposo
+1	Xawe	_	NOUN	_	_	2	compound	_	_
+2-3	ainbo-n	_	_	_	_	_	_	_	_
+2	ainbo	_	NOUN	_	_	6	nsubj	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4	jawen	_	DET	_	_	5	det	_	_
+5	bene	_	NOUN	_	_	6	obj	_	_
+6	pótati-ni	_	VERB	_	_	0	root	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_5_1.xml
+# sent_id = Lea_Transcripcion2_parte2_5_1.xml-2
+# text = Westíora joni ronki ikátiai xawe ainbo awinhaa .
+# es_text = Había una vez, un hombre que tenía por esposa a una charapa (aunque no sabía que lo era).
+1	Ja	_	DET	_	_	2	det	_	_
+2-3	ainbo-ki	_	_	_	_	_	_	_	_
+2	ainbo	_	NOUN	_	_	15	nsubj	_	_
+3	-ki	_	CLNOM	_	_	15	aux_clit	_	_
+4	iki-kati-ai	_	VERB	_	_	16	aux	_	_
+5	,	_	PUNCT	_	_	4	punct	_	_
+6	jawen	_	DET	_	_	7	det	_	_
+7	bene	_	NOUN	_	_	9	nsubj	_	_
+8	piti	_	NOUN	_	_	9	obj	_	_
+9	benati-i	_	VERB	_	_	15	advcl	_	_
+10	kati-a	_	VERB	_	_	9	aux	_	_
+11-12	pekáo-ki	_	_	_	_	_	_	_	_
+11	pekáo	_	CONJ	_	_	9	cc	_	_
+12	-ki	_	CL2P	_	_	9	aux_clit	_	_
+13	,	_	PUNCT	_	_	9	punct	_	_
+14	wai	_	NOUN	_	_	15	obj	_	_
+15	óroti-i	_	VERB	_	_	0	root	_	_
+16	kati-i	_	VERB	_	_	15	aux	_	_
+17	.	_	PUNCT	_	_	15	punct	_	_
+
+# newdoc_id = transcripcion3_6_1.xml
+# sent_id = transcripcion3_6_1.xml-0
+# text = Jakiribi axonki biá iki , ani tora .
+# es_text = Echó la red en otro sitio y esta vez agarró una inmensa corvina.
+1	Jakiribi	_	ADV	_	_	4	advmod	_	_
+2-3	ati-xon-ki	_	_	_	_	_	_	_	_
+2	ati-xon	_	VERB	_	_	4	advcl	_	_
+3	-ki	_	CL2P	_	_	4	aux_clit	_	_
+4	biti-a	_	VERB	_	_	0	root	_	_
+5	iki	_	AUX	_	_	4	aux	_	_
+6	,	_	PUNCT	_	_	4	punct	_	_
+7	ani	_	ADJ	_	_	8	amod	_	_
+8	tora	_	NOUN	_	_	4	obj	_	_
+9	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion3_6_1.xml
+# sent_id = transcripcion3_6_1.xml-3
+# text = Jatian yapa ainbaon jato nokowetsayamaa iki .
+# es_text = La sirena nunca más volvió a encontrarlos.
+1	Jatian	_	CONJ	_	_	6	cc	_	_
+2	yapa	_	NOUN	_	_	3	compound	_	_
+3-4	ainbo-n	_	_	_	_	_	_	_	_
+3	ainbo	_	NOUN	_	_	6	nsubj	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5	jato	_	PRON	_	_	6	iobj	_	_
+6	nokoti-wetsa-yama-a	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_2_1.xml
+# sent_id = Lea_Transcripcion2_parte1_2_1.xml-2
+# text = Joníbenatian ino betan wasa iní
+# es_text = El tigre y el mono frailecito
+1-2	joníbena-tian	_	_	_	_	_	_	_	_
+1	joníbena	_	ADV	_	_	6	advmod	_	_
+2	-tian	_	CLNOM	_	_	1	case	_	_
+3	ino	_	NOUN	_	_	6	nsubj	_	_
+4	betan	_	CONJ	_	_	5	cc	_	_
+5	wasa	_	NOUN	_	_	3	conj	_	_
+6	iki-ni	_	VERB	_	_	0	root	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_2_1.xml
+# sent_id = Lea_Transcripcion2_parte1_2_1.xml-4
+# text = Mananxawe betan chaxo iní
+# es_text = El motelo y el venado
+1	Mananxawe	_	NOUN	_	_	4	nsubj	_	_
+2	betan	_	CONJ	_	_	3	cc	_	_
+3	chaxo	_	NOUN	_	_	1	conj	_	_
+4	iki-ni	_	VERB	_	_	0	root	_	_
+
+# newdoc_id = transcripcion3_3_1.xml
+# sent_id = transcripcion3_3_1.xml-0
+# text = Jatian yawishan makan nexaa iki nishin .
+# es_text = Luego la carachupa ató la piedra con la soga.
+1	Jatian	_	CONJ	_	_	4	cc	_	_
+2	yawish-an	_	NOUN	_	_	4	nsubj	_	_
+3	makan	_	NOUN	_	_	4	obj	_	_
+4	nexati-a	_	VERB	_	_	0	root	_	_
+5	iki	_	AUX	_	_	4	aux	_	_
+6-7	nishi-n	_	_	_	_	_	_	_	_
+6	nishi	_	NOUN	_	_	4	obl	_	_
+7	-n	_	CLNOM	_	_	6	case	_	_
+8	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion3_3_1.xml
+# sent_id = transcripcion3_3_1.xml-1
+# text = Jaskáaxon : " Neri jowé , koká . " aká iki .
+# es_text = Al terminar le dijo: "Tío, ven aká."
+1	Jaskáaxon	_	CONJ	_	_	5	cc	_	_
+2	:	_	PUNCT	_	_	1	punct	_	_
+3	"	_	PUNCT	_	_	5	punct	_	_
+4	Neri	_	ADV	_	_	5	advmod	_	_
+5	joti-we	_	VERB	_	_	0	root	_	_
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	koká	_	NOUN	_	_	5	vocative	_	_
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion3_3_1.xml
+# sent_id = transcripcion3_3_1.xml-1
+# text = Jaskáaxon : " Neri jowé , koká . " aká iki .
+# es_text = Al terminar le dijo: "Tío, ven aká."
+1	"	_	PUNCT	_	_	4	punct	_	_
+2	ati-a	_	VERB	_	_	0	root	_	_
+3	iki	_	AUX	_	_	2	aux	_	_
+4	.	_	PUNCT	_	_	2	punct	_	_
+
+# newdoc_id = transcripcion3_3_1.xml
+# sent_id = transcripcion3_3_1.xml-2
+# text = Jainoax joríbakasabi jotikoma iká iki .
+# es_text = Cuando quiso regresar no pudo por el peso de la piedra.
+1	Jainoax	_	CONJ	_	_	3	cc	_	_
+2	joti-riba-kas-a-bi	_	VERB	_	_	3	advcl	_	_
+3	joti-ti-koma	_	VERB	_	_	0	root	_	_
+4	iki-a	_	AUX	_	_	3	aux	_	_
+5	iki	_	AUX	_	_	4	aux	_	_
+6	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion5_2.xml
+# sent_id = transcripcion5_2.xml-0
+# text = bari joaiori
+# es_text = Norte
+1	bari	_	NOUN	_	_	2	nsubj	_	_
+2	joti-ai-o-ri	_	VERB	_	_	0	root	_	_
+
+# newdoc_id = transcripcion5_2.xml
+# sent_id = transcripcion5_2.xml-1
+# text = nete resenenao
+# es_text = Este
+1	nete	_	NOUN	_	_	0	root	_	_
+2-3	résenena-o	_	_	_	_	_	_	_	_
+2	résenena	_	NOUN	_	_	1	nmod	_	_
+3	-o	_	CLNOM	_	_	2	case	_	_
+
+# newdoc_id = transcripcion5_2.xml
+# sent_id = transcripcion5_2.xml-2
+# text = nete tsisenenao
+# es_text = Oeste
+1	nete	_	NOUN	_	_	0	root	_	_
+2-3	tsisenen-o	_	_	_	_	_	_	_	_
+2	tsisenen	_	NOUN	_	_	1	nmod	_	_
+3	-o	_	CLNOM	_	_	2	case	_	_
+
+# newdoc_id = transcripcion5_2.xml
+# sent_id = transcripcion5_2.xml-3
+# text = bari kaiori
+# es_text = Sur
+1	bari	_	NOUN	_	_	0	root	_	_
+2-4	kati-ai-o-ri	_	_	_	_	_	_	_	_
+2	kati-ai	_	VERB	_	_	1	nmod	_	_
+3	-o	_	CLNOM	_	_	2	case	_	_
+4	-ri	_	CLNOM	_	_	2	case	_	_
+
+# newdoc_id = transcripcion4_30_2.xml
+# sent_id = transcripcion4_30_2.xml-0
+# text = Barira jakon iki .
+# es_text = El sol es muy bueno.
+1-2	bari-ra	_	_	_	_	_	_	_	_
+1	bari	_	NOUN	_	_	3	nsubj	_	_
+2	-ra	_	CL2P	_	_	3	aux_clit	_	_
+3	jakon	_	ADJ	_	_	0	root	_	_
+4	iki	_	VERB	_	_	3	cop	_	_
+5	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion7_51.xml
+# sent_id = transcripcion7_51.xml-0
+# text = Jaskáaxon , ja jonin jonéxon oinna iki , jawen awin bakenai .
+# es_text = Así que el hombre se escondió y vio cómo su esposa daba a luz.
+1	Jaskáaxon	_	CONJ	_	_	6	cc	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	ja	_	DET	_	_	4	det	_	_
+4	joni-n	_	NOUN	_	_	6	nsubj	_	_
+5	jonéti-xon	_	VERB	_	_	6	advcl	_	_
+6	ointi-a	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	,	_	PUNCT	_	_	6	punct	_	_
+9	jawen	_	DET	_	_	10	det	_	_
+10	awin	_	NOUN	_	_	11	nsubj	_	_
+11	bakenti-ai	_	VERB	_	_	6	obj	_	_
+12	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion7_51.xml
+# sent_id = transcripcion7_51.xml-3
+# text = Meraxon notsinhananbi yoia iki :
+# es_text = Entonces ella lo riñó y le dijo:
+1	merati-xon	_	VERB	_	_	3	advcl	_	_
+2	notsínti-anan-bi	_	VERB	_	_	3	advcl	_	_
+3	yoiti-a	_	VERB	_	_	0	root	_	_
+4	iki	_	AUX	_	_	3	aux	_	_
+5	:	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion7_51.xml
+# sent_id = transcripcion7_51.xml-4
+# text = Jaweatinka min jonéxon ea oinnai .
+# es_text = Es porque tú me has visto.
+1	Jaweati-kan	_	CONJ	_	_	6	cc	_	_
+2-3	mia-n	_	_	_	_	_	_	_	_
+2	mia	_	PRON	_	_	6	nsubj	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4	jonéti-xon	_	VERB	_	_	6	advcl	_	_
+5	ea-a	_	PRON	_	_	6	nsubj	_	_
+6	ointi-ai	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_3_1.xml
+# sent_id = Lea_Transcripcion2_parte3_3_1.xml-1
+# text = Jaskáa , ja ino bochiki kotsatax janxbata iki .
+# es_text = El tigre le obedeció y se quedó cerrando los ojos.
+1	Jaská	_	CONJ	_	_	7	cc	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	ja	_	DET	_	_	4	det	_	_
+4	ino	_	NOUN	_	_	7	nsubj	_	_
+5	bochiki	_	ADV	_	_	7	advmod	_	_
+6	kotsati-ax	_	VERB	_	_	7	advcl	_	_
+7	janxbáti-a	_	VERB	_	_	0	root	_	_
+8	iki	_	AUX	_	_	7	aux	_	_
+9	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_3_1.xml
+# sent_id = Lea_Transcripcion2_parte3_3_1.xml-3
+# text = ¿ Joxo shinonki mananxawe jaweatin bochiki boá iki ?
+# es_text = ¿Por qué el mono blanco llevó al motelito a lo alto de la palmera?
+1	¿	_	PUNCT	_	_	9	punct	_	_
+2	Joxo	_	ADJ	_	_	3	amod	_	_
+3-5	shino-n-ki	_	_	_	_	_	_	_	_
+3	shino	_	NOUN	_	_	9	nsubj	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5	-ki	_	CL2P	_	_	9	aux_clit	_	_
+6	mananxawe	_	NOUN	_	_	9	obj	_	_
+7	jaweati	_	PINT	_	_	9	advmod	_	_
+8	bochiki	_	ADV	_	_	9	advmod	_	_
+9	boti-a	_	VERB	_	_	0	root	_	_
+10	iki	_	AUX	_	_	9	aux	_	_
+11	?	_	PUNCT	_	_	9	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_3_1.xml
+# sent_id = Lea_Transcripcion2_parte3_3_1.xml-4
+# text = ¿ Jawetio basiki mananxawe bochiki iká iki ?
+# es_text = ¿Cupanto tiempo estuvo allí el motelito?
+1	¿	_	PUNCT	_	_	7	punct	_	_
+2	Jawetio	_	PINT	_	_	3	advmod	_	_
+3-4	basi-ki	_	_	_	_	_	_	_	_
+3	basi	_	ADV	_	_	7	advmod	_	_
+4	-ki	_	CL2P	_	_	7	aux_clit	_	_
+5	mananxawe	_	NOUN	_	_	7	nsubj	_	_
+6	bochiki	_	ADV	_	_	7	advmod	_	_
+7	iki-a	_	VERB	_	_	0	root	_	_
+8	iki	_	AUX	_	_	7	aux	_	_
+9	?	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion7_10.xml
+# sent_id = transcripcion7_10.xml-2
+# text = Jaskataxki ja xete baneta iki .
+# es_text = Al decir esto, se convirtió.
+1-2	Jaskatax-ki	_	_	_	_	_	_	_	_
+1	Jaskatax	_	ADV	_	_	5	advmod	_	_
+2	-ki	_	CL2P	_	_	5	aux_clit	_	_
+3	ja	_	PRON	_	_	5	nsubj	_	_
+4	xete	_	NOUN	_	_	5	obj	_	_
+5	baneti-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion7_10.xml
+# sent_id = transcripcion7_10.xml-4
+# text = Jaskarainxon jaton Inca ochóakana iki .
+# es_text = Así estos seres se dispersaron y se alejaron de su Inca.
+1	Jaskarainxon	_	CONJ	_	_	4	cc	_	_
+2	jato-n	_	DET	_	_	3	det	_	_
+3	Inca	_	PROPN	_	_	4	obj	_	_
+4	ochóati-kan-a	_	VERB	_	_	0	root	_	_
+5	iki	_	AUX	_	_	4	aux	_	_
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion5_83.xml
+# sent_id = transcripcion5_83.xml-0
+# text = Wishawe , siná jawékinin janeboribi .
+# es_text = Escribe los nombres de algunos animales salvajes del reino animal.
+1	wishati-we	_	VERB	_	_	0	root	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	siná	_	ADJ	_	_	4	amod	_	_
+4	jawéki-nin	_	NOUN	_	_	5	nmod	_	_
+5	jane-bo-ribi	_	NOUN	_	_	1	obj	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion5_83.xml
+# sent_id = transcripcion5_83.xml-1
+# text = Wishawe , wetsa isakan janeboribi .
+# es_text = Escribe los nombres de algunos pájaros del reino animal.
+1	wishati-we	_	VERB	_	_	0	root	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	wetsa	_	ADJ	_	_	4	amod	_	_
+4	isá-kan	_	NOUN	_	_	5	nmod	_	_
+5	jane-bo-ribi	_	NOUN	_	_	1	obj	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion5_83.xml
+# sent_id = transcripcion5_83.xml-2
+# text = Wishawe , wetsa ronon janeboribi .
+# es_text = Escribe los nombres de algunas culebras del reino animal.
+1	wishati-we	_	VERB	_	_	0	root	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	wetsa	_	ADJ	_	_	4	amod	_	_
+4-5	rono-n	_	_	_	_	_	_	_	_
+4	rono	_	NOUN	_	_	6	nmod	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	jane-bo-ribi	_	NOUN	_	_	1	obj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion5_83.xml
+# sent_id = transcripcion5_83.xml-3
+# text = Wishawe , wetsa yapan janeboribi .
+# es_text = Escribe los nombres de algunos peces del reino animal.
+1	wishati-we	_	VERB	_	_	0	root	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	wetsa	_	ADJ	_	_	4	amod	_	_
+4-5	yapa-n	_	_	_	_	_	_	_	_
+4	yapa	_	NOUN	_	_	6	nmod	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	jane-bo-ribi	_	NOUN	_	_	1	obj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion5_101.xml
+# sent_id = transcripcion5_101.xml-0
+# text = Australia iki nasi ani .
+# es_text = Australia es una isla grande.
+1	Australia	_	PROPN	_	_	3	nsubj	_	_
+2	iki	_	VERB	_	_	3	cop	_	_
+3	nasi	_	NOUN	_	_	0	root	_	_
+4	ani	_	ADJ	_	_	3	amod	_	_
+5	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion5_101.xml
+# sent_id = transcripcion5_101.xml-1
+# text = ¿ Jaweranorin ?
+# es_text = ¿Dónde está?
+1	¿	_	PUNCT	_	_	2	punct	_	_
+2	Jaweranorin	_	PINT	_	_	0	root	_	_
+3	?	_	PUNCT	_	_	2	punct	_	_
+
+# newdoc_id = transcripcion3_8_1.xml
+# sent_id = transcripcion3_8_1.xml-1
+# text = Jatian bakebo ratékana iki , jato patax pakéketian .
+# es_text = Entonces los niños se asustaron al ver al motelo caído cerca a ellos.
+1	Jatian	_	CONJ	_	_	3	cc	_	_
+2	bake-bo	_	NOUN	_	_	3	nsubj	_	_
+3	ratéti-kan-a	_	VERB	_	_	0	root	_	_
+4	iki	_	AUX	_	_	3	aux	_	_
+5	,	_	PUNCT	_	_	3	punct	_	_
+6	jato	_	PRON	_	_	8	nsubj	_	_
+7	patax	_	POSTP	_	_	6	case	_	_
+8	pakéti-ketian	_	VERB	_	_	3	advcl	_	_
+9	.	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_1_1.xml
+# sent_id = Lea_Transcripcion2_parte2_1_1.xml-1
+# text = Jatian wasan , jawen epa oxaketian , piti queyoa iki .
+# es_text = Mientras tanto, el sobrino comió toda la comida que había preparado.
+1	Jatian	_	CONJ	_	_	9	cc	_	_
+2	wasa-n	_	NOUN	_	_	9	nsubj	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	jawen	_	DET	_	_	5	det	_	_
+5	epa	_	NOUN	_	_	6	nsubj	_	_
+6	óxati-ketian	_	VERB	_	_	9	advcl	_	_
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	piti	_	NOUN	_	_	9	obj	_	_
+9	quéyoti-a	_	VERB	_	_	0	root	_	_
+10	iki	_	AUX	_	_	9	aux	_	_
+11	.	_	PUNCT	_	_	9	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_1_1.xml
+# sent_id = Lea_Transcripcion2_parte2_1_1.xml-2
+# text = Piti keyoxon , kentikan makan bochoaxon , bochiki panina iki .
+# es_text = Luego puso piedras en la olla de barro y la colgó arriba.
+1	Piti	_	NOUN	_	_	2	obj	_	_
+2	kéyoti-xon	_	VERB	_	_	10	advcl	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4-5	quentí-kan	_	_	_	_	_	_	_	_
+4	quentí	_	NOUN	_	_	7	obl	_	_
+5	-kan	_	CLNOM	_	_	4	case	_	_
+6	makan	_	NOUN	_	_	7	obj	_	_
+7	bóchoati-xon	_	VERB	_	_	10	advcl	_	_
+8	,	_	PUNCT	_	_	7	punct	_	_
+9	bochiki	_	ADV	_	_	10	advmod	_	_
+10	panina	_	VERB	_	_	0	root	_	_
+11	iki	_	AUX	_	_	10	aux	_	_
+12	.	_	PUNCT	_	_	10	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_1_1.xml
+# sent_id = Lea_Transcripcion2_parte2_1_1.xml-3
+# text = Jaskáaxon , bochiki peyakaxon , jawen epa jistenai mana manaa iki .
+# es_text = Después, sentado en lo alto (de la casa), se puso a esperar que despertara su tío.
+1	Jaskáaxon	_	CONJ	_	_	10	cc	_	_
+2	,	_	PUNCT	_	_	1	acl	_	_
+3	bochiki	_	ADV	_	_	4	advmod	_	_
+4	péyakati-xon	_	VERB	_	_	10	advcl	_	_
+5	,	_	PUNCT	_	_	4	punct	_	_
+6	jawen	_	DET	_	_	7	det	_	_
+7	epa	_	NOUN	_	_	8	nsubj	_	_
+8	jishtenti-ai	_	VERB	_	_	10	obj	_	_
+9	mana	_	VERB	_	_	10	compound	_	_
+10	mánati-a	_	VERB	_	_	0	root	_	_
+11	iki	_	AUX	_	_	10	aux	_	_
+12	.	_	PUNCT	_	_	10	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_1_1.xml
+# sent_id = Lea_Transcripcion2_parte2_1_1.xml-4
+# text = Jaskáa , inon piti shinanyamaa iki , pikasi iwanxonbi .
+# es_text = Entonces el tigre por estar muy lastimado se desanimó de comer pese a que tenía mucha hambre.
+1	Jaskáa	_	CONJ	_	_	6	cc	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3-4	ino-n	_	_	_	_	_	_	_	_
+3	ino	_	NOUN	_	_	6	nsubj	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5	piti	_	VERB	_	_	6	obj	_	_
+6	shinánti-yama-a	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	,	_	PUNCT	_	_	6	punct	_	_
+9	pikásti-i	_	VERB	_	_	6	advcl	_	_
+10	iki-wan-xon-bi	_	AUX	_	_	9	aux	_	_
+11	.	_	PUNCT	_	_	9	punct	_	_
+
+# newdoc_id = transcripcion7_21.xml
+# sent_id = transcripcion7_21.xml-0
+# text = Jaskáa kaa iki , jawen rayos . Kakin , boá iki rabé xopan .
+# es_text = Entonces se fue el yerno, llevando consigo dos calabazas.
+1	Jaskáa	_	CONJ	_	_	2	cc	_	_
+2	kati-a	_	VERB	_	_	0	root	_	_
+3	iki	_	AUX	_	_	2	aux	_	_
+4	,	_	PUNCT	_	_	2	punct	_	_
+5	jawen	_	DET	_	_	6	det	_	_
+6	rayos	_	NOUN	_	_	2	nsubj	_	_
+7	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion7_21.xml
+# sent_id = transcripcion7_21.xml-0
+# text = Jaskáa kaa iki , jawen rayos . Kakin , boá iki rabé xopan .
+# es_text = Entonces se fue el yerno, llevando consigo dos calabazas.
+1	kati-kin	_	VERB	_	_	3	advcl	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	boti-a	_	VERB	_	_	0	root	_	_
+4	iki	_	AUX	_	_	3	aux	_	_
+5	rabé	_	NUM	_	_	6	nummod	_	_
+6	xopan	_	NOUN	_	_	3	obj	_	_
+7	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion5_118.xml
+# sent_id = transcripcion5_118.xml-0
+# text = Ani manamanra matsibires iki .
+# es_text = En la sierra hace mucho frío.
+1	Ani	_	ADJ	_	_	2	amod	_	_
+2-4	manan-man-ra	_	_	_	_	_	_	_	_
+2	manan	_	NOUN	_	_	5	nsubj	_	_
+3	-man	_	CLNOM	_	_	2	case	_	_
+4	-ra	_	CL2P	_	_	5	aux_clit	_	_
+5	matsi-bires	_	NOUN	_	_	0	root	_	_
+6	iki	_	VERB	_	_	5	cop	_	_
+7	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion5_118.xml
+# sent_id = transcripcion5_118.xml-1
+# text = Icha makan iki jain , nií ichama .
+# es_text = Hay muchas piedras y hay pocos árboles.
+1	Icha	_	ADJ	_	_	2	amod	_	_
+2	makan	_	NOUN	_	_	3	nsubj	_	_
+3	iki	_	VERB	_	_	0	root	_	_
+4	jain	_	ADV	_	_	3	advmod	_	_
+5	,	_	PUNCT	_	_	4	punct	_	_
+6	nií	_	NOUN	_	_	3	nsubj	_	_
+7	ichama-ma	_	ADJ	_	_	6	amod	_	_
+8	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion5_118.xml
+# sent_id = transcripcion5_118.xml-3
+# text = Jaa manaman jane iki , Andes Manan .
+# es_text = El nombre de estos cerros es la "Cordillera de los Andes".
+1	Ja	_	DET	_	_	2	det	_	_
+2-3	manán-man	_	_	_	_	_	_	_	_
+2	manán	_	NOUN	_	_	4	nmod	_	_
+3	-man	_	CLNOM	_	_	2	case	_	_
+4	jane	_	NOUN	_	_	8	nsubj	_	_
+5	iki	_	VERB	_	_	8	cop	_	_
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	Andes	_	PROPN	_	_	8	compound	_	_
+8	Manan	_	PROPN	_	_	0	root	_	_
+9	.	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = transcripcion5_118.xml
+# sent_id = transcripcion5_118.xml-4
+# text = Aniparo kexá iki matsi wetsa oxebaon . Wetsa oxen iki xana .
+# es_text = En la costa hace frío durante algunos meses y hace calor en otros meses.
+1	Aniparo	_	NOUN	_	_	3	obl	_	_
+2	kexá	_	POSTP	_	_	1	case	_	_
+3	iki	_	VERB	_	_	0	root	_	_
+4	matsi	_	NOUN	_	_	3	nsubj	_	_
+5	wetsa	_	ADJ	_	_	6	amod	_	_
+6-7	oxe-baon	_	_	_	_	_	_	_	_
+6	oxe	_	NOUN	_	_	3	obl	_	_
+7	-baon	_	CLNOM	_	_	6	case	_	_
+8	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion4_4_1.xml
+# sent_id = transcripcion4_4_1.xml-3
+# text = ¿ Tsoaki min mekayao yakata ?
+# es_text = ¿Quién se sienta a tu derecha?
+1	¿	_	PUNCT	_	_	8	punct	_	_
+2-4	tsoa-a-ki	_	_	_	_	_	_	_	_
+2	tsoa	_	PINT	_	_	8	nsubj	_	_
+3	-a	_	CLNOM	_	_	2	case	_	_
+4	-ki	_	CL2P	_	_	8	aux_clit	_	_
+5-6	mia-n	_	_	_	_	_	_	_	_
+5	mia	_	PRON	_	_	8	obl	_	_
+6	-n	_	CLNOM	_	_	5	case	_	_
+7	mekayao	_	POSTP	_	_	5	case	_	_
+8	yakati-a	_	VERB	_	_	0	root	_	_
+9	?	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = transcripcion4_4_1.xml
+# sent_id = transcripcion4_4_1.xml-4
+# text = ¿ Tsoaki min memio yakata ?
+# es_text = ¿Quién se sienta a tu izquierda?
+1	¿	_	PUNCT	_	_	8	punct	_	_
+2-4	tsoa-a-ki	_	_	_	_	_	_	_	_
+2	tsoa	_	PINT	_	_	8	nsubj	_	_
+3	-a	_	CLNOM	_	_	2	case	_	_
+4	-ki	_	CL2P	_	_	8	aux_clit	_	_
+5-6	mia-n	_	_	_	_	_	_	_	_
+5	mia	_	PRON	_	_	8	obl	_	_
+6	-n	_	CLNOM	_	_	5	case	_	_
+7	memio	_	POSTP	_	_	5	case	_	_
+8	yakati-a	_	VERB	_	_	0	root	_	_
+9	?	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = transcripcion4_31_1.xml
+# sent_id = transcripcion4_31_1.xml-3
+# text = Baná jawékiboribi barin keenai .
+# es_text = A las plantas les gusta el sol también.
+1	Baná	_	ADJ	_	_	2	amod	_	_
+2	jawéki-bo-ribi	_	NOUN	_	_	5	nsubj	_	_
+3-4	bari-n	_	_	_	_	_	_	_	_
+3	bari	_	NOUN	_	_	5	obl	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5	keenti-ai	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion4_31_1.xml
+# sent_id = transcripcion4_31_1.xml-4
+# text = Oinwe , oa paro kexá jiwi xoxoabo .
+# es_text = Mira, como crecen los árboles en el borde del río.
+1	ointi-we	_	VERB	_	_	0	root	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	oa	_	DET	_	_	4	det	_	_
+4	paro	_	NOUN	_	_	6	nmod	_	_
+5	kexá	_	POSTP	_	_	4	case	_	_
+6	jiwi	_	NOUN	_	_	1	obj	_	_
+7	xóxoti-a-bo	_	VERB	_	_	6	amod	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_4_2.xml
+# sent_id = Lea_Transcripcion2_parte2_4_2.xml-0
+# text = Jaskataintian ronki aká iki , ja joninki jiwi bixon marishkipakekin keyokin .
+# es_text = El hombre aprovechó la oportunidad y mató a todos con un palo.
+1-2	jaskáaxon-ki	_	_	_	_	_	_	_	_
+1	jaskáaxon	_	CONJ	_	_	8	cc	_	_
+2	-ki	_	CL2P	_	_	8	aux_clit	_	_
+3	ja	_	DET	_	_	4	det	_	_
+4	joni	_	NOUN	_	_	8	nsubj	_	_
+5	icha	_	ADJ	_	_	6	amod	_	_
+6-7	piti-a	_	_	_	_	_	_	_	_
+6	piti	_	VERB	_	_	8	obl	_	_
+7	-a	_	CLNOM	_	_	6	case	_	_
+8	banéti-ni-ke	_	VERB	_	_	0	root	_	_
+9	;	_	PUNCT	_	_	8	punct	_	_
+10	jatíbi	_	ADJ	_	_	11	amod	_	_
+11	roo	_	NOUN	_	_	12	obj	_	_
+12	réteti-kin	_	VERB	_	_	13	advcl	_	_
+13	kéyoti-ax	_	VERB	_	_	8	advcl	_	_
+14	.	_	PUNCT	_	_	13	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_1_2.xml
+# sent_id = Lea_Transcripcion2_parte3_1_2.xml-0
+# text = Too aká ronki iká iki , ja shishibo raaxki raaxki iki , naman maani .
+# es_text = Solamente de susto los achunis se cayeron al suelo.
+1	Jaskatai	_	CONJ	_	_	4	cc	_	_
+2-3	ninkáti-ax-onki	_	_	_	_	_	_	_	_
+2	ninkáti-ax	_	VERB	_	_	4	advcl	_	_
+3	-onki	_	CL2P	_	_	4	aux_clit	_	_
+4	joti-a	_	VERB	_	_	0	root	_	_
+5	iki	_	AUX	_	_	4	aux	_	_
+6	,	_	PUNCT	_	_	4	punct	_	_
+7	jawen	_	DET	_	_	8	det	_	_
+8	awin	_	NOUN	_	_	4	nsubj	_	_
+9	,	_	PUNCT	_	_	8	punct	_	_
+10	tasá	_	NOUN	_	_	11	obj	_	_
+11	papía	_	ADJ	_	_	8	nmod	_	_
+12	;	_	PUNCT	_	_	11	punct	_	_
+13	bene-shaman	_	ADJ	_	_	4	advmod	_	_
+14	.	_	PUNCT	_	_	13	punct	_	_
+
+# newdoc_id = transcripcion7_49.xml
+# sent_id = transcripcion7_49.xml-3
+# text = Ja bake basimaribi ania iki .
+# es_text = Y ella creció muy rápidamente hasta ser adulta.
+1	Ja	_	DET	_	_	2	det	_	_
+2	bake	_	NOUN	_	_	4	nsubj	_	_
+3	basi-ribi-ma	_	ADV	_	_	4	advmod	_	_
+4	aniati-a	_	VERB	_	_	0	root	_	_
+5	iki	_	AUX	_	_	4	aux	_	_
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion7_49.xml
+# sent_id = transcripcion7_49.xml-4
+# text = Ja moa aniketian , jakiribi ainbo tooribia iki .
+# es_text = Cuando la mujercita ya estaba grande, otra vez la mujer quedó preñada.
+1	Ja	_	PRON	_	_	3	nsubj	_	_
+2	moa	_	ADV	_	_	3	advmod	_	_
+3	aniti-ketian	_	VERB	_	_	7	advcl	_	_
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	jakiribi	_	ADV	_	_	7	advmod	_	_
+6	ainbo	_	NOUN	_	_	7	nsubj	_	_
+7	toóti-ribi-a	_	VERB	_	_	0	root	_	_
+8	iki	_	AUX	_	_	7	aux	_	_
+9	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion3_7_1.xml
+# sent_id = transcripcion3_7_1.xml-0
+# text = ¿ Jawen akintiki ja joni yoia iki ?
+# es_text = ¿Qué promesa hizo ella al hombre?
+1	¿	_	PUNCT	_	_	7	punct	_	_
+2	Jawen	_	DET	_	_	3	det	_	_
+3-4	akinti-ki	_	_	_	_	_	_	_	_
+3	akinti	_	NOUN	_	_	7	obj	_	_
+4	-ki	_	CL2P	_	_	7	aux_clit	_	_
+5	ja	_	DET	_	_	6	det	_	_
+6	joni	_	NOUN	_	_	7	iobj	_	_
+7	yoiti-a	_	VERB	_	_	0	root	_	_
+8	iki	_	AUX	_	_	7	aux	_	_
+9	?	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion3_7_1.xml
+# sent_id = transcripcion3_7_1.xml-2
+# text = Mananxawe betan nonon rabe iní
+# es_text = El motelo y los dos patos
+1	Mananxawe	_	NOUN	_	_	5	nsubj	_	_
+2	betan	_	CONJ	_	_	3	cc	_	_
+3	nonon	_	NOUN	_	_	1	conj	_	_
+4	rabé	_	NUM	_	_	3	nummod	_	_
+5	iki-ni	_	VERB	_	_	0	root	_	_
+
+# newdoc_id = transcripcion3_7_1.xml
+# sent_id = transcripcion3_7_1.xml-4
+# text = Jainoax meskó tsinitiboribi jato onanmakatiai .
+# es_text = También les enseñaba cómo hacer ejercicios físicos y cómo jugar.
+1	Jainoax	_	CONJ	_	_	5	cc	_	_
+2	meskó	_	ADJ	_	_	3	amod	_	_
+3	tsiniti-bo-ribi	_	NOUN	_	_	5	obj	_	_
+4	jato	_	PRON	_	_	5	iobj	_	_
+5	onanti-ma-kati-ai	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion7_43.xml
+# sent_id = transcripcion7_43.xml-0
+# text = Jaskáxon shinana iki :
+# es_text = Después, el hombre se puso a pensar:
+1	Jaskáxon	_	CONJ	_	_	2	cc	_	_
+2	shinanti-a	_	VERB	_	_	0	root	_	_
+3	iki	_	VERB	_	_	2	aux	_	_
+4	:	_	PUNCT	_	_	2	punct	_	_
+
+# newdoc_id = transcripcion7_43.xml
+# sent_id = transcripcion7_43.xml-2
+# text = Jaskáaxon jonin mai chinia iki ; ja meran sontameeti .
+# es_text = Comenzó a cavar la tierra para hacer un hoyo para esconderse.
+1	Jaskáaxon	_	CONJ	_	_	5	cc	_	_
+2-3	joni-n	_	_	_	_	_	_	_	_
+2	joni	_	NOUN	_	_	5	nsubj	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4	mai	_	NOUN	_	_	5	obj	_	_
+5	chiniti-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	;	_	PUNCT	_	_	5	punct	_	_
+8	ja	_	PRON	_	_	10	obl	_	_
+9	meran	_	POSTP	_	_	8	case	_	_
+10	sontanti-meet-i	_	VERB	_	_	5	aux_clit	_	_
+11	.	_	PUNCT	_	_	10	punct	_	_
+
+# newdoc_id = transcripcion7_43.xml
+# sent_id = transcripcion7_43.xml-3
+# text = Ja mai chiniax chichó sotameeta iki , ja joni .
+# es_text = Al terminar, entró al hoyo para observar de allí si algo sucedía.
+1	Ja	_	DET	_	_	2	det	_	_
+2	mai	_	NOUN	_	_	3	obl	_	_
+3	chíniti-ax	_	VERB	_	_	5	aux_clit	_	_
+4	chichó	_	POSTP	_	_	2	case	_	_
+5	sotanti-meet-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	,	_	PUNCT	_	_	5	punct	_	_
+8	ja	_	DET	_	_	9	det	_	_
+9	joni	_	NOUN	_	_	5	nsubj	_	_
+10	.	_	PUNCT	_	_	9	punct	_	_
+
+# newdoc_id = transcripcion5_74.xml
+# sent_id = transcripcion5_74.xml-0
+# text = Cristóbal Colón iká iki jawékioma joni .
+# es_text = Pero Cristóbal Colón era un hombre muy pobre.
+1	Cristóbal	_	PROPN	_	_	7	nsubj	_	_
+2	Colón	_	PROPN	_	_	1	flat	_	_
+3	iki-a	_	VERB	_	_	7	cop	_	_
+4	iki	_	AUX	_	_	3	aux	_	_
+5-6	jawéki-oma	_	_	_	_	_	_	_	_
+5	jawéki	_	NOUN	_	_	7	nmod	_	_
+6	-oma	_	CLNOM	_	_	5	case	_	_
+7	joni	_	NOUN	_	_	0	root	_	_
+8	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion5_74.xml
+# sent_id = transcripcion5_74.xml-4
+# text = Ikeanaxmabi wetsa ainbaon kimisha vapor menia iki . Jaa ainbo iká iki España apo , jawen jane Isabel . Jainxon kakin piti , menia iki .
+# es_text = Al fin, la Reina Isabel de España le compró tres carabelas y comida para el viaje.
+1	iki-kean-ax-ma-bi	_	VERB	_	_	7	advcl	_	_
+2	wetsa	_	ADJ	_	_	3	amod	_	_
+3-4	ainbo-baon	_	_	_	_	_	_	_	_
+3	ainbo	_	NOUN	_	_	7	nsubj	_	_
+4	-baon	_	CLNOM	_	_	3	case	_	_
+5	kimisha	_	NUM	_	_	6	nummod	_	_
+6	vapor	_	NOUN	_	_	7	obj	_	_
+7	meniti-a	_	VERB	_	_	0	root	_	_
+8	iki	_	AUX	_	_	7	aux	_	_
+9	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion5_51.xml
+# sent_id = transcripcion5_51.xml-3
+# text = Jatíbi baná jawékibo iki xoxoai jawékibo .
+# es_text = Todas las plantas pertenecen al reino vegetal.
+1	Jatíbi	_	ADJ	_	_	3	amod	_	_
+2	baná	_	ADJ	_	_	3	amod	_	_
+3	jawéki-bo	_	NOUN	_	_	6	nsubj	_	_
+4	iki	_	VERB	_	_	6	cop	_	_
+5	xóxoti-ai	_	VERB	_	_	6	amod	_	_
+6	jawéki-bo	_	NOUN	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion5_51.xml
+# sent_id = transcripcion5_51.xml-4
+# text = Ani jiwiboribi iki xoxoairibi .
+# es_text = Los árboles también pertenecen al reino vegetal.
+1	Ani	_	ADJ	_	_	2	amod	_	_
+2	jiwi-bo-ribi	_	NOUN	_	_	4	nsubj	_	_
+3	iki	_	VERB	_	_	4	cop	_	_
+4	xóxoti-ai-ribi	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion5_6.xml
+# sent_id = transcripcion5_6.xml-1
+# text = Maira netetiibi westíora mayatai .
+# es_text = La tierra gira sobre su eje una vez cada día.
+1-2	mai-ra	_	_	_	_	_	_	_	_
+1	mai	_	NOUN	_	_	5	nsubj	_	_
+2	-ra	_	CL2P	_	_	5	aux_clit	_	_
+3	nete-tiibi	_	NOUN	_	_	5	obl	_	_
+4	westíora	_	NUM	_	_	3	nummod	_	_
+5	mayáti-ai	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion5_79.xml
+# sent_id = transcripcion5_79.xml-1
+# text = Llama iki Perúainxon kaíakanai jawéki .
+# es_text = La llama es un animal doméstico del Perú.
+1	Llama	_	NOUN	_	_	6	nsubj	_	_
+2	iki	_	VERB	_	_	6	cop	_	_
+3-4	Perú-ain	_	_	_	_	_	_	_	_
+3	Perú	_	PROPN	_	_	6	nmod	_	_
+4	-ain	_	CLNOM	_	_	3	case	_	_
+5	kaíati-kan-ai	_	VERB	_	_	6	amod	_	_
+6	jawéki	_	NOUN	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_5_1.xml
+# sent_id = Lea_Transcripcion2_parte3_5_1.xml-0
+# text = ¿ Jawekeskarainki jonibo kokana iki ?
+# es_text = ¿A dónde se fueron los hombres?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2-3	jawekeskarain-ki	_	_	_	_	_	_	_	_
+2	jawekeskarain	_	PINT	_	_	5	advmod	_	_
+3	-ki	_	CL2P	_	_	5	aux_clit	_	_
+4	joni-bo	_	NOUN	_	_	5	nsubj	_	_
+5	kati-kan-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_5_1.xml
+# sent_id = Lea_Transcripcion2_parte3_5_1.xml-2
+# text = ¿ jaweki ainbaon kachiokea ninkata iki ?
+# es_text = ¿Qué tipo de sonido oyó la mujer del bosque?
+1	¿	_	PUNCT	_	_	7	punct	_	_
+2-3	jawe-ki	_	_	_	_	_	_	_	_
+2	jawe	_	PINT	_	_	7	obj	_	_
+3	-ki	_	CL2P	_	_	7	aux_clit	_	_
+4-5	ainbo-n	_	_	_	_	_	_	_	_
+4	ainbo	_	NOUN	_	_	7	nsubj	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	kachio-kea	_	ADV	_	_	7	advmod	_	_
+7	nikati-a	_	VERB	_	_	0	root	_	_
+8	iki	_	AUX	_	_	7	aux	_	_
+9	?	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_5_1.xml
+# sent_id = Lea_Transcripcion2_parte3_5_1.xml-3
+# text = ¿ Jawekeskaaxon ja onsá yoina retea iki ?
+# es_text = ¿Cómo mató a ese animal tan temible?
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2	Jawekeskaaxon	_	PINT	_	_	6	advmod	_	_
+3	ja	_	PRON	_	_	6	nsubj	_	_
+4	onsá	_	ADJ	_	_	5	amod	_	_
+5	yoina	_	NOUN	_	_	6	obj	_	_
+6	reteti-a	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion4_3.xml
+# sent_id = transcripcion4_3.xml-0
+# text = ¿ Memiokea mekemanki jawe yatana ?
+# es_text = ¿Qué hay en la mano izquierda?
+1	¿	_	PUNCT	_	_	8	punct	_	_
+2-3	Memio-kea	_	_	_	_	_	_	_	_
+2	Memio	_	ADV	_	_	4	advmod	_	_
+3	-kea	_	CLNOM	_	_	2	case	_	_
+4-6	meken-man-ki	_	_	_	_	_	_	_	_
+4	meken	_	NOUN	_	_	8	obl	_	_
+5	-man	_	CLNOM	_	_	4	case	_	_
+6	-ki	_	CL2P	_	_	8	aux_clit	_	_
+7	jawe	_	PINT	_	_	8	obj	_	_
+8	yatanti-a	_	VERB	_	_	0	root	_	_
+9	?	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = transcripcion4_3.xml
+# sent_id = transcripcion4_3.xml-1
+# text = Wetsa iki mekayaokea meken .
+# es_text = La otra es la mano derecha.
+1	wetsa	_	NOUN	_	_	5	nsubj	_	_
+2	iki	_	VERB	_	_	5	cop	_	_
+3-4	mekayao-kea	_	_	_	_	_	_	_	_
+3	mekayao	_	ADV	_	_	5	advmod	_	_
+4	-kea	_	CLNOM	_	_	3	case	_	_
+5	meken	_	NOUN	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion4_3.xml
+# sent_id = transcripcion4_3.xml-2
+# text = Jaa mekayaokea meken min oinyamai .
+# es_text = No se ve la mano derecha.
+1-2	ja-a	_	_	_	_	_	_	_	_
+1	ja	_	DET	_	_	4	det	_	_
+2	-a	_	CLNOM	_	_	1	case	_	_
+3	mekayao-kea	_	ADV	_	_	4	advmod	_	_
+4	meken	_	NOUN	_	_	7	obj	_	_
+5-6	mia-n	_	_	_	_	_	_	_	_
+5	mia	_	PRON	_	_	7	nsubj	_	_
+6	-n	_	CLNOM	_	_	5	case	_	_
+7	ointi-yama-ai	_	VERB	_	_	0	root	_	_
+8	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion4_3.xml
+# sent_id = transcripcion4_3.xml-3
+# text = ¿ Jaweranorin jaa mekayaokea meken ?
+# es_text = ¿Dónde está la mano derecha?
+1	¿	_	PUNCT	_	_	8	punct	_	_
+2-3	Jawerano-rin	_	_	_	_	_	_	_	_
+2	Jawerano	_	PINT	_	_	8	obl	_	_
+3	-rin	_	CL2P	_	_	8	aux_clit	_	_
+4-5	ja-a	_	_	_	_	_	_	_	_
+4	ja	_	DET	_	_	8	det	_	_
+5	-a	_	CLNOM	_	_	4	case	_	_
+6-7	mekayao-kea	_	_	_	_	_	_	_	_
+6	mekayao	_	ADV	_	_	8	advmod	_	_
+7	-kea	_	CLNOM	_	_	6	case	_	_
+8	meken	_	NOUN	_	_	0	root	_	_
+9	?	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = transcripcion4_3.xml
+# sent_id = transcripcion4_3.xml-4
+# text = ¿ Jaa mekayaokea mekenki banka pekáo iki ?
+# es_text = ¿Está la mano derecha detrás del banco?
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2-3	ja-a	_	_	_	_	_	_	_	_
+2	ja	_	DET	_	_	6	det	_	_
+3	-a	_	CLNOM	_	_	2	case	_	_
+4-5	mekayao-kea	_	_	_	_	_	_	_	_
+4	mekayao	_	ADV	_	_	6	advmod	_	_
+5	-kea	_	CLNOM	_	_	4	case	_	_
+6-7	meken-ki	_	_	_	_	_	_	_	_
+6	meken	_	NOUN	_	_	0	root	_	_
+7	-ki	_	CL2P	_	_	6	aux_clit	_	_
+8	banka	_	NOUN	_	_	6	obl	_	_
+9	pekáo	_	POSTP	_	_	8	case	_	_
+10	iki	_	AUX	_	_	6	cop	_	_
+11	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion4_3.xml
+# sent_id = transcripcion4_3.xml-5
+# text = ¿ Jaa mekayaokea mekenki mesan iki ?
+# es_text = ¿Está la mano derecha encima de la mesa?
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2-3	ja-a	_	_	_	_	_	_	_	_
+2	ja	_	DET	_	_	6	det	_	_
+3	-a	_	CLNOM	_	_	2	case	_	_
+4-5	mekayao-kea	_	_	_	_	_	_	_	_
+4	mekayao	_	ADV	_	_	6	advmod	_	_
+5	-kea	_	CLNOM	_	_	4	case	_	_
+6-7	meken-ki	_	_	_	_	_	_	_	_
+6	meken	_	NOUN	_	_	0	root	_	_
+7	-ki	_	CL2P	_	_	6	aux_clit	_	_
+8-9	mesa-n	_	_	_	_	_	_	_	_
+8	mesa	_	NOUN	_	_	6	obl	_	_
+9	-n	_	CLNOM	_	_	8	case	_	_
+10	iki	_	VERB	_	_	6	cop	_	_
+11	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion4_3.xml
+# sent_id = transcripcion4_3.xml-7
+# text = Nokon kirika meran riki .
+# es_text = Está debajo de mi libro.
+1	Nokon	_	DET	_	_	2	det	_	_
+2	kirika	_	NOUN	_	_	0	root	_	_
+3	meran	_	POSTP	_	_	2	case	_	_
+4	riki	_	VERB	_	_	2	cop	_	_
+5	.	_	PUNCT	_	_	2	punct	_	_
+
+# newdoc_id = transcripcion4_3.xml
+# sent_id = transcripcion4_3.xml-8
+# text = ¿ Jainoaxki jawe iki nokon memiokea mekeman ?
+# es_text = Pero, ¿qué hay en la mano izquierda?
+1	¿	_	PUNCT	_	_	3	punct	_	_
+2	jainoax-ki	_	CONJ	_	_	3	cc	_	_
+3	jawe	_	PINT	_	_	0	root	_	_
+4	iki	_	VERB	_	_	3	cop	_	_
+5	nokon	_	DET	_	_	8	det	_	_
+6-7	Memio-kea	_	_	_	_	_	_	_	_
+6	Memio	_	ADV	_	_	8	advmod	_	_
+7	-kea	_	CLNOM	_	_	6	case	_	_
+8-9	meken-man	_	_	_	_	_	_	_	_
+8	meken	_	NOUN	_	_	3	obl	_	_
+9	-man	_	CLNOM	_	_	8	case	_	_
+10	?	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion5_99.xml
+# sent_id = transcripcion5_99.xml-4
+# text = Mapamea oinxon aninasibo benawe .
+# es_text = Busca en el mapa los continentes.
+1	Mapa-mea	_	NOUN	_	_	2	obl	_	_
+2	ointi-xon	_	VERB	_	_	4	advcl	_	_
+3	aninasi-bo	_	NOUN	_	_	4	obj	_	_
+4	benati-we	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion6_33.xml
+# sent_id = transcripcion6_33.xml-1
+# text = ¿ Jaweki yoiai nato kointonin ?
+# es_text = ¿Quiénes están representados en esta creación?
+1	¿	_	PUNCT	_	_	4	punct	_	_
+2-3	jawe-ki	_	_	_	_	_	_	_	_
+2	jawe	_	PINT	_	_	4	obj	_	_
+3	-ki	_	CL2P	_	_	4	aux_clit	_	_
+4	yoiti-ai	_	VERB	_	_	0	root	_	_
+5	nato	_	DET	_	_	6	det	_	_
+6-7	kointo-nin	_	_	_	_	_	_	_	_
+6	kointo	_	NOUN	_	_	4	nsubj	_	_
+7	-nin	_	CLNOM	_	_	6	case	_	_
+8	?	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion6_33.xml
+# sent_id = transcripcion6_33.xml-4
+# text = ¿ Jawekeskaaxonki noa aká iki ?
+# es_text = ¿Cómo creó el Inca el color de neustro cuerpo?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2-3	jawekeskaxon-ki	_	_	_	_	_	_	_	_
+2	jawekeskaxon	_	PINT	_	_	5	advmod	_	_
+3	-ki	_	CL2P	_	_	5	aux_clit	_	_
+4	noa-a	_	PRON	_	_	5	obj	_	_
+5	ati-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte2_3.xml
+# sent_id = TrasncripcionLea-parte2_3.xml-0
+# text = ¿ Jawepariki pikotai ?
+# es_text = ¿Qué cosa sale primero?
+1	¿	_	PUNCT	_	_	4	punct	_	_
+2-3	jawe-pari-ki	_	_	_	_	_	_	_	_
+2	jawe-pari	_	PINT	_	_	4	nsubj	_	_
+3	-ki	_	CL2P	_	_	4	aux_clit	_	_
+4	pikoti-ai	_	VERB	_	_	0	root	_	_
+5	?	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion3_3_2.xml
+# sent_id = transcripcion3_3_2.xml-1
+# text = Kaxon , nokoa iki westíora kini meranoa .
+# es_text = Por fin lo encontró en el interior de una cueva.
+1	kati-xon	_	VERB	_	_	3	advcl	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	nókoti-a	_	VERB	_	_	0	root	_	_
+4	iki	_	AUX	_	_	3	aux	_	_
+5	westíora	_	DET	_	_	6	det	_	_
+6	kini	_	NOUN	_	_	3	obl	_	_
+7-8	meran-oa	_	_	_	_	_	_	_	_
+7	meran	_	POSTP	_	_	6	case	_	_
+8	-oa	_	CLNOM	_	_	7	case	_	_
+9	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion5_86.xml
+# sent_id = transcripcion5_86.xml-4
+# text = Baritiatiibi icha bimiai .
+# es_text = La quinua da muchas semillas cada año.
+1	baritia-tiibi	_	NOUN	_	_	3	obl	_	_
+2	icha	_	ADJ	_	_	3	advmod	_	_
+3	bimiti-ai	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion5_81.xml
+# sent_id = transcripcion5_81.xml-0
+# text = Jaa llama iki jakon jakonbires jawéki , manan animea jawéki .
+# es_text = La llama es un animal muy útil de la sierra.
+1	Ja	_	DET	_	_	2	det	_	_
+2	llama	_	NOUN	_	_	6	nsubj	_	_
+3	iki	_	VERB	_	_	6	cop	_	_
+4	jakon	_	ADJ	_	_	5	compound	_	_
+5	jakon-bires	_	ADJ	_	_	6	amod	_	_
+6	jawéki	_	NOUN	_	_	0	root	_	_
+7	,	_	PUNCT	_	_	11	punct	_	_
+8	manan	_	NOUN	_	_	11	nmod	_	_
+9-10	ani-mea	_	_	_	_	_	_	_	_
+9	ani	_	ADJ	_	_	8	amod	_	_
+10	-mea	_	CLNOM	_	_	8	case	_	_
+11	jawéki	_	NOUN	_	_	6	conj	_	_
+12	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion4_16_2.xml
+# sent_id = transcripcion4_16_2.xml-0
+# text = Escuela tapo non matsóti iki .
+# es_text = Barreremos el suelo.
+1	Escuela	_	NOUN	_	_	2	compound	_	_
+2	tapo	_	NOUN	_	_	5	obj	_	_
+3-4	noa-n	_	_	_	_	_	_	_	_
+3	noa	_	PRON	_	_	5	nsubj	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5	matsóti-ti	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion4_16_2.xml
+# sent_id = transcripcion4_16_2.xml-1
+# text = Kirika potáshokobo non tasakan napóti iki .
+# es_text = Pondremos los pedacitos de papel en la canasta.
+1	Kirika	_	NOUN	_	_	6	obj	_	_
+2	potati-shoko-bo-a	_	VERB	_	_	1	amod	_	_
+3	noa-n	_	PRON	_	_	6	nsubj	_	_
+4-5	tasá-kan	_	_	_	_	_	_	_	_
+4	tasá	_	NOUN	_	_	6	obl	_	_
+5	-kan	_	CLNOM	_	_	4	case	_	_
+6	napóti-ti	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion5_78.xml
+# sent_id = transcripcion5_78.xml-2
+# text = Bakeai jawékira rabé iki .
+# es_text = Hay dos clases de animales.
+1	Bakeati-ai	_	VERB	_	_	2	amod	_	_
+2-3	jawéki-ra	_	_	_	_	_	_	_	_
+2	jawéki	_	NOUN	_	_	4	nsubj	_	_
+3	-ra	_	CL2P	_	_	4	aux_clit	_	_
+4	rabé	_	NUM	_	_	0	root	_	_
+5	iki	_	VERB	_	_	4	cop	_	_
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion5_78.xml
+# sent_id = transcripcion5_78.xml-3
+# text = Jake jonin kaíati jawéki , jainoax nií meran iká jawéki .
+# es_text = Hay animales domésticos y animales silvestres.
+1	Jati-ke	_	VERB	_	_	0	root	_	_
+2-3	joni-n	_	_	_	_	_	_	_	_
+2	joni	_	NOUN	_	_	4	nsubj	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4	kaíati-ti	_	VERB	_	_	5	amod	_	_
+5	jawéki	_	NOUN	_	_	1	nsubj	_	_
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	jainoax	_	CONJ	_	_	11	cc	_	_
+8	nií	_	NOUN	_	_	10	obl	_	_
+9	meran	_	POSTP	_	_	8	case	_	_
+10	iki-a	_	VERB	_	_	11	amod	_	_
+11	jawéki	_	NOUN	_	_	5	conj	_	_
+12	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion7_53.xml
+# sent_id = transcripcion7_53.xml-0
+# text = Moatianronki Santa Rosankoki Chexe Inca ipaonike .
+# es_text = Antiguamente el Inca Negro vivía en Santa Rosa.
+1-2	moatian-ronki	_	_	_	_	_	_	_	_
+1	moatian	_	ADV	_	_	9	advmod	_	_
+2	-ronki	_	CL2P	_	_	9	aux_clit	_	_
+3	Santa	_	PROPN	_	_	4	compound	_	_
+4-6	Rosa-nko-ki	_	_	_	_	_	_	_	_
+4	Rosa	_	PROPN	_	_	9	obl	_	_
+5	-nko	_	CLNOM	_	_	4	case	_	_
+6	-ki	_	CL2P	_	_	9	aux_clit	_	_
+7	Chexe	_	PROPN	_	_	8	compound	_	_
+8	Inca	_	PROPN	_	_	9	nsubj	_	_
+9	iki-pao-ni-ke	_	VERB	_	_	0	root	_	_
+10	.	_	PUNCT	_	_	9	punct	_	_
+
+# newdoc_id = transcripcion7_53.xml
+# sent_id = transcripcion7_53.xml-1
+# text = Ja Incaronki ipaonike , wisotanishoko joni . Jaskara iketianronki apaokanike " Chexe Inca " , akin .
+# es_text = Dicen que el Inca era un poco negro (zambo) y por eso lo llamaban Inca Negro.
+1	Ja	_	DET	_	_	2	det	_	_
+2-3	Inca-ronki	_	_	_	_	_	_	_	_
+2	Inca	_	NOUN	_	_	7	nsubj	_	_
+3	-ronki	_	CL2P	_	_	7	aux_clit	_	_
+4	iki-pao-ni-ke	_	VERB	_	_	7	cop	_	_
+5	,	_	PUNCT	_	_	4	punct	_	_
+6	wiso-tani-shoko	_	ADJ	_	_	7	amod	_	_
+7	joni	_	NOUN	_	_	0	root	_	_
+8	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion7_53.xml
+# sent_id = transcripcion7_53.xml-1
+# text = Ja Incaronki ipaonike , wisotanishoko joni . Jaskara iketianronki apaokanike " Chexe Inca " , akin .
+# es_text = Dicen que el Inca era un poco negro (zambo) y por eso lo llamaban Inca Negro.
+1	Jaskara	_	CONJ	_	_	4	cc	_	_
+2-3	iki-ketian-ronki	_	_	_	_	_	_	_	_
+2	iki-ketian	_	VERB	_	_	4	advcl	_	_
+3	-ronki	_	CL2P	_	_	4	aux_clit	_	_
+4	ati-pao-kan-ni-ke	_	VERB	_	_	0	root	_	_
+5	"	_	PUNCT	_	_	7	punct	_	_
+6	Chexe	_	PROPN	_	_	7	amod	_	_
+7	Inca	_	PROPN	_	_	4	obj	_	_
+8	"	_	PUNCT	_	_	7	punct	_	_
+9	,	_	PUNCT	_	_	7	punct	_	_
+10	ati-kin	_	VERB	_	_	4	advcl	_	_
+11	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_6.xml
+# sent_id = Lea_Transcripcion2_parte2_6.xml-0
+# text = ¿ Ainbaonki jaweraki jawen bene akátiai ?
+# es_text = ¿Qué le decía siempre la mujer a su esposo?
+1	¿	_	PUNCT	_	_	8	punct	_	_
+2-4	ainbo-n-ki	_	_	_	_	_	_	_	_
+2	ainbo	_	NOUN	_	_	8	nsubj	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4	-ki	_	CL2P	_	_	8	aux_clit	_	_
+5	jaweraki	_	PINT	_	_	8	obj	_	_
+6	jawen	_	DET	_	_	7	det	_	_
+7	bene	_	NOUN	_	_	8	iobj	_	_
+8	ati-kati-ai	_	VERB	_	_	0	root	_	_
+9	?	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = transcripcion4_8_1.xml
+# sent_id = transcripcion4_8_1.xml-1
+# text = Non anibaon noa akai cuídankin .
+# es_text = Nuestros padres cuidan de nosotros.
+1-2	noa-n	_	_	_	_	_	_	_	_
+1	noa	_	PRON	_	_	3	nmod	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3-4	anibo-baon	_	_	_	_	_	_	_	_
+3	anibo	_	NOUN	_	_	7	nsubj	_	_
+4	-baon	_	CLNOM	_	_	3	case	_	_
+5-6	noa-a	_	_	_	_	_	_	_	_
+5	noa	_	PRON	_	_	7	obj	_	_
+6	-a	_	CLNOM	_	_	5	case	_	_
+7	ati-ai	_	VERB	_	_	0	root	_	_
+8	cuídanti-kin	_	VERB	_	_	7	advcl	_	_
+9	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion4_8_1.xml
+# sent_id = transcripcion4_8_1.xml-4
+# text = Jainxonribi non papaisin noa noike .
+# es_text = También nuestos abuelos nos quieren.
+1	jainxon-ribi	_	CONJ	_	_	8	cc	_	_
+2-3	noa-n	_	_	_	_	_	_	_	_
+2	noa	_	PRON	_	_	4	nmod	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4-5	papá-isi-n	_	_	_	_	_	_	_	_
+4	papá-isi	_	NOUN	_	_	8	nsubj	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6-7	noa-a	_	_	_	_	_	_	_	_
+6	noa	_	PRON	_	_	8	obj	_	_
+7	-a	_	CLNOM	_	_	6	case	_	_
+8	noiti-ke	_	VERB	_	_	0	root	_	_
+9	.	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = transcripcion7_50.xml
+# sent_id = transcripcion7_50.xml-3
+# text = Kakinbi ja jonin shinana iki :
+# es_text = Después de irse, el hombre pensó:
+1	Kati-kin-bi	_	VERB	_	_	4	advcl	_	_
+2	ja	_	DET	_	_	3	det	_	_
+3	joni-n	_	NOUN	_	_	0	root	_	_
+4	shinanti-a	_	VERB	_	_	3	nsubj	_	_
+5	iki	_	AUX	_	_	4	aux	_	_
+6	:	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion4_5_2.xml
+# sent_id = transcripcion4_5_2.xml-0
+# text = Eara jakonbirestani iki .
+# es_text = Estoy muy bien, gracias.
+1-2	ea-a-ra	_	_	_	_	_	_	_	_
+1	ea-a	_	PRON	_	_	3	nsubj	_	_
+2	-ra	_	CL2P	_	_	3	aux_clit	_	_
+3	jakon-bires-tani	_	ADJ	_	_	0	root	_	_
+4	iki	_	VERB	_	_	3	cop	_	_
+5	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion4_5_2.xml
+# sent_id = transcripcion4_5_2.xml-1
+# text = ¿ Min papaki jaskábirestani iitai ?
+# es_text = ¿Cómo está tu familia?
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2-3	mia-n	_	_	_	_	_	_	_	_
+2	mia	_	PRON	_	_	4	det	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4-5	papa-ki	_	_	_	_	_	_	_	_
+4	papa	_	NOUN	_	_	6	nsubj	_	_
+5	-ki	_	CL2P	_	_	6	aux_clit	_	_
+6	jaská-bires-tani	_	ADV	_	_	0	root	_	_
+7	iiti-ai	_	VERB	_	_	6	cop	_	_
+8	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion4_5_2.xml
+# sent_id = transcripcion4_5_2.xml-2
+# text = ¿ Jatíbiki isinkonama ?
+# es_text = ¿Todos están bien?
+1	¿	_	PUNCT	_	_	4	punct	_	_
+2-3	jatibi-ki	_	_	_	_	_	_	_	_
+2	jatibi	_	ADJ	_	_	4	nsubj	_	_
+3	-ki	_	CL2P	_	_	4	aux_clit	_	_
+4	isinti-kon-a-ma	_	VERB	_	_	0	root	_	_
+5	?	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion4_5_2.xml
+# sent_id = transcripcion4_5_2.xml-3
+# text = Ikáma . Jatíbira koshibirestani ikanai .
+# es_text = Toda mi familia está bien, gracias.
+1	iki-ama	_	VERB	_	_	0	root	_	_
+2	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion4_5_2.xml
+# sent_id = transcripcion4_5_2.xml-3
+# text = Ikáma . Jatíbira koshibirestani ikanai .
+# es_text = Toda mi familia está bien, gracias.
+1-2	jatibi-ra	_	_	_	_	_	_	_	_
+1	jatibi	_	ADJ	_	_	3	nsubj	_	_
+2	-ra	_	CL2P	_	_	3	aux_clit	_	_
+3	koshi-bires-tani	_	ADJ	_	_	0	root	_	_
+4	iki-kan-ai	_	VERB	_	_	3	cop	_	_
+5	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion4_5_2.xml
+# sent_id = transcripcion4_5_2.xml-4
+# text = Jenjen . Karíbaparibanon .
+# es_text = Bueno, ya tengo que irme.
+1	Jenjen	_	INTJ	_	_	0	root	_	_
+2	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion4_5_2.xml
+# sent_id = transcripcion4_5_2.xml-4
+# text = Jenjen . Karíbaparibanon .
+# es_text = Bueno, ya tengo que irme.
+1	kati-riba-pari-banon	_	VERB	_	_	0	root	_	_
+2	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion4_9_2.xml
+# sent_id = transcripcion4_9_2.xml-0
+# text = Nokon titan wai orkai .
+# es_text = Mi mamá cultiva la chacra.
+1	Nokon	_	DET	_	_	2	det	_	_
+2-3	tita-n	_	_	_	_	_	_	_	_
+2	tita	_	NOUN	_	_	5	nsubj	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4	wai	_	NOUN	_	_	5	obj	_	_
+5	oroti-ai	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion4_9_2.xml
+# sent_id = transcripcion4_9_2.xml-1
+# text = Nokon papan jiwi rerai , waiakin .
+# es_text = Mi papá tumba los árboles para hacer chacra.
+1	Nokon	_	DET	_	_	2	det	_	_
+2-3	papa-n	_	_	_	_	_	_	_	_
+2	papa	_	NOUN	_	_	5	nsubj	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4	jiwi	_	NOUN	_	_	5	obj	_	_
+5	rérati-ai	_	VERB	_	_	0	root	_	_
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	waiati-kin	_	VERB	_	_	5	advcl	_	_
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion4_9_2.xml
+# sent_id = transcripcion4_9_2.xml-2
+# text = Nokon papa netetiibi jenen kai , yomerai .
+# es_text = Mi papá va a pescar y a mitayar todos los días.
+1	Nokon	_	DET	_	_	2	det	_	_
+2	papa	_	NOUN	_	_	6	nsubj	_	_
+3	néte-tiibi	_	NOUN	_	_	6	advmod	_	_
+4-5	jene-n	_	_	_	_	_	_	_	_
+4	jene	_	NOUN	_	_	6	obl	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	kati-ai	_	VERB	_	_	0	root	_	_
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	yomerati-i	_	VERB	_	_	6	advcl	_	_
+9	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion4_9_2.xml
+# sent_id = transcripcion4_9_2.xml-4
+# text = Nokon papan noa maroxonai non chopa y kerosene .
+# es_text = Mi papá nos compra ropa y kerosene.
+1	Nokon	_	DET	_	_	2	det	_	_
+2-3	papa-n	_	_	_	_	_	_	_	_
+2	papa	_	NOUN	_	_	6	nsubj	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4-5	noa-a	_	_	_	_	_	_	_	_
+4	noa	_	PRON	_	_	6	iobj	_	_
+5	-a	_	CLNOM	_	_	4	case	_	_
+6	maroti-xon-ai	_	VERB	_	_	0	root	_	_
+7-8	non-n	_	_	_	_	_	_	_	_
+7	non	_	PRON	_	_	9	nmod	_	_
+8	-n	_	CLNOM	_	_	7	case	_	_
+9	chopa	_	NOUN	_	_	6	obj	_	_
+10	y	_	CONJ	_	_	11	cc	_	_
+11	kerosene	_	NOUN	_	_	9	conj	_	_
+12	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion5_35.xml
+# sent_id = transcripcion5_35.xml-0
+# text = Jakonwakin nakai non xetan , beshéakin .
+# es_text = Lo masticamos bien con los dientes.
+1	jakonati-kin	_	VERB	_	_	2	advcl	_	_
+2	nacati-ai	_	VERB	_	_	0	root	_	_
+3-4	noa-n	_	_	_	_	_	_	_	_
+3	noa	_	PRON	_	_	2	nsubj	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5-6	xeta-n	_	_	_	_	_	_	_	_
+5	xeta	_	NOUN	_	_	2	obl	_	_
+6	-n	_	CLNOM	_	_	5	case	_	_
+7	,	_	PUNCT	_	_	2	punct	_	_
+8	besheati-kin	_	VERB	_	_	2	advcl	_	_
+9	.	_	PUNCT	_	_	2	punct	_	_
+
+# newdoc_id = transcripcion5_35.xml
+# sent_id = transcripcion5_35.xml-1
+# text = Non poko meranoaxa non jawékiaabo wetsaressibai .
+# es_text = El estómago y los intestinos cambian el alimento.
+1-2	noa-n	_	_	_	_	_	_	_	_
+1	noa	_	PRON	_	_	3	nmod	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3	poko	_	NOUN	_	_	9	obl	_	_
+4-5	meran-oax-a	_	_	_	_	_	_	_	_
+4	meran-oax	_	POSTP	_	_	3	case	_	_
+5	-a	_	CL2P	_	_	9	aux_clit	_	_
+6-7	noa-n	_	_	_	_	_	_	_	_
+6	noa	_	PRON	_	_	8	nmod	_	_
+7	-n	_	CLNOM	_	_	6	case	_	_
+8	jawékiati-a-bo	_	VERB	_	_	9	nsubj	_	_
+9	wetsaati-res-iba-ai	_	VERB	_	_	0	root	_	_
+10	.	_	PUNCT	_	_	9	punct	_	_
+
+# newdoc_id = transcripcion5_89.xml
+# sent_id = transcripcion5_89.xml-0
+# text = Yami jawékiboribi , iresa jawékibo iki .
+# es_text = Las cosas de metal también pertenecen al reino mineral.
+1	Yami	_	NOUN	_	_	2	compound	_	_
+2	jawéki-bo-ribi	_	NOUN	_	_	5	nsubj	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	iti-res-a	_	VERB	_	_	5	amod	_	_
+5	jawéki-bo	_	NOUN	_	_	0	root	_	_
+6	iki	_	VERB	_	_	5	cop	_	_
+7	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion5_89.xml
+# sent_id = transcripcion5_89.xml-1
+# text = Perúainra jake icha yami keská jawékibo .
+# es_text = En el Perú hay muchos metales.
+1-3	Perú-ain-ra	_	_	_	_	_	_	_	_
+1	Perú	_	PROPN	_	_	4	obl	_	_
+2	-ain	_	CLNOM	_	_	1	case	_	_
+3	-ra	_	CL2P	_	_	4	aux_clit	_	_
+4	jati-ke	_	VERB	_	_	0	root	_	_
+5	icha	_	ADJ	_	_	6	amod	_	_
+6	yami	_	NOUN	_	_	8	nmod	_	_
+7	keská	_	POSTP	_	_	6	case	_	_
+8	jawéki-bo	_	NOUN	_	_	4	nsubj	_	_
+9	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion5_89.xml
+# sent_id = transcripcion5_89.xml-2
+# text = Jaa jawékibo iki koríki , centavo , yami , yami boí .
+# es_text = Algunos de estos metales son de plata, el cobre, el hierro, el estaño.
+1	Ja	_	DET	_	_	2	det	_	_
+2	jawéki-bo	_	NOUN	_	_	4	nsubj	_	_
+3	iki	_	VERB	_	_	4	cop	_	_
+4	koríki	_	NOUN	_	_	0	root	_	_
+5	,	_	PUNCT	_	_	4	punct	_	_
+6	centavo	_	NOUN	_	_	4	conj	_	_
+7	,	_	PUNCT	_	_	8	punct	_	_
+8	yami	_	NOUN	_	_	4	conj	_	_
+9	,	_	PUNCT	_	_	10	punct	_	_
+10	yami	_	NOUN	_	_	11	compound	_	_
+11	boí	_	NOUN	_	_	4	conj	_	_
+12	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion5_89.xml
+# sent_id = transcripcion5_89.xml-3
+# text = Iresa jawékibo bixon icha jakon jawékibo akanai .
+# es_text = Se hacen muchos objetos útiles de las cosas que pertenecen al reino mineral.
+1	iti-res-a	_	VERB	_	_	2	amod	_	_
+2	jawéki-bo	_	NOUN	_	_	3	obj	_	_
+3	bíti-xon	_	VERB	_	_	7	advcl	_	_
+4	icha	_	ADJ	_	_	6	amod	_	_
+5	jakon	_	ADJ	_	_	6	amod	_	_
+6	jawéki-bo	_	NOUN	_	_	7	obj	_	_
+7	ati-kan-ai	_	VERB	_	_	0	root	_	_
+8	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion5_89.xml
+# sent_id = transcripcion5_89.xml-4
+# text = Petroleo xeni iki iresa jawéki .
+# es_text = El petróleo pertenece al reino mineral.
+1	Petroleo	_	NOUN	_	_	2	nmod	_	_
+2	xeni	_	NOUN	_	_	5	nsubj	_	_
+3	iki	_	VERB	_	_	5	cop	_	_
+4	iti-res-a	_	VERB	_	_	5	amod	_	_
+5	jawéki	_	NOUN	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion4_7_1.xml
+# sent_id = transcripcion4_7_1.xml-0
+# text = ¿ Yoxanshoko ainboki joyamai ? ¿ Xontakoki joyamai ?
+# es_text = ¿Viene una persona anciana o una señorita?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2	yoxán-shoko	_	NOUN	_	_	5	nsubj	_	_
+3-4	ainbo-ki	_	_	_	_	_	_	_	_
+3	ainbo	_	NOUN	_	_	2	compound	_	_
+4	-ki	_	CL2P	_	_	5	aux_clit	_	_
+5	joti-yama-ai	_	VERB	_	_	0	root	_	_
+6	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion4_7_1.xml
+# sent_id = transcripcion4_7_1.xml-0
+# text = ¿ Yoxanshoko ainboki joyamai ? ¿ Xontakoki joyamai ?
+# es_text = ¿Viene una persona anciana o una señorita?
+1	¿	_	PUNCT	_	_	4	punct	_	_
+2-3	xóntako-ki	_	_	_	_	_	_	_	_
+2	xóntako	_	NOUN	_	_	4	nsubj	_	_
+3	-ki	_	CL2P	_	_	4	aux_clit	_	_
+4	joti-yama-ai	_	VERB	_	_	0	root	_	_
+5	?	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion4_7_1.xml
+# sent_id = transcripcion4_7_1.xml-1
+# text = Joyamarai , ni yoxanshokobi , ni xontakobi , ni nokon anibobi beyamakanai .
+# es_text = No viene ni una persona anciana ni una señorita ni mis padres tampoco.
+1	joti-yama-ai	_	VERB	_	_	0	root	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	ni	_	CONJ	_	_	4	cc	_	_
+4	yoxan-shoko-bi	_	NOUN	_	_	1	nsubj	_	_
+5	,	_	PUNCT	_	_	7	punct	_	_
+6	ni	_	CONJ	_	_	7	cc	_	_
+7	xóntako-bi	_	NOUN	_	_	4	conj	_	_
+8	,	_	PUNCT	_	_	12	punct	_	_
+9	ni	_	CONJ	_	_	12	cc	_	_
+10	nokon	_	DET	_	_	11	det	_	_
+11	anibo-bi	_	NOUN	_	_	12	obj	_	_
+12	beti-yama-kan-ai	_	VERB	_	_	1	conj	_	_
+13	.	_	PUNCT	_	_	12	punct	_	_
+
+# newdoc_id = transcripcion4_7_1.xml
+# sent_id = transcripcion4_7_1.xml-2
+# text = Y ¿ jaweakiki mia weníinakaina ?
+# es_text = Entonces, ¿por qué te pones de pie?
+1	Y	_	CONJ	_	_	7	cc	_	_
+2	¿	_	PUNCT	_	_	7	punct	_	_
+3-4	jaweaki-ki	_	_	_	_	_	_	_	_
+3	jaweaki	_	PINT	_	_	7	advmod	_	_
+4	-ki	_	CL2P	_	_	7	aux_clit	_	_
+5-6	mia-a	_	_	_	_	_	_	_	_
+5	mia	_	PRON	_	_	7	nsubj	_	_
+6	-a	_	CLNOM	_	_	5	case	_	_
+7	wenínti-a-kain-a	_	VERB	_	_	0	root	_	_
+8	?	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion4_7_1.xml
+# sent_id = transcripcion4_7_1.xml-3
+# text = Moara wetsa joni joai , jaára non shiroamita iki .
+# es_text = Porque viene otra persona a quien respetamos.
+1-2	moa-ra	_	_	_	_	_	_	_	_
+1	moa	_	ADV	_	_	5	advmod	_	_
+2	-ra	_	CL2P	_	_	5	aux_clit	_	_
+3	wetsa	_	ADJ	_	_	4	amod	_	_
+4	joni	_	NOUN	_	_	5	nsubj	_	_
+5	joti-ai	_	VERB	_	_	0	root	_	_
+6	,	_	PUNCT	_	_	12	cc	_	_
+7-9	ja-a-ra	_	_	_	_	_	_	_	_
+7	ja	_	PRON	_	_	12	obj	_	_
+8	-a	_	CLNOM	_	_	7	case	_	_
+9	-ra	_	CL2P	_	_	12	aux_clit	_	_
+10-11	noa-n	_	_	_	_	_	_	_	_
+10	noa	_	PRON	_	_	12	nsubj	_	_
+11	-n	_	CLNOM	_	_	10	case	_	_
+12	shíroati-ti-ma	_	VERB	_	_	5	conj	_	_
+13	iki	_	VERB	_	_	12	aux	_	_
+14	.	_	PUNCT	_	_	12	punct	_	_
+
+# newdoc_id = transcripcion4_7_1.xml
+# sent_id = transcripcion4_7_1.xml-4
+# text = Jaa jonira joai , non reken .
+# es_text = Viene otra persona que es mayor que nosotros.
+1	Ja	_	DET	_	_	2	det	_	_
+2-3	joni-ra	_	_	_	_	_	_	_	_
+2	joni	_	NOUN	_	_	4	nsubj	_	_
+3	-ra	_	CL2P	_	_	4	aux_clit	_	_
+4	joti-ai	_	VERB	_	_	0	root	_	_
+5	,	_	PUNCT	_	_	4	punct	_	_
+6-7	noa-n	_	_	_	_	_	_	_	_
+6	noa	_	PRON	_	_	8	nmod	_	_
+7	-n	_	CLNOM	_	_	6	case	_	_
+8	reken	_	NOUN	_	_	2	appos	_	_
+9	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion4_6_1.xml
+# sent_id = transcripcion4_6_1.xml-0
+# text = Mia jakiribi oinberibai jonox .
+# es_text = Hasta luego.
+1	mia-a	_	PRON	_	_	3	nsubj	_	_
+2	jakiribi	_	ADV	_	_	3	advmod	_	_
+3	ointi-be-riba-i	_	VERB	_	_	0	root	_	_
+4	joti-nox	_	VERB	_	_	3	advcl	_	_
+5	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion4_6_1.xml
+# sent_id = transcripcion4_6_1.xml-1
+# text = Min kirika meran wishawe , mibé raeananaibaon jane .
+# es_text = Escribe en tu cuaderno los nombres de tus amigos.
+1	mia-n	_	PRON	_	_	2	det	_	_
+2	kirika	_	NOUN	_	_	4	nmod	_	_
+3	meran	_	POSTP	_	_	2	case	_	_
+4	wishati-we	_	VERB	_	_	0	root	_	_
+5	,	_	PUNCT	_	_	4	punct	_	_
+6-7	mia-be	_	_	_	_	_	_	_	_
+6	mia	_	PRON	_	_	8	nmod	_	_
+7	-be	_	CLNOM	_	_	6	case	_	_
+8-9	raeananti-ai-baon	_	_	_	_	_	_	_	_
+8	raeananti-ai	_	VERB	_	_	10	nmod	_	_
+9	-baon	_	CLNOM	_	_	8	case	_	_
+10	jane	_	NOUN	_	_	4	obj	_	_
+11	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion4_6_1.xml
+# sent_id = transcripcion4_6_1.xml-2
+# text = ¡ Chama ! ¿ Presidenteki joyamai ?
+# es_text = Oye, amigo, ¿viene el Presidente?
+1	¡	_	PUNCT	_	_	2	punct	_	_
+2	Chama	_	NOUN	_	_	0	root	_	_
+3	!	_	PUNCT	_	_	2	punct	_	_
+
+# newdoc_id = transcripcion4_6_1.xml
+# sent_id = transcripcion4_6_1.xml-2
+# text = ¡ Chama ! ¿ Presidenteki joyamai ?
+# es_text = Oye, amigo, ¿viene el Presidente?
+1	¿	_	PUNCT	_	_	4	punct	_	_
+2-3	presidente-ki	_	_	_	_	_	_	_	_
+2	presidente	_	NOUN	_	_	4	nsubj	_	_
+3	-ki	_	CL2P	_	_	4	aux_clit	_	_
+4	joti-yama-ai	_	VERB	_	_	0	root	_	_
+5	?	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion4_6_1.xml
+# sent_id = transcripcion4_6_1.xml-3
+# text = Joyamarai Presidente .
+# es_text = No viene el Presidente.
+1	joti-yama-ai	_	VERB	_	_	0	root	_	_
+2	Presidente	_	NOUN	_	_	1	nsubj	_	_
+3	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion4_6_1.xml
+# sent_id = transcripcion4_6_1.xml-4
+# text = ¿ Tenienteki joyamai ?
+# es_text = ¿Viene el Teniente Gobernador?
+1	¿	_	PUNCT	_	_	4	punct	_	_
+2-3	teniente-ki	_	_	_	_	_	_	_	_
+2	teniente	_	NOUN	_	_	4	nsubj	_	_
+3	-ki	_	CL2P	_	_	4	aux_clit	_	_
+4	joti-yama-ai	_	VERB	_	_	0	root	_	_
+5	?	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion5_73.xml
+# sent_id = transcripcion5_73.xml-3
+# text = Iká iki wetsa joni , Cristóbal Colón . Jan shinana iki , nato nete toron .
+# es_text = Había un hombre, Cristóbal Colón, que creía que la Tierra era redonda.
+1	iki-a	_	VERB	_	_	0	root	_	_
+2	iki	_	AUX	_	_	1	aux	_	_
+3	wetsa	_	ADJ	_	_	4	amod	_	_
+4	joni	_	NOUN	_	_	1	nsubj	_	_
+5	,	_	PUNCT	_	_	1	punct	_	_
+6	Cristóbal	_	PROPN	_	_	4	appos	_	_
+7	Colón	_	PROPN	_	_	6	flat	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion5_45.xml
+# sent_id = transcripcion5_45.xml-2
+# text = Bakeai jawékira rabé iki .
+# es_text = Hay dos clases de animales.
+1	bakeati-ai	_	VERB	_	_	2	amod	_	_
+2-3	jawéki-ra	_	_	_	_	_	_	_	_
+2	jawéki	_	NOUN	_	_	4	nsubj	_	_
+3	-ra	_	CL2P	_	_	4	aux_clit	_	_
+4	rabé	_	NUM	_	_	0	root	_	_
+5	iki	_	VERB	_	_	4	cop	_	_
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion5_45.xml
+# sent_id = transcripcion5_45.xml-3
+# text = Jake jonin kaíati jawéki , jainoax nií meran iká jawéki .
+# es_text = Hay animales domésticos y animales silvestres.
+1	jati-ke	_	VERB	_	_	0	root	_	_
+2-3	joni-n	_	_	_	_	_	_	_	_
+2	joni	_	NOUN	_	_	4	nmod	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4	kaíati-ti	_	VERB	_	_	5	amod	_	_
+5	jawéki	_	NOUN	_	_	1	nsubj	_	_
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	jainoax	_	CONJ	_	_	11	cc	_	_
+8	nií	_	NOUN	_	_	10	obl	_	_
+9	meran	_	POSTP	_	_	8	case	_	_
+10	iki-a	_	VERB	_	_	11	amod	_	_
+11	jawéki	_	NOUN	_	_	5	conj	_	_
+12	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion5_52.xml
+# sent_id = transcripcion5_52.xml-0
+# text = Min cuaderno meran wishawe , pichika jiwin jane .
+# es_text = Escribe en tu cuaderno los nombres de cinco árboles.
+1-2	mia-n	_	_	_	_	_	_	_	_
+1	mia	_	PRON	_	_	3	nmod	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3	cuaderno	_	NOUN	_	_	5	obl	_	_
+4	meran	_	POSTP	_	_	3	case	_	_
+5	wíshati-we	_	VERB	_	_	0	root	_	_
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	pichika	_	NUM	_	_	8	nummod	_	_
+8-9	jiwi-n	_	_	_	_	_	_	_	_
+8	jiwi	_	NOUN	_	_	10	nmod	_	_
+9	-n	_	CLNOM	_	_	8	case	_	_
+10	jane	_	NOUN	_	_	5	obj	_	_
+11	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion5_52.xml
+# sent_id = transcripcion5_52.xml-1
+# text = Jainxonribi wishawe , pichika baná jawékinin jane , ikaxbi jiwima .
+# es_text = Escribe los nombres de cinco plantas que no son árboles.
+1	jainxon-ribi	_	CONJ	_	_	2	cc	_	_
+2	wíshati-we	_	VERB	_	_	0	root	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	pichika	_	NUM	_	_	6	nummod	_	_
+5	baná	_	ADJ	_	_	6	amod	_	_
+6-7	jawéki-nin	_	_	_	_	_	_	_	_
+6	jawéki	_	NOUN	_	_	8	nmod	_	_
+7	-nin	_	CLNOM	_	_	6	case	_	_
+8	jane	_	NOUN	_	_	2	obj	_	_
+9	,	_	PUNCT	_	_	11	punct	_	_
+10	ikaxbi	_	CONJ	_	_	11	cc	_	_
+11	jiwi-ma	_	NOUN	_	_	8	conj	_	_
+12	.	_	PUNCT	_	_	2	punct	_	_
+
+# newdoc_id = transcripcion5_52.xml
+# sent_id = transcripcion5_52.xml-3
+# text = Jaa baná jawékibo iki , xeki , papa quinuaribi .
+# es_text = Estas plantas son el maíz, la papa y la quinua.
+1	Ja	_	DET	_	_	2	det	_	_
+2	baná	_	ADJ	_	_	3	amod	_	_
+3	jawéki-bo	_	NOUN	_	_	6	nsubj	_	_
+4	iki	_	VERB	_	_	6	cop	_	_
+5	,	_	PUNCT	_	_	4	punct	_	_
+6	xeki	_	NOUN	_	_	0	root	_	_
+7	,	_	PUNCT	_	_	8	punct	_	_
+8	papa	_	NOUN	_	_	6	conj	_	_
+9	quinua-ribi	_	NOUN	_	_	6	conj	_	_
+10	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion5_52.xml
+# sent_id = transcripcion5_52.xml-4
+# text = Jaa xeki , papa , quinua , jaa jawéki xoxoi peokoota iki Perúainoax .
+# es_text = El maíz, la papa y la quinua crecieron primeramente en el Perú.
+1	Ja	_	DET	_	_	2	det	_	_
+2	xeki	_	NOUN	_	_	11	nsubj	_	_
+3	,	_	PUNCT	_	_	4	punct	_	_
+4	papa	_	NOUN	_	_	2	conj	_	_
+5	,	_	PUNCT	_	_	6	punct	_	_
+6	quinua	_	NOUN	_	_	4	conj	_	_
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	ja	_	DET	_	_	9	det	_	_
+9	jawéki	_	NOUN	_	_	10	nsubj	_	_
+10	xóxoti-i	_	VERB	_	_	11	advcl	_	_
+11	péokooti-a	_	VERB	_	_	0	root	_	_
+12	iki	_	AUX	_	_	11	aux	_	_
+13-14	Perú-ainoax	_	_	_	_	_	_	_	_
+13	Perú	_	PROPN	_	_	11	obl	_	_
+14	-ainoax	_	CLNOM	_	_	13	case	_	_
+15	.	_	PUNCT	_	_	11	punct	_	_
+
+# newdoc_id = transcripcion5_120.xml
+# sent_id = transcripcion5_120.xml-0
+# text = Perú tekíbo iki :
+# es_text = Los límites del Perú  son los siguientes:
+1	Perú	_	PROPN	_	_	2	nsubj	_	_
+2	tekí-bo	_	NOUN	_	_	3	cop	_	_
+3	iki	_	VERB	_	_	0	root	_	_
+4	:	_	PUNCT	_	_	2	punct	_	_
+
+# newdoc_id = transcripcion5_47.xml
+# sent_id = transcripcion5_47.xml-2
+# text = Jawen ibonra biai jawen xoma , jawen nami , jawen bichi .
+# es_text = Su dueño aprovecha su leche, su carne y su cuero.
+1	Jawen	_	DET	_	_	2	det	_	_
+2-4	ibo-n-ra	_	_	_	_	_	_	_	_
+2	ibo	_	NOUN	_	_	5	nsubj	_	_
+3	-n	_	CLNOM	_	_	2	amod	_	_
+4	-ra	_	CL2P	_	_	5	aux_clit	_	_
+5	bíti-ai	_	VERB	_	_	0	root	_	_
+6	jawen	_	DET	_	_	7	det	_	_
+7	xoma	_	NOUN	_	_	5	obj	_	_
+8	,	_	PUNCT	_	_	10	punct	_	_
+9	jawen	_	DET	_	_	10	det	_	_
+10	nami	_	NOUN	_	_	7	conj	_	_
+11	,	_	PUNCT	_	_	13	punct	_	_
+12	jawen	_	DET	_	_	13	det	_	_
+13	bichi	_	NOUN	_	_	7	conj	_	_
+14	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion5_13.xml
+# sent_id = transcripcion5_13.xml-1
+# text = Oinwe ¡ tita !
+# es_text = ¡Mira, mamá!
+1	ointi-we	_	VERB	_	_	0	root	_	_
+2	¡	_	PUNCT	_	_	3	punct	_	_
+3	tita	_	NOUN	_	_	1	vocative	_	_
+4	!	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion5_14.xml
+# sent_id = transcripcion5_14.xml-1
+# text = Enra meskó sion oinke .
+# es_text = Veo todos los colores del arco iris.
+1-3	ea-n-ra	_	_	_	_	_	_	_	_
+1	ea	_	PRON	_	_	6	nsubj	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3	-ra	_	CL2P	_	_	6	aux_clit	_	_
+4	meskó	_	ADJ	_	_	5	amod	_	_
+5	sion	_	NOUN	_	_	6	obj	_	_
+6	ointi-ke	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion5_14.xml
+# sent_id = transcripcion5_14.xml-2
+# text = Min cuaderno meran wishawe , baken oina keskábo , meskó sionbo .
+# es_text = Escribe en tu cuaderno los colores que la muchacha vió.
+1-2	mia-n	_	_	_	_	_	_	_	_
+1	mia	_	PRON	_	_	3	nmod	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3	cuaderno	_	NOUN	_	_	5	obl	_	_
+4	meran	_	POSTP	_	_	3	case	_	_
+5	wíshati-we	_	VERB	_	_	0	root	_	_
+6	,	_	PUNCT	_	_	5	punct	_	_
+7-8	bake-n	_	_	_	_	_	_	_	_
+7	bake	_	NOUN	_	_	9	nsubj	_	_
+8	-n	_	CLNOM	_	_	7	case	_	_
+9	ointi-a	_	VERB	_	_	13	appos	_	_
+10	keska-bo	_	POSTP	_	_	9	case	_	_
+11	,	_	PUNCT	_	_	9	punct	_	_
+12	meskó	_	ADJ	_	_	13	amod	_	_
+13	sion-bo	_	NOUN	_	_	5	obj	_	_
+14	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_1_2.xml
+# sent_id = Lea_Transcripcion2_parte1_1_2.xml-0
+# text = Ja nokota nete xabáketian ronki kachio bokana iki , iso retenoxon benai .
+# es_text = Luego de una caminata llegaron a un sitio apropiado para el alojamiento.
+1	Iso	_	NOUN	_	_	4	nsubj	_	_
+2	ati-i	_	VERB	_	_	4	advcl	_	_
+3	kachio	_	ADV	_	_	4	advmod	_	_
+4	kati-kan-ni	_	VERB	_	_	0	root	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_1_2.xml
+# sent_id = Lea_Transcripcion2_parte1_1_2.xml-1
+# text = Iso akí kachio bokanni
+# es_text = Los cazadores
+1	Ainbo	_	NOUN	_	_	4	nsubj	_	_
+2	betan	_	CONJ	_	_	3	cc	_	_
+3	popo	_	NOUN	_	_	1	conj	_	_
+4	iki-ni	_	VERB	_	_	0	root	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_1_2.xml
+# sent_id = Lea_Transcripcion2_parte1_1_2.xml-2
+# text = Ainbo betan popo iní
+# es_text = La mujer y la lechuza
+1	Ja	_	PRON	_	_	2	det	_	_
+2	awá	_	NOUN	_	_	3	nsubj	_	_
+3	koshi-cha-yora	_	ADJ	_	_	0	root	_	_
+4	iki-a	_	VERB	_	_	3	cop	_	_
+5	iki	_	AUX	_	_	4	aux	_	_
+6	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion6_34.xml
+# sent_id = transcripcion6_34.xml-0
+# text = Yoáshiko Inka iní
+# es_text = El Inca mezquino
+1	Yoáshiko	_	PROPN	_	_	2	compound	_	_
+2	Inka	_	PROPN	_	_	0	root	_	_
+3	iki-ni	_	VERB	_	_	2	nsubj	_	_
+
+# newdoc_id = transcripcion6_34.xml
+# sent_id = transcripcion6_34.xml-1
+# text = Yoáshiko Inkaronki japaonike joni icha xaran .
+# es_text = Antiguamente vivía el Yoáshico Inca en medio de mucha gente.
+1	Yoáshiko	_	PROPN	_	_	4	nsubj	_	_
+2-3	Inka-ronki	_	_	_	_	_	_	_	_
+2	Inka	_	PROPN	_	_	4	nsubj	_	_
+3	-ronki	_	CL2P	_	_	4	aux_clit	_	_
+4	jati-pao-ni-ke	_	VERB	_	_	0	root	_	_
+5	joni	_	NOUN	_	_	4	obl	_	_
+6	icha	_	ADJ	_	_	5	amod	_	_
+7	xaran	_	POSTP	_	_	5	case	_	_
+8	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion6_34.xml
+# sent_id = transcripcion6_34.xml-2
+# text = Wai axon , banakaskin atsa taxo , yokákanaki jato rarás axon , menii .
+# es_text = Cuando un día fueron a pedirle algunos tallos de yuca para sembrar, el Inca les dio raspando los tallos, sin yema, de manera que sembraran y no creciera.
+1	Wai	_	NOUN	_	_	2	obj	_	_
+2	ati-xon	_	VERB	_	_	8	advcl	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	banati-kas-kin	_	VERB	_	_	8	advcl	_	_
+5	atsa	_	NOUN	_	_	6	compound	_	_
+6	taxo	_	NOUN	_	_	4	obj	_	_
+7	,	_	PUNCT	_	_	4	punct	_	_
+8-9	yokáti-kan-a-ki	_	_	_	_	_	_	_	_
+8	yokáti-kan-a	_	VERB	_	_	0	root	_	_
+9	-ki	_	CL2P	_	_	8	aux_clit	_	_
+10	jato	_	PRON	_	_	8	obj	_	_
+11	rarás	_	ONOM	_	_	12	aux	_	_
+12	ati-xon	_	VERB	_	_	8	advcl	_	_
+13	,	_	PUNCT	_	_	12	punct	_	_
+14	meniti-i	_	VERB	_	_	8	advcl	_	_
+15	.	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = transcripcion6_34.xml
+# sent_id = transcripcion6_34.xml-4
+# text = Xeki yokákanaki jaskáribi , chií meran niaxon , jato menii .
+# es_text = Era el Inca el más mezquino de la comarca, y de él deriva el nombre de shipibo Yoáshico (mezquino).
+1	Xeki	_	NOUN	_	_	2	obj	_	_
+2-3	yokáti-kan-a-ki	_	_	_	_	_	_	_	_
+2	yokáti-kan-a	_	VERB	_	_	0	root	_	_
+3	-ki	_	CL2P	_	_	2	aux_clit	_	_
+4	jaskáribi	_	ADV	_	_	2	advmod	_	_
+5	,	_	PUNCT	_	_	2	punct	_	_
+6	chií	_	NOUN	_	_	8	obl	_	_
+7	meran	_	POSTP	_	_	6	case	_	_
+8	niati-xon	_	VERB	_	_	2	advcl	_	_
+9	,	_	PUNCT	_	_	8	punct	_	_
+10	jato	_	PRON	_	_	11	iobj	_	_
+11	meniti-i	_	VERB	_	_	2	advcl	_	_
+12	.	_	PUNCT	_	_	2	punct	_	_
+
+# newdoc_id = transcripcion5_58.xml
+# sent_id = transcripcion5_58.xml-3
+# text = Américainoaxa Europa iki ochóbires . Jatíbi ani nasi bari joai naman narakaabo iki ochóbires .
+# es_text = Europa y todos los continentes del este quedan muy lejos de América.
+1-2	América-ainoax	_	_	_	_	_	_	_	_
+1	América	_	PROPN	_	_	4	obl	_	_
+2	-ainoax	_	CLNOM	_	_	1	case	_	_
+3	Europa	_	PROPN	_	_	4	nsubj	_	_
+4	iki	_	VERB	_	_	0	root	_	_
+5	ochó-bires	_	ADV	_	_	4	advmod	_	_
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion4_15_1.xml
+# sent_id = transcripcion4_15_1.xml-1
+# text = Non atipanke reteti .
+# es_text = Podemos matarlos.
+1-2	noa-n	_	_	_	_	_	_	_	_
+1	noa	_	PRON	_	_	4	nsubj	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3	atipanti-ke	_	VERB	_	_	4	aux	_	_
+4	reteti-ti	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion4_15_1.xml
+# sent_id = transcripcion4_15_1.xml-3
+# text = Noinboribi iki jakonma jawéki .
+# es_text = Las lombrices también son muy malas.
+1	noin-bo-ribi	_	NOUN	_	_	4	nsubj	_	_
+2	iki	_	VERB	_	_	4	cop	_	_
+3	jakon-ma	_	ADJ	_	_	4	amod	_	_
+4	jawéki	_	NOUN	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion5_33.xml
+# sent_id = transcripcion5_33.xml-0
+# text = Jaskáaxon min jaa aká naman wishawe jawen jane .
+# es_text = Escribe sus nombres debajo de los dibujos.
+1	Jaskáaxon	_	CONJ	_	_	8	cc	_	_
+2-3	mia-n	_	_	_	_	_	_	_	_
+2	mia	_	PRON	_	_	6	nsubj	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4-5	ja-a	_	_	_	_	_	_	_	_
+4	ja	_	PRON	_	_	8	obl	_	_
+5	-a	_	CLNOM	_	_	4	case	_	_
+6	ati-a	_	VERB	_	_	4	amod	_	_
+7	naman	_	POSTP	_	_	4	case	_	_
+8	wíshati-we	_	VERB	_	_	0	root	_	_
+9	jawen	_	DET	_	_	10	det	_	_
+10	jane	_	NOUN	_	_	8	obj	_	_
+11	.	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = transcripcion5_33.xml
+# sent_id = transcripcion5_33.xml-3
+# text = Wai ramiai jawékibo keskáakin wishawe .
+# es_text = Dibuja los animales silvestres que dañan las chacras.
+1	Wai	_	NOUN	_	_	2	nsubj	_	_
+2	ramíti-ai	_	VERB	_	_	3	amod	_	_
+3	jawéki-bo	_	NOUN	_	_	5	obj	_	_
+4	keskáakin	_	ADV	_	_	5	advmod	_	_
+5	wíshati-we	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion3_1_1.xml
+# sent_id = transcripcion3_1_1.xml-0
+# text = Kaxon , ja bakeranonman jawen pia benakinbi merayamaa iki .
+# es_text = El dueño la buscaba pero no pudo encontrarla.
+1	kati-xon	_	VERB	_	_	8	advcl	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	ja	_	DET	_	_	4	det	_	_
+4-5	bakeranon-man	_	_	_	_	_	_	_	_
+4	bakeranon	_	NOUN	_	_	8	nsubj	_	_
+5	-man	_	CLNOM	_	_	4	case	_	_
+6	jawen	_	DET	_	_	7	det	_	_
+7	pia	_	NOUN	_	_	8	obj	_	_
+8	bénati-kin-bi	_	VERB	_	_	9	advcl	_	_
+9	merati-yama-a	_	VERB	_	_	0	root	_	_
+10	iki	_	AUX	_	_	9	aux	_	_
+11	.	_	PUNCT	_	_	9	punct	_	_
+
+# newdoc_id = transcripcion5_119.xml
+# sent_id = transcripcion5_119.xml-0
+# text = Aniparo kexára oi beyamai .
+# es_text = No llueve en la costa.
+1	Aniparo	_	NOUN	_	_	5	obl	_	_
+2-3	kexá-ra	_	_	_	_	_	_	_	_
+2	kexá	_	POSTP	_	_	1	case	_	_
+3	-ra	_	CL2P	_	_	5	aux_clit	_	_
+4	oi	_	NOUN	_	_	5	nsubj	_	_
+5	beti-yama-ai	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion5_119.xml
+# sent_id = transcripcion5_119.xml-2
+# text = Aniparo kexá iki mashires .
+# es_text = Mucho de la costa parece ser pura arena.
+1	Aniparo	_	NOUN	_	_	3	obl	_	_
+2	kexá	_	POSTP	_	_	1	case	_	_
+3	iki	_	VERB	_	_	4	nsubj	_	_
+4	mashi-res	_	NOUN	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_4_1.xml
+# sent_id = Lea_Transcripcion2_parte2_4_1.xml-0
+# text = Jatian ja xeabaini ronki kabékona iki , jawen awin betan , shirinka bepon tsekai ; jainbi jaton xeati mapobainni .
+# es_text = Luego de tomar un poco de masato, lo guardaron bien tapado y se fueron al trabajo.
+1-2	jáskatax-xon-ki	_	_	_	_	_	_	_	_
+1	jáskatax-xon	_	CONJ	_	_	4	cc	_	_
+2	-ki	_	CL2P	_	_	4	aux_clit	_	_
+3	moa	_	ADV	_	_	4	advmod	_	_
+4	kati-ti	_	VERB	_	_	0	root	_	_
+5	átipanti-yama-kan-a	_	AUX	_	_	4	aux	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion6_32.xml
+# sent_id = transcripcion6_32.xml-0
+# text = Inkan noa joniani
+# es_text = La creación del hombre por el Inca
+1	inka-n	_	NOUN	_	_	3	nsubj	_	_
+2	noa-a	_	PRON	_	_	3	obj	_	_
+3	joniati-ni	_	VERB	_	_	0	root	_	_
+
+# newdoc_id = transcripcion6_32.xml
+# sent_id = transcripcion6_32.xml-1
+# text = Jaaboronkiki ja non kirinko akaibo .
+# es_text = De este hombre descienden los "gringos".
+1	Jaaboronkiki	_	CONJ	_	_	5	cc	_	_
+2	ja	_	PRON	_	_	3	det	_	_
+3	non-n	_	DET	_	_	5	nsubj	_	_
+4	kirinko	_	NOUN	_	_	5	obj	_	_
+5	ati-ai-bo	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion6_32.xml
+# sent_id = transcripcion6_32.xml-2
+# text = Jaaboronkiki , ja non rashíko akin akaibo .
+# es_text = De esta manera se originaron los negros.
+1	Jaaboronkiki	_	CONJ	_	_	7	cc	_	_
+2	,	_	PUNCT	_	_	7	punct	_	_
+3	ja	_	PRON	_	_	4	det	_	_
+4	non-n	_	DET	_	_	7	nsubj	_	_
+5	rashíko	_	NOUN	_	_	7	obj	_	_
+6	ati-kin	_	VERB	_	_	7	advcl	_	_
+7	ati-ai-bo	_	VERB	_	_	0	root	_	_
+8	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion6_32.xml
+# sent_id = transcripcion6_32.xml-3
+# text = Jainoaxki Inka yoyo iká iki : - Jakonmatani rabéra en joniake . Ramara en wetsa aríbai - iki .
+# es_text = El Inca no estaba contento con sus creaciones y dijo: - Un poco mal los he hecho a estos dos hombres, ahora procuraré que el último me salga mejor.
+1	jainoax-ki	_	CONJ	_	_	4	cc	_	_
+2	Inka	_	NOUN	_	_	4	nsubj	_	_
+3	yoyo	_	INTJ	_	_	4	aux	_	_
+4	iki-a	_	VERB	_	_	0	root	_	_
+5	iki	_	VERB	_	_	4	aux	_	_
+6	:	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion6_32.xml
+# sent_id = transcripcion6_32.xml-3
+# text = Jainoaxki Inka yoyo iká iki : - Jakonmatani rabéra en joniake . Ramara en wetsa aríbai - iki .
+# es_text = El Inca no estaba contento con sus creaciones y dijo: - Un poco mal los he hecho a estos dos hombres, ahora procuraré que el último me salga mejor.
+1	-	_	PUNCT	_	_	6	punct	_	_
+2	Jakon-ma-tani	_	ADJ	_	_	3	amod	_	_
+3-4	rabe-ra	_	_	_	_	_	_	_	_
+3	rabe	_	NUM	_	_	6	obj	_	_
+4	-ra	_	CL2P	_	_	6	aux_clit	_	_
+5	ea-n	_	PRON	_	_	6	nsubj	_	_
+6	joniati-ke	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion6_32.xml
+# sent_id = transcripcion6_32.xml-3
+# text = Jainoaxki Inka yoyo iká iki : - Jakonmatani rabéra en joniake . Ramara en wetsa aríbai - iki .
+# es_text = El Inca no estaba contento con sus creaciones y dijo: - Un poco mal los he hecho a estos dos hombres, ahora procuraré que el último me salga mejor.
+1-2	Rama-ra	_	_	_	_	_	_	_	_
+1	Rama	_	ADV	_	_	5	advmod	_	_
+2	-ra	_	CL2P	_	_	5	aux_clit	_	_
+3	ea-n	_	PRON	_	_	5	nsubj	_	_
+4	wetsa	_	NOUN	_	_	5	obj	_	_
+5	ati-riba-ai	_	VERB	_	_	0	root	_	_
+6	-	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion6_32.xml
+# sent_id = transcripcion6_32.xml-3
+# text = Jainoaxki Inka yoyo iká iki : - Jakonmatani rabéra en joniake . Ramara en wetsa aríbai - iki .
+# es_text = El Inca no estaba contento con sus creaciones y dijo: - Un poco mal los he hecho a estos dos hombres, ahora procuraré que el último me salga mejor.
+1	iki	_	VERB	_	_	0	root	_	_
+2	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_1_2.xml
+# sent_id = Lea_Transcripcion2_parte2_1_2.xml-0
+# text = ¿ Tsoabo ikáki nato kointonin yoiai ?
+# es_text = ¿Quiénes internvienen en este cuento?
+1	¿	_	PUNCT	_	_	8	punct	_	_
+2	tsoa-bo	_	PINT	_	_	8	obj	_	_
+3-4	iki-a-ki	_	_	_	_	_	_	_	_
+3	iki-a	_	VERB	_	_	2	nsubj	_	_
+4	-ki	_	CL2P	_	_	8	aux_clit	_	_
+5	nato	_	DET	_	_	6	det	_	_
+6-7	kointo-nin	_	_	_	_	_	_	_	_
+6	kointo	_	NOUN	_	_	8	nsubj	_	_
+7	-nin	_	CLNOM	_	_	6	case	_	_
+8	yoiti-ai	_	VERB	_	_	0	root	_	_
+9	?	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_1_2.xml
+# sent_id = Lea_Transcripcion2_parte2_1_2.xml-1
+# text = ¿ Tsoaki iká iki , wasa ?
+# es_text = ¿Quién era el mono frailecito?
+1	¿	_	PUNCT	_	_	7	punct	_	_
+2-3	tsoa-ki	_	_	_	_	_	_	_	_
+2	tsoa	_	PINT	_	_	7	nsubj	_	_
+3	-ki	_	CL2P	_	_	7	aux_clit	_	_
+4	iki-a	_	VERB	_	_	7	cop	_	_
+5	iki	_	AUX	_	_	4	aux	_	_
+6	,	_	PUNCT	_	_	4	punct	_	_
+7	wasa	_	NOUN	_	_	0	root	_	_
+8	?	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_1_2.xml
+# sent_id = Lea_Transcripcion2_parte2_1_2.xml-2
+# text = ¿ Jaweki epan jawen noxa yokata iki ?
+# es_text = ¿Qué le pidió el tío al sobrino?
+1	¿	_	PUNCT	_	_	8	punct	_	_
+2-3	jawe-ki	_	_	_	_	_	_	_	_
+2	jawe	_	PINT	_	_	8	obj	_	_
+3	-ki	_	CL2P	_	_	8	aux_clit	_	_
+4-5	epa-n	_	_	_	_	_	_	_	_
+4	epa	_	NOUN	_	_	8	nsubj	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	jawen	_	DET	_	_	7	det	_	_
+7	noxa	_	NOUN	_	_	8	iobj	_	_
+8	yokáti-a	_	VERB	_	_	0	root	_	_
+9	iki	_	AUX	_	_	8	aux	_	_
+10	?	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = transcripcion3_6_2.xml
+# sent_id = transcripcion3_6_2.xml-2
+# text = ¿ Rikankinki jawe bikana iki ?
+# es_text = ¿Qué agarraron al echar la red en el agua?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2-3	rikanti-kin-ki	_	_	_	_	_	_	_	_
+2	rikanti-kin	_	VERB	_	_	5	advcl	_	_
+3	-ki	_	CL2P	_	_	5	aux_clit	_	_
+4	jawe	_	PINT	_	_	5	obj	_	_
+5	biti-kan-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion4_10_1.xml
+# sent_id = transcripcion4_10_1.xml-0
+# text = Nokon titara hen wai orokiinai .
+# es_text = Ayudo a mi mamá a cultivar la chacra.
+1	Nokon	_	DET	_	_	2	det	_	_
+2	papa-ribi	_	NOUN	_	_	5	obj	_	_
+3-4	ea-n	_	_	_	_	_	_	_	_
+3	ea	_	PRON	_	_	5	nsubj	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5	yómerati-kin-ai	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion5_105.xml
+# sent_id = transcripcion5_105.xml-2
+# text = Bokanai joni , kirika , jawéki bomakanabo .
+# es_text = Llevan pasajeros, cartas y carga.
+1	boti-kan-ai	_	VERB	_	_	0	root	_	_
+2	joni	_	NOUN	_	_	1	nsubj	_	_
+3	,	_	PUNCT	_	_	4	punct	_	_
+4	kirika	_	NOUN	_	_	2	conj	_	_
+5	,	_	PUNCT	_	_	6	punct	_	_
+6	jawéki	_	NOUN	_	_	2	conj	_	_
+7	boti-ma-kan-a-bo	_	VERB	_	_	6	nmod	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion3_8_2.xml
+# sent_id = transcripcion3_8_2.xml-0
+# text = ¿ Jatianki mananxawen jato jaweraki aká iki ?
+# es_text = ¿Qué respondió el motelo?
+1	¿	_	PUNCT	_	_	7	punct	_	_
+2	jatian-ki	_	CONJ	_	_	7	cc	_	_
+3-4	mananxawe-n	_	_	_	_	_	_	_	_
+3	mananxawe	_	NOUN	_	_	7	nsubj	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5	jato	_	PRON	_	_	7	iobj	_	_
+6	jaweraki	_	PINT	_	_	7	obj	_	_
+7	ati-a	_	VERB	_	_	0	root	_	_
+8	iki	_	AUX	_	_	7	aux	_	_
+9	?	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion3_8_2.xml
+# sent_id = transcripcion3_8_2.xml-2
+# text = ¿ Jaweranoki bokana iki ?
+# es_text = ¿A dónde se fueron?
+1	¿	_	PUNCT	_	_	4	punct	_	_
+2-3	jawerano-ki	_	_	_	_	_	_	_	_
+2	jawerano	_	PINT	_	_	4	advmod	_	_
+3	-ki	_	CL2P	_	_	4	aux_clit	_	_
+4	kati-kan-a	_	VERB	_	_	0	root	_	_
+5	iki	_	AUX	_	_	4	aux	_	_
+6	?	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte2_2_2.xml
+# sent_id = TrasncripcionLea-parte2_2_2.xml-1
+# text = Wiso riki xoke . Jainoax jawen texonko joshin .
+# es_text = El tucán es negro. Luego tiene el cuello rojo.
+1	Wiso	_	ADJ	_	_	0	root	_	_
+2	riki	_	VERB	_	_	1	cop	_	_
+3	xoke	_	NOUN	_	_	1	nsubj	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte2_2_2.xml
+# sent_id = TrasncripcionLea-parte2_2_2.xml-1
+# text = Wiso riki xoke . Jainoax jawen texonko joshin .
+# es_text = El tucán es negro. Luego tiene el cuello rojo.
+1	Jainoax	_	CONJ	_	_	4	conj	_	_
+2	jawen	_	DET	_	_	3	det	_	_
+3	texo-nko	_	NOUN	_	_	4	nsubj	_	_
+4	joshin	_	ADJ	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte2_2_2.xml
+# sent_id = TrasncripcionLea-parte2_2_2.xml-2
+# text = Xoke riki jankosh .
+# es_text = El tucán grita mucho.
+1	Xoke	_	NOUN	_	_	2	nsubj	_	_
+2	riki	_	VERB	_	_	0	root	_	_
+3	jankosh	_	ADV	_	_	2	advmod	_	_
+4	.	_	PUNCT	_	_	2	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_2_1.xml
+# sent_id = Lea_Transcripcion2_parte3_2_1.xml-0
+# text = ¿ Jaweranoki joni kaa iki ?
+# es_text = ¿A dónde se fue el hombre?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2-3	jawerano-ki	_	_	_	_	_	_	_	_
+2	jawerano	_	PINT	_	_	5	advmod	_	_
+3	-ki	_	CL2P	_	_	5	aux_clit	_	_
+4	joni	_	NOUN	_	_	5	nsubj	_	_
+5	kati-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_2_1.xml
+# sent_id = Lea_Transcripcion2_parte3_2_1.xml-1
+# text = ¿ Kakinki jawe meraa iki ?
+# es_text = ¿Qué encontró en el camino?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2-3	kati-kin-ki	_	_	_	_	_	_	_	_
+2	kati-kin	_	VERB	_	_	5	advcl	_	_
+3	-ki	_	CL2P	_	_	5	aux_clit	_	_
+4	jawe	_	PINT	_	_	5	obj	_	_
+5	merati-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_2_1.xml
+# sent_id = Lea_Transcripcion2_parte3_2_1.xml-2
+# text = ¿ Jawetii shishiki bikana iki ?
+# es_text = ¿Cuántos animales consiguieron?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2	Jawetii	_	PINT	_	_	3	amod	_	_
+3-4	shishi-ki	_	_	_	_	_	_	_	_
+3	shishi	_	NOUN	_	_	5	obj	_	_
+4	-ki	_	CL2P	_	_	5	aux_clit	_	_
+5	biti-kan-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_2_1.xml
+# sent_id = Lea_Transcripcion2_parte3_2_1.xml-3
+# text = ¿ Nato kointoniki jawe keská noa onanmai ?
+# es_text = ¿Qué nos enseña este cuento?
+1	Joxo	_	ADJ	_	_	2	amod	_	_
+2	shino	_	NOUN	_	_	5	nsubj	_	_
+3	betan	_	CONJ	_	_	4	cc	_	_
+4	mananxawe	_	NOUN	_	_	2	conj	_	_
+5	iki-ni	_	VERB	_	_	0	root	_	_
+
+# newdoc_id = transcripcion4_12_2.xml
+# sent_id = transcripcion4_12_2.xml-0
+# text = Jakonshamanbires en shinanai .
+# es_text = ¡Qué sano me siento!
+1	jakon-shaman-bires	_	ADJ	_	_	4	obj	_	_
+2-3	ea-n	_	_	_	_	_	_	_	_
+2	ea	_	PRON	_	_	4	nsubj	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4	shinanti-ai	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion4_12_2.xml
+# sent_id = transcripcion4_12_2.xml-1
+# text = ¿ Jawerato bake keskáribirin mia ?
+# es_text = ¿Cómo cuál de estos alumnos eres tú?
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2	Jawerato	_	PINT	_	_	3	amod	_	_
+3	bake	_	NOUN	_	_	6	nsubj	_	_
+4-5	keska-ribi-rin	_	_	_	_	_	_	_	_
+4	keska-ribi	_	POSTP	_	_	3	case	_	_
+5	-rin	_	CL2P	_	_	6	aux_clit	_	_
+6	mia	_	PRON	_	_	0	root	_	_
+7	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion3_2_1.xml
+# sent_id = transcripcion3_2_1.xml-0
+# text = Ino betan yawish iní
+# es_text = La carachupa y el tigre
+1	Ino	_	NOUN	_	_	4	nsubj	_	_
+2	betan	_	CONJ	_	_	3	cc	_	_
+3	yawish	_	NOUN	_	_	1	conj	_	_
+4	iki-ni	_	VERB	_	_	0	root	_	_
+
+# newdoc_id = transcripcion7_15.xml
+# sent_id = transcripcion7_15.xml-0
+# text = Jaskara iketianki jakiribi boríbakana iki .
+# es_text = Así regresaron sin nada.
+1	Jaskara	_	CONJ	_	_	5	cc	_	_
+2-3	iki-ketian-ki	_	_	_	_	_	_	_	_
+2	iki-ketian	_	VERB	_	_	5	advcl	_	_
+3	-ki	_	CL2P	_	_	5	aux_clit	_	_
+4	jakiribi	_	ADV	_	_	5	advmod	_	_
+5	kati-riba-kan-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion7_15.xml
+# sent_id = transcripcion7_15.xml-3
+# text = Jatian jato yoia iki :
+# es_text = El Inca dijo:
+1	Jatian	_	CONJ	_	_	3	cc	_	_
+2	jato	_	PRON	_	_	3	nsubj	_	_
+3	yoiti-a	_	VERB	_	_	0	root	_	_
+4	iki	_	AUX	_	_	3	aux	_	_
+5	:	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion7_15.xml
+# sent_id = transcripcion7_15.xml-4
+# text = Bitankanwen bakebo , icha riki kankan - akin jato aká iki .
+# es_text = Vayan a cogerlas, hijos. Hay muchas piñas.
+1	Biti-tan-kan-we	_	VERB	_	_	10	obj	_	_
+2	bake-bo	_	NOUN	_	_	1	vocative	_	_
+3	,	_	PUNCT	_	_	4	punct	_	_
+4	icha	_	ADJ	_	_	1	conj	_	_
+5	riki	_	VERB	_	_	4	cop	_	_
+6	kankan	_	NOUN	_	_	4	nsubj	_	_
+7	-	_	PUNCT	_	_	1	punct	_	_
+8	ati-kin	_	VERB	_	_	10	advcl	_	_
+9	jato	_	PRON	_	_	10	iobj	_	_
+10	ati-a	_	VERB	_	_	0	root	_	_
+11	iki	_	AUX	_	_	10	aux	_	_
+12	.	_	PUNCT	_	_	10	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_5_2.xml
+# sent_id = Lea_Transcripcion2_parte1_5_2.xml-0
+# text = ¿ Jawekeskáaxonki jonin jawen awin pimakatitai ?
+# es_text = ¿Cómo mantenía a su esposa?
+1	¿	_	PUNCT	_	_	7	punct	_	_
+2-3	jawekeskaxon-ki	_	_	_	_	_	_	_	_
+2	jawekeskaxon	_	PINT	_	_	7	advmod	_	_
+3	-ki	_	CL2P	_	_	7	aux_clit	_	_
+4	joni-n	_	NOUN	_	_	7	nsubj	_	_
+5	jawen	_	DET	_	_	6	det	_	_
+6	awin	_	NOUN	_	_	7	obj	_	_
+7	piti-ma-katit-ai	_	VERB	_	_	0	root	_	_
+8	?	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_5_2.xml
+# sent_id = Lea_Transcripcion2_parte1_5_2.xml-1
+# text = ¿ Jawekeska jisáki ainbo joá iki , jaaiba merati ?
+# es_text = ¿Cuál era la apariencia de la visitante?
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2	Jawekeska	_	PINT	_	_	6	advmod	_	_
+3-4	jisá-ki	_	_	_	_	_	_	_	_
+3	jisá	_	NOUN	_	_	2	amod	_	_
+4	-ki	_	CL2P	_	_	6	aux_clit	_	_
+5	ainbo	_	NOUN	_	_	6	nsubj	_	_
+6	joti-a	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	,	_	PUNCT	_	_	6	punct	_	_
+9	ja-iba	_	PRON	_	_	10	nsubj	_	_
+10	meráti-i	_	VERB	_	_	6	advcl	_	_
+11	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_5_2.xml
+# sent_id = Lea_Transcripcion2_parte1_5_2.xml-3
+# text = ¿ Jawekeskati popo keotainki ainbaon rakáxon ninkata iki ?
+# es_text = ¿Cómo cantaba la lechuza mientras la mujer estaba acostada?
+1	¿	_	PUNCT	_	_	9	punct	_	_
+2	Jawekeskati	_	PINT	_	_	4	advmod	_	_
+3	popo	_	NOUN	_	_	4	nsubj	_	_
+4-5	keoti-a-ain-ki	_	_	_	_	_	_	_	_
+4	keoti-a-ain	_	VERB	_	_	9	advcl	_	_
+5	-ki	_	CL2P	_	_	9	aux_clit	_	_
+6-7	ainbo-baon	_	_	_	_	_	_	_	_
+6	ainbo	_	NOUN	_	_	9	nsubj	_	_
+7	-baon	_	CLNOM	_	_	6	case	_	_
+8	rakáti-xon	_	VERB	_	_	9	advcl	_	_
+9	ninkáti-a	_	VERB	_	_	0	root	_	_
+10	iki	_	AUX	_	_	9	aux	_	_
+11	?	_	PUNCT	_	_	9	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_5_2.xml
+# sent_id = Lea_Transcripcion2_parte1_5_2.xml-4
+# text = ¿ Jaweranoki awá kaa iki ?
+# es_text = ¿A dónde se iba la sachavaca?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2-3	jáwerano-ki	_	_	_	_	_	_	_	_
+2	jáwerano	_	PINT	_	_	5	advmod	_	_
+3	-ki	_	CL2P	_	_	5	aux_clit	_	_
+4	awá	_	NOUN	_	_	5	nsubj	_	_
+5	kati-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = Parte3_2_1.xml
+# sent_id = Parte3_2_1.xml-0
+# text = Ja rashíko jonironki iká iki xawi waia .
+# es_text = Cierta vez un chacarero tenía su cañaveral.
+1	Ja	_	DET	_	_	3	det	_	_
+2	rashíko	_	ADJ	_	_	3	amod	_	_
+3-4	joni-ronki	_	_	_	_	_	_	_	_
+3	joni	_	NOUN	_	_	8	nsubj	_	_
+4	-ronki	_	CL2P	_	_	8	aux_clit	_	_
+5	iki-a	_	VERB	_	_	8	cop	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	xawi	_	NOUN	_	_	8	nmod	_	_
+8-9	wai-a	_	_	_	_	_	_	_	_
+8	wai	_	NOUN	_	_	0	root	_	_
+9	-a	_	CLNOM	_	_	8	case	_	_
+10	.	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = Parte3_2_1.xml
+# sent_id = Parte3_2_1.xml-1
+# text = Jaskáabi , jawebi yoiamaa iki .
+# es_text = Pero el hombre no le dijo nada.
+1	Jaská-bi	_	CONJ	_	_	4	cc	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	jawebi	_	PRON	_	_	4	obj	_	_
+4	yoiti-ama-a	_	VERB	_	_	0	root	_	_
+5	iki	_	AUX	_	_	4	aux	_	_
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = Parte3_2_1.xml
+# sent_id = Parte3_2_1.xml-2
+# text = Jaskáaxon , boi joniaa iki ; ja xawi wai kexá ati .
+# es_text = Hizo un hombre de brea y lo puso a lado de su cañaveral.
+1	Jaskáaxon	_	CONJ	_	_	4	cc	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	boi	_	NOUN	_	_	4	obj	_	_
+4	joniati-a	_	VERB	_	_	0	root	_	_
+5	iki	_	AUX	_	_	4	aux	_	_
+6	;	_	PUNCT	_	_	4	punct	_	_
+7	ja	_	DET	_	_	9	det	_	_
+8	xawi	_	NOUN	_	_	9	nmod	_	_
+9	wai	_	NOUN	_	_	11	obj	_	_
+10	kexá	_	POSTP	_	_	9	case	_	_
+11	ati-ti	_	VERB	_	_	4	advcl	_	_
+12	.	_	PUNCT	_	_	11	punct	_	_
+
+# newdoc_id = transcripcion5_82.xml
+# sent_id = transcripcion5_82.xml-0
+# text = Jaa vicuñabiribi akanai , " Manan Animea Chonoshoko " akin , jakonshoko ikaxbi oshitanishoko iketian .
+# es_text = La vicuña se llama "La señorita de la sierra" porque es un animal delgadito y gracioso.
+1	Ja	_	DET	_	_	2	det	_	_
+2	vicuña-bi-ribi	_	NOUN	_	_	3	obj	_	_
+3	ati-kan-ai	_	VERB	_	_	0	root	_	_
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	"	_	PUNCT	_	_	8	punct	_	_
+6	Manan	_	NOUN	_	_	8	nmod	_	_
+7	Ani-mea	_	ADJ	_	_	6	amod	_	_
+8	Chono-shoko	_	NOUN	_	_	3	iobj	_	_
+9	"	_	PUNCT	_	_	8	punct	_	_
+10	ati-kin	_	VERB	_	_	3	advcl	_	_
+11	,	_	PUNCT	_	_	10	punct	_	_
+12	jakon-shoko	_	ADJ	_	_	3	advmod	_	_
+13	iki-ax-bi	_	VERB	_	_	12	cop	_	_
+14	oshi-tani-shoko	_	ADJ	_	_	3	advcl	_	_
+15	iki-ketian	_	VERB	_	_	14	cop	_	_
+16	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion5_82.xml
+# sent_id = transcripcion5_82.xml-1
+# text = Vicuña rani bikanai , mas jakon rani iketian .
+# es_text = De la vicuña se saca la mejor lana.
+1	Vicuña	_	NOUN	_	_	2	compound	_	_
+2	rani	_	NOUN	_	_	3	obj	_	_
+3	biti-kan-ai	_	VERB	_	_	0	root	_	_
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	mas	_	SYM	_	_	6	advmod	_	_
+6	jakon	_	ADJ	_	_	7	amod	_	_
+7	rani	_	NOUN	_	_	3	advcl	_	_
+8	iki-ketian	_	VERB	_	_	7	cop	_	_
+9	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion5_82.xml
+# sent_id = transcripcion5_82.xml-2
+# text = Jaa vicuña iki , jonin kaíatima jawéki .
+# es_text = La vicuña es un animal silvestre.
+1	Ja	_	DET	_	_	2	det	_	_
+2	vicuña	_	NOUN	_	_	8	nsubj	_	_
+3	iki	_	VERB	_	_	8	cop	_	_
+4	,	_	PUNCT	_	_	3	punct	_	_
+5-6	joni-n	_	_	_	_	_	_	_	_
+5	joni	_	NOUN	_	_	7	nsubj	_	_
+6	-n	_	CLNOM	_	_	5	case	_	_
+7	kaíatima-ti-ma	_	VERB	_	_	8	amod	_	_
+8	jawéki	_	NOUN	_	_	0	root	_	_
+9	.	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = transcripcion5_82.xml
+# sent_id = transcripcion5_82.xml-3
+# text = Jatíbi koshiai jawéki iki bakeai jawékibo .
+# es_text = Todos los animales pertenecen al reino animal.
+1	Jatíbi	_	ADJ	_	_	2	amod	_	_
+2	koshiti-ai	_	VERB	_	_	3	amod	_	_
+3	jawéki	_	NOUN	_	_	6	nsubj	_	_
+4	iki	_	VERB	_	_	6	cop	_	_
+5	bakeati-ai	_	VERB	_	_	6	amod	_	_
+6	jaweki-bo	_	NOUN	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion7_44.xml
+# sent_id = transcripcion7_44.xml-1
+# text = Joaxki taxnábekona iki .
+# es_text = Vinieron a atracar en la dirección de donde él estaba.
+1-2	joati-ax-ki	_	_	_	_	_	_	_	_
+1	joati-ax	_	VERB	_	_	3	advcl	_	_
+2	-ki	_	CL2P	_	_	3	aux_clit	_	_
+3	taxnáti-bekon-a	_	VERB	_	_	0	root	_	_
+4	iki	_	AUX	_	_	3	aux	_	_
+5	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion7_44.xml
+# sent_id = transcripcion7_44.xml-2
+# text = Moa taxnáxonki , ja chiakaatonin , reyakaa yoia iki :
+# es_text = La mujer que estaba en la popa dijo a la otra:
+1	Moa	_	ADV	_	_	2	advmod	_	_
+2-3	taxnáti-xon-ki	_	_	_	_	_	_	_	_
+2	taxnáti-xon	_	VERB	_	_	10	advcl	_	_
+3	-ki	_	CL2P	_	_	10	aux_clit	_	_
+4	,	_	PUNCT	_	_	2	punct	_	_
+5	ja	_	DET	_	_	6	det	_	_
+6-7	chiakati-a-tonin	_	_	_	_	_	_	_	_
+6	chiakati-a	_	VERB	_	_	10	nsubj	_	_
+7	-tonin	_	CLNOM	_	_	6	case	_	_
+8	,	_	PUNCT	_	_	6	punct	_	_
+9	reyakati-a	_	VERB	_	_	10	iobj	_	_
+10	yoiti-a	_	VERB	_	_	0	root	_	_
+11	iki	_	AUX	_	_	10	punct	_	_
+12	:	_	PUNCT	_	_	10	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte3_1_2.xml
+# sent_id = TrasncripcionLea-parte3_1_2.xml-0
+# text = Jasin riki piti .
+# es_text = Es comestible.
+1	Jasin	_	NOUN	_	_	3	nsubj	_	_
+2	riki	_	VERB	_	_	3	cop	_	_
+3	piti	_	NOUN	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte3_1_2.xml
+# sent_id = TrasncripcionLea-parte3_1_2.xml-3
+# text = Jasiman bero riki maxkoshoko .
+# es_text = Los ojos del paujil son muy pequeños.
+1	jasin-man	_	NOUN	_	_	2	nmod	_	_
+2	bero	_	NOUN	_	_	4	nsubj	_	_
+3	riki	_	VERB	_	_	4	cop	_	_
+4	maxko-shoko	_	ADJ	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte3_1_2.xml
+# sent_id = TrasncripcionLea-parte3_1_2.xml-4
+# text = Jawen bero riki maxkoshoko .
+# es_text = Sus ojos son muy pequeños.
+1	Jawen	_	DET	_	_	2	det	_	_
+2	bero	_	NOUN	_	_	4	nsubj	_	_
+3	riki	_	VERB	_	_	4	cop	_	_
+4	maxko-shoko	_	ADJ	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = Parte3_1_1.xml
+# sent_id = Parte3_1_1.xml-0
+# text = Aboronki ikátiai nete benatianki Inka .
+# es_text = Dicen que poco tiempo después de la creación del mundo, el toyuyo era un Inca.
+1-2	abo-ronki	_	_	_	_	_	_	_	_
+1	abo	_	NOUN	_	_	8	nsubj	_	_
+2	-ronki	_	CL2P	_	_	8	aux_clit	_	_
+3	iki-kati-ai	_	VERB	_	_	8	cop	_	_
+4	nete	_	NOUN	_	_	8	obl	_	_
+5-7	bená-tian-ki	_	_	_	_	_	_	_	_
+5	bená	_	ADJ	_	_	4	amod	_	_
+6	-tian	_	CLNOM	_	_	4	case	_	_
+7	-ki	_	CL2P	_	_	4	aux_clit	_	_
+8	Inka	_	NOUN	_	_	0	root	_	_
+9	.	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = Parte3_1_1.xml
+# sent_id = Parte3_1_1.xml-1
+# text = Iitiki ja bakeranon chonka posaka baritia moa senena iki .
+# es_text = Después de mucho tiempo el joven cumplió los dieciocho años de edad.
+1-2	iiti-ki	_	_	_	_	_	_	_	_
+1	iiti	_	CONJ	_	_	9	cc	_	_
+2	-ki	_	CL2P	_	_	9	aux_clit	_	_
+3	ja	_	PRON	_	_	4	det	_	_
+4	bakeranon	_	NOUN	_	_	9	nsubj	_	_
+5	chonka	_	NUM	_	_	7	nummod	_	_
+6	posaka	_	NOUN	_	_	5	compound	_	_
+7	baritia	_	NOUN	_	_	9	obj	_	_
+8	moa	_	ADV	_	_	9	advmod	_	_
+9	senenti-a	_	VERB	_	_	0	root	_	_
+10	iki	_	AUX	_	_	9	aux	_	_
+11	.	_	PUNCT	_	_	9	punct	_	_
+
+# newdoc_id = Parte3_1_1.xml
+# sent_id = Parte3_1_1.xml-2
+# text = Iitironki nokota iki , xetebo joniboiba .
+# es_text = Por casualidad llegó donde los shetebo.
+1-2	iiti-ronki	_	_	_	_	_	_	_	_
+1	iiti	_	CONJ	_	_	3	cc	_	_
+2	-ronki	_	CL2P	_	_	3	aux_clit	_	_
+3	nokóti-a	_	VERB	_	_	0	root	_	_
+4	iki	_	AUX	_	_	3	aux	_	_
+5	,	_	PUNCT	_	_	3	punct	_	_
+6	xetebo	_	NOUN	_	_	7	amod	_	_
+7-8	joni-bo-iba	_	_	_	_	_	_	_	_
+7	joni-bo	_	NOUN	_	_	3	obj	_	_
+8	-iba	_	CLNOM	_	_	7	case	_	_
+9	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = Parte3_1_1.xml
+# sent_id = Parte3_1_1.xml-3
+# text = Ja atánan joni ishtoa iki .
+# es_text = Luego el hombre corrió.
+1	Ja	_	PRON	_	_	2	obj	_	_
+2	ati-tanan	_	VERB	_	_	4	advcl	_	_
+3	joni	_	NOUN	_	_	4	nsubj	_	_
+4	ishtoti-a	_	VERB	_	_	0	root	_	_
+5	iki	_	AUX	_	_	4	aux	_	_
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = Parte3_1_1.xml
+# sent_id = Parte3_1_1.xml-4
+# text = Jabi jawe iamaa iki .
+# es_text = Pero no habló ni jota.
+1	ja-bi	_	PRON	_	_	3	nsubj	_	_
+2	jawe	_	PRON	_	_	3	obj	_	_
+3	iki-ama-a	_	VERB	_	_	0	root	_	_
+4	iki	_	AUX	_	_	3	aux	_	_
+5	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion5_102.xml
+# sent_id = transcripcion5_102.xml-1
+# text = ¿ Jawerato pontérin min escuelankoniax ?
+# es_text = ¿Hacia qué dirección de tu escuela están?
+1	¿	_	PUNCT	_	_	3	punct	_	_
+2	Jawerato	_	PINT	_	_	3	amod	_	_
+3-4	ponté-rin	_	_	_	_	_	_	_	_
+3	ponté	_	NOUN	_	_	0	root	_	_
+4	-rin	_	CL2P	_	_	3	aux_clit	_	_
+5-6	mia-n	_	_	_	_	_	_	_	_
+5	mia	_	PRON	_	_	7	nmod	_	_
+6	-n	_	CLNOM	_	_	5	case	_	_
+7-8	escuela-nkoniax	_	_	_	_	_	_	_	_
+7	escuela	_	NOUN	_	_	3	obl	_	_
+8	-nkoniax	_	CLNOM	_	_	7	case	_	_
+9	?	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion5_102.xml
+# sent_id = transcripcion5_102.xml-2
+# text = ¿ Jawerato aninasinrin España ?
+# es_text = ¿En qué continente está España?
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2	Jawerato	_	PINT	_	_	3	amod	_	_
+3-5	aninasi-n-rin	_	_	_	_	_	_	_	_
+3	aninasi	_	NOUN	_	_	6	obl	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5	-rin	_	CL2P	_	_	6	aux_clit	_	_
+6	España	_	PROPN	_	_	0	root	_	_
+7	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion5_102.xml
+# sent_id = transcripcion5_102.xml-4
+# text = Nií meran bai jake .
+# es_text = Hay trochas por el monte.
+1	Nií	_	NOUN	_	_	4	obl	_	_
+2	meran	_	POSTP	_	_	1	case	_	_
+3	bai	_	NOUN	_	_	4	nsubj	_	_
+4	jati-ke	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion5_49.xml
+# sent_id = transcripcion5_49.xml-1
+# text = Vicuña rani bikanai , mas jakon rani iketian .
+# es_text = De la vicuña se saca la mejor lana.
+1	Vicuña	_	NOUN	_	_	2	compound	_	_
+2	rani	_	NOUN	_	_	3	obj	_	_
+3	biti-kan-ai	_	VERB	_	_	0	root	_	_
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	mas	_	SYM	_	_	6	advmod	_	_
+6	jakon	_	ADJ	_	_	7	amod	_	_
+7	rani	_	NOUN	_	_	3	advcl	_	_
+8	iki-ketian	_	VERB	_	_	7	cop	_	_
+9	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion5_49.xml
+# sent_id = transcripcion5_49.xml-3
+# text = Jatíbi koshiai jawéki iki bakeai jawékibo .
+# es_text = Todos los animales pertenecen al reino animal.
+1	Jatíbi	_	ADJ	_	_	3	amod	_	_
+2	kóshiti-ai	_	VERB	_	_	3	amod	_	_
+3	jawéki	_	NOUN	_	_	6	nsubj	_	_
+4	iki	_	VERB	_	_	6	cop	_	_
+5	bakeati-ai	_	VERB	_	_	6	amod	_	_
+6	jawéki-bo	_	NOUN	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion5_25.xml
+# sent_id = transcripcion5_25.xml-1
+# text = Panchanra banaa iki jawetiishokores waxmen .
+# es_text = Paca ha sembrado algunas plantas de algodón.
+1-3	Pancha-n-ra	_	_	_	_	_	_	_	_
+1	Pancha	_	PROPN	_	_	4	nsubj	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3	-ra	_	CL2P	_	_	4	aux_clit	_	_
+4	banati-a	_	VERB	_	_	0	root	_	_
+5	iki	_	AUX	_	_	4	aux	_	_
+6	jawetii-shoko-res	_	ADJ	_	_	7	amod	_	_
+7	waxmen	_	NOUN	_	_	4	obj	_	_
+8	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = Parte3_2_2.xml
+# sent_id = Parte3_2_2.xml-0
+# text = Jaskatax bakeranon koráka iní
+# es_text = El joven que llegó a ser curaca
+1	Jaskatax	_	CONJ	_	_	4	cc	_	_
+2	bakeranon	_	NOUN	_	_	4	nsubj	_	_
+3	koráka	_	NOUN	_	_	2	nmod	_	_
+4	iki-ni	_	VERB	_	_	0	root	_	_
+
+# newdoc_id = Parte3_2_2.xml
+# sent_id = Parte3_2_2.xml-1
+# text = Jatian inon ja joni ikonhaxon , jawen rabé mekenbi ja chopeta meran niaa iki .
+# es_text = El tigre creyendo lo que el hombre le dijo, metió sus dos manos en la abertura que había hecho con las cuñas.
+1	Jatian	_	CONJ	_	_	6	cc	_	_
+2-3	ino-n	_	_	_	_	_	_	_	_
+2	ino	_	NOUN	_	_	6	nsubj	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4	ja	_	DET	_	_	5	det	_	_
+5	joni	_	NOUN	_	_	6	obj	_	_
+6	ikonhati-xon	_	VERB	_	_	0	root	_	_
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	jawen	_	DET	_	_	10	det	_	_
+9	rabé	_	NUM	_	_	10	nummod	_	_
+10	meken-bi	_	NOUN	_	_	14	obj	_	_
+11	ja	_	DET	_	_	12	det	_	_
+12	chopéti-a	_	VERB	_	_	14	obl	_	_
+13	meran	_	POSTP	_	_	12	case	_	_
+14	niati-a	_	VERB	_	_	6	advcl	_	_
+15	iki	_	AUX	_	_	14	aux	_	_
+16	.	_	PUNCT	_	_	14	punct	_	_
+
+# newdoc_id = Parte3_2_2.xml
+# sent_id = Parte3_2_2.xml-3
+# text = Jato ninkatax moa neteshokoax kaa iki .
+# es_text = Al escucharlos, se escondió y fue silenciosamente a verlos.
+1	Jato	_	PRON	_	_	2	iobj	_	_
+2	ninkati-ax	_	VERB	_	_	5	advcl	_	_
+3	moa	_	ADV	_	_	2	advmod	_	_
+4	netéti-shoko-ax	_	VERB	_	_	5	advcl	_	_
+5	kati-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = Parte3_2_2.xml
+# sent_id = Parte3_2_2.xml-4
+# text = Jeneyamaitian benkex aríbaa iki timakin . Jatian jainbi taxnáribia iki .
+# es_text = Al ver que no lo soltaba, le dio otro puñetazo con la mano derecha y se quedaron pegadas en la brea las dos manos del mono.
+1	jeneti-yama-aitian	_	VERB	_	_	3	advcl	_	_
+2	benkex	_	ADV	_	_	3	advmod	_	_
+3	ati-riba-a	_	VERB	_	_	0	root	_	_
+4	iki	_	AUX	_	_	3	aux	_	_
+5	timati-kin	_	VERB	_	_	3	advcl	_	_
+6	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion4_16_1.xml
+# sent_id = transcripcion4_16_1.xml-0
+# text = Natoriki non escuela , noa apon menia .
+# es_text = Esta es la escuela que nos ha dado el gobierno.
+1	Nato	_	ADJ	_	_	2	amod	_	_
+2	escuela	_	NOUN	_	_	10	nsubj	_	_
+3	iki	_	VERB	_	_	10	cop	_	_
+4-5	noa-n	_	_	_	_	_	_	_	_
+4	noa	_	PRON	_	_	6	nmod	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6-7	papa-baon	_	_	_	_	_	_	_	_
+6	papa	_	NOUN	_	_	10	nmod	_	_
+7	-baon	_	CLNOM	_	_	6	case	_	_
+8-9	noa-a	_	_	_	_	_	_	_	_
+8	noa	_	PRON	_	_	10	iobj	_	_
+9	-a	_	CLNOM	_	_	8	case	_	_
+10	ati-xon-a	_	VERB	_	_	0	root	_	_
+11	.	_	PUNCT	_	_	10	punct	_	_
+
+# newdoc_id = transcripcion4_16_1.xml
+# sent_id = transcripcion4_16_1.xml-1
+# text = Nato escuela iki non papabaon noa axona .
+# es_text = Esta es la escuela que nos han hecho nuestros padres.
+1	Nato	_	ADJ	_	_	2	amod	_	_
+2-3	escuela-nkoxon	_	_	_	_	_	_	_	_
+2	escuela	_	NOUN	_	_	6	obl	_	_
+3	-nkoxon	_	CLNOM	_	_	2	case	_	_
+4-5	noa-n	_	_	_	_	_	_	_	_
+4	noa	_	PRON	_	_	6	nsubj	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	onanti-ai	_	VERB	_	_	0	root	_	_
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	jakon	_	ADJ	_	_	9	amod	_	_
+9	bake	_	NOUN	_	_	6	advcl	_	_
+10	iki-noxon	_	VERB	_	_	9	cop	_	_
+11	,	_	PUNCT	_	_	15	punct	_	_
+12-13	noa-n	_	_	_	_	_	_	_	_
+12	noa	_	PRON	_	_	14	nmod	_	_
+13	-n	_	CLNOM	_	_	12	case	_	_
+14	nete	_	NOUN	_	_	15	obj	_	_
+15	cuidanti-noxon	_	VERB	_	_	9	conj	_	_
+16	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion4_16_1.xml
+# sent_id = transcripcion4_16_1.xml-2
+# text = Nato escuelankoxon non onanai , jakon bake inoxon , non nete cuídannoxon .
+# es_text = Esta es la escuela en que aprendemos a ser buenos hijos de la Patria.
+1-2	noa-n	_	_	_	_	_	_	_	_
+1	noa	_	PRON	_	_	3	nmod	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3-4	escuela-ra	_	_	_	_	_	_	_	_
+3	escuela	_	NOUN	_	_	8	obj	_	_
+4	-ra	_	CL2P	_	_	8	aux_clit	_	_
+5-6	noa-n	_	_	_	_	_	_	_	_
+5	noa	_	PRON	_	_	8	nsubj	_	_
+6	-n	_	CLNOM	_	_	5	case	_	_
+7	jáwetianbi	_	ADV	_	_	8	advmod	_	_
+8	manishti-ma-ti-ma	_	VERB	_	_	0	root	_	_
+9	iki	_	AUX	_	_	8	aux	_	_
+10	.	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = transcripcion4_16_1.xml
+# sent_id = transcripcion4_16_1.xml-3
+# text = Non escuelara non jawetianbi manishmatima iki .
+# es_text = Vamos a tenerla bien limpia.
+1	wasnon-bo	_	NOUN	_	_	3	obj	_	_
+2	soati-non	_	VERB	_	_	3	advcl	_	_
+3	ati-kan-we	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion7_52.xml
+# sent_id = transcripcion7_52.xml-0
+# text = Ramara min bakebaon bakebo , min chiní bakebo , jaská jaskábii janonxiki , mawá mawati ; min yoitima kopí - akin aká iki , jawen bene .
+# es_text = Ahora por tu culpa tus descendientes vivirán así, muriendo. (Tendrán el castigo de la muerte.) Esto será por tu desobediencia.
+1-2	Jaskarainoax-ki	_	_	_	_	_	_	_	_
+1	Jaskarainoax	_	ADV	_	_	4	advmod	_	_
+2	-ki	_	CL2P	_	_	4	aux_clit	_	_
+3	mawáti-ti	_	VERB	_	_	4	nsubj	_	_
+4	pikoti-a	_	VERB	_	_	0	root	_	_
+5	iki	_	AUX	_	_	4	aux	_	_
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion7_52.xml
+# sent_id = transcripcion7_52.xml-2
+# text = Ramakamanbi bake pikotax itan noa jonibo mawáti jake ; jaskarainoax .
+# es_text = Por esta razón  todos morinos, aun los niños recién nacidos y los que no han nacido.
+1-2	Jaskatax-ki	_	_	_	_	_	_	_	_
+1	Jaskatax	_	CONJ	_	_	11	cc	_	_
+2	-ki	_	CL2P	_	_	11	aux_clit	_	_
+3	,	_	PUNCT	_	_	1	punct	_	_
+4	ja	_	DET	_	_	5	det	_	_
+5	iná	_	NOUN	_	_	11	obl	_	_
+6-7	ainbo-meax	_	_	_	_	_	_	_	_
+6	ainbo	_	NOUN	_	_	5	compound	_	_
+7	-meax	_	CLNOM	_	_	5	case	_	_
+8	,	_	PUNCT	_	_	5	punct	_	_
+9	xetebo	_	ADJ	_	_	10	amod	_	_
+10	joni-bo	_	NOUN	_	_	11	nsubj	_	_
+11	kaíti-a	_	VERB	_	_	0	root	_	_
+12	iki	_	AUX	_	_	11	aux	_	_
+13	.	_	PUNCT	_	_	11	punct	_	_
+
+# newdoc_id = transcripcion7_52.xml
+# sent_id = transcripcion7_52.xml-3
+# text = Jaskataxki , ja iná ainbomeax , xetebo jonibo kaita iki .
+# es_text = De esa manera, de la sierva, aumentaron los shetebo.
+1	Santa	_	PROPN	_	_	2	compound	_	_
+2-3	Rosa-nko	_	_	_	_	_	_	_	_
+2	Rosa	_	PROPN	_	_	5	nmod	_	_
+3	-nko	_	CLNOM	_	_	2	case	_	_
+4	chexe	_	PROPN	_	_	5	compound	_	_
+5	Inca	_	PROPN	_	_	6	nsubj	_	_
+6	iki-ni	_	VERB	_	_	0	root	_	_
+
+# newdoc_id = transcripcion4_17_2.xml
+# sent_id = transcripcion4_17_2.xml-0
+# text = Non chioshokobo non oinai .
+# es_text = Cuidamos a nuestros hermanitos.
+1-2	noa-n	_	_	_	_	_	_	_	_
+1	noa	_	PRON	_	_	3	nmod	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3	chío-shoko-bo	_	NOUN	_	_	6	obj	_	_
+4-5	noa-n	_	_	_	_	_	_	_	_
+4	noa	_	PRON	_	_	6	nsubj	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	ointi-ai	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion4_17_2.xml
+# sent_id = transcripcion4_17_2.xml-1
+# text = Non anibo non jawéki akinai .
+# es_text = Ayudamos a nuestros padres.
+1-2	noa-n	_	_	_	_	_	_	_	_
+1	noa	_	PRON	_	_	3	nmod	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3	anibo	_	NOUN	_	_	7	nsubj	_	_
+4-5	noa-n	_	_	_	_	_	_	_	_
+4	noa	_	PRON	_	_	6	nmod	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	jawéki	_	NOUN	_	_	7	obj	_	_
+7	ati-kin-ai	_	VERB	_	_	0	root	_	_
+8	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion4_17_2.xml
+# sent_id = transcripcion4_17_2.xml-2
+# text = Jainxon non yoxanshokobo non jawéki akinti iki .
+# es_text = Ayudamos a los ancianos también.
+1	Jainxon	_	CONJ	_	_	8	cc	_	_
+2-3	noa-n	_	_	_	_	_	_	_	_
+2	noa	_	PRON	_	_	4	nmod	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4	yoxan-shoko-bo	_	NOUN	_	_	8	nsubj	_	_
+5-6	noa-n	_	_	_	_	_	_	_	_
+5	noa	_	PRON	_	_	7	nmod	_	_
+6	-n	_	CLNOM	_	_	5	case	_	_
+7	jawéki	_	NOUN	_	_	8	obj	_	_
+8	akinti-ti	_	VERB	_	_	0	root	_	_
+9	iki	_	AUX	_	_	8	aux	_	_
+10	.	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = transcripcion3_1_2.xml
+# sent_id = transcripcion3_1_2.xml-0
+# text = ¿ Jawe yoii ikárin nato konto ?
+# es_text = ¿De qué trata este cuento?
+1	¿	_	PUNCT	_	_	3	punct	_	_
+2	Jawe	_	PINT	_	_	3	obj	_	_
+3	yoiti-i	_	VERB	_	_	0	root	_	_
+4-5	iki-a-rin	_	_	_	_	_	_	_	_
+4	iki-a	_	AUX	_	_	3	aux	_	_
+5	-rin	_	CL2P	_	_	3	aux_clit	_	_
+6	nato	_	ADJ	_	_	7	amod	_	_
+7	kointo	_	NOUN	_	_	3	nsubj	_	_
+8	?	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion3_1_2.xml
+# sent_id = transcripcion3_1_2.xml-3
+# text = ¿ Moa basi iikinki , jawerano bakeranon raankana iki ?
+# es_text = ¿Qué le dijeron al joven después de mucho tiempo?
+1	¿	_	PUNCT	_	_	9	punct	_	_
+2	Moa	_	ADV	_	_	4	advmod	_	_
+3	basi	_	ADV	_	_	4	advmod	_	_
+4-5	iiti-kin-ki	_	_	_	_	_	_	_	_
+4	iiti-kin	_	VERB	_	_	9	advcl	_	_
+5	-ki	_	CL2P	_	_	9	aux_clit	_	_
+6	,	_	PUNCT	_	_	4	punct	_	_
+7	jawerano	_	PINT	_	_	9	obj	_	_
+8	bakeranon	_	NOUN	_	_	9	nsubj	_	_
+9	raanti-kan-a	_	VERB	_	_	0	root	_	_
+10	iki	_	AUX	_	_	9	aux	_	_
+11	?	_	PUNCT	_	_	9	punct	_	_
+
+# newdoc_id = transcripcion4_32_2.xml
+# sent_id = transcripcion4_32_2.xml-0
+# text = Jaskara iketian , yantan bari jikiamapainon riki .
+# es_text = Sería mejor entonces que no entrase el sol de noche.
+1	Jaskara	_	CONJ	_	_	6	cc	_	_
+2	iki-ketian	_	VERB	_	_	6	advcl	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	yantan	_	ADV	_	_	6	advmod	_	_
+5	bari	_	NOUN	_	_	6	nsubj	_	_
+6	jikiti-ama-painon	_	VERB	_	_	0	root	_	_
+7	riki	_	AUX	_	_	6	aux	_	_
+8	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion4_32_2.xml
+# sent_id = transcripcion4_32_2.xml-1
+# text = Iamarake .
+# es_text = Eso no.
+1	Iamarake	_	INTJ	_	_	0	root	_	_
+2	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion4_32_2.xml
+# sent_id = transcripcion4_32_2.xml-2
+# text = Aa ¡ papa !
+# es_text = Ay papacito.
+1	Aa	_	INTJ	_	_	3	discourse	_	_
+2	¡	_	PUNCT	_	_	3	punct	_	_
+3	papa	_	NOUN	_	_	0	root	_	_
+4	!	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion4_32_2.xml
+# sent_id = transcripcion4_32_2.xml-4
+# text = Oyarakinra ea xoike .
+# es_text = Me quema tanto.
+1-2	ati-yora-kin-ra	_	_	_	_	_	_	_	_
+1	ati-yora-kin	_	VERB	_	_	4	advcl	_	_
+2	-ra	_	CL2P	_	_	4	aux_clit	_	_
+3	ea-a	_	PRON	_	_	4	obj	_	_
+4	xoiti-ke	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion5_36.xml
+# sent_id = transcripcion5_36.xml-1
+# text = Jainoax jaríbake jan non yora koshiati .
+# es_text = Hay alimentos que sirven para hacer músculos fuertes.
+1	Jainoax	_	CONJ	_	_	2	cc	_	_
+2	jati-riba-ke	_	VERB	_	_	0	root	_	_
+3-4	ja-n	_	_	_	_	_	_	_	_
+3	ja	_	PRON	_	_	8	nsubj	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5-6	noa-n	_	_	_	_	_	_	_	_
+5	noa	_	PRON	_	_	7	nmod	_	_
+6	-n	_	CLNOM	_	_	5	case	_	_
+7	yora	_	NOUN	_	_	8	obj	_	_
+8	koshiati-ti	_	VERB	_	_	2	nsubj	_	_
+9	.	_	PUNCT	_	_	2	punct	_	_
+
+# newdoc_id = transcripcion4_21_2.xml
+# sent_id = transcripcion4_21_2.xml-1
+# text = Wainkonia jawéki peishoko bitanwe .
+# es_text = Recoge de la chacra hojas de plantas pequeñas.
+1-2	wai-nkonia	_	_	_	_	_	_	_	_
+1	wai	_	NOUN	_	_	5	obl	_	_
+2	-nkonia	_	CLNOM	_	_	1	case	_	_
+3	jawéki	_	NOUN	_	_	4	amod	_	_
+4	pei-shoko	_	NOUN	_	_	5	obj	_	_
+5	biti-tan-we	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion4_21_2.xml
+# sent_id = transcripcion4_21_2.xml-2
+# text = Jaa pei keskáakin min cuadernonin awé . Jawen janebo wishawe .
+# es_text = En tu cuaderno dibuja estas hojas y escribe sus nombres.
+1-2	Ja-a	_	_	_	_	_	_	_	_
+1	Ja	_	DET	_	_	3	det	_	_
+2	-a	_	SUFV	_	_	1	case	_	_
+3	pei	_	NOUN	_	_	9	obj	_	_
+4	keskáati-kin	_	VERB	_	_	9	advcl	_	_
+5-6	mia-n	_	_	_	_	_	_	_	_
+5	mia	_	PRON	_	_	7	det	_	_
+6	-n	_	CLNOM	_	_	5	case	_	_
+7-8	cuaderno-nin	_	_	_	_	_	_	_	_
+7	cuaderno	_	NOUN	_	_	9	obl	_	_
+8	-nin	_	CLNOM	_	_	7	case	_	_
+9	ati-we	_	VERB	_	_	0	root	_	_
+10	.	_	PUNCT	_	_	9	punct	_	_
+
+# newdoc_id = transcripcion6_39.xml
+# sent_id = transcripcion6_39.xml-1
+# text = ¿ Tsoaki Inkan chií biti yonokana iki ?
+# es_text = ¿A quién le ordenaron que trajera el tizón del Inca?
+1	¿	_	PUNCT	_	_	9	punct	_	_
+2-4	tsoa-a-ki	_	_	_	_	_	_	_	_
+2	tsoa	_	PINT	_	_	9	obj	_	_
+3	-a	_	CLNOM	_	_	2	case	_	_
+4	-ki	_	CL2P	_	_	9	aux_clit	_	_
+5-6	inka-n	_	_	_	_	_	_	_	_
+5	inka	_	NOUN	_	_	8	obj	_	_
+6	-n	_	CLNOM	_	_	5	case	_	_
+7	chii	_	NOUN	_	_	5	nmod	_	_
+8	biti-ti	_	VERB	_	_	9	obl	_	_
+9	yonoti-kan-a	_	VERB	_	_	0	root	_	_
+10	iki	_	AUX	_	_	9	aux	_	_
+11	?	_	PUNCT	_	_	9	punct	_	_
+
+# newdoc_id = transcripcion6_39.xml
+# sent_id = transcripcion6_39.xml-3
+# text = Awá betan chosko bakeranon iní
+# es_text = La sachavaca y los cuatro jóvenes
+1	Awá	_	NOUN	_	_	5	nsubj	_	_
+2	betan	_	CONJ	_	_	4	cc	_	_
+3	chosko	_	NUM	_	_	4	nummod	_	_
+4	bakeranon	_	NOUN	_	_	1	conj	_	_
+5	iki-ni	_	VERB	_	_	0	root	_	_
+
+# newdoc_id = TrasncripcionLea-parte3_4_2.xml
+# sent_id = TrasncripcionLea-parte3_4_2.xml-0
+# text = Ikaxbi payari riki joxo .
+# es_text = Sin embargo la arahuana es blanca.
+1	Ikaxbi	_	CONJ	_	_	5	cc	_	_
+2	payari	_	NOUN	_	_	4	nsubj	_	_
+3	riki	_	VERB	_	_	4	cop	_	_
+4	joxo	_	ADJ	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte3_4_2.xml
+# sent_id = TrasncripcionLea-parte3_4_2.xml-1
+# text = Jawen jana riki xakiti keská .
+# es_text = Su lengua es como un rallo.
+1	Jawen	_	DET	_	_	2	det	_	_
+2	jana	_	NOUN	_	_	4	nsubj	_	_
+3	riki	_	VERB	_	_	4	cop	_	_
+4	xakiti	_	NOUN	_	_	0	root	_	_
+5	keská	_	POSTP	_	_	4	case	_	_
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte3_4_2.xml
+# sent_id = TrasncripcionLea-parte3_4_2.xml-2
+# text = Ja riki pian tsakati .
+# es_text = Se pesca con flecha.
+1	Ja	_	PRON	_	_	5	nsubj	_	_
+2	riki	_	AUX	_	_	5	cop	_	_
+3-4	pia-n	_	_	_	_	_	_	_	_
+3	pia	_	NOUN	_	_	5	obl	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5	tsakati-ti	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte3_4_2.xml
+# sent_id = TrasncripcionLea-parte3_4_2.xml-3
+# text = Ikaxbira ja maxko iki . Wametio anima .
+# es_text = Sin embargo es pequeña. No como el paiche.
+1-2	ikaxbi-ra	_	_	_	_	_	_	_	_
+1	ikaxbi	_	CONJ	_	_	4	cc	_	_
+2	-ra	_	CL2P	_	_	4	aux_clit	_	_
+3	ja	_	PRON	_	_	4	nsubj	_	_
+4	maxko	_	ADJ	_	_	0	root	_	_
+5	iki	_	VERB	_	_	4	cop	_	_
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte3_4_2.xml
+# sent_id = TrasncripcionLea-parte3_4_2.xml-3
+# text = Ikaxbira ja maxko iki . Wametio anima .
+# es_text = Sin embargo es pequeña. No como el paiche.
+1	wame-tio	_	NOUN	_	_	2	nsubj	_	_
+2	ani-ma	_	ADJ	_	_	0	root	_	_
+3	.	_	PUNCT	_	_	2	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte3_4_2.xml
+# sent_id = TrasncripcionLea-parte3_4_2.xml-4
+# text = ¿ Jawenki payari yomerati iki ?
+# es_text = ¿Con qué se pesca la arahuana?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2-3	jawe-n-ki	_	_	_	_	_	_	_	_
+2	jawe-n	_	PINT	_	_	5	obl	_	_
+3	-ki	_	CL2P	_	_	5	aux_clit	_	_
+4	payari	_	NOUN	_	_	5	obj	_	_
+5	yomerati-ti	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion4_12_1.xml
+# sent_id = transcripcion4_12_1.xml-0
+# text = Jainxon en jakon chopa sawea iki .
+# es_text = Me vestí ropa limpia.
+1	Jainxon	_	CONJ	_	_	6	cc	_	_
+2-3	ea-n	_	_	_	_	_	_	_	_
+2	ea	_	PRON	_	_	6	nsubj	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4	jakon	_	ADJ	_	_	5	amod	_	_
+5	chopa	_	NOUN	_	_	6	obj	_	_
+6	sáweti-a	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion4_12_1.xml
+# sent_id = transcripcion4_12_1.xml-3
+# text = Yamékiri en potókinshaman xeaa iki .
+# es_text = Romé un buen desayuno.
+1	Yamékiri	_	ADV	_	_	5	advmod	_	_
+2-3	ea-n	_	_	_	_	_	_	_	_
+2	ea	_	PRON	_	_	5	nsubj	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4	potóti-kin-shaman	_	VERB	_	_	5	advcl	_	_
+5	xéati-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion4_12_1.xml
+# sent_id = transcripcion4_12_1.xml-4
+# text = Ea manokoxota iki , cepillonin ; nokon xeta chokai , ompax bexnaman .
+# es_text = Me limpié los dientes con un cepillo y agua limpia.
+1-2	ea-a	_	_	_	_	_	_	_	_
+1	ea	_	PRON	_	_	3	nsubj	_	_
+2	-a	_	CLNOM	_	_	1	case	_	_
+3	mánokoxoti-a	_	VERB	_	_	0	root	_	_
+4	iki	_	AUX	_	_	3	aux	_	_
+5	,	_	PUNCT	_	_	3	punct	_	_
+6-7	cepillo-nin	_	_	_	_	_	_	_	_
+6	cepillo	_	NOUN	_	_	3	obl	_	_
+7	-nin	_	CLNOM	_	_	6	case	_	_
+8	;	_	PUNCT	_	_	6	punct	_	_
+9	nokon	_	DET	_	_	10	det	_	_
+10	xeta	_	NOUN	_	_	11	obj	_	_
+11	chokati-i	_	VERB	_	_	3	advcl	_	_
+12	,	_	PUNCT	_	_	11	punct	_	_
+13	ompax	_	NOUN	_	_	3	obl	_	_
+14-15	bexnan-man	_	_	_	_	_	_	_	_
+14	bexnan	_	ADJ	_	_	13	amod	_	_
+15	-man	_	CLNOM	_	_	13	case	_	_
+16	.	_	PUNCT	_	_	13	punct	_	_
+
+# newdoc_id = transcripcion5_100.xml
+# sent_id = transcripcion5_100.xml-0
+# text = Min cuadernonin jawen janebo awé .
+# es_text = Escribe en tu cuaderno sus nombres.
+1-2	mia-n	_	_	_	_	_	_	_	_
+1	mia	_	PRON	_	_	3	nmod	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3-4	cuaderno-nin	_	_	_	_	_	_	_	_
+3	cuaderno	_	NOUN	_	_	7	obl	_	_
+4	-nin	_	CLNOM	_	_	3	case	_	_
+5	jawen	_	DET	_	_	6	det	_	_
+6	jane-bo	_	NOUN	_	_	7	obj	_	_
+7	ati-we	_	VERB	_	_	0	root	_	_
+8	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion5_100.xml
+# sent_id = transcripcion5_100.xml-1
+# text = ¿ Jaweraorin Norte América ?
+# es_text = ¿Por dónde queda Norte América?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2-3	Jawerano-rin	_	_	_	_	_	_	_	_
+2	Jawerano	_	PINT	_	_	5	advmod	_	_
+3	-rin	_	CL2P	_	_	5	aux_clit	_	_
+4	Norte	_	PROPN	_	_	5	compound	_	_
+5	América	_	PROPN	_	_	0	root	_	_
+6	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion5_100.xml
+# sent_id = transcripcion5_100.xml-2
+# text = ¿ Jawerato aninasinrin Perú ?
+# es_text = ¿En qué continente está el Perú?
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2	Jawerato	_	PINT	_	_	3	amod	_	_
+3-5	aninasi-n-rin	_	_	_	_	_	_	_	_
+3	aninasi	_	NOUN	_	_	6	obl	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5	-rin	_	CL2P	_	_	6	aux_clit	_	_
+6	Perú	_	PROPN	_	_	0	root	_	_
+7	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion5_100.xml
+# sent_id = transcripcion5_100.xml-4
+# text = ¿ Jawerato pontéki kati iki , Asiain kaí ?
+# es_text = ¿Por dónde viajaría uno para llegar a Asia?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2	Jawerato	_	PINT	_	_	3	amod	_	_
+3-4	ponté-ki	_	_	_	_	_	_	_	_
+3	ponté	_	NOUN	_	_	5	advmod	_	_
+4	-ki	_	CL2P	_	_	5	aux_clit	_	_
+5	kati-ti	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	,	_	PUNCT	_	_	5	punct	_	_
+8	Asia-in	_	PROPN	_	_	9	obl	_	_
+9	kati-i	_	VERB	_	_	5	advcl	_	_
+10	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_2_2.xml
+# sent_id = Lea_Transcripcion2_parte3_2_2.xml-1
+# text = Jatian ronki aká iki joxo shinoki manaxawe bake bikin . Bixon ronki aká iki kains texkain bokin , jainxon pinoxon .
+# es_text = En esta ocasión el mono blanco agarró a un motelito y lo llevó a lo alto de una palmera para comérselo allí.
+1-2	jatian-ki	_	_	_	_	_	_	_	_
+1	jatian	_	CONJ	_	_	3	cc	_	_
+2	-ki	_	CL2P	_	_	3	aux_clit	_	_
+3	yoiti-a	_	VERB	_	_	0	root	_	_
+4	iki	_	AUX	_	_	3	aux	_	_
+5	:	_	PUNCT	_	_	3	punct	_	_
+6	"	_	PUNCT	_	_	14	punct	_	_
+7	Nato	_	DET	_	_	8	det	_	_
+8	bimi	_	NOUN	_	_	9	obj	_	_
+9	kokoti-i	_	VERB	_	_	14	advcl	_	_
+10-11	joti-ax-a	_	_	_	_	_	_	_	_
+10	joti-ax	_	VERB	_	_	14	advcl	_	_
+11	-a	_	CL2P	_	_	14	aux_clit	_	_
+12-13	ea-a	_	_	_	_	_	_	_	_
+12	ea	_	PRON	_	_	14	nsubj	_	_
+13	-a	_	CLNOM	_	_	12	case	_	_
+14	iiti-ai	_	VERB	_	_	17	ccomp	_	_
+15	,	_	PUNCT	_	_	14	punct	_	_
+16	"	_	PUNCT	_	_	14	punct	_	_
+17	ati-kin	_	VERB	_	_	3	advcl	_	_
+18	.	_	PUNCT	_	_	14	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_2_2.xml
+# sent_id = Lea_Transcripcion2_parte3_2_2.xml-2
+# text = Jainoaxki ja mananxawe bakeki ania iki , kains bimiai senenribi .
+# es_text = Allí estuvo hasta que la palmera produjo sus frutos.
+1	Jaskatax	_	CONJ	_	_	3	cc	_	_
+2	ino	_	NOUN	_	_	3	nsubj	_	_
+3	neeti-shoko-kas-a-bi	_	VERB	_	_	0	root	_	_
+4	iti-ti-koma	_	VERB	_	_	3	advcl	_	_
+5	iki-a	_	AUX	_	_	3	aux	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	,	_	PUNCT	_	_	3	punct	_	_
+8	ja	_	DET	_	_	9	det	_	_
+9	jiwi	_	NOUN	_	_	10	nsubj	_	_
+10	sibá	_	ADJ	_	_	3	advmod	_	_
+11	iki-ax	_	VERB	_	_	10	cop	_	_
+12	.	_	PUNCT	_	_	10	punct	_	_
+
+# newdoc_id = transcripcion5_23.xml
+# sent_id = transcripcion5_23.xml-0
+# text = Jakon jaweki banai .
+# es_text = Siembran plantas buenas.
+1	Jakon	_	ADJ	_	_	2	amod	_	_
+2	jaweki	_	NOUN	_	_	3	obj	_	_
+3	bánati-ai	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion5_23.xml
+# sent_id = transcripcion5_23.xml-2
+# text = Atsa taxo banai .
+# es_text = Siembran el tallo de yuca.
+1	Atsa	_	NOUN	_	_	2	compound	_	_
+2	taxo	_	NOUN	_	_	3	obj	_	_
+3	bánati-ai	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion5_23.xml
+# sent_id = transcripcion5_23.xml-3
+# text = Xeki bero banai .
+# es_text = Siembran la semilla del maíz.
+1	Xeki	_	NOUN	_	_	2	compound	_	_
+2	bero	_	NOUN	_	_	3	obj	_	_
+3	bánati-ai	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion5_23.xml
+# sent_id = transcripcion5_23.xml-4
+# text = Kari tapon banai .
+# es_text = Siembran la raíz del camote.
+1	Kari	_	NOUN	_	_	2	compound	_	_
+2	tapon	_	NOUN	_	_	3	obj	_	_
+3	bánati-ai	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_2_1.xml
+# sent_id = Lea_Transcripcion2_parte2_2_1.xml-1
+# text = ¿ ja senentianhibiki epa jawekeskata iki ?
+# es_text = ¿Qué le sucedió al tío al final del cuento?
+1	Maxó	_	NOUN	_	_	2	compound	_	_
+2	bakeranon	_	NOUN	_	_	6	nsubj	_	_
+3	betan	_	CONJ	_	_	5	cc	_	_
+4	jawen	_	DET	_	_	5	det	_	_
+5	tita	_	NOUN	_	_	2	conj	_	_
+6	iki-ni	_	VERB	_	_	0	root	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_2_1.xml
+# sent_id = Lea_Transcripcion2_parte2_2_1.xml-2
+# text = Maxó bakeranon betan jawen tita iní
+# es_text = El joven zorro y su mamá
+1	Jaskatax	_	CONJ	_	_	6	cc	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	ja	_	DET	_	_	5	det	_	_
+4	maxó	_	NOUN	_	_	5	compound	_	_
+5	bakeranon	_	NOUN	_	_	6	nsubj	_	_
+6	kati-a	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	,	_	PUNCT	_	_	6	punct	_	_
+9	chonka	_	NUM	_	_	11	nummod	_	_
+10	pichika	_	NUM	_	_	9	compound	_	_
+11-12	joni-a	_	_	_	_	_	_	_	_
+11	joni	_	NOUN	_	_	6	obl	_	_
+12	-a	_	CLNOM	_	_	11	case	_	_
+13	.	_	PUNCT	_	_	11	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte2_2_1.xml
+# sent_id = Lea_Transcripcion2_parte2_2_1.xml-3
+# text = Jaskatax , ja maxó bakeranon kaa iki , chonka pichika jonia .
+# es_text = Luego el joven zorro partió llevando a quince hombres.
+1	Moa	_	ADV	_	_	2	advmod	_	_
+2	kawánti-ketian	_	VERB	_	_	7	advcl	_	_
+3	jawen	_	DET	_	_	4	det	_	_
+4-5	tita-n	_	_	_	_	_	_	_	_
+4	tita	_	NOUN	_	_	7	nsubj	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	mana	_	VERB	_	_	7	compound	_	_
+7	mánati-a	_	VERB	_	_	0	root	_	_
+8	iki	_	AUX	_	_	7	aux	_	_
+9	,	_	PUNCT	_	_	7	punct	_	_
+10	yantanti-paket-aitian	_	VERB	_	_	7	advcl	_	_
+11	.	_	PUNCT	_	_	10	punct	_	_
+
+# newdoc_id = transcripcion5_37.xml
+# sent_id = transcripcion5_37.xml-1
+# text = Netetiibi non xeati iki , westíora litro inonbires , ompax .
+# es_text = Todos los días necesitamos tomar por lo menos un litro de agua.
+1	néte-tiibi	_	NOUN	_	_	4	advmod	_	_
+2-3	noa-n	_	_	_	_	_	_	_	_
+2	noa	_	PRON	_	_	4	nsubj	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4	xeati-ti	_	VERB	_	_	0	root	_	_
+5	iki	_	AUX	_	_	4	aux	_	_
+6	,	_	PUNCT	_	_	4	punct	_	_
+7	westíora	_	DET	_	_	8	det	_	_
+8	litro	_	NOUN	_	_	4	obj	_	_
+9	inonbires	_	ADV	_	_	4	advmod	_	_
+10	,	_	PUNCT	_	_	8	punct	_	_
+11	ompax	_	NOUN	_	_	8	compound	_	_
+12	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion5_37.xml
+# sent_id = transcripcion5_37.xml-2
+# text = Non xeati iki jakon ompaxbicho .
+# es_text = Debemos tomar solamente agua pura.
+1-2	noa-n	_	_	_	_	_	_	_	_
+1	noa	_	PRON	_	_	3	nsubj	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3	xeati-ti	_	VERB	_	_	0	root	_	_
+4	iki	_	AUX	_	_	3	aux	_	_
+5	jakon	_	ADJ	_	_	6	amod	_	_
+6	ompax-bicho	_	NOUN	_	_	3	obj	_	_
+7	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion7_9.xml
+# sent_id = transcripcion7_9.xml-1
+# text = Jaskatax ja Incan xenin sikita iki .
+# es_text = Entonces se pintó con la grasa del Inca.
+1	Jaskatax	_	CONJ	_	_	7	cc	_	_
+2	ja	_	DET	_	_	3	det	_	_
+3-4	Inca-n	_	_	_	_	_	_	_	_
+3	Inca	_	NOUN	_	_	7	nsubj	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5-6	xeni-n	_	_	_	_	_	_	_	_
+5	xeni	_	NOUN	_	_	7	obl	_	_
+6	-n	_	CLNOM	_	_	5	case	_	_
+7	sikíti-a	_	VERB	_	_	0	root	_	_
+8	iki	_	AUX	_	_	7	aux	_	_
+9	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion5_61.xml
+# sent_id = transcripcion5_61.xml-1
+# text = Jaskáaxon Incaakin janekana iki , jaa Manco Cápac . Inca iki non joinbiribi aká : Mai Hibo .
+# es_text = El pueblo entonces proclamó a Manco Cápac "Inca" que significa "Señor de la Tierra."
+1	Jaskáaxon	_	CONJ	_	_	3	cc	_	_
+2	incaati-kin	_	VERB	_	_	3	advcl	_	_
+3	janeti-kan-a	_	VERB	_	_	0	root	_	_
+4	iki	_	AUX	_	_	3	aux	_	_
+5	,	_	PUNCT	_	_	3	punct	_	_
+6	ja	_	DET	_	_	8	det	_	_
+7	Manco	_	PROPN	_	_	8	compound	_	_
+8	Cápac	_	PROPN	_	_	3	obj	_	_
+9	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte3_4_1.xml
+# sent_id = TrasncripcionLea-parte3_4_1.xml-0
+# text = Jatíribi yapabora ikai makeki raketi .
+# es_text = Algunos peces le tienen miedo a la piraña.
+1	jati-ribi	_	ADJ	_	_	2	amod	_	_
+2-3	yapa-bo-ra	_	_	_	_	_	_	_	_
+2	yapa-bo	_	NOUN	_	_	6	nsubj	_	_
+3	-ra	_	CL2P	_	_	6	aux_clit	_	_
+4	iki-ai	_	AUX	_	_	6	aux	_	_
+5	make-ki	_	NOUN	_	_	6	obj	_	_
+6	raketi-ti	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte3_4_1.xml
+# sent_id = TrasncripcionLea-parte3_4_1.xml-1
+# text = ¿ Jawe kopiki jawen xeta kensho iki ?
+# es_text = ¿Por qué son afilados sus dientes?
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2	Jawe	_	PINT	_	_	6	advmod	_	_
+3-4	kopi-ki	_	_	_	_	_	_	_	_
+3	kopi	_	NOUN	_	_	2	cc	_	_
+4	-ki	_	CL2P	_	_	6	aux_clit	_	_
+5	jawen	_	DET	_	_	6	det	_	_
+6	xeta	_	NOUN	_	_	0	root	_	_
+7	kensho	_	ADJ	_	_	6	amod	_	_
+8	iki	_	VERB	_	_	6	cop	_	_
+9	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion4_32_1.xml
+# sent_id = transcripcion4_32_1.xml-2
+# text = Apoo .
+# es_text = ¡Qué curiosa!
+1	Apoo	_	INTJ	_	_	0	root	_	_
+2	.	_	PUNCT	_	_	1	punct	_	_
+
+# newdoc_id = transcripcion4_33_2.xml
+# sent_id = transcripcion4_33_2.xml-2
+# text = Jaa koin tokoax wishin bos iki keyatai , matsinko .
+# es_text = Esta neblina liviana sube al cielo donde hace más frío.
+1	eri-panon	_	INTJ	_	_	3	discourse	_	_
+2	¡	_	PUNCT	_	_	3	punct	_	_
+3	papa	_	NOUN	_	_	0	root	_	_
+4	!	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion4_33_2.xml
+# sent_id = transcripcion4_33_2.xml-2
+# text = Jaa koin tokoax wishin bos iki keyatai , matsinko .
+# es_text = Esta neblina liviana sube al cielo donde hace más frío.
+1-3	mia-a-ra	_	_	_	_	_	_	_	_
+1	mia	_	PRON	_	_	4	nsubj	_	_
+2	-a	_	CLNOM	_	_	1	case	_	_
+3	-ra	_	CL2P	_	_	4	aux_clit	_	_
+4	jakon-bires	_	ADJ	_	_	5	amod	_	_
+5	maestro	_	NOUN	_	_	0	root	_	_
+6	iki	_	VERB	_	_	4	cop	_	_
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion5_41.xml
+# sent_id = transcripcion5_41.xml-0
+# text = Non xetan beshéakin nakai , jawékiakin .
+# es_text = Con los dientes masticamos bien el alimento.
+1-2	noa-n	_	_	_	_	_	_	_	_
+1	noa	_	PRON	_	_	6	nsubj	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3-4	xeta-n	_	_	_	_	_	_	_	_
+3	xeta	_	NOUN	_	_	6	obl	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5	beshéati-kin	_	VERB	_	_	6	advcl	_	_
+6	nakati-ai	_	VERB	_	_	0	root	_	_
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	jawékiati-kin	_	VERB	_	_	6	advcl	_	_
+9	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion5_41.xml
+# sent_id = transcripcion5_41.xml-1
+# text = ¿ Jaweatiki non nakai , jawékiakin ?
+# es_text = ¿Para qué masticamos el alimento?
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2-3	jaweati-ki	_	_	_	_	_	_	_	_
+2	jaweati	_	PINT	_	_	6	obl	_	_
+3	-ki	_	CL2P	_	_	6	aux_clit	_	_
+4-5	noa-n	_	_	_	_	_	_	_	_
+4	noa	_	PRON	_	_	6	nsubj	_	_
+5	-n	_	CLNOM	_	_	4	case	_	_
+6	nakati-ai	_	VERB	_	_	0	root	_	_
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	jawékiati-kin	_	VERB	_	_	6	advcl	_	_
+9	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion5_62.xml
+# sent_id = transcripcion5_62.xml-3
+# text = Jaa ainbo betan Huayna Cápac jaátian wanoa iki .
+# es_text = Se casó Huayna Cápac con Pacha y así llegó a ser el rey de los Shyris.
+1	Ja	_	DET	_	_	2	det	_	_
+2	ainbo	_	NOUN	_	_	7	obl	_	_
+3	betan	_	POSTP	_	_	2	case	_	_
+4	Huayna	_	PROPN	_	_	5	compound	_	_
+5	Cápac	_	PROPN	_	_	7	nsubj	_	_
+6	jatian	_	ADV	_	_	7	advmod	_	_
+7	wanoti-a	_	VERB	_	_	0	root	_	_
+8	iki	_	AUX	_	_	7	aux	_	_
+9	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion5_62.xml
+# sent_id = transcripcion5_62.xml-4
+# text = Jaskatax jaa rabé joni raeanana iki .
+# es_text = Hubo paz entre los dos pueblos.
+1	Jaskatax	_	CONJ	_	_	5	cc	_	_
+2	ja	_	DET	_	_	4	det	_	_
+3	rabé	_	NUM	_	_	4	nummod	_	_
+4	joni	_	NOUN	_	_	5	nsubj	_	_
+5	raeti-anan-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte3_2_1.xml
+# sent_id = TrasncripcionLea-parte3_2_1.xml-1
+# text = ¿ Jaweskarainki bachiai ?
+# es_text = ¿Dónde pone sus huevos?
+1	¿	_	PUNCT	_	_	4	punct	_	_
+2-3	jaweskarain-ki	_	_	_	_	_	_	_	_
+2	jaweskarain	_	PINT	_	_	4	obj	_	_
+3	-ki	_	CL2P	_	_	4	aux_clit	_	_
+4	bachiati-ai	_	VERB	_	_	0	root	_	_
+5	?	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion7_48.xml
+# sent_id = transcripcion7_48.xml-1
+# text = Jatian jawen bene kaa iki .
+# es_text = Y el hombre se fue.
+1	Jatian	_	CONJ	_	_	4	cc	_	_
+2	jawen	_	DET	_	_	3	det	_	_
+3	bene	_	NOUN	_	_	4	nsubj	_	_
+4	kati-a	_	VERB	_	_	0	root	_	_
+5	iki	_	AUX	_	_	4	aux	_	_
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion7_48.xml
+# sent_id = transcripcion7_48.xml-3
+# text = Ja bakeki ishton ania iki .
+# es_text = Muy pronto el niño creció milagrosamente (hasta ser adulto).
+1	Ja	_	DET	_	_	2	det	_	_
+2-3	báke-ki	_	_	_	_	_	_	_	_
+2	báke	_	NOUN	_	_	5	nsubj	_	_
+3	-ki	_	CL2P	_	_	5	aux_clit	_	_
+4	ishton	_	ADV	_	_	5	advmod	_	_
+5	aniati-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion7_48.xml
+# sent_id = transcripcion7_48.xml-4
+# text = Moa aniketian , jakiribi ja ainbo toota iki .
+# es_text = Después, la mujer quedó encita otra vez.
+1	Moa	_	ADV	_	_	2	advmod	_	_
+2	aniti-ketian	_	VERB	_	_	7	advcl	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	jakiribi	_	CONJ	_	_	7	cc	_	_
+5	ja	_	DET	_	_	6	det	_	_
+6	ainbo	_	NOUN	_	_	7	nsubj	_	_
+7	tooti-a	_	VERB	_	_	0	root	_	_
+8	iki	_	AUX	_	_	7	aux	_	_
+9	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_4_2.xml
+# sent_id = Lea_Transcripcion2_parte3_4_2.xml-0
+# text = Joaxki iká iki jaton peota taponanmanki tanítoshiti .
+# es_text = Luego vino a sentarse debajo del emponado.
+1-2	jaskaaxon-ki	_	_	_	_	_	_	_	_
+1	jaskaaxon	_	CONJ	_	_	8	cc	_	_
+2	-ki	_	CL2P	_	_	8	aux_clit	_	_
+3-5	ainbo-n-ki	_	_	_	_	_	_	_	_
+3	ainbo	_	NOUN	_	_	8	nsubj	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5	-ki	_	CL2P	_	_	8	aux_clit	_	_
+6	wiso	_	ADJ	_	_	7	amod	_	_
+7	ino	_	NOUN	_	_	8	obj	_	_
+8	reteti-a	_	VERB	_	_	0	root	_	_
+9	iki	_	AUX	_	_	8	aux	_	_
+10	.	_	PUNCT	_	_	8	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_5_1.xml
+# sent_id = Lea_Transcripcion2_parte1_5_1.xml-0
+# text = ¿ awakanki jawe piá iki ?
+# es_text = ¿Qué comía la sachavaca mientras caminaba?
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2-4	awá-kan-ki	_	_	_	_	_	_	_	_
+2	awá	_	NOUN	_	_	6	nsubj	_	_
+3	-kan	_	CLNOM	_	_	2	case	_	_
+4	-ki	_	CL2P	_	_	6	aux_clit	_	_
+5	jawe	_	PINT	_	_	6	obj	_	_
+6	piti-a	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_5_1.xml
+# sent_id = Lea_Transcripcion2_parte1_5_1.xml-1
+# text = ¿ Jawekeskatinki ino naman paketa iki ?
+# es_text = ¿Por qué el tigre cayó abajo?
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2-3	jawekeskati-ki	_	_	_	_	_	_	_	_
+2	jawekeskati	_	PINT	_	_	6	advmod	_	_
+3	-ki	_	CL2P	_	_	6	aux_clit	_	_
+4	ino	_	NOUN	_	_	6	nsubj	_	_
+5	naman	_	POSTP	_	_	6	case	_	_
+6	pakéti-a	_	VERB	_	_	0	root	_	_
+7	iki	_	AUX	_	_	6	aux	_	_
+8	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_5_1.xml
+# sent_id = Lea_Transcripcion2_parte1_5_1.xml-2
+# text = ¿ Tsoaki yoiai nato kointonin ?
+# es_text = ¿De qué trata este cuento?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2-4	tsoa-a-ki	_	_	_	_	_	_	_	_
+2	tsoa	_	PINT	_	_	5	obj	_	_
+3	-a	_	CLNOM	_	_	2	case	_	_
+4	-ki	_	CL2P	_	_	5	aux_clit	_	_
+5	yoiti-ai	_	VERB	_	_	0	root	_	_
+6	nato	_	ADJ	_	_	7	amod	_	_
+7	kointo-nin	_	NOUN	_	_	5	nsubj	_	_
+8	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_5_1.xml
+# sent_id = Lea_Transcripcion2_parte1_5_1.xml-3
+# text = ¿ Tsoa ikáki yoiai nato koinonin ?
+# es_text = ¿De quién habla el cuento?
+1	¿	_	PUNCT	_	_	6	punct	_	_
+2-3	tsoa-a	_	_	_	_	_	_	_	_
+2	tsoa	_	PINT	_	_	6	obj	_	_
+3	-a	_	CLNOM	_	_	2	case	_	_
+4-5	iki-a-ki	_	_	_	_	_	_	_	_
+4	iki-a	_	VERB	_	_	2	amod	_	_
+5	-ki	_	CL2P	_	_	6	aux_clit	_	_
+6	yoiti-ai	_	VERB	_	_	0	root	_	_
+7	nato	_	ADJ	_	_	8	amod	_	_
+8-9	kointo-nin	_	_	_	_	_	_	_	_
+8	kointo	_	NOUN	_	_	6	nsubj	_	_
+9	-nin	_	CLNOM	_	_	8	case	_	_
+10	?	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_5_1.xml
+# sent_id = Lea_Transcripcion2_parte1_5_1.xml-4
+# text = ¿ Jawekeskáaxonki amen onana iki ?
+# es_text = ¿Cómo reconoció que era ronsoco?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2-3	jawekeskaxon-ki	_	_	_	_	_	_	_	_
+2	jawekeskaxon	_	PINT	_	_	5	advmod	_	_
+3	-ki	_	CL2P	_	_	5	aux_clit	_	_
+4	amen	_	NOUN	_	_	5	obj	_	_
+5	onánti-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion5_34.xml
+# sent_id = transcripcion5_34.xml-1
+# text = Pei 30 iká bewá jakiribi mawawe .
+# es_text = Repasa la canción de las páginas 29 y 30.
+1	Pei	_	NOUN	_	_	3	obl	_	_
+2	30	_	NUM	_	_	1	nummod	_	_
+3	iki-a	_	VERB	_	_	4	amod	_	_
+4	bewá	_	NOUN	_	_	6	obj	_	_
+5	jakiribi	_	ADV	_	_	6	advmod	_	_
+6	máwati-we	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = transcripcion5_34.xml
+# sent_id = transcripcion5_34.xml-3
+# text = Jakon jawékiatibo
+# es_text = Buenos alimentos
+1	Jakon	_	ADJ	_	_	2	amod	_	_
+2	jawékiati-ti-bo	_	VERB	_	_	0	root	_	_
+
+# newdoc_id = transcripcion5_107.xml
+# sent_id = transcripcion5_107.xml-0
+# text = Cristóbal Colón iká iki jawékioma joni .
+# es_text = Pero Cristóbal Colón era un hombre muy pobre.
+1	Cristóbal	_	PROPN	_	_	7	nsubj	_	_
+2	Colón	_	PROPN	_	_	1	compound	_	_
+3	iki-a	_	VERB	_	_	7	cop	_	_
+4	iki	_	AUX	_	_	3	aux	_	_
+5-6	jawéki-oma	_	_	_	_	_	_	_	_
+5	jawéki	_	NOUN	_	_	7	nmod	_	_
+6	-oma	_	CLNOM	_	_	5	case	_	_
+7	joni	_	NOUN	_	_	0	root	_	_
+8	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion5_107.xml
+# sent_id = transcripcion5_107.xml-2
+# text = Jan vapor maroti atipanyamake , jan kati .
+# es_text = No podía comprar una carabela en que viajar.
+1-2	ja-n	_	_	_	_	_	_	_	_
+1	ja	_	PRON	_	_	5	nsubj	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3	vapor	_	NOUN	_	_	4	obj	_	_
+4	maroti-ti	_	VERB	_	_	5	obj	_	_
+5	atipanti-yama-ke	_	VERB	_	_	0	root	_	_
+6	,	_	PUNCT	_	_	5	punct	_	_
+7-8	ja-n	_	_	_	_	_	_	_	_
+7	ja	_	PRON	_	_	9	nsubj	_	_
+8	-n	_	CLNOM	_	_	7	case	_	_
+9	kati-ti	_	VERB	_	_	5	obl	_	_
+10	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion5_107.xml
+# sent_id = transcripcion5_107.xml-4
+# text = Ikeanaxmabi wetsa ainbaon kimisha vapor menia iki . Jaa ainbo iká iki España apo , jawen jane Isabel . Jainxon kakin piti , menia iki .
+# es_text = Al fin, la Reina Isabel de España le compró tres carabelas y comida para el viaje.
+1	iki-kean-ax-ma-bi	_	VERB	_	_	7	advcl	_	_
+2	wetsa	_	ADJ	_	_	3	amod	_	_
+3-4	ainbo-n	_	_	_	_	_	_	_	_
+3	ainbo	_	NOUN	_	_	7	nsubj	_	_
+4	-n	_	CLNOM	_	_	3	case	_	_
+5	kimisha	_	NUM	_	_	6	nummod	_	_
+6	vapor	_	NOUN	_	_	7	obj	_	_
+7	meniti-a	_	VERB	_	_	0	root	_	_
+8	iki	_	AUX	_	_	7	aux	_	_
+9	.	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc_id = transcripcion4_27_1.xml
+# sent_id = transcripcion4_27_1.xml-1
+# text = Yamé jo ikai , jain joni iketian .
+# es_text = Ladra de noche si alguien se acerca a nuestra casa.
+1	Yamé	_	ADV	_	_	3	advmod	_	_
+2	jo	_	INTJ	_	_	3	compound	_	_
+3	iki-ai	_	VERB	_	_	0	root	_	_
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	jain	_	ADV	_	_	7	advmod	_	_
+6	joni	_	NOUN	_	_	7	nsubj	_	_
+7	iki-ketian	_	VERB	_	_	3	advcl	_	_
+8	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion4_27_1.xml
+# sent_id = transcripcion4_27_1.xml-3
+# text = Nato bewá onanwe .
+# es_text = Aprende esta canción.
+1	Nato	_	DET	_	_	2	det	_	_
+2	bewá	_	NOUN	_	_	3	nsubj	_	_
+3	onánti-we	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion4_27_1.xml
+# sent_id = transcripcion4_27_1.xml-4
+# text = Ochíti bake
+# es_text = Los perritos
+1	Ochíti	_	NOUN	_	_	0	root	_	_
+2	bake	_	NOUN	_	_	1	compound	_	_
+
+# newdoc_id = transcripcion4_33_1.xml
+# sent_id = transcripcion4_33_1.xml-0
+# text = ¿ Minki beyamabiresa ?
+# es_text = ¿No has traido ni el uno ni el otro?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2-4	mia-n-ki	_	_	_	_	_	_	_	_
+2	mia	_	PRON	_	_	5	nsubj	_	_
+3	-n	_	CLNOM	_	_	2	case	_	_
+4	-ki	_	CL2P	_	_	5	aux_clit	_	_
+5	beti-yama-bires-a	_	VERB	_	_	0	root	_	_
+6	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion4_33_1.xml
+# sent_id = transcripcion4_33_1.xml-1
+# text = Bueno , rama awé maitakin nato pei amichaa bixon .
+# es_text = Entonces hazte una gorrita de estas hojas grandes.
+1	Bueno	_	INTJ	_	_	4	discourse	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	rama	_	ADV	_	_	4	advmod	_	_
+4	ati-we	_	VERB	_	_	0	root	_	_
+5	maitiati-kin	_	VERB	_	_	4	advcl	_	_
+6	nato	_	ADJ	_	_	7	amod	_	_
+7	pei	_	NOUN	_	_	9	obj	_	_
+8	ani-chaa	_	ADJ	_	_	7	amod	_	_
+9	biti-xon	_	VERB	_	_	4	advcl	_	_
+10	.	_	PUNCT	_	_	4	punct	_	_
+
+# newdoc_id = transcripcion4_33_1.xml
+# sent_id = transcripcion4_33_1.xml-2
+# text = Iráke ¡ papa !
+# es_text = Gracias, papá.
+1	Iráke	_	INTJ	_	_	3	discourse	_	_
+2	¡	_	PUNCT	_	_	3	punct	_	_
+3	papa	_	NOUN	_	_	0	root	_	_
+4	!	_	PUNCT	_	_	3	punct	_	_
+
+# newdoc_id = transcripcion4_33_1.xml
+# sent_id = transcripcion4_33_1.xml-3
+# text = Moára ea keenyamai .
+# es_text = Pero ya no las necesito.
+1-2	moa-ra	_	_	_	_	_	_	_	_
+1	moa	_	ADV	_	_	5	advmod	_	_
+2	-ra	_	CL2P	_	_	5	aux_clit	_	_
+3-4	ea-a	_	_	_	_	_	_	_	_
+3	ea	_	PRON	_	_	5	nsubj	_	_
+4	-a	_	CLNOM	_	_	3	case	_	_
+5	keenti-yama-ai	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = transcripcion4_33_1.xml
+# sent_id = transcripcion4_33_1.xml-4
+# text = Barira naí koiman bepoke .
+# es_text = El sol está detrás de una nube grande.
+1-2	bari-ra	_	_	_	_	_	_	_	_
+1	bari	_	NOUN	_	_	6	obj	_	_
+2	-ra	_	CL2P	_	_	6	aux_clit	_	_
+3	naí	_	NOUN	_	_	4	compound	_	_
+4-5	koin-man	_	_	_	_	_	_	_	_
+4	koin	_	NOUN	_	_	6	nsubj	_	_
+5	-man	_	CLNOM	_	_	4	case	_	_
+6	bepoti-ke	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	6	punct	_	_
+
+# newdoc_id = Parte3_3_3.xml
+# sent_id = Parte3_3_3.xml-0
+# text = ¿ Jawen rayosanki jaweaka iki ?
+# es_text = ¿En qué lo convirtió el yerno al Inca?
+1	¿	_	PUNCT	_	_	5	punct	_	_
+2	Jawen	_	DET	_	_	3	det	_	_
+3-4	rayos-an-ki	_	_	_	_	_	_	_	_
+3	rayos-an	_	NOUN	_	_	5	iobj	_	_
+4	-ki	_	CL2P	_	_	5	aux_clit	_	_
+5	jaweati-a	_	VERB	_	_	0	root	_	_
+6	iki	_	AUX	_	_	5	aux	_	_
+7	?	_	PUNCT	_	_	5	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_3_1.xml
+# sent_id = Lea_Transcripcion2_parte1_3_1.xml-2
+# text = Jaskáxonki awakan ronon ewa bakeranon tesaa iki .
+# es_text = Como la sachavaca tenía más fuerza, destrozó a la boa.
+1-2	jaskáxon-ki	_	_	_	_	_	_	_	_
+1	jaskáxon	_	CONJ	_	_	9	cc	_	_
+2	-ki	_	CL2P	_	_	9	aux_clit	_	_
+3-4	awa-kan	_	_	_	_	_	_	_	_
+3	awa	_	NOUN	_	_	9	nsubj	_	_
+4	-kan	_	CLNOM	_	_	3	case	_	_
+5-6	rono-n	_	_	_	_	_	_	_	_
+5	rono	_	NOUN	_	_	7	nmod	_	_
+6	-n	_	CLNOM	_	_	5	case	_	_
+7	ewa	_	NOUN	_	_	8	compound	_	_
+8	bakeranon	_	NOUN	_	_	9	obj	_	_
+9	tésati-a	_	VERB	_	_	0	root	_	_
+10	iki	_	AUX	_	_	9	aux	_	_
+11	.	_	PUNCT	_	_	9	punct	_	_
+
+# newdoc_id = Parte3_2_3.xml
+# sent_id = Parte3_2_3.xml-0
+# text = Jonin ino paráni
+# es_text = El tigre que fue engañado por un hombre
+1-2	joni-n	_	_	_	_	_	_	_	_
+1	joni	_	NOUN	_	_	4	nsubj	_	_
+2	-n	_	CLNOM	_	_	1	case	_	_
+3	ino	_	NOUN	_	_	4	obj	_	_
+4	paranti-ni	_	VERB	_	_	0	root	_	_

@@ -1,0 +1,137 @@
+TODO::
+- verb root from lemma:
+	now: -ti as infinitive
+	do: + -ati
+		substract both 
+- add unaccented version of roots
+
+
+
+not mentioned:
+	countable / not countable
+
+assumption:
+	-verb nominalization occurs only at root
+		(no hay -kan- en el verbo antes de convertirlo)
+
+	-word is only accented if in vocative case -lel
+	-not clear distintion btw allative & locative case (ALL \included LOC)
+		seem to be used indistinguisably
+	-loc-abl assumed to be inseparable (loc+lig/abl)
+	-chezative (place where X lives) -> Adesive (place where sth is)
+	-interessive -> oblique (acc case)
+	-post-suff of location -> case=Loc
+
+	- [verb] malefactive encoded as Case=Ben + Polarity=Neg
+	- [verb] reciprocal : voice=recipr
+	- [verb] bait-all day long-/shin-all night long- -> indf pronoun
+	- [verb] yon -completely -> Pron=Indef
+	- [verb] kean incomplete -> Aspect=Perf + Polarity=Neg
+	- wetsa-yama : not again -> Asp=Iter + Pol=Neg
+	- riba : again -> Asp=Iter + Pol=Pos
+	- preventive "na" only encodes imperative mood
+	- permissive "pan" -> participial + mood=opt
+	- [ambiguous] modal "atipan" -> capability, permission (Pot) , possibility (Sub), necessity (Nec)
+	- kikin : adverb
+
+
+
+rule:
+	if any verb has Pl code -> Nouns not in Sing 
+	else -> Noun in singular
+		NOT APPLICABLE TO EMBEDDED CLAUSES, CLAUSE CHAINS
+
+
+	-if NOUN, accent -> Case=Voc
+	-noun_genitive: only if next w is noun
+	-Tense=Pqp : check seq V-a ika/iká iki
+	-Aspect=Prog : verb_startswith(itai) i-t-ai (relax cond that MorphID must match)
+	x-aspect & mood hierarchy : left > right
+	future:
+		V..-i ka[a]i
+			kaai : AUX
+			V.. : Tense=Fut|Aspect=Imp
+		V..-nonx iki : check next word, iki=AUX
+	modals:
+		V..ti {ja,yama,r-iki}..
+	onomatopeid words
+		if next word == ik. | ak. --> VERB //not seen on data: (
+		else:
+			if dep_rel == obj -> NOUN
+			else 		-> PART
+			#elif head is VERB  -> PART
+
+	TODO::
+	clitics on verbs/adj/nous
+		- +adv -> ADV
+		- intens/att -> ADV
+	  x : less-fixed cltcs are not splitted
+
+	if is_digit | NumRoot.C | NumRoot.Q -> NumType=Card
+	verb in infinitive form in foma files ....(a)ti
+		re-extr verb
+			extra reg.exp to make (a)ti optional
+	
+		shouldn't be done on mapper
+			we can't tell if adj if adjz verb / same w nmlz
+
+code:
+	0: suffix
+	1: whole word
+	2: root
+
+
+
+interessive: marker on NOUN/PRON that ind arg2 of verb
+the complement of interest codes the participant in whose interest a subject experiences an emotion
+
+
+not included:
+	#noun/pron: interessive (chp6)
+	noun: ALL (n)
+	leading qst suff (tsi)
+	s-a-o agreement for int pronouns
+
+	[verb] tan - go do sth and return --> Mood=Prp ?
+	adv/clitc suff on verbs --> ext the adv
+		toshi - suddenly
+		men - quickly
+		ribi - also
+		yora - action intensifier
+		tani - action attenuative
+		isi - deprecative
+		pacho - always
+		res - just
+		bicho - only
+		bires - purely
+	[clit/adj] shoko - diminutive
+	[verb/clit] ai as participle (indistinguisable)
+	[verb] reference-markers -> only indicates verb is non-finite, not which type
+	[adv] on adj
+		yora,cha : very, a bit more of-
+	[adv] on verbs: agentivizers
+		one who likes to/never does/always does
+	[verb] special construction for answers to polar qst (8.5)
+
+	[verb] optional duplication ai .#. -> aai .#.  (breaks verbs regex)
+	[verb] kaax, kaai, kaa, keen | not working
+
+	
+
+
+
+#####################
+notes on MA
+adj:
+	- privative -nto not added -> needs shortened body-parts list
+
+
+
+
+error code:
+PROPN: 		0
+oov-noun: 	1
+other oov: 	2
+
+alt spell: 	3
+foreign word: 4

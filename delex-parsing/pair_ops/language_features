@@ -1,0 +1,77 @@
+grc	Ancient_Greek		37A 	38A 	85A 	86A 	87A 	88A 	89A
+grc_proiel	Ancient_Greek-PROIEL		37A 	38A 	85A 	86A 	87A 	88A 	89A
+ar	Arabic	Semitic	del-def	38A 	adp-n	n-ngen	n-a	d-n	num-n
+ar_nyuad	Arabic-NYUAD		37A 	38A 	85A 	86A 	87A 	88A 	89A
+eu	Basque	Basque	all-def	all-ind	n-adp	ngen-n	n-a	n-d	num-n
+be	Belarusian	Slavic	37A 	38A 	85A 	n-ngen	a-n	d-n	89A
+bg	Bulgarian	Slavic	all-def	38A 	adp-n	ngen-50	a-n	d-n	num-n
+ca	Catalan	Romance	37A 	all-ind	adp-n	n-ngen	n-a	d-n	num-n
+zh	Chinese	Chinese	del-def	all-ind	adp-50	ngen-n	a-n	d-n	num-n
+cop	Coptic	Egyptian-Coptic	all-def	all-ind	adp-n	n-ngen	n-a	det-50	num-n
+hr	Croatian	Slavic	del-d	del-d	adp-n	ngen-50	a-n	d-n	num-n
+cs	Czech	Slavic	del-d	del-d	adp-n	ngen-50	a-n	d-n	num-n
+cs_cac	Czech-CAC		37A 	38A 	85A 	86A 	87A 	88A 	89A
+cs_cltt	Czech-CLTT		37A 	38A 	85A 	86A 	87A 	88A 	89A
+cs_fictree	Czech-FicTree		37A 	38A 	85A 	86A 	87A 	88A 	89A
+da	Danish	Germanic	del-def	all-ind	adp-n	ngen-n	a-n	d-n	num-n
+nl	Dutch	Germanic	all-def	all-ind	adp-n	n-ngen	a-n	d-n	num-n
+nl_lassysmall	Dutch-LassySmall		37A 	38A 	85A 	86A 	87A 	88A 	89A
+en	English	Germanic	all-def	all-ind	adp-n	ngen-50	a-n	d-n	num-n
+en_pud	English-PUD		37A 	38A 	85A 	86A 	87A 	88A 	89A
+en_lines	English-LinES		37A 	38A 	85A 	86A 	87A 	88A 	89A
+en_partut	English-ParTUT		37A 	38A 	85A 	86A 	87A 	88A 	89A
+et	Estonian	Finnic	del-d	del-d	n-adp	ngen-n	a-n	d-n	num-n
+fi	Finnish	Finnic	del-d	del-d	n-adp	ngen-n	a-n	d-n	num-n
+fi_ftb	Finnish-FTB		37A 	38A 	85A 	86A 	87A 	88A 	89A
+fr	French	Romance	all-def	all-ind	adp-n	n-ngen	n-a	d-n	num-n
+fr_partut	French-ParTUT		37A 	38A 	85A 	86A 	87A 	88A 	89A
+fr_sequoia	French-Sequoia		37A 	38A 	85A 	86A 	87A 	88A 	89A
+gl	Galician	Romance	37A 	38A 	85A 	86A 	87A 	88A 	89A
+gl_treegal	Galician-TreeGal		37A 	38A 	85A 	86A 	87A 	88A 	89A
+de	German	Germanic	all-def	all-ind	adp-n	n-ngen	a-n	d-n	num-n
+got	Gothic		37A 	38A 	85A 	86A 	87A 	88A 	89A
+el	Greek	Greek	all-def	all-ind	adp-n	n-ngen	a-n	d-n	num-n
+he	Hebrew	Semitic	del-def	all-ind	adp-n	n-ngen	n-a	n-d	num-n
+hi	Hindi	Indic	del-d	del-d	n-adp	ngen-n	a-n	d-n	num-n
+hu	Hungarian	Ugric	all-def	all-ind	n-adp	ngen-n	a-n	d-n	num-n
+id	Indonesian	Malayo-Sumbawan	all-def	del-ind	adp-n	n-ngen	n-a	n-d	num-n
+ga	Irish	Celtic	all-def	del-ind	adp-n	n-ngen	n-a	n-d	num-n
+it	Italian	Romance	all-def	all-ind	adp-n	n-ngen	n-a	d-n	num-n
+it_partut	Italian-ParTUT		37A 	38A 	85A 	86A 	87A 	88A 	89A
+ja	Japanese	Japanese	del-def	all-ind	n-adp	ngen-n	a-n	d-n	num-n
+ja_pud	Japanese-PUD		37A 	38A 	85A 	86A 	87A 	88A 	89A
+kk	Kazakh	Turkic	37A 	38A 	85A 	86A 	87A 	88A 	89A
+ko	Korean	Korean	del-d	del-d	n-adp	ngen-n	a-n	d-n	num-n
+la	Latin		37A 	38A 	85A 	86A 	87A 	88A 	89A
+la_ittb	Latin-ITTB		37A 	38A 	85A 	86A 	87A 	88A 	89A
+la_proiel	Latin-PROIEL		37A 	38A 	85A 	86A 	87A 	88A 	89A
+lv	Latvian	Baltic	all-def	all-ind	adp-n	ngen-n	a-n	d-n	num-n
+lt	Lithuanian	Baltic	del-d	del-d	adp-n	ngen-n	a-n	d-n	num-n
+no_bokmaal	Norwegian-Bokmaal	Germanic	del-def	all-ind	adp-n	ngen-50	a-n	d-n	num-n
+no_nynorsklia	Norwegian-NynorskLIA		37A 	38A 	85A 	86A 	87A 	88A 	89A
+no_nynorsk	Norwegian-Nynorsk		37A 	38A 	85A 	86A 	87A 	88A 	89A
+cu	Old_Church_Slavonic		37A 	38A 	85A 	86A 	87A 	88A 	89A
+fa	Persian	Iranian	del-def	38A 	adp-n	n-ngen	n-a	d-n	num-n
+pl	Polish	Slavic	del-d	del-d	adp-n	n-ngen	a-n	d-n	num-n
+pt	Portuguese	Romance	all-def	all-ind	adp-n	n-ngen	n-a	d-n	89A
+pt_pud	Portuguese-PUD		37A 	38A 	85A 	86A 	87A 	88A 	89A
+pt_br	Portuguese-BR		37A 	38A 	85A 	86A 	87A 	88A 	89A
+ro	Romanian	Romance	del-def	all-ind	adp-n	n-ngen	n-a	det-50	num-n
+ru	Russian	Slavic	del-d	del-d	adp-n	n-ngen	a-n	d-n	num-n
+ru_syntagrus	Russian-SynTagRus		37A 	38A 	85A 	86A 	87A 	88A 	89A
+sa	Sanskrit		37A 	38A 	85A 	86A 	87A 	88A 	89A
+sk	Slovak	Slavic	37A 	38A 	85A 	86A 	87A 	88A 	89A
+sl	Slovenian	Slavic	37A 	38A 	adp-n	ngen-50	a-n	d-n	num-n
+sl_sst	Slovenian-SST		37A 	38A 	85A 	86A 	87A 	88A 	89A
+es	Spanish	Romance	all-def	all-ind	adp-n	n-ngen	n-a	d-n	num-n
+es_ancora	Spanish-AnCora		37A 	38A 	85A 	86A 	87A 	88A 	89A
+sv	Swedish	Germanic	del-def	all-ind	adp-n	ngen-n	a-n	d-n	num-n
+sv_lines	Swedish-LinES		37A 	38A 	85A 	86A 	87A 	88A 	89A
+swl	Swedish_Sign_Language		37A 	38A 	85A 	86A 	87A 	88A 	89A
+ta	Tamil	Southern_Dravidian	37A 	38A 	n-adp	ngen-n	a-n	d-n	num-n
+tr	Turkish	Turkic	del-def	all-ind	n-adp	ngen-n	a-n	d-n	num-n
+uk	Ukrainian	Slavic	del-d	del-d	adp-n	86A 	a-n	d-n	num-n
+ur	Urdu	Indic	del-d	del-d	n-adp	ngen-n	a-n	d-n	num-n
+ug	Uyghur	Turkic	37A 	38A 	85A 	86A 	a-n	88A 	89A
+vi	Vietnamese	Viet-Muong	all-def	38A 	adp-n	n-ngen	n-a	n-d	num-n
+shk	Shipibo-Konibo	Panoan	del-d	del-d	n-adp	ngen-n	87A No dominant order	d-n	num-n

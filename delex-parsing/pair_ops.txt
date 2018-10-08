@@ -1,0 +1,5625 @@
+ar	ar	
+ar	ar_nyuad	
+ar	be	adj-50+del-d
+ar	bg	adj-50+ngen-50
+ar	ca	
+ar	cop	det-50
+ar	cs	adj-50+del-d+ngen-50
+ar	cs_cac	adj-50+del-d+ngen-50
+ar	cs_cltt	adj-50+del-d+ngen-50
+ar	cu	adj-50+adp-50+det-50+ngen-50+num-50
+ar	da	adj-50+ngen-50
+ar	de	adj-50
+ar	el	adj-50
+ar	en	adj-50+ngen-50
+ar	en_esl	adj-50+ngen-50
+ar	en_lines	adj-50+ngen-50
+ar	en_partut	adj-50+ngen-50
+ar	es	
+ar	es_ancora	
+ar	et	adj-50+adp-50+del-d+ngen-50
+ar	eu	adp-50+det-50+ngen-50
+ar	fa	
+ar	fi	adj-50+adp-50+del-d+ngen-50
+ar	fi_ftb	adj-50+adp-50+del-d+ngen-50
+ar	fr	
+ar	fr_partut	
+ar	fr_sequoia	
+ar	ga	del-ind+det-50
+ar	gl	
+ar	gl_treegal	
+ar	got	adj-50+adp-50+det-50+ngen-50+num-50
+ar	grc	adj-50+adp-50+det-50+ngen-50+num-50
+ar	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ar	he	det-50
+ar	hi	adj-50+adp-50+del-d+ngen-50
+ar	hr	adj-50+del-d+ngen-50
+ar	hu	adj-50+adp-50+ngen-50
+ar	id	del-ind+det-50
+ar	it	
+ar	it_partut	
+ar	ja	adj-50+adp-50+ngen-50
+ar	ja_ktc	adj-50+adp-50+ngen-50
+ar	kk	adj-50+adp-50+ngen-50
+ar	ko	adj-50+adp-50+del-d+ngen-50
+ar	la	adj-50+adp-50+det-50+ngen-50+num-50
+ar	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+ar	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ar	lt	adj-50+del-d+ngen-50
+ar	lv	adj-50+ngen-50
+ar	nl	adj-50
+ar	nl_lassysmall	adj-50
+ar	no	adj-50+ngen-50
+ar	no_bokmaal	adj-50+ngen-50
+ar	no_nynorsk	adj-50+ngen-50
+ar	pl	adj-50+del-d
+ar	pt	
+ar	pt_bosque	
+ar	pt_br	
+ar	ro	det-50
+ar	ru	adj-50+del-d
+ar	ru_syntagrus	adj-50+del-d
+ar	sa	adj-50+adp-50+det-50+ngen-50+num-50
+ar	sk	adj-50+del-d+ngen-50
+ar	sl	adj-50+del-d+ngen-50
+ar	sl_sst	adj-50+del-d+ngen-50
+ar	sv	adj-50+ngen-50
+ar	sv_lines	adj-50+ngen-50
+ar	swl	adj-50+adp-50+det-50+ngen-50+num-50
+ar	ta	adj-50+adp-50+ngen-50
+ar	tr	adj-50+adp-50+ngen-50
+ar	ug	adj-50+adp-50+ngen-50
+ar	uk	adj-50+del-d+ngen-50
+ar	ur	adj-50+adp-50+del-d+ngen-50
+ar	vi	det-50
+ar	zh	adj-50+adp-50+ngen-50
+ar_nyuad	ar	
+ar_nyuad	ar_nyuad	
+ar_nyuad	be	adj-50+del-d
+ar_nyuad	bg	adj-50+ngen-50
+ar_nyuad	ca	
+ar_nyuad	cop	det-50
+ar_nyuad	cs	adj-50+del-d+ngen-50
+ar_nyuad	cs_cac	adj-50+del-d+ngen-50
+ar_nyuad	cs_cltt	adj-50+del-d+ngen-50
+ar_nyuad	cu	adj-50+adp-50+det-50+ngen-50+num-50
+ar_nyuad	da	adj-50+ngen-50
+ar_nyuad	de	adj-50
+ar_nyuad	el	adj-50
+ar_nyuad	en	adj-50+ngen-50
+ar_nyuad	en_esl	adj-50+ngen-50
+ar_nyuad	en_lines	adj-50+ngen-50
+ar_nyuad	en_partut	adj-50+ngen-50
+ar_nyuad	es	
+ar_nyuad	es_ancora	
+ar_nyuad	et	adj-50+adp-50+del-d+ngen-50
+ar_nyuad	eu	adp-50+det-50+ngen-50
+ar_nyuad	fa	
+ar_nyuad	fi	adj-50+adp-50+del-d+ngen-50
+ar_nyuad	fi_ftb	adj-50+adp-50+del-d+ngen-50
+ar_nyuad	fr	
+ar_nyuad	fr_partut	
+ar_nyuad	fr_sequoia	
+ar_nyuad	ga	del-ind+det-50
+ar_nyuad	gl	
+ar_nyuad	gl_treegal	
+ar_nyuad	got	adj-50+adp-50+det-50+ngen-50+num-50
+ar_nyuad	grc	adj-50+adp-50+det-50+ngen-50+num-50
+ar_nyuad	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ar_nyuad	he	det-50
+ar_nyuad	hi	adj-50+adp-50+del-d+ngen-50
+ar_nyuad	hr	adj-50+del-d+ngen-50
+ar_nyuad	hu	adj-50+adp-50+ngen-50
+ar_nyuad	id	del-ind+det-50
+ar_nyuad	it	
+ar_nyuad	it_partut	
+ar_nyuad	ja	adj-50+adp-50+ngen-50
+ar_nyuad	ja_ktc	adj-50+adp-50+ngen-50
+ar_nyuad	kk	adj-50+adp-50+ngen-50
+ar_nyuad	ko	adj-50+adp-50+del-d+ngen-50
+ar_nyuad	la	adj-50+adp-50+det-50+ngen-50+num-50
+ar_nyuad	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+ar_nyuad	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ar_nyuad	lt	adj-50+del-d+ngen-50
+ar_nyuad	lv	adj-50+ngen-50
+ar_nyuad	nl	adj-50
+ar_nyuad	nl_lassysmall	adj-50
+ar_nyuad	no	adj-50+ngen-50
+ar_nyuad	no_bokmaal	adj-50+ngen-50
+ar_nyuad	no_nynorsk	adj-50+ngen-50
+ar_nyuad	pl	adj-50+del-d
+ar_nyuad	pt	
+ar_nyuad	pt_bosque	
+ar_nyuad	pt_br	
+ar_nyuad	ro	det-50
+ar_nyuad	ru	adj-50+del-d
+ar_nyuad	ru_syntagrus	adj-50+del-d
+ar_nyuad	sa	adj-50+adp-50+det-50+ngen-50+num-50
+ar_nyuad	sk	adj-50+del-d+ngen-50
+ar_nyuad	sl	adj-50+del-d+ngen-50
+ar_nyuad	sl_sst	adj-50+del-d+ngen-50
+ar_nyuad	sv	adj-50+ngen-50
+ar_nyuad	sv_lines	adj-50+ngen-50
+ar_nyuad	swl	adj-50+adp-50+det-50+ngen-50+num-50
+ar_nyuad	ta	adj-50+adp-50+ngen-50
+ar_nyuad	tr	adj-50+adp-50+ngen-50
+ar_nyuad	ug	adj-50+adp-50+ngen-50
+ar_nyuad	uk	adj-50+del-d+ngen-50
+ar_nyuad	ur	adj-50+adp-50+del-d+ngen-50
+ar_nyuad	vi	det-50
+ar_nyuad	zh	adj-50+adp-50+ngen-50
+be	ar	adj-50+del-def
+be	ar_nyuad	adj-50+del-def
+be	be	
+be	bg	ngen-50
+be	ca	adj-50
+be	cop	adj-50+det-50
+be	cs	ngen-50
+be	cs_cac	ngen-50
+be	cs_cltt	ngen-50
+be	cu	adj-50+adp-50+det-50+ngen-50+num-50
+be	da	del-def+ngen-50
+be	de	
+be	el	
+be	en	ngen-50
+be	en_esl	ngen-50
+be	en_lines	ngen-50
+be	en_partut	ngen-50
+be	es	adj-50
+be	es_ancora	adj-50
+be	et	adp-50+ngen-50
+be	eu	adj-50+adp-50+det-50+ngen-50
+be	fa	adj-50+del-def
+be	fi	adp-50+ngen-50
+be	fi_ftb	adp-50+ngen-50
+be	fr	adj-50
+be	fr_partut	adj-50
+be	fr_sequoia	adj-50
+be	ga	adj-50+del-ind+det-50
+be	gl	adj-50
+be	gl_treegal	adj-50
+be	got	adj-50+adp-50+det-50+ngen-50+num-50
+be	grc	adj-50+adp-50+det-50+ngen-50+num-50
+be	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+be	he	adj-50+del-def+det-50
+be	hi	adp-50+ngen-50
+be	hr	ngen-50
+be	hu	adp-50+ngen-50
+be	id	adj-50+del-ind+det-50
+be	it	adj-50
+be	it_partut	adj-50
+be	ja	adp-50+del-def+ngen-50
+be	ja_ktc	adp-50+del-def+ngen-50
+be	kk	adp-50+del-def+ngen-50
+be	ko	adp-50+ngen-50
+be	la	adj-50+adp-50+det-50+ngen-50+num-50
+be	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+be	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+be	lt	ngen-50
+be	lv	ngen-50
+be	nl	
+be	nl_lassysmall	
+be	no	del-def+ngen-50
+be	no_bokmaal	del-def+ngen-50
+be	no_nynorsk	del-def+ngen-50
+be	pl	
+be	pt	adj-50
+be	pt_bosque	adj-50
+be	pt_br	adj-50
+be	ro	adj-50+del-def+det-50
+be	ru	
+be	ru_syntagrus	
+be	sa	adj-50+adp-50+det-50+ngen-50+num-50
+be	sk	ngen-50
+be	sl	ngen-50
+be	sl_sst	ngen-50
+be	sv	del-def+ngen-50
+be	sv_lines	del-def+ngen-50
+be	swl	adj-50+adp-50+det-50+ngen-50+num-50
+be	ta	adp-50+ngen-50
+be	tr	adp-50+del-def+ngen-50
+be	ug	adp-50+del-def+ngen-50
+be	uk	ngen-50
+be	ur	adp-50+ngen-50
+be	vi	adj-50+det-50
+be	zh	adp-50+del-def+ngen-50
+bg	ar	adj-50+del-def+ngen-25
+bg	ar_nyuad	adj-50+del-def+ngen-25
+bg	be	del-d+ngen-25
+bg	bg	
+bg	ca	adj-50+ngen-25
+bg	cop	adj-50+det-50+ngen-25
+bg	cs	del-d
+bg	cs_cac	del-d
+bg	cs_cltt	del-d
+bg	cu	adj-50+adp-50+det-50+num-50
+bg	da	del-def+ngen-75
+bg	de	ngen-25
+bg	el	ngen-25
+bg	en	
+bg	en_esl	
+bg	en_lines	
+bg	en_partut	
+bg	es	adj-50+ngen-25
+bg	es_ancora	adj-50+ngen-25
+bg	et	adp-50+del-d+ngen-75
+bg	eu	adj-50+adp-50+det-50+ngen-75
+bg	fa	adj-50+del-def+ngen-25
+bg	fi	adp-50+del-d+ngen-75
+bg	fi_ftb	adp-50+del-d+ngen-75
+bg	fr	adj-50+ngen-25
+bg	fr_partut	adj-50+ngen-25
+bg	fr_sequoia	adj-50+ngen-25
+bg	ga	adj-50+del-ind+det-50+ngen-25
+bg	gl	adj-50+ngen-25
+bg	gl_treegal	adj-50+ngen-25
+bg	got	adj-50+adp-50+det-50+num-50
+bg	grc	adj-50+adp-50+det-50+num-50
+bg	grc_proiel	adj-50+adp-50+det-50+num-50
+bg	he	adj-50+del-def+det-50+ngen-25
+bg	hi	adp-50+del-d+ngen-75
+bg	hr	del-d
+bg	hu	adp-50+ngen-75
+bg	id	adj-50+del-ind+det-50+ngen-25
+bg	it	adj-50+ngen-25
+bg	it_partut	adj-50+ngen-25
+bg	ja	adp-50+del-def+ngen-75
+bg	ja_ktc	adp-50+del-def+ngen-75
+bg	kk	adp-50+del-def+ngen-75
+bg	ko	adp-50+del-d+ngen-75
+bg	la	adj-50+adp-50+det-50+num-50
+bg	la_ittb	adj-50+adp-50+det-50+num-50
+bg	la_proiel	adj-50+adp-50+det-50+num-50
+bg	lt	del-d+ngen-75
+bg	lv	ngen-75
+bg	nl	ngen-25
+bg	nl_lassysmall	ngen-25
+bg	no	del-def
+bg	no_bokmaal	del-def
+bg	no_nynorsk	del-def
+bg	pl	del-d+ngen-25
+bg	pt	adj-50+ngen-25
+bg	pt_bosque	adj-50+ngen-25
+bg	pt_br	adj-50+ngen-25
+bg	ro	adj-50+del-def+det-50+ngen-25
+bg	ru	del-d+ngen-25
+bg	ru_syntagrus	del-d+ngen-25
+bg	sa	adj-50+adp-50+det-50+num-50
+bg	sk	del-d
+bg	sl	del-d
+bg	sl_sst	del-d
+bg	sv	del-def+ngen-75
+bg	sv_lines	del-def+ngen-75
+bg	swl	adj-50+adp-50+det-50+num-50
+bg	ta	adp-50+ngen-75
+bg	tr	adp-50+del-def+ngen-75
+bg	ug	adp-50+del-def+ngen-75
+bg	uk	del-d
+bg	ur	adp-50+del-d+ngen-75
+bg	vi	adj-50+det-50+ngen-25
+bg	zh	adp-50+del-def+ngen-75
+ca	ar	del-def
+ca	ar_nyuad	del-def
+ca	be	adj-50+del-d
+ca	bg	adj-50+ngen-50
+ca	ca	
+ca	cop	det-50
+ca	cs	adj-50+del-d+ngen-50
+ca	cs_cac	adj-50+del-d+ngen-50
+ca	cs_cltt	adj-50+del-d+ngen-50
+ca	cu	adj-50+adp-50+det-50+ngen-50+num-50
+ca	da	adj-50+del-def+ngen-50
+ca	de	adj-50
+ca	el	adj-50
+ca	en	adj-50+ngen-50
+ca	en_esl	adj-50+ngen-50
+ca	en_lines	adj-50+ngen-50
+ca	en_partut	adj-50+ngen-50
+ca	es	
+ca	es_ancora	
+ca	et	adj-50+adp-50+del-d+ngen-50
+ca	eu	adp-50+det-50+ngen-50
+ca	fa	del-def
+ca	fi	adj-50+adp-50+del-d+ngen-50
+ca	fi_ftb	adj-50+adp-50+del-d+ngen-50
+ca	fr	
+ca	fr_partut	
+ca	fr_sequoia	
+ca	ga	del-ind+det-50
+ca	gl	
+ca	gl_treegal	
+ca	got	adj-50+adp-50+det-50+ngen-50+num-50
+ca	grc	adj-50+adp-50+det-50+ngen-50+num-50
+ca	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ca	he	del-def+det-50
+ca	hi	adj-50+adp-50+del-d+ngen-50
+ca	hr	adj-50+del-d+ngen-50
+ca	hu	adj-50+adp-50+ngen-50
+ca	id	del-ind+det-50
+ca	it	
+ca	it_partut	
+ca	ja	adj-50+adp-50+del-def+ngen-50
+ca	ja_ktc	adj-50+adp-50+del-def+ngen-50
+ca	kk	adj-50+adp-50+del-def+ngen-50
+ca	ko	adj-50+adp-50+del-d+ngen-50
+ca	la	adj-50+adp-50+det-50+ngen-50+num-50
+ca	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+ca	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ca	lt	adj-50+del-d+ngen-50
+ca	lv	adj-50+ngen-50
+ca	nl	adj-50
+ca	nl_lassysmall	adj-50
+ca	no	adj-50+del-def+ngen-50
+ca	no_bokmaal	adj-50+del-def+ngen-50
+ca	no_nynorsk	adj-50+del-def+ngen-50
+ca	pl	adj-50+del-d
+ca	pt	
+ca	pt_bosque	
+ca	pt_br	
+ca	ro	del-def+det-50
+ca	ru	adj-50+del-d
+ca	ru_syntagrus	adj-50+del-d
+ca	sa	adj-50+adp-50+det-50+ngen-50+num-50
+ca	sk	adj-50+del-d+ngen-50
+ca	sl	adj-50+del-d+ngen-50
+ca	sl_sst	adj-50+del-d+ngen-50
+ca	sv	adj-50+del-def+ngen-50
+ca	sv_lines	adj-50+del-def+ngen-50
+ca	swl	adj-50+adp-50+det-50+ngen-50+num-50
+ca	ta	adj-50+adp-50+ngen-50
+ca	tr	adj-50+adp-50+del-def+ngen-50
+ca	ug	adj-50+adp-50+del-def+ngen-50
+ca	uk	adj-50+del-d+ngen-50
+ca	ur	adj-50+adp-50+del-d+ngen-50
+ca	vi	det-50
+ca	zh	adj-50+adp-50+del-def+ngen-50
+cop	ar	del-def+det-75
+cop	ar_nyuad	del-def+det-75
+cop	be	adj-50+del-d+det-75
+cop	bg	adj-50+det-75+ngen-50
+cop	ca	det-75
+cop	cop	
+cop	cs	adj-50+del-d+det-75+ngen-50
+cop	cs_cac	adj-50+del-d+det-75+ngen-50
+cop	cs_cltt	adj-50+del-d+det-75+ngen-50
+cop	cu	adj-50+adp-50+ngen-50+num-50
+cop	da	adj-50+del-def+det-75+ngen-50
+cop	de	adj-50+det-75
+cop	el	adj-50+det-75
+cop	en	adj-50+det-75+ngen-50
+cop	en_esl	adj-50+det-75+ngen-50
+cop	en_lines	adj-50+det-75+ngen-50
+cop	en_partut	adj-50+det-75+ngen-50
+cop	es	det-75
+cop	es_ancora	det-75
+cop	et	adj-50+adp-50+del-d+det-75+ngen-50
+cop	eu	adp-50+det-25+ngen-50
+cop	fa	del-def+det-75
+cop	fi	adj-50+adp-50+del-d+det-75+ngen-50
+cop	fi_ftb	adj-50+adp-50+del-d+det-75+ngen-50
+cop	fr	det-75
+cop	fr_partut	det-75
+cop	fr_sequoia	det-75
+cop	ga	del-ind+det-25
+cop	gl	det-75
+cop	gl_treegal	det-75
+cop	got	adj-50+adp-50+ngen-50+num-50
+cop	grc	adj-50+adp-50+ngen-50+num-50
+cop	grc_proiel	adj-50+adp-50+ngen-50+num-50
+cop	he	del-def+det-25
+cop	hi	adj-50+adp-50+del-d+det-75+ngen-50
+cop	hr	adj-50+del-d+det-75+ngen-50
+cop	hu	adj-50+adp-50+det-75+ngen-50
+cop	id	del-ind+det-25
+cop	it	det-75
+cop	it_partut	det-75
+cop	ja	adj-50+adp-50+del-def+det-75+ngen-50
+cop	ja_ktc	adj-50+adp-50+del-def+det-75+ngen-50
+cop	kk	adj-50+adp-50+del-def+det-75+ngen-50
+cop	ko	adj-50+adp-50+del-d+det-75+ngen-50
+cop	la	adj-50+adp-50+ngen-50+num-50
+cop	la_ittb	adj-50+adp-50+ngen-50+num-50
+cop	la_proiel	adj-50+adp-50+ngen-50+num-50
+cop	lt	adj-50+del-d+det-75+ngen-50
+cop	lv	adj-50+det-75+ngen-50
+cop	nl	adj-50+det-75
+cop	nl_lassysmall	adj-50+det-75
+cop	no	adj-50+del-def+det-75+ngen-50
+cop	no_bokmaal	adj-50+del-def+det-75+ngen-50
+cop	no_nynorsk	adj-50+del-def+det-75+ngen-50
+cop	pl	adj-50+del-d+det-75
+cop	pt	det-75
+cop	pt_bosque	det-75
+cop	pt_br	det-75
+cop	ro	del-def
+cop	ru	adj-50+del-d+det-75
+cop	ru_syntagrus	adj-50+del-d+det-75
+cop	sa	adj-50+adp-50+ngen-50+num-50
+cop	sk	adj-50+del-d+det-75+ngen-50
+cop	sl	adj-50+del-d+det-75+ngen-50
+cop	sl_sst	adj-50+del-d+det-75+ngen-50
+cop	sv	adj-50+del-def+det-75+ngen-50
+cop	sv_lines	adj-50+del-def+det-75+ngen-50
+cop	swl	adj-50+adp-50+ngen-50+num-50
+cop	ta	adj-50+adp-50+det-75+ngen-50
+cop	tr	adj-50+adp-50+del-def+det-75+ngen-50
+cop	ug	adj-50+adp-50+del-def+det-75+ngen-50
+cop	uk	adj-50+del-d+det-75+ngen-50
+cop	ur	adj-50+adp-50+del-d+det-75+ngen-50
+cop	vi	det-25
+cop	zh	adj-50+adp-50+del-def+det-75+ngen-50
+cs	ar	adj-50+del-def+ngen-25
+cs	ar_nyuad	adj-50+del-def+ngen-25
+cs	be	ngen-25
+cs	bg	
+cs	ca	adj-50+ngen-25
+cs	cop	adj-50+det-50+ngen-25
+cs	cs	
+cs	cs_cac	
+cs	cs_cltt	
+cs	cu	adj-50+adp-50+det-50+num-50
+cs	da	del-def+ngen-75
+cs	de	ngen-25
+cs	el	ngen-25
+cs	en	
+cs	en_esl	
+cs	en_lines	
+cs	en_partut	
+cs	es	adj-50+ngen-25
+cs	es_ancora	adj-50+ngen-25
+cs	et	adp-50+ngen-75
+cs	eu	adj-50+adp-50+det-50+ngen-75
+cs	fa	adj-50+del-def+ngen-25
+cs	fi	adp-50+ngen-75
+cs	fi_ftb	adp-50+ngen-75
+cs	fr	adj-50+ngen-25
+cs	fr_partut	adj-50+ngen-25
+cs	fr_sequoia	adj-50+ngen-25
+cs	ga	adj-50+del-ind+det-50+ngen-25
+cs	gl	adj-50+ngen-25
+cs	gl_treegal	adj-50+ngen-25
+cs	got	adj-50+adp-50+det-50+num-50
+cs	grc	adj-50+adp-50+det-50+num-50
+cs	grc_proiel	adj-50+adp-50+det-50+num-50
+cs	he	adj-50+del-def+det-50+ngen-25
+cs	hi	adp-50+ngen-75
+cs	hr	
+cs	hu	adp-50+ngen-75
+cs	id	adj-50+del-ind+det-50+ngen-25
+cs	it	adj-50+ngen-25
+cs	it_partut	adj-50+ngen-25
+cs	ja	adp-50+del-def+ngen-75
+cs	ja_ktc	adp-50+del-def+ngen-75
+cs	kk	adp-50+del-def+ngen-75
+cs	ko	adp-50+ngen-75
+cs	la	adj-50+adp-50+det-50+num-50
+cs	la_ittb	adj-50+adp-50+det-50+num-50
+cs	la_proiel	adj-50+adp-50+det-50+num-50
+cs	lt	ngen-75
+cs	lv	ngen-75
+cs	nl	ngen-25
+cs	nl_lassysmall	ngen-25
+cs	no	del-def
+cs	no_bokmaal	del-def
+cs	no_nynorsk	del-def
+cs	pl	ngen-25
+cs	pt	adj-50+ngen-25
+cs	pt_bosque	adj-50+ngen-25
+cs	pt_br	adj-50+ngen-25
+cs	ro	adj-50+del-def+det-50+ngen-25
+cs	ru	ngen-25
+cs	ru_syntagrus	ngen-25
+cs	sa	adj-50+adp-50+det-50+num-50
+cs	sk	
+cs	sl	
+cs	sl_sst	
+cs	sv	del-def+ngen-75
+cs	sv_lines	del-def+ngen-75
+cs	swl	adj-50+adp-50+det-50+num-50
+cs	ta	adp-50+ngen-75
+cs	tr	adp-50+del-def+ngen-75
+cs	ug	adp-50+del-def+ngen-75
+cs	uk	
+cs	ur	adp-50+ngen-75
+cs	vi	adj-50+det-50+ngen-25
+cs	zh	adp-50+del-def+ngen-75
+cs_cac	ar	adj-50+del-def+ngen-25
+cs_cac	ar_nyuad	adj-50+del-def+ngen-25
+cs_cac	be	ngen-25
+cs_cac	bg	
+cs_cac	ca	adj-50+ngen-25
+cs_cac	cop	adj-50+det-50+ngen-25
+cs_cac	cs	
+cs_cac	cs_cac	
+cs_cac	cs_cltt	
+cs_cac	cu	adj-50+adp-50+det-50+num-50
+cs_cac	da	del-def+ngen-75
+cs_cac	de	ngen-25
+cs_cac	el	ngen-25
+cs_cac	en	
+cs_cac	en_esl	
+cs_cac	en_lines	
+cs_cac	en_partut	
+cs_cac	es	adj-50+ngen-25
+cs_cac	es_ancora	adj-50+ngen-25
+cs_cac	et	adp-50+ngen-75
+cs_cac	eu	adj-50+adp-50+det-50+ngen-75
+cs_cac	fa	adj-50+del-def+ngen-25
+cs_cac	fi	adp-50+ngen-75
+cs_cac	fi_ftb	adp-50+ngen-75
+cs_cac	fr	adj-50+ngen-25
+cs_cac	fr_partut	adj-50+ngen-25
+cs_cac	fr_sequoia	adj-50+ngen-25
+cs_cac	ga	adj-50+del-ind+det-50+ngen-25
+cs_cac	gl	adj-50+ngen-25
+cs_cac	gl_treegal	adj-50+ngen-25
+cs_cac	got	adj-50+adp-50+det-50+num-50
+cs_cac	grc	adj-50+adp-50+det-50+num-50
+cs_cac	grc_proiel	adj-50+adp-50+det-50+num-50
+cs_cac	he	adj-50+del-def+det-50+ngen-25
+cs_cac	hi	adp-50+ngen-75
+cs_cac	hr	
+cs_cac	hu	adp-50+ngen-75
+cs_cac	id	adj-50+del-ind+det-50+ngen-25
+cs_cac	it	adj-50+ngen-25
+cs_cac	it_partut	adj-50+ngen-25
+cs_cac	ja	adp-50+del-def+ngen-75
+cs_cac	ja_ktc	adp-50+del-def+ngen-75
+cs_cac	kk	adp-50+del-def+ngen-75
+cs_cac	ko	adp-50+ngen-75
+cs_cac	la	adj-50+adp-50+det-50+num-50
+cs_cac	la_ittb	adj-50+adp-50+det-50+num-50
+cs_cac	la_proiel	adj-50+adp-50+det-50+num-50
+cs_cac	lt	ngen-75
+cs_cac	lv	ngen-75
+cs_cac	nl	ngen-25
+cs_cac	nl_lassysmall	ngen-25
+cs_cac	no	del-def
+cs_cac	no_bokmaal	del-def
+cs_cac	no_nynorsk	del-def
+cs_cac	pl	ngen-25
+cs_cac	pt	adj-50+ngen-25
+cs_cac	pt_bosque	adj-50+ngen-25
+cs_cac	pt_br	adj-50+ngen-25
+cs_cac	ro	adj-50+del-def+det-50+ngen-25
+cs_cac	ru	ngen-25
+cs_cac	ru_syntagrus	ngen-25
+cs_cac	sa	adj-50+adp-50+det-50+num-50
+cs_cac	sk	
+cs_cac	sl	
+cs_cac	sl_sst	
+cs_cac	sv	del-def+ngen-75
+cs_cac	sv_lines	del-def+ngen-75
+cs_cac	swl	adj-50+adp-50+det-50+num-50
+cs_cac	ta	adp-50+ngen-75
+cs_cac	tr	adp-50+del-def+ngen-75
+cs_cac	ug	adp-50+del-def+ngen-75
+cs_cac	uk	
+cs_cac	ur	adp-50+ngen-75
+cs_cac	vi	adj-50+det-50+ngen-25
+cs_cac	zh	adp-50+del-def+ngen-75
+cs_cltt	ar	adj-50+del-def+ngen-25
+cs_cltt	ar_nyuad	adj-50+del-def+ngen-25
+cs_cltt	be	ngen-25
+cs_cltt	bg	
+cs_cltt	ca	adj-50+ngen-25
+cs_cltt	cop	adj-50+det-50+ngen-25
+cs_cltt	cs	
+cs_cltt	cs_cac	
+cs_cltt	cs_cltt	
+cs_cltt	cu	adj-50+adp-50+det-50+num-50
+cs_cltt	da	del-def+ngen-75
+cs_cltt	de	ngen-25
+cs_cltt	el	ngen-25
+cs_cltt	en	
+cs_cltt	en_esl	
+cs_cltt	en_lines	
+cs_cltt	en_partut	
+cs_cltt	es	adj-50+ngen-25
+cs_cltt	es_ancora	adj-50+ngen-25
+cs_cltt	et	adp-50+ngen-75
+cs_cltt	eu	adj-50+adp-50+det-50+ngen-75
+cs_cltt	fa	adj-50+del-def+ngen-25
+cs_cltt	fi	adp-50+ngen-75
+cs_cltt	fi_ftb	adp-50+ngen-75
+cs_cltt	fr	adj-50+ngen-25
+cs_cltt	fr_partut	adj-50+ngen-25
+cs_cltt	fr_sequoia	adj-50+ngen-25
+cs_cltt	ga	adj-50+del-ind+det-50+ngen-25
+cs_cltt	gl	adj-50+ngen-25
+cs_cltt	gl_treegal	adj-50+ngen-25
+cs_cltt	got	adj-50+adp-50+det-50+num-50
+cs_cltt	grc	adj-50+adp-50+det-50+num-50
+cs_cltt	grc_proiel	adj-50+adp-50+det-50+num-50
+cs_cltt	he	adj-50+del-def+det-50+ngen-25
+cs_cltt	hi	adp-50+ngen-75
+cs_cltt	hr	
+cs_cltt	hu	adp-50+ngen-75
+cs_cltt	id	adj-50+del-ind+det-50+ngen-25
+cs_cltt	it	adj-50+ngen-25
+cs_cltt	it_partut	adj-50+ngen-25
+cs_cltt	ja	adp-50+del-def+ngen-75
+cs_cltt	ja_ktc	adp-50+del-def+ngen-75
+cs_cltt	kk	adp-50+del-def+ngen-75
+cs_cltt	ko	adp-50+ngen-75
+cs_cltt	la	adj-50+adp-50+det-50+num-50
+cs_cltt	la_ittb	adj-50+adp-50+det-50+num-50
+cs_cltt	la_proiel	adj-50+adp-50+det-50+num-50
+cs_cltt	lt	ngen-75
+cs_cltt	lv	ngen-75
+cs_cltt	nl	ngen-25
+cs_cltt	nl_lassysmall	ngen-25
+cs_cltt	no	del-def
+cs_cltt	no_bokmaal	del-def
+cs_cltt	no_nynorsk	del-def
+cs_cltt	pl	ngen-25
+cs_cltt	pt	adj-50+ngen-25
+cs_cltt	pt_bosque	adj-50+ngen-25
+cs_cltt	pt_br	adj-50+ngen-25
+cs_cltt	ro	adj-50+del-def+det-50+ngen-25
+cs_cltt	ru	ngen-25
+cs_cltt	ru_syntagrus	ngen-25
+cs_cltt	sa	adj-50+adp-50+det-50+num-50
+cs_cltt	sk	
+cs_cltt	sl	
+cs_cltt	sl_sst	
+cs_cltt	sv	del-def+ngen-75
+cs_cltt	sv_lines	del-def+ngen-75
+cs_cltt	swl	adj-50+adp-50+det-50+num-50
+cs_cltt	ta	adp-50+ngen-75
+cs_cltt	tr	adp-50+del-def+ngen-75
+cs_cltt	ug	adp-50+del-def+ngen-75
+cs_cltt	uk	
+cs_cltt	ur	adp-50+ngen-75
+cs_cltt	vi	adj-50+det-50+ngen-25
+cs_cltt	zh	adp-50+del-def+ngen-75
+cu	ar	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+cu	ar_nyuad	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+cu	be	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+cu	bg	adj-75+adp-75+det-75+num-75
+cu	ca	adj-25+adp-75+det-75+ngen-25+num-75
+cu	cop	adj-25+adp-75+ngen-25+num-75
+cu	cs	adj-75+adp-75+del-d+det-75+num-75
+cu	cs_cac	adj-75+adp-75+del-d+det-75+num-75
+cu	cs_cltt	adj-75+adp-75+del-d+det-75+num-75
+cu	cu	
+cu	da	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+cu	de	adj-75+adp-75+det-75+ngen-25+num-75
+cu	el	adj-75+adp-75+det-75+ngen-25+num-75
+cu	en	adj-75+adp-75+det-75+num-75
+cu	en_esl	adj-75+adp-75+det-75+num-75
+cu	en_lines	adj-75+adp-75+det-75+num-75
+cu	en_partut	adj-75+adp-75+det-75+num-75
+cu	es	adj-25+adp-75+det-75+ngen-25+num-75
+cu	es_ancora	adj-25+adp-75+det-75+ngen-25+num-75
+cu	et	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+cu	eu	adj-25+adp-25+det-25+ngen-75+num-75
+cu	fa	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+cu	fi	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+cu	fi_ftb	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+cu	fr	adj-25+adp-75+det-75+ngen-25+num-75
+cu	fr_partut	adj-25+adp-75+det-75+ngen-25+num-75
+cu	fr_sequoia	adj-25+adp-75+det-75+ngen-25+num-75
+cu	ga	adj-25+adp-75+del-ind+det-25+ngen-25+num-75
+cu	gl	adj-25+adp-75+det-75+ngen-25+num-75
+cu	gl_treegal	adj-25+adp-75+det-75+ngen-25+num-75
+cu	got	
+cu	grc	
+cu	grc_proiel	
+cu	he	adj-25+adp-75+del-def+det-25+ngen-25+num-75
+cu	hi	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+cu	hr	adj-75+adp-75+del-d+det-75+num-75
+cu	hu	adj-75+adp-25+det-75+ngen-75+num-75
+cu	id	adj-25+adp-75+del-ind+det-25+ngen-25+num-75
+cu	it	adj-25+adp-75+det-75+ngen-25+num-75
+cu	it_partut	adj-25+adp-75+det-75+ngen-25+num-75
+cu	ja	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+cu	ja_ktc	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+cu	kk	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+cu	ko	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+cu	la	
+cu	la_ittb	
+cu	la_proiel	
+cu	lt	adj-75+adp-75+del-d+det-75+ngen-75+num-75
+cu	lv	adj-75+adp-75+det-75+ngen-75+num-75
+cu	nl	adj-75+adp-75+det-75+ngen-25+num-75
+cu	nl_lassysmall	adj-75+adp-75+det-75+ngen-25+num-75
+cu	no	adj-75+adp-75+del-def+det-75+num-75
+cu	no_bokmaal	adj-75+adp-75+del-def+det-75+num-75
+cu	no_nynorsk	adj-75+adp-75+del-def+det-75+num-75
+cu	pl	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+cu	pt	adj-25+adp-75+det-75+ngen-25+num-75
+cu	pt_bosque	adj-25+adp-75+det-75+ngen-25+num-75
+cu	pt_br	adj-25+adp-75+det-75+ngen-25+num-75
+cu	ro	adj-25+adp-75+del-def+ngen-25+num-75
+cu	ru	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+cu	ru_syntagrus	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+cu	sa	
+cu	sk	adj-75+adp-75+del-d+det-75+num-75
+cu	sl	adj-75+adp-75+del-d+det-75+num-75
+cu	sl_sst	adj-75+adp-75+del-d+det-75+num-75
+cu	sv	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+cu	sv_lines	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+cu	swl	
+cu	ta	adj-75+adp-25+det-75+ngen-75+num-75
+cu	tr	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+cu	ug	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+cu	uk	adj-75+adp-75+del-d+det-75+num-75
+cu	ur	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+cu	vi	adj-25+adp-75+det-25+ngen-25+num-75
+cu	zh	adj-75+del-def+det-75+ngen-75+num-75
+da	ar	adj-50+ngen-50
+da	ar_nyuad	adj-50+ngen-50
+da	be	del-d+ngen-50
+da	bg	ngen-50
+da	ca	adj-50+ngen-50
+da	cop	adj-50+det-50+ngen-50
+da	cs	del-d+ngen-50
+da	cs_cac	del-d+ngen-50
+da	cs_cltt	del-d+ngen-50
+da	cu	adj-50+adp-50+det-50+ngen-50+num-50
+da	da	
+da	de	ngen-50
+da	el	ngen-50
+da	en	ngen-50
+da	en_esl	ngen-50
+da	en_lines	ngen-50
+da	en_partut	ngen-50
+da	es	adj-50+ngen-50
+da	es_ancora	adj-50+ngen-50
+da	et	adp-50+del-d
+da	eu	adj-50+adp-50+det-50
+da	fa	adj-50+ngen-50
+da	fi	adp-50+del-d
+da	fi_ftb	adp-50+del-d
+da	fr	adj-50+ngen-50
+da	fr_partut	adj-50+ngen-50
+da	fr_sequoia	adj-50+ngen-50
+da	ga	adj-50+del-ind+det-50+ngen-50
+da	gl	adj-50+ngen-50
+da	gl_treegal	adj-50+ngen-50
+da	got	adj-50+adp-50+det-50+ngen-50+num-50
+da	grc	adj-50+adp-50+det-50+ngen-50+num-50
+da	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+da	he	adj-50+det-50+ngen-50
+da	hi	adp-50+del-d
+da	hr	del-d+ngen-50
+da	hu	adp-50
+da	id	adj-50+del-ind+det-50+ngen-50
+da	it	adj-50+ngen-50
+da	it_partut	adj-50+ngen-50
+da	ja	adp-50
+da	ja_ktc	adp-50
+da	kk	adp-50
+da	ko	adp-50+del-d
+da	la	adj-50+adp-50+det-50+ngen-50+num-50
+da	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+da	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+da	lt	del-d
+da	lv	
+da	nl	ngen-50
+da	nl_lassysmall	ngen-50
+da	no	ngen-50
+da	no_bokmaal	ngen-50
+da	no_nynorsk	ngen-50
+da	pl	del-d+ngen-50
+da	pt	adj-50+ngen-50
+da	pt_bosque	adj-50+ngen-50
+da	pt_br	adj-50+ngen-50
+da	ro	adj-50+det-50+ngen-50
+da	ru	del-d+ngen-50
+da	ru_syntagrus	del-d+ngen-50
+da	sa	adj-50+adp-50+det-50+ngen-50+num-50
+da	sk	del-d+ngen-50
+da	sl	del-d+ngen-50
+da	sl_sst	del-d+ngen-50
+da	sv	
+da	sv_lines	
+da	swl	adj-50+adp-50+det-50+ngen-50+num-50
+da	ta	adp-50
+da	tr	adp-50
+da	ug	adp-50
+da	uk	del-d+ngen-50
+da	ur	adp-50+del-d
+da	vi	adj-50+det-50+ngen-50
+da	zh	adp-50
+de	ar	adj-50+del-def
+de	ar_nyuad	adj-50+del-def
+de	be	del-d
+de	bg	ngen-50
+de	ca	adj-50
+de	cop	adj-50+det-50
+de	cs	del-d+ngen-50
+de	cs_cac	del-d+ngen-50
+de	cs_cltt	del-d+ngen-50
+de	cu	adj-50+adp-50+det-50+ngen-50+num-50
+de	da	del-def+ngen-50
+de	de	
+de	el	
+de	en	ngen-50
+de	en_esl	ngen-50
+de	en_lines	ngen-50
+de	en_partut	ngen-50
+de	es	adj-50
+de	es_ancora	adj-50
+de	et	adp-50+del-d+ngen-50
+de	eu	adj-50+adp-50+det-50+ngen-50
+de	fa	adj-50+del-def
+de	fi	adp-50+del-d+ngen-50
+de	fi_ftb	adp-50+del-d+ngen-50
+de	fr	adj-50
+de	fr_partut	adj-50
+de	fr_sequoia	adj-50
+de	ga	adj-50+del-ind+det-50
+de	gl	adj-50
+de	gl_treegal	adj-50
+de	got	adj-50+adp-50+det-50+ngen-50+num-50
+de	grc	adj-50+adp-50+det-50+ngen-50+num-50
+de	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+de	he	adj-50+del-def+det-50
+de	hi	adp-50+del-d+ngen-50
+de	hr	del-d+ngen-50
+de	hu	adp-50+ngen-50
+de	id	adj-50+del-ind+det-50
+de	it	adj-50
+de	it_partut	adj-50
+de	ja	adp-50+del-def+ngen-50
+de	ja_ktc	adp-50+del-def+ngen-50
+de	kk	adp-50+del-def+ngen-50
+de	ko	adp-50+del-d+ngen-50
+de	la	adj-50+adp-50+det-50+ngen-50+num-50
+de	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+de	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+de	lt	del-d+ngen-50
+de	lv	ngen-50
+de	nl	
+de	nl_lassysmall	
+de	no	del-def+ngen-50
+de	no_bokmaal	del-def+ngen-50
+de	no_nynorsk	del-def+ngen-50
+de	pl	del-d
+de	pt	adj-50
+de	pt_bosque	adj-50
+de	pt_br	adj-50
+de	ro	adj-50+del-def+det-50
+de	ru	del-d
+de	ru_syntagrus	del-d
+de	sa	adj-50+adp-50+det-50+ngen-50+num-50
+de	sk	del-d+ngen-50
+de	sl	del-d+ngen-50
+de	sl_sst	del-d+ngen-50
+de	sv	del-def+ngen-50
+de	sv_lines	del-def+ngen-50
+de	swl	adj-50+adp-50+det-50+ngen-50+num-50
+de	ta	adp-50+ngen-50
+de	tr	adp-50+del-def+ngen-50
+de	ug	adp-50+del-def+ngen-50
+de	uk	del-d+ngen-50
+de	ur	adp-50+del-d+ngen-50
+de	vi	adj-50+det-50
+de	zh	adp-50+del-def+ngen-50
+el	ar	adj-50+del-def
+el	ar_nyuad	adj-50+del-def
+el	be	del-d
+el	bg	ngen-50
+el	ca	adj-50
+el	cop	adj-50+det-50
+el	cs	del-d+ngen-50
+el	cs_cac	del-d+ngen-50
+el	cs_cltt	del-d+ngen-50
+el	cu	adj-50+adp-50+det-50+ngen-50+num-50
+el	da	del-def+ngen-50
+el	de	
+el	el	
+el	en	ngen-50
+el	en_esl	ngen-50
+el	en_lines	ngen-50
+el	en_partut	ngen-50
+el	es	adj-50
+el	es_ancora	adj-50
+el	et	adp-50+del-d+ngen-50
+el	eu	adj-50+adp-50+det-50+ngen-50
+el	fa	adj-50+del-def
+el	fi	adp-50+del-d+ngen-50
+el	fi_ftb	adp-50+del-d+ngen-50
+el	fr	adj-50
+el	fr_partut	adj-50
+el	fr_sequoia	adj-50
+el	ga	adj-50+del-ind+det-50
+el	gl	adj-50
+el	gl_treegal	adj-50
+el	got	adj-50+adp-50+det-50+ngen-50+num-50
+el	grc	adj-50+adp-50+det-50+ngen-50+num-50
+el	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+el	he	adj-50+del-def+det-50
+el	hi	adp-50+del-d+ngen-50
+el	hr	del-d+ngen-50
+el	hu	adp-50+ngen-50
+el	id	adj-50+del-ind+det-50
+el	it	adj-50
+el	it_partut	adj-50
+el	ja	adp-50+del-def+ngen-50
+el	ja_ktc	adp-50+del-def+ngen-50
+el	kk	adp-50+del-def+ngen-50
+el	ko	adp-50+del-d+ngen-50
+el	la	adj-50+adp-50+det-50+ngen-50+num-50
+el	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+el	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+el	lt	del-d+ngen-50
+el	lv	ngen-50
+el	nl	
+el	nl_lassysmall	
+el	no	del-def+ngen-50
+el	no_bokmaal	del-def+ngen-50
+el	no_nynorsk	del-def+ngen-50
+el	pl	del-d
+el	pt	adj-50
+el	pt_bosque	adj-50
+el	pt_br	adj-50
+el	ro	adj-50+del-def+det-50
+el	ru	del-d
+el	ru_syntagrus	del-d
+el	sa	adj-50+adp-50+det-50+ngen-50+num-50
+el	sk	del-d+ngen-50
+el	sl	del-d+ngen-50
+el	sl_sst	del-d+ngen-50
+el	sv	del-def+ngen-50
+el	sv_lines	del-def+ngen-50
+el	swl	adj-50+adp-50+det-50+ngen-50+num-50
+el	ta	adp-50+ngen-50
+el	tr	adp-50+del-def+ngen-50
+el	ug	adp-50+del-def+ngen-50
+el	uk	del-d+ngen-50
+el	ur	adp-50+del-d+ngen-50
+el	vi	adj-50+det-50
+el	zh	adp-50+del-def+ngen-50
+en	ar	adj-50+del-def+ngen-25
+en	ar_nyuad	adj-50+del-def+ngen-25
+en	be	del-d+ngen-25
+en	bg	
+en	ca	adj-50+ngen-25
+en	cop	adj-50+det-50+ngen-25
+en	cs	del-d
+en	cs_cac	del-d
+en	cs_cltt	del-d
+en	cu	adj-50+adp-50+det-50+num-50
+en	da	del-def+ngen-75
+en	de	ngen-25
+en	el	ngen-25
+en	en	
+en	en_esl	
+en	en_lines	
+en	en_partut	
+en	es	adj-50+ngen-25
+en	es_ancora	adj-50+ngen-25
+en	et	adp-50+del-d+ngen-75
+en	eu	adj-50+adp-50+det-50+ngen-75
+en	fa	adj-50+del-def+ngen-25
+en	fi	adp-50+del-d+ngen-75
+en	fi_ftb	adp-50+del-d+ngen-75
+en	fr	adj-50+ngen-25
+en	fr_partut	adj-50+ngen-25
+en	fr_sequoia	adj-50+ngen-25
+en	ga	adj-50+del-ind+det-50+ngen-25
+en	gl	adj-50+ngen-25
+en	gl_treegal	adj-50+ngen-25
+en	got	adj-50+adp-50+det-50+num-50
+en	grc	adj-50+adp-50+det-50+num-50
+en	grc_proiel	adj-50+adp-50+det-50+num-50
+en	he	adj-50+del-def+det-50+ngen-25
+en	hi	adp-50+del-d+ngen-75
+en	hr	del-d
+en	hu	adp-50+ngen-75
+en	id	adj-50+del-ind+det-50+ngen-25
+en	it	adj-50+ngen-25
+en	it_partut	adj-50+ngen-25
+en	ja	adp-50+del-def+ngen-75
+en	ja_ktc	adp-50+del-def+ngen-75
+en	kk	adp-50+del-def+ngen-75
+en	ko	adp-50+del-d+ngen-75
+en	la	adj-50+adp-50+det-50+num-50
+en	la_ittb	adj-50+adp-50+det-50+num-50
+en	la_proiel	adj-50+adp-50+det-50+num-50
+en	lt	del-d+ngen-75
+en	lv	ngen-75
+en	nl	ngen-25
+en	nl_lassysmall	ngen-25
+en	no	del-def
+en	no_bokmaal	del-def
+en	no_nynorsk	del-def
+en	pl	del-d+ngen-25
+en	pt	adj-50+ngen-25
+en	pt_bosque	adj-50+ngen-25
+en	pt_br	adj-50+ngen-25
+en	ro	adj-50+del-def+det-50+ngen-25
+en	ru	del-d+ngen-25
+en	ru_syntagrus	del-d+ngen-25
+en	sa	adj-50+adp-50+det-50+num-50
+en	sk	del-d
+en	sl	del-d
+en	sl_sst	del-d
+en	sv	del-def+ngen-75
+en	sv_lines	del-def+ngen-75
+en	swl	adj-50+adp-50+det-50+num-50
+en	ta	adp-50+ngen-75
+en	tr	adp-50+del-def+ngen-75
+en	ug	adp-50+del-def+ngen-75
+en	uk	del-d
+en	ur	adp-50+del-d+ngen-75
+en	vi	adj-50+det-50+ngen-25
+en	zh	adp-50+del-def+ngen-75
+en_esl	ar	adj-50+del-def+ngen-25
+en_esl	ar_nyuad	adj-50+del-def+ngen-25
+en_esl	be	del-d+ngen-25
+en_esl	bg	
+en_esl	ca	adj-50+ngen-25
+en_esl	cop	adj-50+det-50+ngen-25
+en_esl	cs	del-d
+en_esl	cs_cac	del-d
+en_esl	cs_cltt	del-d
+en_esl	cu	adj-50+adp-50+det-50+num-50
+en_esl	da	del-def+ngen-75
+en_esl	de	ngen-25
+en_esl	el	ngen-25
+en_esl	en	
+en_esl	en_esl	
+en_esl	en_lines	
+en_esl	en_partut	
+en_esl	es	adj-50+ngen-25
+en_esl	es_ancora	adj-50+ngen-25
+en_esl	et	adp-50+del-d+ngen-75
+en_esl	eu	adj-50+adp-50+det-50+ngen-75
+en_esl	fa	adj-50+del-def+ngen-25
+en_esl	fi	adp-50+del-d+ngen-75
+en_esl	fi_ftb	adp-50+del-d+ngen-75
+en_esl	fr	adj-50+ngen-25
+en_esl	fr_partut	adj-50+ngen-25
+en_esl	fr_sequoia	adj-50+ngen-25
+en_esl	ga	adj-50+del-ind+det-50+ngen-25
+en_esl	gl	adj-50+ngen-25
+en_esl	gl_treegal	adj-50+ngen-25
+en_esl	got	adj-50+adp-50+det-50+num-50
+en_esl	grc	adj-50+adp-50+det-50+num-50
+en_esl	grc_proiel	adj-50+adp-50+det-50+num-50
+en_esl	he	adj-50+del-def+det-50+ngen-25
+en_esl	hi	adp-50+del-d+ngen-75
+en_esl	hr	del-d
+en_esl	hu	adp-50+ngen-75
+en_esl	id	adj-50+del-ind+det-50+ngen-25
+en_esl	it	adj-50+ngen-25
+en_esl	it_partut	adj-50+ngen-25
+en_esl	ja	adp-50+del-def+ngen-75
+en_esl	ja_ktc	adp-50+del-def+ngen-75
+en_esl	kk	adp-50+del-def+ngen-75
+en_esl	ko	adp-50+del-d+ngen-75
+en_esl	la	adj-50+adp-50+det-50+num-50
+en_esl	la_ittb	adj-50+adp-50+det-50+num-50
+en_esl	la_proiel	adj-50+adp-50+det-50+num-50
+en_esl	lt	del-d+ngen-75
+en_esl	lv	ngen-75
+en_esl	nl	ngen-25
+en_esl	nl_lassysmall	ngen-25
+en_esl	no	del-def
+en_esl	no_bokmaal	del-def
+en_esl	no_nynorsk	del-def
+en_esl	pl	del-d+ngen-25
+en_esl	pt	adj-50+ngen-25
+en_esl	pt_bosque	adj-50+ngen-25
+en_esl	pt_br	adj-50+ngen-25
+en_esl	ro	adj-50+del-def+det-50+ngen-25
+en_esl	ru	del-d+ngen-25
+en_esl	ru_syntagrus	del-d+ngen-25
+en_esl	sa	adj-50+adp-50+det-50+num-50
+en_esl	sk	del-d
+en_esl	sl	del-d
+en_esl	sl_sst	del-d
+en_esl	sv	del-def+ngen-75
+en_esl	sv_lines	del-def+ngen-75
+en_esl	swl	adj-50+adp-50+det-50+num-50
+en_esl	ta	adp-50+ngen-75
+en_esl	tr	adp-50+del-def+ngen-75
+en_esl	ug	adp-50+del-def+ngen-75
+en_esl	uk	del-d
+en_esl	ur	adp-50+del-d+ngen-75
+en_esl	vi	adj-50+det-50+ngen-25
+en_esl	zh	adp-50+del-def+ngen-75
+en_lines	ar	adj-50+del-def+ngen-25
+en_lines	ar_nyuad	adj-50+del-def+ngen-25
+en_lines	be	del-d+ngen-25
+en_lines	bg	
+en_lines	ca	adj-50+ngen-25
+en_lines	cop	adj-50+det-50+ngen-25
+en_lines	cs	del-d
+en_lines	cs_cac	del-d
+en_lines	cs_cltt	del-d
+en_lines	cu	adj-50+adp-50+det-50+num-50
+en_lines	da	del-def+ngen-75
+en_lines	de	ngen-25
+en_lines	el	ngen-25
+en_lines	en	
+en_lines	en_esl	
+en_lines	en_lines	
+en_lines	en_partut	
+en_lines	es	adj-50+ngen-25
+en_lines	es_ancora	adj-50+ngen-25
+en_lines	et	adp-50+del-d+ngen-75
+en_lines	eu	adj-50+adp-50+det-50+ngen-75
+en_lines	fa	adj-50+del-def+ngen-25
+en_lines	fi	adp-50+del-d+ngen-75
+en_lines	fi_ftb	adp-50+del-d+ngen-75
+en_lines	fr	adj-50+ngen-25
+en_lines	fr_partut	adj-50+ngen-25
+en_lines	fr_sequoia	adj-50+ngen-25
+en_lines	ga	adj-50+del-ind+det-50+ngen-25
+en_lines	gl	adj-50+ngen-25
+en_lines	gl_treegal	adj-50+ngen-25
+en_lines	got	adj-50+adp-50+det-50+num-50
+en_lines	grc	adj-50+adp-50+det-50+num-50
+en_lines	grc_proiel	adj-50+adp-50+det-50+num-50
+en_lines	he	adj-50+del-def+det-50+ngen-25
+en_lines	hi	adp-50+del-d+ngen-75
+en_lines	hr	del-d
+en_lines	hu	adp-50+ngen-75
+en_lines	id	adj-50+del-ind+det-50+ngen-25
+en_lines	it	adj-50+ngen-25
+en_lines	it_partut	adj-50+ngen-25
+en_lines	ja	adp-50+del-def+ngen-75
+en_lines	ja_ktc	adp-50+del-def+ngen-75
+en_lines	kk	adp-50+del-def+ngen-75
+en_lines	ko	adp-50+del-d+ngen-75
+en_lines	la	adj-50+adp-50+det-50+num-50
+en_lines	la_ittb	adj-50+adp-50+det-50+num-50
+en_lines	la_proiel	adj-50+adp-50+det-50+num-50
+en_lines	lt	del-d+ngen-75
+en_lines	lv	ngen-75
+en_lines	nl	ngen-25
+en_lines	nl_lassysmall	ngen-25
+en_lines	no	del-def
+en_lines	no_bokmaal	del-def
+en_lines	no_nynorsk	del-def
+en_lines	pl	del-d+ngen-25
+en_lines	pt	adj-50+ngen-25
+en_lines	pt_bosque	adj-50+ngen-25
+en_lines	pt_br	adj-50+ngen-25
+en_lines	ro	adj-50+del-def+det-50+ngen-25
+en_lines	ru	del-d+ngen-25
+en_lines	ru_syntagrus	del-d+ngen-25
+en_lines	sa	adj-50+adp-50+det-50+num-50
+en_lines	sk	del-d
+en_lines	sl	del-d
+en_lines	sl_sst	del-d
+en_lines	sv	del-def+ngen-75
+en_lines	sv_lines	del-def+ngen-75
+en_lines	swl	adj-50+adp-50+det-50+num-50
+en_lines	ta	adp-50+ngen-75
+en_lines	tr	adp-50+del-def+ngen-75
+en_lines	ug	adp-50+del-def+ngen-75
+en_lines	uk	del-d
+en_lines	ur	adp-50+del-d+ngen-75
+en_lines	vi	adj-50+det-50+ngen-25
+en_lines	zh	adp-50+del-def+ngen-75
+en_partut	ar	adj-50+del-def+ngen-25
+en_partut	ar_nyuad	adj-50+del-def+ngen-25
+en_partut	be	del-d+ngen-25
+en_partut	bg	
+en_partut	ca	adj-50+ngen-25
+en_partut	cop	adj-50+det-50+ngen-25
+en_partut	cs	del-d
+en_partut	cs_cac	del-d
+en_partut	cs_cltt	del-d
+en_partut	cu	adj-50+adp-50+det-50+num-50
+en_partut	da	del-def+ngen-75
+en_partut	de	ngen-25
+en_partut	el	ngen-25
+en_partut	en	
+en_partut	en_esl	
+en_partut	en_lines	
+en_partut	en_partut	
+en_partut	es	adj-50+ngen-25
+en_partut	es_ancora	adj-50+ngen-25
+en_partut	et	adp-50+del-d+ngen-75
+en_partut	eu	adj-50+adp-50+det-50+ngen-75
+en_partut	fa	adj-50+del-def+ngen-25
+en_partut	fi	adp-50+del-d+ngen-75
+en_partut	fi_ftb	adp-50+del-d+ngen-75
+en_partut	fr	adj-50+ngen-25
+en_partut	fr_partut	adj-50+ngen-25
+en_partut	fr_sequoia	adj-50+ngen-25
+en_partut	ga	adj-50+del-ind+det-50+ngen-25
+en_partut	gl	adj-50+ngen-25
+en_partut	gl_treegal	adj-50+ngen-25
+en_partut	got	adj-50+adp-50+det-50+num-50
+en_partut	grc	adj-50+adp-50+det-50+num-50
+en_partut	grc_proiel	adj-50+adp-50+det-50+num-50
+en_partut	he	adj-50+del-def+det-50+ngen-25
+en_partut	hi	adp-50+del-d+ngen-75
+en_partut	hr	del-d
+en_partut	hu	adp-50+ngen-75
+en_partut	id	adj-50+del-ind+det-50+ngen-25
+en_partut	it	adj-50+ngen-25
+en_partut	it_partut	adj-50+ngen-25
+en_partut	ja	adp-50+del-def+ngen-75
+en_partut	ja_ktc	adp-50+del-def+ngen-75
+en_partut	kk	adp-50+del-def+ngen-75
+en_partut	ko	adp-50+del-d+ngen-75
+en_partut	la	adj-50+adp-50+det-50+num-50
+en_partut	la_ittb	adj-50+adp-50+det-50+num-50
+en_partut	la_proiel	adj-50+adp-50+det-50+num-50
+en_partut	lt	del-d+ngen-75
+en_partut	lv	ngen-75
+en_partut	nl	ngen-25
+en_partut	nl_lassysmall	ngen-25
+en_partut	no	del-def
+en_partut	no_bokmaal	del-def
+en_partut	no_nynorsk	del-def
+en_partut	pl	del-d+ngen-25
+en_partut	pt	adj-50+ngen-25
+en_partut	pt_bosque	adj-50+ngen-25
+en_partut	pt_br	adj-50+ngen-25
+en_partut	ro	adj-50+del-def+det-50+ngen-25
+en_partut	ru	del-d+ngen-25
+en_partut	ru_syntagrus	del-d+ngen-25
+en_partut	sa	adj-50+adp-50+det-50+num-50
+en_partut	sk	del-d
+en_partut	sl	del-d
+en_partut	sl_sst	del-d
+en_partut	sv	del-def+ngen-75
+en_partut	sv_lines	del-def+ngen-75
+en_partut	swl	adj-50+adp-50+det-50+num-50
+en_partut	ta	adp-50+ngen-75
+en_partut	tr	adp-50+del-def+ngen-75
+en_partut	ug	adp-50+del-def+ngen-75
+en_partut	uk	del-d
+en_partut	ur	adp-50+del-d+ngen-75
+en_partut	vi	adj-50+det-50+ngen-25
+en_partut	zh	adp-50+del-def+ngen-75
+es	ar	del-def
+es	ar_nyuad	del-def
+es	be	adj-50+del-d
+es	bg	adj-50+ngen-50
+es	ca	
+es	cop	det-50
+es	cs	adj-50+del-d+ngen-50
+es	cs_cac	adj-50+del-d+ngen-50
+es	cs_cltt	adj-50+del-d+ngen-50
+es	cu	adj-50+adp-50+det-50+ngen-50+num-50
+es	da	adj-50+del-def+ngen-50
+es	de	adj-50
+es	el	adj-50
+es	en	adj-50+ngen-50
+es	en_esl	adj-50+ngen-50
+es	en_lines	adj-50+ngen-50
+es	en_partut	adj-50+ngen-50
+es	es	
+es	es_ancora	
+es	et	adj-50+adp-50+del-d+ngen-50
+es	eu	adp-50+det-50+ngen-50
+es	fa	del-def
+es	fi	adj-50+adp-50+del-d+ngen-50
+es	fi_ftb	adj-50+adp-50+del-d+ngen-50
+es	fr	
+es	fr_partut	
+es	fr_sequoia	
+es	ga	del-ind+det-50
+es	gl	
+es	gl_treegal	
+es	got	adj-50+adp-50+det-50+ngen-50+num-50
+es	grc	adj-50+adp-50+det-50+ngen-50+num-50
+es	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+es	he	del-def+det-50
+es	hi	adj-50+adp-50+del-d+ngen-50
+es	hr	adj-50+del-d+ngen-50
+es	hu	adj-50+adp-50+ngen-50
+es	id	del-ind+det-50
+es	it	
+es	it_partut	
+es	ja	adj-50+adp-50+del-def+ngen-50
+es	ja_ktc	adj-50+adp-50+del-def+ngen-50
+es	kk	adj-50+adp-50+del-def+ngen-50
+es	ko	adj-50+adp-50+del-d+ngen-50
+es	la	adj-50+adp-50+det-50+ngen-50+num-50
+es	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+es	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+es	lt	adj-50+del-d+ngen-50
+es	lv	adj-50+ngen-50
+es	nl	adj-50
+es	nl_lassysmall	adj-50
+es	no	adj-50+del-def+ngen-50
+es	no_bokmaal	adj-50+del-def+ngen-50
+es	no_nynorsk	adj-50+del-def+ngen-50
+es	pl	adj-50+del-d
+es	pt	
+es	pt_bosque	
+es	pt_br	
+es	ro	del-def+det-50
+es	ru	adj-50+del-d
+es	ru_syntagrus	adj-50+del-d
+es	sa	adj-50+adp-50+det-50+ngen-50+num-50
+es	sk	adj-50+del-d+ngen-50
+es	sl	adj-50+del-d+ngen-50
+es	sl_sst	adj-50+del-d+ngen-50
+es	sv	adj-50+del-def+ngen-50
+es	sv_lines	adj-50+del-def+ngen-50
+es	swl	adj-50+adp-50+det-50+ngen-50+num-50
+es	ta	adj-50+adp-50+ngen-50
+es	tr	adj-50+adp-50+del-def+ngen-50
+es	ug	adj-50+adp-50+del-def+ngen-50
+es	uk	adj-50+del-d+ngen-50
+es	ur	adj-50+adp-50+del-d+ngen-50
+es	vi	det-50
+es	zh	adj-50+adp-50+del-def+ngen-50
+es_ancora	ar	del-def
+es_ancora	ar_nyuad	del-def
+es_ancora	be	adj-50+del-d
+es_ancora	bg	adj-50+ngen-50
+es_ancora	ca	
+es_ancora	cop	det-50
+es_ancora	cs	adj-50+del-d+ngen-50
+es_ancora	cs_cac	adj-50+del-d+ngen-50
+es_ancora	cs_cltt	adj-50+del-d+ngen-50
+es_ancora	cu	adj-50+adp-50+det-50+ngen-50+num-50
+es_ancora	da	adj-50+del-def+ngen-50
+es_ancora	de	adj-50
+es_ancora	el	adj-50
+es_ancora	en	adj-50+ngen-50
+es_ancora	en_esl	adj-50+ngen-50
+es_ancora	en_lines	adj-50+ngen-50
+es_ancora	en_partut	adj-50+ngen-50
+es_ancora	es	
+es_ancora	es_ancora	
+es_ancora	et	adj-50+adp-50+del-d+ngen-50
+es_ancora	eu	adp-50+det-50+ngen-50
+es_ancora	fa	del-def
+es_ancora	fi	adj-50+adp-50+del-d+ngen-50
+es_ancora	fi_ftb	adj-50+adp-50+del-d+ngen-50
+es_ancora	fr	
+es_ancora	fr_partut	
+es_ancora	fr_sequoia	
+es_ancora	ga	del-ind+det-50
+es_ancora	gl	
+es_ancora	gl_treegal	
+es_ancora	got	adj-50+adp-50+det-50+ngen-50+num-50
+es_ancora	grc	adj-50+adp-50+det-50+ngen-50+num-50
+es_ancora	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+es_ancora	he	del-def+det-50
+es_ancora	hi	adj-50+adp-50+del-d+ngen-50
+es_ancora	hr	adj-50+del-d+ngen-50
+es_ancora	hu	adj-50+adp-50+ngen-50
+es_ancora	id	del-ind+det-50
+es_ancora	it	
+es_ancora	it_partut	
+es_ancora	ja	adj-50+adp-50+del-def+ngen-50
+es_ancora	ja_ktc	adj-50+adp-50+del-def+ngen-50
+es_ancora	kk	adj-50+adp-50+del-def+ngen-50
+es_ancora	ko	adj-50+adp-50+del-d+ngen-50
+es_ancora	la	adj-50+adp-50+det-50+ngen-50+num-50
+es_ancora	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+es_ancora	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+es_ancora	lt	adj-50+del-d+ngen-50
+es_ancora	lv	adj-50+ngen-50
+es_ancora	nl	adj-50
+es_ancora	nl_lassysmall	adj-50
+es_ancora	no	adj-50+del-def+ngen-50
+es_ancora	no_bokmaal	adj-50+del-def+ngen-50
+es_ancora	no_nynorsk	adj-50+del-def+ngen-50
+es_ancora	pl	adj-50+del-d
+es_ancora	pt	
+es_ancora	pt_bosque	
+es_ancora	pt_br	
+es_ancora	ro	del-def+det-50
+es_ancora	ru	adj-50+del-d
+es_ancora	ru_syntagrus	adj-50+del-d
+es_ancora	sa	adj-50+adp-50+det-50+ngen-50+num-50
+es_ancora	sk	adj-50+del-d+ngen-50
+es_ancora	sl	adj-50+del-d+ngen-50
+es_ancora	sl_sst	adj-50+del-d+ngen-50
+es_ancora	sv	adj-50+del-def+ngen-50
+es_ancora	sv_lines	adj-50+del-def+ngen-50
+es_ancora	swl	adj-50+adp-50+det-50+ngen-50+num-50
+es_ancora	ta	adj-50+adp-50+ngen-50
+es_ancora	tr	adj-50+adp-50+del-def+ngen-50
+es_ancora	ug	adj-50+adp-50+del-def+ngen-50
+es_ancora	uk	adj-50+del-d+ngen-50
+es_ancora	ur	adj-50+adp-50+del-d+ngen-50
+es_ancora	vi	det-50
+es_ancora	zh	adj-50+adp-50+del-def+ngen-50
+et	ar	adj-50+adp-50+del-def+ngen-50
+et	ar_nyuad	adj-50+adp-50+del-def+ngen-50
+et	be	adp-50+ngen-50
+et	bg	adp-50+ngen-50
+et	ca	adj-50+adp-50+ngen-50
+et	cop	adj-50+adp-50+det-50+ngen-50
+et	cs	adp-50+ngen-50
+et	cs_cac	adp-50+ngen-50
+et	cs_cltt	adp-50+ngen-50
+et	cu	adj-50+adp-50+det-50+ngen-50+num-50
+et	da	adp-50+del-def
+et	de	adp-50+ngen-50
+et	el	adp-50+ngen-50
+et	en	adp-50+ngen-50
+et	en_esl	adp-50+ngen-50
+et	en_lines	adp-50+ngen-50
+et	en_partut	adp-50+ngen-50
+et	es	adj-50+adp-50+ngen-50
+et	es_ancora	adj-50+adp-50+ngen-50
+et	et	
+et	eu	adj-50+det-50
+et	fa	adj-50+adp-50+del-def+ngen-50
+et	fi	
+et	fi_ftb	
+et	fr	adj-50+adp-50+ngen-50
+et	fr_partut	adj-50+adp-50+ngen-50
+et	fr_sequoia	adj-50+adp-50+ngen-50
+et	ga	adj-50+adp-50+del-ind+det-50+ngen-50
+et	gl	adj-50+adp-50+ngen-50
+et	gl_treegal	adj-50+adp-50+ngen-50
+et	got	adj-50+adp-50+det-50+ngen-50+num-50
+et	grc	adj-50+adp-50+det-50+ngen-50+num-50
+et	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+et	he	adj-50+adp-50+del-def+det-50+ngen-50
+et	hi	
+et	hr	adp-50+ngen-50
+et	hu	
+et	id	adj-50+adp-50+del-ind+det-50+ngen-50
+et	it	adj-50+adp-50+ngen-50
+et	it_partut	adj-50+adp-50+ngen-50
+et	ja	del-def
+et	ja_ktc	del-def
+et	kk	del-def
+et	ko	
+et	la	adj-50+adp-50+det-50+ngen-50+num-50
+et	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+et	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+et	lt	adp-50
+et	lv	adp-50
+et	nl	adp-50+ngen-50
+et	nl_lassysmall	adp-50+ngen-50
+et	no	adp-50+del-def+ngen-50
+et	no_bokmaal	adp-50+del-def+ngen-50
+et	no_nynorsk	adp-50+del-def+ngen-50
+et	pl	adp-50+ngen-50
+et	pt	adj-50+adp-50+ngen-50
+et	pt_bosque	adj-50+adp-50+ngen-50
+et	pt_br	adj-50+adp-50+ngen-50
+et	ro	adj-50+adp-50+del-def+det-50+ngen-50
+et	ru	adp-50+ngen-50
+et	ru_syntagrus	adp-50+ngen-50
+et	sa	adj-50+adp-50+det-50+ngen-50+num-50
+et	sk	adp-50+ngen-50
+et	sl	adp-50+ngen-50
+et	sl_sst	adp-50+ngen-50
+et	sv	adp-50+del-def
+et	sv_lines	adp-50+del-def
+et	swl	adj-50+adp-50+det-50+ngen-50+num-50
+et	ta	
+et	tr	del-def
+et	ug	del-def
+et	uk	adp-50+ngen-50
+et	ur	
+et	vi	adj-50+adp-50+det-50+ngen-50
+et	zh	adp-50+del-def
+eu	ar	adp-50+del-def+det-50+ngen-50
+eu	ar_nyuad	adp-50+del-def+det-50+ngen-50
+eu	be	adj-50+adp-50+del-d+det-50+ngen-50
+eu	bg	adj-50+adp-50+det-50+ngen-50
+eu	ca	adp-50+det-50+ngen-50
+eu	cop	adp-50+det-50+ngen-50
+eu	cs	adj-50+adp-50+del-d+det-50+ngen-50
+eu	cs_cac	adj-50+adp-50+del-d+det-50+ngen-50
+eu	cs_cltt	adj-50+adp-50+del-d+det-50+ngen-50
+eu	cu	adj-50+adp-50+det-50+ngen-50+num-50
+eu	da	adj-50+adp-50+del-def+det-50
+eu	de	adj-50+adp-50+det-50+ngen-50
+eu	el	adj-50+adp-50+det-50+ngen-50
+eu	en	adj-50+adp-50+det-50+ngen-50
+eu	en_esl	adj-50+adp-50+det-50+ngen-50
+eu	en_lines	adj-50+adp-50+det-50+ngen-50
+eu	en_partut	adj-50+adp-50+det-50+ngen-50
+eu	es	adp-50+det-50+ngen-50
+eu	es_ancora	adp-50+det-50+ngen-50
+eu	et	adj-50+del-d+det-50
+eu	eu	
+eu	fa	adp-50+del-def+det-50+ngen-50
+eu	fi	adj-50+del-d+det-50
+eu	fi_ftb	adj-50+del-d+det-50
+eu	fr	adp-50+det-50+ngen-50
+eu	fr_partut	adp-50+det-50+ngen-50
+eu	fr_sequoia	adp-50+det-50+ngen-50
+eu	ga	adp-50+del-ind+ngen-50
+eu	gl	adp-50+det-50+ngen-50
+eu	gl_treegal	adp-50+det-50+ngen-50
+eu	got	adj-50+adp-50+det-50+ngen-50+num-50
+eu	grc	adj-50+adp-50+det-50+ngen-50+num-50
+eu	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+eu	he	adp-50+del-def+ngen-50
+eu	hi	adj-50+del-d+det-50
+eu	hr	adj-50+adp-50+del-d+det-50+ngen-50
+eu	hu	adj-50+det-50
+eu	id	adp-50+del-ind+ngen-50
+eu	it	adp-50+det-50+ngen-50
+eu	it_partut	adp-50+det-50+ngen-50
+eu	ja	adj-50+del-def+det-50
+eu	ja_ktc	adj-50+del-def+det-50
+eu	kk	adj-50+del-def+det-50
+eu	ko	adj-50+del-d+det-50
+eu	la	adj-50+adp-50+det-50+ngen-50+num-50
+eu	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+eu	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+eu	lt	adj-50+adp-50+del-d+det-50
+eu	lv	adj-50+adp-50+det-50
+eu	nl	adj-50+adp-50+det-50+ngen-50
+eu	nl_lassysmall	adj-50+adp-50+det-50+ngen-50
+eu	no	adj-50+adp-50+del-def+det-50+ngen-50
+eu	no_bokmaal	adj-50+adp-50+del-def+det-50+ngen-50
+eu	no_nynorsk	adj-50+adp-50+del-def+det-50+ngen-50
+eu	pl	adj-50+adp-50+del-d+det-50+ngen-50
+eu	pt	adp-50+det-50+ngen-50
+eu	pt_bosque	adp-50+det-50+ngen-50
+eu	pt_br	adp-50+det-50+ngen-50
+eu	ro	adp-50+del-def+det-50+ngen-50
+eu	ru	adj-50+adp-50+del-d+det-50+ngen-50
+eu	ru_syntagrus	adj-50+adp-50+del-d+det-50+ngen-50
+eu	sa	adj-50+adp-50+det-50+ngen-50+num-50
+eu	sk	adj-50+adp-50+del-d+det-50+ngen-50
+eu	sl	adj-50+adp-50+del-d+det-50+ngen-50
+eu	sl_sst	adj-50+adp-50+del-d+det-50+ngen-50
+eu	sv	adj-50+adp-50+del-def+det-50
+eu	sv_lines	adj-50+adp-50+del-def+det-50
+eu	swl	adj-50+adp-50+det-50+ngen-50+num-50
+eu	ta	adj-50+det-50
+eu	tr	adj-50+del-def+det-50
+eu	ug	adj-50+del-def+det-50
+eu	uk	adj-50+adp-50+del-d+det-50+ngen-50
+eu	ur	adj-50+del-d+det-50
+eu	vi	adp-50+ngen-50
+eu	zh	adj-50+adp-50+del-def+det-50
+fa	ar	
+fa	ar_nyuad	
+fa	be	adj-50+del-d
+fa	bg	adj-50+ngen-50
+fa	ca	
+fa	cop	det-50
+fa	cs	adj-50+del-d+ngen-50
+fa	cs_cac	adj-50+del-d+ngen-50
+fa	cs_cltt	adj-50+del-d+ngen-50
+fa	cu	adj-50+adp-50+det-50+ngen-50+num-50
+fa	da	adj-50+ngen-50
+fa	de	adj-50
+fa	el	adj-50
+fa	en	adj-50+ngen-50
+fa	en_esl	adj-50+ngen-50
+fa	en_lines	adj-50+ngen-50
+fa	en_partut	adj-50+ngen-50
+fa	es	
+fa	es_ancora	
+fa	et	adj-50+adp-50+del-d+ngen-50
+fa	eu	adp-50+det-50+ngen-50
+fa	fa	
+fa	fi	adj-50+adp-50+del-d+ngen-50
+fa	fi_ftb	adj-50+adp-50+del-d+ngen-50
+fa	fr	
+fa	fr_partut	
+fa	fr_sequoia	
+fa	ga	del-ind+det-50
+fa	gl	
+fa	gl_treegal	
+fa	got	adj-50+adp-50+det-50+ngen-50+num-50
+fa	grc	adj-50+adp-50+det-50+ngen-50+num-50
+fa	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+fa	he	det-50
+fa	hi	adj-50+adp-50+del-d+ngen-50
+fa	hr	adj-50+del-d+ngen-50
+fa	hu	adj-50+adp-50+ngen-50
+fa	id	del-ind+det-50
+fa	it	
+fa	it_partut	
+fa	ja	adj-50+adp-50+ngen-50
+fa	ja_ktc	adj-50+adp-50+ngen-50
+fa	kk	adj-50+adp-50+ngen-50
+fa	ko	adj-50+adp-50+del-d+ngen-50
+fa	la	adj-50+adp-50+det-50+ngen-50+num-50
+fa	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+fa	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+fa	lt	adj-50+del-d+ngen-50
+fa	lv	adj-50+ngen-50
+fa	nl	adj-50
+fa	nl_lassysmall	adj-50
+fa	no	adj-50+ngen-50
+fa	no_bokmaal	adj-50+ngen-50
+fa	no_nynorsk	adj-50+ngen-50
+fa	pl	adj-50+del-d
+fa	pt	
+fa	pt_bosque	
+fa	pt_br	
+fa	ro	det-50
+fa	ru	adj-50+del-d
+fa	ru_syntagrus	adj-50+del-d
+fa	sa	adj-50+adp-50+det-50+ngen-50+num-50
+fa	sk	adj-50+del-d+ngen-50
+fa	sl	adj-50+del-d+ngen-50
+fa	sl_sst	adj-50+del-d+ngen-50
+fa	sv	adj-50+ngen-50
+fa	sv_lines	adj-50+ngen-50
+fa	swl	adj-50+adp-50+det-50+ngen-50+num-50
+fa	ta	adj-50+adp-50+ngen-50
+fa	tr	adj-50+adp-50+ngen-50
+fa	ug	adj-50+adp-50+ngen-50
+fa	uk	adj-50+del-d+ngen-50
+fa	ur	adj-50+adp-50+del-d+ngen-50
+fa	vi	det-50
+fa	zh	adj-50+adp-50+ngen-50
+fi	ar	adj-50+adp-50+del-def+ngen-50
+fi	ar_nyuad	adj-50+adp-50+del-def+ngen-50
+fi	be	adp-50+ngen-50
+fi	bg	adp-50+ngen-50
+fi	ca	adj-50+adp-50+ngen-50
+fi	cop	adj-50+adp-50+det-50+ngen-50
+fi	cs	adp-50+ngen-50
+fi	cs_cac	adp-50+ngen-50
+fi	cs_cltt	adp-50+ngen-50
+fi	cu	adj-50+adp-50+det-50+ngen-50+num-50
+fi	da	adp-50+del-def
+fi	de	adp-50+ngen-50
+fi	el	adp-50+ngen-50
+fi	en	adp-50+ngen-50
+fi	en_esl	adp-50+ngen-50
+fi	en_lines	adp-50+ngen-50
+fi	en_partut	adp-50+ngen-50
+fi	es	adj-50+adp-50+ngen-50
+fi	es_ancora	adj-50+adp-50+ngen-50
+fi	et	
+fi	eu	adj-50+det-50
+fi	fa	adj-50+adp-50+del-def+ngen-50
+fi	fi	
+fi	fi_ftb	
+fi	fr	adj-50+adp-50+ngen-50
+fi	fr_partut	adj-50+adp-50+ngen-50
+fi	fr_sequoia	adj-50+adp-50+ngen-50
+fi	ga	adj-50+adp-50+del-ind+det-50+ngen-50
+fi	gl	adj-50+adp-50+ngen-50
+fi	gl_treegal	adj-50+adp-50+ngen-50
+fi	got	adj-50+adp-50+det-50+ngen-50+num-50
+fi	grc	adj-50+adp-50+det-50+ngen-50+num-50
+fi	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+fi	he	adj-50+adp-50+del-def+det-50+ngen-50
+fi	hi	
+fi	hr	adp-50+ngen-50
+fi	hu	
+fi	id	adj-50+adp-50+del-ind+det-50+ngen-50
+fi	it	adj-50+adp-50+ngen-50
+fi	it_partut	adj-50+adp-50+ngen-50
+fi	ja	del-def
+fi	ja_ktc	del-def
+fi	kk	del-def
+fi	ko	
+fi	la	adj-50+adp-50+det-50+ngen-50+num-50
+fi	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+fi	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+fi	lt	adp-50
+fi	lv	adp-50
+fi	nl	adp-50+ngen-50
+fi	nl_lassysmall	adp-50+ngen-50
+fi	no	adp-50+del-def+ngen-50
+fi	no_bokmaal	adp-50+del-def+ngen-50
+fi	no_nynorsk	adp-50+del-def+ngen-50
+fi	pl	adp-50+ngen-50
+fi	pt	adj-50+adp-50+ngen-50
+fi	pt_bosque	adj-50+adp-50+ngen-50
+fi	pt_br	adj-50+adp-50+ngen-50
+fi	ro	adj-50+adp-50+del-def+det-50+ngen-50
+fi	ru	adp-50+ngen-50
+fi	ru_syntagrus	adp-50+ngen-50
+fi	sa	adj-50+adp-50+det-50+ngen-50+num-50
+fi	sk	adp-50+ngen-50
+fi	sl	adp-50+ngen-50
+fi	sl_sst	adp-50+ngen-50
+fi	sv	adp-50+del-def
+fi	sv_lines	adp-50+del-def
+fi	swl	adj-50+adp-50+det-50+ngen-50+num-50
+fi	ta	
+fi	tr	del-def
+fi	ug	del-def
+fi	uk	adp-50+ngen-50
+fi	ur	
+fi	vi	adj-50+adp-50+det-50+ngen-50
+fi	zh	adp-50+del-def
+fi_ftb	ar	adj-50+adp-50+del-def+ngen-50
+fi_ftb	ar_nyuad	adj-50+adp-50+del-def+ngen-50
+fi_ftb	be	adp-50+ngen-50
+fi_ftb	bg	adp-50+ngen-50
+fi_ftb	ca	adj-50+adp-50+ngen-50
+fi_ftb	cop	adj-50+adp-50+det-50+ngen-50
+fi_ftb	cs	adp-50+ngen-50
+fi_ftb	cs_cac	adp-50+ngen-50
+fi_ftb	cs_cltt	adp-50+ngen-50
+fi_ftb	cu	adj-50+adp-50+det-50+ngen-50+num-50
+fi_ftb	da	adp-50+del-def
+fi_ftb	de	adp-50+ngen-50
+fi_ftb	el	adp-50+ngen-50
+fi_ftb	en	adp-50+ngen-50
+fi_ftb	en_esl	adp-50+ngen-50
+fi_ftb	en_lines	adp-50+ngen-50
+fi_ftb	en_partut	adp-50+ngen-50
+fi_ftb	es	adj-50+adp-50+ngen-50
+fi_ftb	es_ancora	adj-50+adp-50+ngen-50
+fi_ftb	et	
+fi_ftb	eu	adj-50+det-50
+fi_ftb	fa	adj-50+adp-50+del-def+ngen-50
+fi_ftb	fi	
+fi_ftb	fi_ftb	
+fi_ftb	fr	adj-50+adp-50+ngen-50
+fi_ftb	fr_partut	adj-50+adp-50+ngen-50
+fi_ftb	fr_sequoia	adj-50+adp-50+ngen-50
+fi_ftb	ga	adj-50+adp-50+del-ind+det-50+ngen-50
+fi_ftb	gl	adj-50+adp-50+ngen-50
+fi_ftb	gl_treegal	adj-50+adp-50+ngen-50
+fi_ftb	got	adj-50+adp-50+det-50+ngen-50+num-50
+fi_ftb	grc	adj-50+adp-50+det-50+ngen-50+num-50
+fi_ftb	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+fi_ftb	he	adj-50+adp-50+del-def+det-50+ngen-50
+fi_ftb	hi	
+fi_ftb	hr	adp-50+ngen-50
+fi_ftb	hu	
+fi_ftb	id	adj-50+adp-50+del-ind+det-50+ngen-50
+fi_ftb	it	adj-50+adp-50+ngen-50
+fi_ftb	it_partut	adj-50+adp-50+ngen-50
+fi_ftb	ja	del-def
+fi_ftb	ja_ktc	del-def
+fi_ftb	kk	del-def
+fi_ftb	ko	
+fi_ftb	la	adj-50+adp-50+det-50+ngen-50+num-50
+fi_ftb	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+fi_ftb	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+fi_ftb	lt	adp-50
+fi_ftb	lv	adp-50
+fi_ftb	nl	adp-50+ngen-50
+fi_ftb	nl_lassysmall	adp-50+ngen-50
+fi_ftb	no	adp-50+del-def+ngen-50
+fi_ftb	no_bokmaal	adp-50+del-def+ngen-50
+fi_ftb	no_nynorsk	adp-50+del-def+ngen-50
+fi_ftb	pl	adp-50+ngen-50
+fi_ftb	pt	adj-50+adp-50+ngen-50
+fi_ftb	pt_bosque	adj-50+adp-50+ngen-50
+fi_ftb	pt_br	adj-50+adp-50+ngen-50
+fi_ftb	ro	adj-50+adp-50+del-def+det-50+ngen-50
+fi_ftb	ru	adp-50+ngen-50
+fi_ftb	ru_syntagrus	adp-50+ngen-50
+fi_ftb	sa	adj-50+adp-50+det-50+ngen-50+num-50
+fi_ftb	sk	adp-50+ngen-50
+fi_ftb	sl	adp-50+ngen-50
+fi_ftb	sl_sst	adp-50+ngen-50
+fi_ftb	sv	adp-50+del-def
+fi_ftb	sv_lines	adp-50+del-def
+fi_ftb	swl	adj-50+adp-50+det-50+ngen-50+num-50
+fi_ftb	ta	
+fi_ftb	tr	del-def
+fi_ftb	ug	del-def
+fi_ftb	uk	adp-50+ngen-50
+fi_ftb	ur	
+fi_ftb	vi	adj-50+adp-50+det-50+ngen-50
+fi_ftb	zh	adp-50+del-def
+fr	ar	del-def
+fr	ar_nyuad	del-def
+fr	be	adj-50+del-d
+fr	bg	adj-50+ngen-50
+fr	ca	
+fr	cop	det-50
+fr	cs	adj-50+del-d+ngen-50
+fr	cs_cac	adj-50+del-d+ngen-50
+fr	cs_cltt	adj-50+del-d+ngen-50
+fr	cu	adj-50+adp-50+det-50+ngen-50+num-50
+fr	da	adj-50+del-def+ngen-50
+fr	de	adj-50
+fr	el	adj-50
+fr	en	adj-50+ngen-50
+fr	en_esl	adj-50+ngen-50
+fr	en_lines	adj-50+ngen-50
+fr	en_partut	adj-50+ngen-50
+fr	es	
+fr	es_ancora	
+fr	et	adj-50+adp-50+del-d+ngen-50
+fr	eu	adp-50+det-50+ngen-50
+fr	fa	del-def
+fr	fi	adj-50+adp-50+del-d+ngen-50
+fr	fi_ftb	adj-50+adp-50+del-d+ngen-50
+fr	fr	
+fr	fr_partut	
+fr	fr_sequoia	
+fr	ga	del-ind+det-50
+fr	gl	
+fr	gl_treegal	
+fr	got	adj-50+adp-50+det-50+ngen-50+num-50
+fr	grc	adj-50+adp-50+det-50+ngen-50+num-50
+fr	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+fr	he	del-def+det-50
+fr	hi	adj-50+adp-50+del-d+ngen-50
+fr	hr	adj-50+del-d+ngen-50
+fr	hu	adj-50+adp-50+ngen-50
+fr	id	del-ind+det-50
+fr	it	
+fr	it_partut	
+fr	ja	adj-50+adp-50+del-def+ngen-50
+fr	ja_ktc	adj-50+adp-50+del-def+ngen-50
+fr	kk	adj-50+adp-50+del-def+ngen-50
+fr	ko	adj-50+adp-50+del-d+ngen-50
+fr	la	adj-50+adp-50+det-50+ngen-50+num-50
+fr	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+fr	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+fr	lt	adj-50+del-d+ngen-50
+fr	lv	adj-50+ngen-50
+fr	nl	adj-50
+fr	nl_lassysmall	adj-50
+fr	no	adj-50+del-def+ngen-50
+fr	no_bokmaal	adj-50+del-def+ngen-50
+fr	no_nynorsk	adj-50+del-def+ngen-50
+fr	pl	adj-50+del-d
+fr	pt	
+fr	pt_bosque	
+fr	pt_br	
+fr	ro	del-def+det-50
+fr	ru	adj-50+del-d
+fr	ru_syntagrus	adj-50+del-d
+fr	sa	adj-50+adp-50+det-50+ngen-50+num-50
+fr	sk	adj-50+del-d+ngen-50
+fr	sl	adj-50+del-d+ngen-50
+fr	sl_sst	adj-50+del-d+ngen-50
+fr	sv	adj-50+del-def+ngen-50
+fr	sv_lines	adj-50+del-def+ngen-50
+fr	swl	adj-50+adp-50+det-50+ngen-50+num-50
+fr	ta	adj-50+adp-50+ngen-50
+fr	tr	adj-50+adp-50+del-def+ngen-50
+fr	ug	adj-50+adp-50+del-def+ngen-50
+fr	uk	adj-50+del-d+ngen-50
+fr	ur	adj-50+adp-50+del-d+ngen-50
+fr	vi	det-50
+fr	zh	adj-50+adp-50+del-def+ngen-50
+fr_partut	ar	del-def
+fr_partut	ar_nyuad	del-def
+fr_partut	be	adj-50+del-d
+fr_partut	bg	adj-50+ngen-50
+fr_partut	ca	
+fr_partut	cop	det-50
+fr_partut	cs	adj-50+del-d+ngen-50
+fr_partut	cs_cac	adj-50+del-d+ngen-50
+fr_partut	cs_cltt	adj-50+del-d+ngen-50
+fr_partut	cu	adj-50+adp-50+det-50+ngen-50+num-50
+fr_partut	da	adj-50+del-def+ngen-50
+fr_partut	de	adj-50
+fr_partut	el	adj-50
+fr_partut	en	adj-50+ngen-50
+fr_partut	en_esl	adj-50+ngen-50
+fr_partut	en_lines	adj-50+ngen-50
+fr_partut	en_partut	adj-50+ngen-50
+fr_partut	es	
+fr_partut	es_ancora	
+fr_partut	et	adj-50+adp-50+del-d+ngen-50
+fr_partut	eu	adp-50+det-50+ngen-50
+fr_partut	fa	del-def
+fr_partut	fi	adj-50+adp-50+del-d+ngen-50
+fr_partut	fi_ftb	adj-50+adp-50+del-d+ngen-50
+fr_partut	fr	
+fr_partut	fr_partut	
+fr_partut	fr_sequoia	
+fr_partut	ga	del-ind+det-50
+fr_partut	gl	
+fr_partut	gl_treegal	
+fr_partut	got	adj-50+adp-50+det-50+ngen-50+num-50
+fr_partut	grc	adj-50+adp-50+det-50+ngen-50+num-50
+fr_partut	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+fr_partut	he	del-def+det-50
+fr_partut	hi	adj-50+adp-50+del-d+ngen-50
+fr_partut	hr	adj-50+del-d+ngen-50
+fr_partut	hu	adj-50+adp-50+ngen-50
+fr_partut	id	del-ind+det-50
+fr_partut	it	
+fr_partut	it_partut	
+fr_partut	ja	adj-50+adp-50+del-def+ngen-50
+fr_partut	ja_ktc	adj-50+adp-50+del-def+ngen-50
+fr_partut	kk	adj-50+adp-50+del-def+ngen-50
+fr_partut	ko	adj-50+adp-50+del-d+ngen-50
+fr_partut	la	adj-50+adp-50+det-50+ngen-50+num-50
+fr_partut	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+fr_partut	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+fr_partut	lt	adj-50+del-d+ngen-50
+fr_partut	lv	adj-50+ngen-50
+fr_partut	nl	adj-50
+fr_partut	nl_lassysmall	adj-50
+fr_partut	no	adj-50+del-def+ngen-50
+fr_partut	no_bokmaal	adj-50+del-def+ngen-50
+fr_partut	no_nynorsk	adj-50+del-def+ngen-50
+fr_partut	pl	adj-50+del-d
+fr_partut	pt	
+fr_partut	pt_bosque	
+fr_partut	pt_br	
+fr_partut	ro	del-def+det-50
+fr_partut	ru	adj-50+del-d
+fr_partut	ru_syntagrus	adj-50+del-d
+fr_partut	sa	adj-50+adp-50+det-50+ngen-50+num-50
+fr_partut	sk	adj-50+del-d+ngen-50
+fr_partut	sl	adj-50+del-d+ngen-50
+fr_partut	sl_sst	adj-50+del-d+ngen-50
+fr_partut	sv	adj-50+del-def+ngen-50
+fr_partut	sv_lines	adj-50+del-def+ngen-50
+fr_partut	swl	adj-50+adp-50+det-50+ngen-50+num-50
+fr_partut	ta	adj-50+adp-50+ngen-50
+fr_partut	tr	adj-50+adp-50+del-def+ngen-50
+fr_partut	ug	adj-50+adp-50+del-def+ngen-50
+fr_partut	uk	adj-50+del-d+ngen-50
+fr_partut	ur	adj-50+adp-50+del-d+ngen-50
+fr_partut	vi	det-50
+fr_partut	zh	adj-50+adp-50+del-def+ngen-50
+fr_sequoia	ar	del-def
+fr_sequoia	ar_nyuad	del-def
+fr_sequoia	be	adj-50+del-d
+fr_sequoia	bg	adj-50+ngen-50
+fr_sequoia	ca	
+fr_sequoia	cop	det-50
+fr_sequoia	cs	adj-50+del-d+ngen-50
+fr_sequoia	cs_cac	adj-50+del-d+ngen-50
+fr_sequoia	cs_cltt	adj-50+del-d+ngen-50
+fr_sequoia	cu	adj-50+adp-50+det-50+ngen-50+num-50
+fr_sequoia	da	adj-50+del-def+ngen-50
+fr_sequoia	de	adj-50
+fr_sequoia	el	adj-50
+fr_sequoia	en	adj-50+ngen-50
+fr_sequoia	en_esl	adj-50+ngen-50
+fr_sequoia	en_lines	adj-50+ngen-50
+fr_sequoia	en_partut	adj-50+ngen-50
+fr_sequoia	es	
+fr_sequoia	es_ancora	
+fr_sequoia	et	adj-50+adp-50+del-d+ngen-50
+fr_sequoia	eu	adp-50+det-50+ngen-50
+fr_sequoia	fa	del-def
+fr_sequoia	fi	adj-50+adp-50+del-d+ngen-50
+fr_sequoia	fi_ftb	adj-50+adp-50+del-d+ngen-50
+fr_sequoia	fr	
+fr_sequoia	fr_partut	
+fr_sequoia	fr_sequoia	
+fr_sequoia	ga	del-ind+det-50
+fr_sequoia	gl	
+fr_sequoia	gl_treegal	
+fr_sequoia	got	adj-50+adp-50+det-50+ngen-50+num-50
+fr_sequoia	grc	adj-50+adp-50+det-50+ngen-50+num-50
+fr_sequoia	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+fr_sequoia	he	del-def+det-50
+fr_sequoia	hi	adj-50+adp-50+del-d+ngen-50
+fr_sequoia	hr	adj-50+del-d+ngen-50
+fr_sequoia	hu	adj-50+adp-50+ngen-50
+fr_sequoia	id	del-ind+det-50
+fr_sequoia	it	
+fr_sequoia	it_partut	
+fr_sequoia	ja	adj-50+adp-50+del-def+ngen-50
+fr_sequoia	ja_ktc	adj-50+adp-50+del-def+ngen-50
+fr_sequoia	kk	adj-50+adp-50+del-def+ngen-50
+fr_sequoia	ko	adj-50+adp-50+del-d+ngen-50
+fr_sequoia	la	adj-50+adp-50+det-50+ngen-50+num-50
+fr_sequoia	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+fr_sequoia	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+fr_sequoia	lt	adj-50+del-d+ngen-50
+fr_sequoia	lv	adj-50+ngen-50
+fr_sequoia	nl	adj-50
+fr_sequoia	nl_lassysmall	adj-50
+fr_sequoia	no	adj-50+del-def+ngen-50
+fr_sequoia	no_bokmaal	adj-50+del-def+ngen-50
+fr_sequoia	no_nynorsk	adj-50+del-def+ngen-50
+fr_sequoia	pl	adj-50+del-d
+fr_sequoia	pt	
+fr_sequoia	pt_bosque	
+fr_sequoia	pt_br	
+fr_sequoia	ro	del-def+det-50
+fr_sequoia	ru	adj-50+del-d
+fr_sequoia	ru_syntagrus	adj-50+del-d
+fr_sequoia	sa	adj-50+adp-50+det-50+ngen-50+num-50
+fr_sequoia	sk	adj-50+del-d+ngen-50
+fr_sequoia	sl	adj-50+del-d+ngen-50
+fr_sequoia	sl_sst	adj-50+del-d+ngen-50
+fr_sequoia	sv	adj-50+del-def+ngen-50
+fr_sequoia	sv_lines	adj-50+del-def+ngen-50
+fr_sequoia	swl	adj-50+adp-50+det-50+ngen-50+num-50
+fr_sequoia	ta	adj-50+adp-50+ngen-50
+fr_sequoia	tr	adj-50+adp-50+del-def+ngen-50
+fr_sequoia	ug	adj-50+adp-50+del-def+ngen-50
+fr_sequoia	uk	adj-50+del-d+ngen-50
+fr_sequoia	ur	adj-50+adp-50+del-d+ngen-50
+fr_sequoia	vi	det-50
+fr_sequoia	zh	adj-50+adp-50+del-def+ngen-50
+ga	ar	del-def+det-50
+ga	ar_nyuad	del-def+det-50
+ga	be	adj-50+del-d+det-50
+ga	bg	adj-50+det-50+ngen-50
+ga	ca	det-50
+ga	cop	det-50
+ga	cs	adj-50+del-d+det-50+ngen-50
+ga	cs_cac	adj-50+del-d+det-50+ngen-50
+ga	cs_cltt	adj-50+del-d+det-50+ngen-50
+ga	cu	adj-50+adp-50+det-50+ngen-50+num-50
+ga	da	adj-50+del-def+det-50+ngen-50
+ga	de	adj-50+det-50
+ga	el	adj-50+det-50
+ga	en	adj-50+det-50+ngen-50
+ga	en_esl	adj-50+det-50+ngen-50
+ga	en_lines	adj-50+det-50+ngen-50
+ga	en_partut	adj-50+det-50+ngen-50
+ga	es	det-50
+ga	es_ancora	det-50
+ga	et	adj-50+adp-50+del-d+det-50+ngen-50
+ga	eu	adp-50+ngen-50
+ga	fa	del-def+det-50
+ga	fi	adj-50+adp-50+del-d+det-50+ngen-50
+ga	fi_ftb	adj-50+adp-50+del-d+det-50+ngen-50
+ga	fr	det-50
+ga	fr_partut	det-50
+ga	fr_sequoia	det-50
+ga	ga	
+ga	gl	det-50
+ga	gl_treegal	det-50
+ga	got	adj-50+adp-50+det-50+ngen-50+num-50
+ga	grc	adj-50+adp-50+det-50+ngen-50+num-50
+ga	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ga	he	del-def
+ga	hi	adj-50+adp-50+del-d+det-50+ngen-50
+ga	hr	adj-50+del-d+det-50+ngen-50
+ga	hu	adj-50+adp-50+det-50+ngen-50
+ga	id	
+ga	it	det-50
+ga	it_partut	det-50
+ga	ja	adj-50+adp-50+del-def+det-50+ngen-50
+ga	ja_ktc	adj-50+adp-50+del-def+det-50+ngen-50
+ga	kk	adj-50+adp-50+del-def+det-50+ngen-50
+ga	ko	adj-50+adp-50+del-d+det-50+ngen-50
+ga	la	adj-50+adp-50+det-50+ngen-50+num-50
+ga	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+ga	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ga	lt	adj-50+del-d+det-50+ngen-50
+ga	lv	adj-50+det-50+ngen-50
+ga	nl	adj-50+det-50
+ga	nl_lassysmall	adj-50+det-50
+ga	no	adj-50+del-def+det-50+ngen-50
+ga	no_bokmaal	adj-50+del-def+det-50+ngen-50
+ga	no_nynorsk	adj-50+del-def+det-50+ngen-50
+ga	pl	adj-50+del-d+det-50
+ga	pt	det-50
+ga	pt_bosque	det-50
+ga	pt_br	det-50
+ga	ro	del-def+det-50
+ga	ru	adj-50+del-d+det-50
+ga	ru_syntagrus	adj-50+del-d+det-50
+ga	sa	adj-50+adp-50+det-50+ngen-50+num-50
+ga	sk	adj-50+del-d+det-50+ngen-50
+ga	sl	adj-50+del-d+det-50+ngen-50
+ga	sl_sst	adj-50+del-d+det-50+ngen-50
+ga	sv	adj-50+del-def+det-50+ngen-50
+ga	sv_lines	adj-50+del-def+det-50+ngen-50
+ga	swl	adj-50+adp-50+det-50+ngen-50+num-50
+ga	ta	adj-50+adp-50+det-50+ngen-50
+ga	tr	adj-50+adp-50+del-def+det-50+ngen-50
+ga	ug	adj-50+adp-50+del-def+det-50+ngen-50
+ga	uk	adj-50+del-d+det-50+ngen-50
+ga	ur	adj-50+adp-50+del-d+det-50+ngen-50
+ga	vi	
+ga	zh	adj-50+adp-50+del-def+det-50+ngen-50
+gl	ar	del-def
+gl	ar_nyuad	del-def
+gl	be	adj-50+del-d
+gl	bg	adj-50+ngen-50
+gl	ca	
+gl	cop	det-50
+gl	cs	adj-50+del-d+ngen-50
+gl	cs_cac	adj-50+del-d+ngen-50
+gl	cs_cltt	adj-50+del-d+ngen-50
+gl	cu	adj-50+adp-50+det-50+ngen-50+num-50
+gl	da	adj-50+del-def+ngen-50
+gl	de	adj-50
+gl	el	adj-50
+gl	en	adj-50+ngen-50
+gl	en_esl	adj-50+ngen-50
+gl	en_lines	adj-50+ngen-50
+gl	en_partut	adj-50+ngen-50
+gl	es	
+gl	es_ancora	
+gl	et	adj-50+adp-50+del-d+ngen-50
+gl	eu	adp-50+det-50+ngen-50
+gl	fa	del-def
+gl	fi	adj-50+adp-50+del-d+ngen-50
+gl	fi_ftb	adj-50+adp-50+del-d+ngen-50
+gl	fr	
+gl	fr_partut	
+gl	fr_sequoia	
+gl	ga	del-ind+det-50
+gl	gl	
+gl	gl_treegal	
+gl	got	adj-50+adp-50+det-50+ngen-50+num-50
+gl	grc	adj-50+adp-50+det-50+ngen-50+num-50
+gl	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+gl	he	del-def+det-50
+gl	hi	adj-50+adp-50+del-d+ngen-50
+gl	hr	adj-50+del-d+ngen-50
+gl	hu	adj-50+adp-50+ngen-50
+gl	id	del-ind+det-50
+gl	it	
+gl	it_partut	
+gl	ja	adj-50+adp-50+del-def+ngen-50
+gl	ja_ktc	adj-50+adp-50+del-def+ngen-50
+gl	kk	adj-50+adp-50+del-def+ngen-50
+gl	ko	adj-50+adp-50+del-d+ngen-50
+gl	la	adj-50+adp-50+det-50+ngen-50+num-50
+gl	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+gl	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+gl	lt	adj-50+del-d+ngen-50
+gl	lv	adj-50+ngen-50
+gl	nl	adj-50
+gl	nl_lassysmall	adj-50
+gl	no	adj-50+del-def+ngen-50
+gl	no_bokmaal	adj-50+del-def+ngen-50
+gl	no_nynorsk	adj-50+del-def+ngen-50
+gl	pl	adj-50+del-d
+gl	pt	
+gl	pt_bosque	
+gl	pt_br	
+gl	ro	del-def+det-50
+gl	ru	adj-50+del-d
+gl	ru_syntagrus	adj-50+del-d
+gl	sa	adj-50+adp-50+det-50+ngen-50+num-50
+gl	sk	adj-50+del-d+ngen-50
+gl	sl	adj-50+del-d+ngen-50
+gl	sl_sst	adj-50+del-d+ngen-50
+gl	sv	adj-50+del-def+ngen-50
+gl	sv_lines	adj-50+del-def+ngen-50
+gl	swl	adj-50+adp-50+det-50+ngen-50+num-50
+gl	ta	adj-50+adp-50+ngen-50
+gl	tr	adj-50+adp-50+del-def+ngen-50
+gl	ug	adj-50+adp-50+del-def+ngen-50
+gl	uk	adj-50+del-d+ngen-50
+gl	ur	adj-50+adp-50+del-d+ngen-50
+gl	vi	det-50
+gl	zh	adj-50+adp-50+del-def+ngen-50
+gl_treegal	ar	del-def
+gl_treegal	ar_nyuad	del-def
+gl_treegal	be	adj-50+del-d
+gl_treegal	bg	adj-50+ngen-50
+gl_treegal	ca	
+gl_treegal	cop	det-50
+gl_treegal	cs	adj-50+del-d+ngen-50
+gl_treegal	cs_cac	adj-50+del-d+ngen-50
+gl_treegal	cs_cltt	adj-50+del-d+ngen-50
+gl_treegal	cu	adj-50+adp-50+det-50+ngen-50+num-50
+gl_treegal	da	adj-50+del-def+ngen-50
+gl_treegal	de	adj-50
+gl_treegal	el	adj-50
+gl_treegal	en	adj-50+ngen-50
+gl_treegal	en_esl	adj-50+ngen-50
+gl_treegal	en_lines	adj-50+ngen-50
+gl_treegal	en_partut	adj-50+ngen-50
+gl_treegal	es	
+gl_treegal	es_ancora	
+gl_treegal	et	adj-50+adp-50+del-d+ngen-50
+gl_treegal	eu	adp-50+det-50+ngen-50
+gl_treegal	fa	del-def
+gl_treegal	fi	adj-50+adp-50+del-d+ngen-50
+gl_treegal	fi_ftb	adj-50+adp-50+del-d+ngen-50
+gl_treegal	fr	
+gl_treegal	fr_partut	
+gl_treegal	fr_sequoia	
+gl_treegal	ga	del-ind+det-50
+gl_treegal	gl	
+gl_treegal	gl_treegal	
+gl_treegal	got	adj-50+adp-50+det-50+ngen-50+num-50
+gl_treegal	grc	adj-50+adp-50+det-50+ngen-50+num-50
+gl_treegal	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+gl_treegal	he	del-def+det-50
+gl_treegal	hi	adj-50+adp-50+del-d+ngen-50
+gl_treegal	hr	adj-50+del-d+ngen-50
+gl_treegal	hu	adj-50+adp-50+ngen-50
+gl_treegal	id	del-ind+det-50
+gl_treegal	it	
+gl_treegal	it_partut	
+gl_treegal	ja	adj-50+adp-50+del-def+ngen-50
+gl_treegal	ja_ktc	adj-50+adp-50+del-def+ngen-50
+gl_treegal	kk	adj-50+adp-50+del-def+ngen-50
+gl_treegal	ko	adj-50+adp-50+del-d+ngen-50
+gl_treegal	la	adj-50+adp-50+det-50+ngen-50+num-50
+gl_treegal	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+gl_treegal	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+gl_treegal	lt	adj-50+del-d+ngen-50
+gl_treegal	lv	adj-50+ngen-50
+gl_treegal	nl	adj-50
+gl_treegal	nl_lassysmall	adj-50
+gl_treegal	no	adj-50+del-def+ngen-50
+gl_treegal	no_bokmaal	adj-50+del-def+ngen-50
+gl_treegal	no_nynorsk	adj-50+del-def+ngen-50
+gl_treegal	pl	adj-50+del-d
+gl_treegal	pt	
+gl_treegal	pt_bosque	
+gl_treegal	pt_br	
+gl_treegal	ro	del-def+det-50
+gl_treegal	ru	adj-50+del-d
+gl_treegal	ru_syntagrus	adj-50+del-d
+gl_treegal	sa	adj-50+adp-50+det-50+ngen-50+num-50
+gl_treegal	sk	adj-50+del-d+ngen-50
+gl_treegal	sl	adj-50+del-d+ngen-50
+gl_treegal	sl_sst	adj-50+del-d+ngen-50
+gl_treegal	sv	adj-50+del-def+ngen-50
+gl_treegal	sv_lines	adj-50+del-def+ngen-50
+gl_treegal	swl	adj-50+adp-50+det-50+ngen-50+num-50
+gl_treegal	ta	adj-50+adp-50+ngen-50
+gl_treegal	tr	adj-50+adp-50+del-def+ngen-50
+gl_treegal	ug	adj-50+adp-50+del-def+ngen-50
+gl_treegal	uk	adj-50+del-d+ngen-50
+gl_treegal	ur	adj-50+adp-50+del-d+ngen-50
+gl_treegal	vi	det-50
+gl_treegal	zh	adj-50+adp-50+del-def+ngen-50
+got	ar	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+got	ar_nyuad	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+got	be	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+got	bg	adj-75+adp-75+det-75+num-75
+got	ca	adj-25+adp-75+det-75+ngen-25+num-75
+got	cop	adj-25+adp-75+ngen-25+num-75
+got	cs	adj-75+adp-75+del-d+det-75+num-75
+got	cs_cac	adj-75+adp-75+del-d+det-75+num-75
+got	cs_cltt	adj-75+adp-75+del-d+det-75+num-75
+got	cu	
+got	da	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+got	de	adj-75+adp-75+det-75+ngen-25+num-75
+got	el	adj-75+adp-75+det-75+ngen-25+num-75
+got	en	adj-75+adp-75+det-75+num-75
+got	en_esl	adj-75+adp-75+det-75+num-75
+got	en_lines	adj-75+adp-75+det-75+num-75
+got	en_partut	adj-75+adp-75+det-75+num-75
+got	es	adj-25+adp-75+det-75+ngen-25+num-75
+got	es_ancora	adj-25+adp-75+det-75+ngen-25+num-75
+got	et	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+got	eu	adj-25+adp-25+det-25+ngen-75+num-75
+got	fa	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+got	fi	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+got	fi_ftb	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+got	fr	adj-25+adp-75+det-75+ngen-25+num-75
+got	fr_partut	adj-25+adp-75+det-75+ngen-25+num-75
+got	fr_sequoia	adj-25+adp-75+det-75+ngen-25+num-75
+got	ga	adj-25+adp-75+del-ind+det-25+ngen-25+num-75
+got	gl	adj-25+adp-75+det-75+ngen-25+num-75
+got	gl_treegal	adj-25+adp-75+det-75+ngen-25+num-75
+got	got	
+got	grc	
+got	grc_proiel	
+got	he	adj-25+adp-75+del-def+det-25+ngen-25+num-75
+got	hi	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+got	hr	adj-75+adp-75+del-d+det-75+num-75
+got	hu	adj-75+adp-25+det-75+ngen-75+num-75
+got	id	adj-25+adp-75+del-ind+det-25+ngen-25+num-75
+got	it	adj-25+adp-75+det-75+ngen-25+num-75
+got	it_partut	adj-25+adp-75+det-75+ngen-25+num-75
+got	ja	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+got	ja_ktc	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+got	kk	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+got	ko	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+got	la	
+got	la_ittb	
+got	la_proiel	
+got	lt	adj-75+adp-75+del-d+det-75+ngen-75+num-75
+got	lv	adj-75+adp-75+det-75+ngen-75+num-75
+got	nl	adj-75+adp-75+det-75+ngen-25+num-75
+got	nl_lassysmall	adj-75+adp-75+det-75+ngen-25+num-75
+got	no	adj-75+adp-75+del-def+det-75+num-75
+got	no_bokmaal	adj-75+adp-75+del-def+det-75+num-75
+got	no_nynorsk	adj-75+adp-75+del-def+det-75+num-75
+got	pl	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+got	pt	adj-25+adp-75+det-75+ngen-25+num-75
+got	pt_bosque	adj-25+adp-75+det-75+ngen-25+num-75
+got	pt_br	adj-25+adp-75+det-75+ngen-25+num-75
+got	ro	adj-25+adp-75+del-def+ngen-25+num-75
+got	ru	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+got	ru_syntagrus	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+got	sa	
+got	sk	adj-75+adp-75+del-d+det-75+num-75
+got	sl	adj-75+adp-75+del-d+det-75+num-75
+got	sl_sst	adj-75+adp-75+del-d+det-75+num-75
+got	sv	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+got	sv_lines	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+got	swl	
+got	ta	adj-75+adp-25+det-75+ngen-75+num-75
+got	tr	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+got	ug	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+got	uk	adj-75+adp-75+del-d+det-75+num-75
+got	ur	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+got	vi	adj-25+adp-75+det-25+ngen-25+num-75
+got	zh	adj-75+del-def+det-75+ngen-75+num-75
+grc	ar	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+grc	ar_nyuad	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+grc	be	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+grc	bg	adj-75+adp-75+det-75+num-75
+grc	ca	adj-25+adp-75+det-75+ngen-25+num-75
+grc	cop	adj-25+adp-75+ngen-25+num-75
+grc	cs	adj-75+adp-75+del-d+det-75+num-75
+grc	cs_cac	adj-75+adp-75+del-d+det-75+num-75
+grc	cs_cltt	adj-75+adp-75+del-d+det-75+num-75
+grc	cu	
+grc	da	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+grc	de	adj-75+adp-75+det-75+ngen-25+num-75
+grc	el	adj-75+adp-75+det-75+ngen-25+num-75
+grc	en	adj-75+adp-75+det-75+num-75
+grc	en_esl	adj-75+adp-75+det-75+num-75
+grc	en_lines	adj-75+adp-75+det-75+num-75
+grc	en_partut	adj-75+adp-75+det-75+num-75
+grc	es	adj-25+adp-75+det-75+ngen-25+num-75
+grc	es_ancora	adj-25+adp-75+det-75+ngen-25+num-75
+grc	et	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+grc	eu	adj-25+adp-25+det-25+ngen-75+num-75
+grc	fa	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+grc	fi	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+grc	fi_ftb	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+grc	fr	adj-25+adp-75+det-75+ngen-25+num-75
+grc	fr_partut	adj-25+adp-75+det-75+ngen-25+num-75
+grc	fr_sequoia	adj-25+adp-75+det-75+ngen-25+num-75
+grc	ga	adj-25+adp-75+del-ind+det-25+ngen-25+num-75
+grc	gl	adj-25+adp-75+det-75+ngen-25+num-75
+grc	gl_treegal	adj-25+adp-75+det-75+ngen-25+num-75
+grc	got	
+grc	grc	
+grc	grc_proiel	
+grc	he	adj-25+adp-75+del-def+det-25+ngen-25+num-75
+grc	hi	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+grc	hr	adj-75+adp-75+del-d+det-75+num-75
+grc	hu	adj-75+adp-25+det-75+ngen-75+num-75
+grc	id	adj-25+adp-75+del-ind+det-25+ngen-25+num-75
+grc	it	adj-25+adp-75+det-75+ngen-25+num-75
+grc	it_partut	adj-25+adp-75+det-75+ngen-25+num-75
+grc	ja	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+grc	ja_ktc	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+grc	kk	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+grc	ko	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+grc	la	
+grc	la_ittb	
+grc	la_proiel	
+grc	lt	adj-75+adp-75+del-d+det-75+ngen-75+num-75
+grc	lv	adj-75+adp-75+det-75+ngen-75+num-75
+grc	nl	adj-75+adp-75+det-75+ngen-25+num-75
+grc	nl_lassysmall	adj-75+adp-75+det-75+ngen-25+num-75
+grc	no	adj-75+adp-75+del-def+det-75+num-75
+grc	no_bokmaal	adj-75+adp-75+del-def+det-75+num-75
+grc	no_nynorsk	adj-75+adp-75+del-def+det-75+num-75
+grc	pl	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+grc	pt	adj-25+adp-75+det-75+ngen-25+num-75
+grc	pt_bosque	adj-25+adp-75+det-75+ngen-25+num-75
+grc	pt_br	adj-25+adp-75+det-75+ngen-25+num-75
+grc	ro	adj-25+adp-75+del-def+ngen-25+num-75
+grc	ru	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+grc	ru_syntagrus	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+grc	sa	
+grc	sk	adj-75+adp-75+del-d+det-75+num-75
+grc	sl	adj-75+adp-75+del-d+det-75+num-75
+grc	sl_sst	adj-75+adp-75+del-d+det-75+num-75
+grc	sv	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+grc	sv_lines	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+grc	swl	
+grc	ta	adj-75+adp-25+det-75+ngen-75+num-75
+grc	tr	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+grc	ug	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+grc	uk	adj-75+adp-75+del-d+det-75+num-75
+grc	ur	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+grc	vi	adj-25+adp-75+det-25+ngen-25+num-75
+grc	zh	adj-75+del-def+det-75+ngen-75+num-75
+grc_proiel	ar	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+grc_proiel	ar_nyuad	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+grc_proiel	be	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+grc_proiel	bg	adj-75+adp-75+det-75+num-75
+grc_proiel	ca	adj-25+adp-75+det-75+ngen-25+num-75
+grc_proiel	cop	adj-25+adp-75+ngen-25+num-75
+grc_proiel	cs	adj-75+adp-75+del-d+det-75+num-75
+grc_proiel	cs_cac	adj-75+adp-75+del-d+det-75+num-75
+grc_proiel	cs_cltt	adj-75+adp-75+del-d+det-75+num-75
+grc_proiel	cu	
+grc_proiel	da	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+grc_proiel	de	adj-75+adp-75+det-75+ngen-25+num-75
+grc_proiel	el	adj-75+adp-75+det-75+ngen-25+num-75
+grc_proiel	en	adj-75+adp-75+det-75+num-75
+grc_proiel	en_esl	adj-75+adp-75+det-75+num-75
+grc_proiel	en_lines	adj-75+adp-75+det-75+num-75
+grc_proiel	en_partut	adj-75+adp-75+det-75+num-75
+grc_proiel	es	adj-25+adp-75+det-75+ngen-25+num-75
+grc_proiel	es_ancora	adj-25+adp-75+det-75+ngen-25+num-75
+grc_proiel	et	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+grc_proiel	eu	adj-25+adp-25+det-25+ngen-75+num-75
+grc_proiel	fa	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+grc_proiel	fi	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+grc_proiel	fi_ftb	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+grc_proiel	fr	adj-25+adp-75+det-75+ngen-25+num-75
+grc_proiel	fr_partut	adj-25+adp-75+det-75+ngen-25+num-75
+grc_proiel	fr_sequoia	adj-25+adp-75+det-75+ngen-25+num-75
+grc_proiel	ga	adj-25+adp-75+del-ind+det-25+ngen-25+num-75
+grc_proiel	gl	adj-25+adp-75+det-75+ngen-25+num-75
+grc_proiel	gl_treegal	adj-25+adp-75+det-75+ngen-25+num-75
+grc_proiel	got	
+grc_proiel	grc	
+grc_proiel	grc_proiel	
+grc_proiel	he	adj-25+adp-75+del-def+det-25+ngen-25+num-75
+grc_proiel	hi	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+grc_proiel	hr	adj-75+adp-75+del-d+det-75+num-75
+grc_proiel	hu	adj-75+adp-25+det-75+ngen-75+num-75
+grc_proiel	id	adj-25+adp-75+del-ind+det-25+ngen-25+num-75
+grc_proiel	it	adj-25+adp-75+det-75+ngen-25+num-75
+grc_proiel	it_partut	adj-25+adp-75+det-75+ngen-25+num-75
+grc_proiel	ja	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+grc_proiel	ja_ktc	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+grc_proiel	kk	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+grc_proiel	ko	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+grc_proiel	la	
+grc_proiel	la_ittb	
+grc_proiel	la_proiel	
+grc_proiel	lt	adj-75+adp-75+del-d+det-75+ngen-75+num-75
+grc_proiel	lv	adj-75+adp-75+det-75+ngen-75+num-75
+grc_proiel	nl	adj-75+adp-75+det-75+ngen-25+num-75
+grc_proiel	nl_lassysmall	adj-75+adp-75+det-75+ngen-25+num-75
+grc_proiel	no	adj-75+adp-75+del-def+det-75+num-75
+grc_proiel	no_bokmaal	adj-75+adp-75+del-def+det-75+num-75
+grc_proiel	no_nynorsk	adj-75+adp-75+del-def+det-75+num-75
+grc_proiel	pl	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+grc_proiel	pt	adj-25+adp-75+det-75+ngen-25+num-75
+grc_proiel	pt_bosque	adj-25+adp-75+det-75+ngen-25+num-75
+grc_proiel	pt_br	adj-25+adp-75+det-75+ngen-25+num-75
+grc_proiel	ro	adj-25+adp-75+del-def+ngen-25+num-75
+grc_proiel	ru	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+grc_proiel	ru_syntagrus	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+grc_proiel	sa	
+grc_proiel	sk	adj-75+adp-75+del-d+det-75+num-75
+grc_proiel	sl	adj-75+adp-75+del-d+det-75+num-75
+grc_proiel	sl_sst	adj-75+adp-75+del-d+det-75+num-75
+grc_proiel	sv	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+grc_proiel	sv_lines	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+grc_proiel	swl	
+grc_proiel	ta	adj-75+adp-25+det-75+ngen-75+num-75
+grc_proiel	tr	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+grc_proiel	ug	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+grc_proiel	uk	adj-75+adp-75+del-d+det-75+num-75
+grc_proiel	ur	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+grc_proiel	vi	adj-25+adp-75+det-25+ngen-25+num-75
+grc_proiel	zh	adj-75+del-def+det-75+ngen-75+num-75
+he	ar	det-50
+he	ar_nyuad	det-50
+he	be	adj-50+del-d+det-50
+he	bg	adj-50+det-50+ngen-50
+he	ca	det-50
+he	cop	det-50
+he	cs	adj-50+del-d+det-50+ngen-50
+he	cs_cac	adj-50+del-d+det-50+ngen-50
+he	cs_cltt	adj-50+del-d+det-50+ngen-50
+he	cu	adj-50+adp-50+det-50+ngen-50+num-50
+he	da	adj-50+det-50+ngen-50
+he	de	adj-50+det-50
+he	el	adj-50+det-50
+he	en	adj-50+det-50+ngen-50
+he	en_esl	adj-50+det-50+ngen-50
+he	en_lines	adj-50+det-50+ngen-50
+he	en_partut	adj-50+det-50+ngen-50
+he	es	det-50
+he	es_ancora	det-50
+he	et	adj-50+adp-50+del-d+det-50+ngen-50
+he	eu	adp-50+ngen-50
+he	fa	det-50
+he	fi	adj-50+adp-50+del-d+det-50+ngen-50
+he	fi_ftb	adj-50+adp-50+del-d+det-50+ngen-50
+he	fr	det-50
+he	fr_partut	det-50
+he	fr_sequoia	det-50
+he	ga	del-ind
+he	gl	det-50
+he	gl_treegal	det-50
+he	got	adj-50+adp-50+det-50+ngen-50+num-50
+he	grc	adj-50+adp-50+det-50+ngen-50+num-50
+he	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+he	he	
+he	hi	adj-50+adp-50+del-d+det-50+ngen-50
+he	hr	adj-50+del-d+det-50+ngen-50
+he	hu	adj-50+adp-50+det-50+ngen-50
+he	id	del-ind
+he	it	det-50
+he	it_partut	det-50
+he	ja	adj-50+adp-50+det-50+ngen-50
+he	ja_ktc	adj-50+adp-50+det-50+ngen-50
+he	kk	adj-50+adp-50+det-50+ngen-50
+he	ko	adj-50+adp-50+del-d+det-50+ngen-50
+he	la	adj-50+adp-50+det-50+ngen-50+num-50
+he	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+he	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+he	lt	adj-50+del-d+det-50+ngen-50
+he	lv	adj-50+det-50+ngen-50
+he	nl	adj-50+det-50
+he	nl_lassysmall	adj-50+det-50
+he	no	adj-50+det-50+ngen-50
+he	no_bokmaal	adj-50+det-50+ngen-50
+he	no_nynorsk	adj-50+det-50+ngen-50
+he	pl	adj-50+del-d+det-50
+he	pt	det-50
+he	pt_bosque	det-50
+he	pt_br	det-50
+he	ro	det-50
+he	ru	adj-50+del-d+det-50
+he	ru_syntagrus	adj-50+del-d+det-50
+he	sa	adj-50+adp-50+det-50+ngen-50+num-50
+he	sk	adj-50+del-d+det-50+ngen-50
+he	sl	adj-50+del-d+det-50+ngen-50
+he	sl_sst	adj-50+del-d+det-50+ngen-50
+he	sv	adj-50+det-50+ngen-50
+he	sv_lines	adj-50+det-50+ngen-50
+he	swl	adj-50+adp-50+det-50+ngen-50+num-50
+he	ta	adj-50+adp-50+det-50+ngen-50
+he	tr	adj-50+adp-50+det-50+ngen-50
+he	ug	adj-50+adp-50+det-50+ngen-50
+he	uk	adj-50+del-d+det-50+ngen-50
+he	ur	adj-50+adp-50+del-d+det-50+ngen-50
+he	vi	
+he	zh	adj-50+adp-50+det-50+ngen-50
+hi	ar	adj-50+adp-50+del-def+ngen-50
+hi	ar_nyuad	adj-50+adp-50+del-def+ngen-50
+hi	be	adp-50+ngen-50
+hi	bg	adp-50+ngen-50
+hi	ca	adj-50+adp-50+ngen-50
+hi	cop	adj-50+adp-50+det-50+ngen-50
+hi	cs	adp-50+ngen-50
+hi	cs_cac	adp-50+ngen-50
+hi	cs_cltt	adp-50+ngen-50
+hi	cu	adj-50+adp-50+det-50+ngen-50+num-50
+hi	da	adp-50+del-def
+hi	de	adp-50+ngen-50
+hi	el	adp-50+ngen-50
+hi	en	adp-50+ngen-50
+hi	en_esl	adp-50+ngen-50
+hi	en_lines	adp-50+ngen-50
+hi	en_partut	adp-50+ngen-50
+hi	es	adj-50+adp-50+ngen-50
+hi	es_ancora	adj-50+adp-50+ngen-50
+hi	et	
+hi	eu	adj-50+det-50
+hi	fa	adj-50+adp-50+del-def+ngen-50
+hi	fi	
+hi	fi_ftb	
+hi	fr	adj-50+adp-50+ngen-50
+hi	fr_partut	adj-50+adp-50+ngen-50
+hi	fr_sequoia	adj-50+adp-50+ngen-50
+hi	ga	adj-50+adp-50+del-ind+det-50+ngen-50
+hi	gl	adj-50+adp-50+ngen-50
+hi	gl_treegal	adj-50+adp-50+ngen-50
+hi	got	adj-50+adp-50+det-50+ngen-50+num-50
+hi	grc	adj-50+adp-50+det-50+ngen-50+num-50
+hi	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+hi	he	adj-50+adp-50+del-def+det-50+ngen-50
+hi	hi	
+hi	hr	adp-50+ngen-50
+hi	hu	
+hi	id	adj-50+adp-50+del-ind+det-50+ngen-50
+hi	it	adj-50+adp-50+ngen-50
+hi	it_partut	adj-50+adp-50+ngen-50
+hi	ja	del-def
+hi	ja_ktc	del-def
+hi	kk	del-def
+hi	ko	
+hi	la	adj-50+adp-50+det-50+ngen-50+num-50
+hi	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+hi	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+hi	lt	adp-50
+hi	lv	adp-50
+hi	nl	adp-50+ngen-50
+hi	nl_lassysmall	adp-50+ngen-50
+hi	no	adp-50+del-def+ngen-50
+hi	no_bokmaal	adp-50+del-def+ngen-50
+hi	no_nynorsk	adp-50+del-def+ngen-50
+hi	pl	adp-50+ngen-50
+hi	pt	adj-50+adp-50+ngen-50
+hi	pt_bosque	adj-50+adp-50+ngen-50
+hi	pt_br	adj-50+adp-50+ngen-50
+hi	ro	adj-50+adp-50+del-def+det-50+ngen-50
+hi	ru	adp-50+ngen-50
+hi	ru_syntagrus	adp-50+ngen-50
+hi	sa	adj-50+adp-50+det-50+ngen-50+num-50
+hi	sk	adp-50+ngen-50
+hi	sl	adp-50+ngen-50
+hi	sl_sst	adp-50+ngen-50
+hi	sv	adp-50+del-def
+hi	sv_lines	adp-50+del-def
+hi	swl	adj-50+adp-50+det-50+ngen-50+num-50
+hi	ta	
+hi	tr	del-def
+hi	ug	del-def
+hi	uk	adp-50+ngen-50
+hi	ur	
+hi	vi	adj-50+adp-50+det-50+ngen-50
+hi	zh	adp-50+del-def
+hr	ar	adj-50+del-def+ngen-25
+hr	ar_nyuad	adj-50+del-def+ngen-25
+hr	be	ngen-25
+hr	bg	
+hr	ca	adj-50+ngen-25
+hr	cop	adj-50+det-50+ngen-25
+hr	cs	
+hr	cs_cac	
+hr	cs_cltt	
+hr	cu	adj-50+adp-50+det-50+num-50
+hr	da	del-def+ngen-75
+hr	de	ngen-25
+hr	el	ngen-25
+hr	en	
+hr	en_esl	
+hr	en_lines	
+hr	en_partut	
+hr	es	adj-50+ngen-25
+hr	es_ancora	adj-50+ngen-25
+hr	et	adp-50+ngen-75
+hr	eu	adj-50+adp-50+det-50+ngen-75
+hr	fa	adj-50+del-def+ngen-25
+hr	fi	adp-50+ngen-75
+hr	fi_ftb	adp-50+ngen-75
+hr	fr	adj-50+ngen-25
+hr	fr_partut	adj-50+ngen-25
+hr	fr_sequoia	adj-50+ngen-25
+hr	ga	adj-50+del-ind+det-50+ngen-25
+hr	gl	adj-50+ngen-25
+hr	gl_treegal	adj-50+ngen-25
+hr	got	adj-50+adp-50+det-50+num-50
+hr	grc	adj-50+adp-50+det-50+num-50
+hr	grc_proiel	adj-50+adp-50+det-50+num-50
+hr	he	adj-50+del-def+det-50+ngen-25
+hr	hi	adp-50+ngen-75
+hr	hr	
+hr	hu	adp-50+ngen-75
+hr	id	adj-50+del-ind+det-50+ngen-25
+hr	it	adj-50+ngen-25
+hr	it_partut	adj-50+ngen-25
+hr	ja	adp-50+del-def+ngen-75
+hr	ja_ktc	adp-50+del-def+ngen-75
+hr	kk	adp-50+del-def+ngen-75
+hr	ko	adp-50+ngen-75
+hr	la	adj-50+adp-50+det-50+num-50
+hr	la_ittb	adj-50+adp-50+det-50+num-50
+hr	la_proiel	adj-50+adp-50+det-50+num-50
+hr	lt	ngen-75
+hr	lv	ngen-75
+hr	nl	ngen-25
+hr	nl_lassysmall	ngen-25
+hr	no	del-def
+hr	no_bokmaal	del-def
+hr	no_nynorsk	del-def
+hr	pl	ngen-25
+hr	pt	adj-50+ngen-25
+hr	pt_bosque	adj-50+ngen-25
+hr	pt_br	adj-50+ngen-25
+hr	ro	adj-50+del-def+det-50+ngen-25
+hr	ru	ngen-25
+hr	ru_syntagrus	ngen-25
+hr	sa	adj-50+adp-50+det-50+num-50
+hr	sk	
+hr	sl	
+hr	sl_sst	
+hr	sv	del-def+ngen-75
+hr	sv_lines	del-def+ngen-75
+hr	swl	adj-50+adp-50+det-50+num-50
+hr	ta	adp-50+ngen-75
+hr	tr	adp-50+del-def+ngen-75
+hr	ug	adp-50+del-def+ngen-75
+hr	uk	
+hr	ur	adp-50+ngen-75
+hr	vi	adj-50+det-50+ngen-25
+hr	zh	adp-50+del-def+ngen-75
+hu	ar	adj-50+adp-50+del-def+ngen-50
+hu	ar_nyuad	adj-50+adp-50+del-def+ngen-50
+hu	be	adp-50+del-d+ngen-50
+hu	bg	adp-50+ngen-50
+hu	ca	adj-50+adp-50+ngen-50
+hu	cop	adj-50+adp-50+det-50+ngen-50
+hu	cs	adp-50+del-d+ngen-50
+hu	cs_cac	adp-50+del-d+ngen-50
+hu	cs_cltt	adp-50+del-d+ngen-50
+hu	cu	adj-50+adp-50+det-50+ngen-50+num-50
+hu	da	adp-50+del-def
+hu	de	adp-50+ngen-50
+hu	el	adp-50+ngen-50
+hu	en	adp-50+ngen-50
+hu	en_esl	adp-50+ngen-50
+hu	en_lines	adp-50+ngen-50
+hu	en_partut	adp-50+ngen-50
+hu	es	adj-50+adp-50+ngen-50
+hu	es_ancora	adj-50+adp-50+ngen-50
+hu	et	del-d
+hu	eu	adj-50+det-50
+hu	fa	adj-50+adp-50+del-def+ngen-50
+hu	fi	del-d
+hu	fi_ftb	del-d
+hu	fr	adj-50+adp-50+ngen-50
+hu	fr_partut	adj-50+adp-50+ngen-50
+hu	fr_sequoia	adj-50+adp-50+ngen-50
+hu	ga	adj-50+adp-50+del-ind+det-50+ngen-50
+hu	gl	adj-50+adp-50+ngen-50
+hu	gl_treegal	adj-50+adp-50+ngen-50
+hu	got	adj-50+adp-50+det-50+ngen-50+num-50
+hu	grc	adj-50+adp-50+det-50+ngen-50+num-50
+hu	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+hu	he	adj-50+adp-50+del-def+det-50+ngen-50
+hu	hi	del-d
+hu	hr	adp-50+del-d+ngen-50
+hu	hu	
+hu	id	adj-50+adp-50+del-ind+det-50+ngen-50
+hu	it	adj-50+adp-50+ngen-50
+hu	it_partut	adj-50+adp-50+ngen-50
+hu	ja	del-def
+hu	ja_ktc	del-def
+hu	kk	del-def
+hu	ko	del-d
+hu	la	adj-50+adp-50+det-50+ngen-50+num-50
+hu	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+hu	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+hu	lt	adp-50+del-d
+hu	lv	adp-50
+hu	nl	adp-50+ngen-50
+hu	nl_lassysmall	adp-50+ngen-50
+hu	no	adp-50+del-def+ngen-50
+hu	no_bokmaal	adp-50+del-def+ngen-50
+hu	no_nynorsk	adp-50+del-def+ngen-50
+hu	pl	adp-50+del-d+ngen-50
+hu	pt	adj-50+adp-50+ngen-50
+hu	pt_bosque	adj-50+adp-50+ngen-50
+hu	pt_br	adj-50+adp-50+ngen-50
+hu	ro	adj-50+adp-50+del-def+det-50+ngen-50
+hu	ru	adp-50+del-d+ngen-50
+hu	ru_syntagrus	adp-50+del-d+ngen-50
+hu	sa	adj-50+adp-50+det-50+ngen-50+num-50
+hu	sk	adp-50+del-d+ngen-50
+hu	sl	adp-50+del-d+ngen-50
+hu	sl_sst	adp-50+del-d+ngen-50
+hu	sv	adp-50+del-def
+hu	sv_lines	adp-50+del-def
+hu	swl	adj-50+adp-50+det-50+ngen-50+num-50
+hu	ta	
+hu	tr	del-def
+hu	ug	del-def
+hu	uk	adp-50+del-d+ngen-50
+hu	ur	del-d
+hu	vi	adj-50+adp-50+det-50+ngen-50
+hu	zh	adp-50+del-def
+id	ar	del-def+det-50
+id	ar_nyuad	del-def+det-50
+id	be	adj-50+del-d+det-50
+id	bg	adj-50+det-50+ngen-50
+id	ca	det-50
+id	cop	det-50
+id	cs	adj-50+del-d+det-50+ngen-50
+id	cs_cac	adj-50+del-d+det-50+ngen-50
+id	cs_cltt	adj-50+del-d+det-50+ngen-50
+id	cu	adj-50+adp-50+det-50+ngen-50+num-50
+id	da	adj-50+del-def+det-50+ngen-50
+id	de	adj-50+det-50
+id	el	adj-50+det-50
+id	en	adj-50+det-50+ngen-50
+id	en_esl	adj-50+det-50+ngen-50
+id	en_lines	adj-50+det-50+ngen-50
+id	en_partut	adj-50+det-50+ngen-50
+id	es	det-50
+id	es_ancora	det-50
+id	et	adj-50+adp-50+del-d+det-50+ngen-50
+id	eu	adp-50+ngen-50
+id	fa	del-def+det-50
+id	fi	adj-50+adp-50+del-d+det-50+ngen-50
+id	fi_ftb	adj-50+adp-50+del-d+det-50+ngen-50
+id	fr	det-50
+id	fr_partut	det-50
+id	fr_sequoia	det-50
+id	ga	
+id	gl	det-50
+id	gl_treegal	det-50
+id	got	adj-50+adp-50+det-50+ngen-50+num-50
+id	grc	adj-50+adp-50+det-50+ngen-50+num-50
+id	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+id	he	del-def
+id	hi	adj-50+adp-50+del-d+det-50+ngen-50
+id	hr	adj-50+del-d+det-50+ngen-50
+id	hu	adj-50+adp-50+det-50+ngen-50
+id	id	
+id	it	det-50
+id	it_partut	det-50
+id	ja	adj-50+adp-50+del-def+det-50+ngen-50
+id	ja_ktc	adj-50+adp-50+del-def+det-50+ngen-50
+id	kk	adj-50+adp-50+del-def+det-50+ngen-50
+id	ko	adj-50+adp-50+del-d+det-50+ngen-50
+id	la	adj-50+adp-50+det-50+ngen-50+num-50
+id	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+id	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+id	lt	adj-50+del-d+det-50+ngen-50
+id	lv	adj-50+det-50+ngen-50
+id	nl	adj-50+det-50
+id	nl_lassysmall	adj-50+det-50
+id	no	adj-50+del-def+det-50+ngen-50
+id	no_bokmaal	adj-50+del-def+det-50+ngen-50
+id	no_nynorsk	adj-50+del-def+det-50+ngen-50
+id	pl	adj-50+del-d+det-50
+id	pt	det-50
+id	pt_bosque	det-50
+id	pt_br	det-50
+id	ro	del-def+det-50
+id	ru	adj-50+del-d+det-50
+id	ru_syntagrus	adj-50+del-d+det-50
+id	sa	adj-50+adp-50+det-50+ngen-50+num-50
+id	sk	adj-50+del-d+det-50+ngen-50
+id	sl	adj-50+del-d+det-50+ngen-50
+id	sl_sst	adj-50+del-d+det-50+ngen-50
+id	sv	adj-50+del-def+det-50+ngen-50
+id	sv_lines	adj-50+del-def+det-50+ngen-50
+id	swl	adj-50+adp-50+det-50+ngen-50+num-50
+id	ta	adj-50+adp-50+det-50+ngen-50
+id	tr	adj-50+adp-50+del-def+det-50+ngen-50
+id	ug	adj-50+adp-50+del-def+det-50+ngen-50
+id	uk	adj-50+del-d+det-50+ngen-50
+id	ur	adj-50+adp-50+del-d+det-50+ngen-50
+id	vi	
+id	zh	adj-50+adp-50+del-def+det-50+ngen-50
+it	ar	del-def
+it	ar_nyuad	del-def
+it	be	adj-50+del-d
+it	bg	adj-50+ngen-50
+it	ca	
+it	cop	det-50
+it	cs	adj-50+del-d+ngen-50
+it	cs_cac	adj-50+del-d+ngen-50
+it	cs_cltt	adj-50+del-d+ngen-50
+it	cu	adj-50+adp-50+det-50+ngen-50+num-50
+it	da	adj-50+del-def+ngen-50
+it	de	adj-50
+it	el	adj-50
+it	en	adj-50+ngen-50
+it	en_esl	adj-50+ngen-50
+it	en_lines	adj-50+ngen-50
+it	en_partut	adj-50+ngen-50
+it	es	
+it	es_ancora	
+it	et	adj-50+adp-50+del-d+ngen-50
+it	eu	adp-50+det-50+ngen-50
+it	fa	del-def
+it	fi	adj-50+adp-50+del-d+ngen-50
+it	fi_ftb	adj-50+adp-50+del-d+ngen-50
+it	fr	
+it	fr_partut	
+it	fr_sequoia	
+it	ga	del-ind+det-50
+it	gl	
+it	gl_treegal	
+it	got	adj-50+adp-50+det-50+ngen-50+num-50
+it	grc	adj-50+adp-50+det-50+ngen-50+num-50
+it	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+it	he	del-def+det-50
+it	hi	adj-50+adp-50+del-d+ngen-50
+it	hr	adj-50+del-d+ngen-50
+it	hu	adj-50+adp-50+ngen-50
+it	id	del-ind+det-50
+it	it	
+it	it_partut	
+it	ja	adj-50+adp-50+del-def+ngen-50
+it	ja_ktc	adj-50+adp-50+del-def+ngen-50
+it	kk	adj-50+adp-50+del-def+ngen-50
+it	ko	adj-50+adp-50+del-d+ngen-50
+it	la	adj-50+adp-50+det-50+ngen-50+num-50
+it	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+it	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+it	lt	adj-50+del-d+ngen-50
+it	lv	adj-50+ngen-50
+it	nl	adj-50
+it	nl_lassysmall	adj-50
+it	no	adj-50+del-def+ngen-50
+it	no_bokmaal	adj-50+del-def+ngen-50
+it	no_nynorsk	adj-50+del-def+ngen-50
+it	pl	adj-50+del-d
+it	pt	
+it	pt_bosque	
+it	pt_br	
+it	ro	del-def+det-50
+it	ru	adj-50+del-d
+it	ru_syntagrus	adj-50+del-d
+it	sa	adj-50+adp-50+det-50+ngen-50+num-50
+it	sk	adj-50+del-d+ngen-50
+it	sl	adj-50+del-d+ngen-50
+it	sl_sst	adj-50+del-d+ngen-50
+it	sv	adj-50+del-def+ngen-50
+it	sv_lines	adj-50+del-def+ngen-50
+it	swl	adj-50+adp-50+det-50+ngen-50+num-50
+it	ta	adj-50+adp-50+ngen-50
+it	tr	adj-50+adp-50+del-def+ngen-50
+it	ug	adj-50+adp-50+del-def+ngen-50
+it	uk	adj-50+del-d+ngen-50
+it	ur	adj-50+adp-50+del-d+ngen-50
+it	vi	det-50
+it	zh	adj-50+adp-50+del-def+ngen-50
+it_partut	ar	del-def
+it_partut	ar_nyuad	del-def
+it_partut	be	adj-50+del-d
+it_partut	bg	adj-50+ngen-50
+it_partut	ca	
+it_partut	cop	det-50
+it_partut	cs	adj-50+del-d+ngen-50
+it_partut	cs_cac	adj-50+del-d+ngen-50
+it_partut	cs_cltt	adj-50+del-d+ngen-50
+it_partut	cu	adj-50+adp-50+det-50+ngen-50+num-50
+it_partut	da	adj-50+del-def+ngen-50
+it_partut	de	adj-50
+it_partut	el	adj-50
+it_partut	en	adj-50+ngen-50
+it_partut	en_esl	adj-50+ngen-50
+it_partut	en_lines	adj-50+ngen-50
+it_partut	en_partut	adj-50+ngen-50
+it_partut	es	
+it_partut	es_ancora	
+it_partut	et	adj-50+adp-50+del-d+ngen-50
+it_partut	eu	adp-50+det-50+ngen-50
+it_partut	fa	del-def
+it_partut	fi	adj-50+adp-50+del-d+ngen-50
+it_partut	fi_ftb	adj-50+adp-50+del-d+ngen-50
+it_partut	fr	
+it_partut	fr_partut	
+it_partut	fr_sequoia	
+it_partut	ga	del-ind+det-50
+it_partut	gl	
+it_partut	gl_treegal	
+it_partut	got	adj-50+adp-50+det-50+ngen-50+num-50
+it_partut	grc	adj-50+adp-50+det-50+ngen-50+num-50
+it_partut	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+it_partut	he	del-def+det-50
+it_partut	hi	adj-50+adp-50+del-d+ngen-50
+it_partut	hr	adj-50+del-d+ngen-50
+it_partut	hu	adj-50+adp-50+ngen-50
+it_partut	id	del-ind+det-50
+it_partut	it	
+it_partut	it_partut	
+it_partut	ja	adj-50+adp-50+del-def+ngen-50
+it_partut	ja_ktc	adj-50+adp-50+del-def+ngen-50
+it_partut	kk	adj-50+adp-50+del-def+ngen-50
+it_partut	ko	adj-50+adp-50+del-d+ngen-50
+it_partut	la	adj-50+adp-50+det-50+ngen-50+num-50
+it_partut	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+it_partut	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+it_partut	lt	adj-50+del-d+ngen-50
+it_partut	lv	adj-50+ngen-50
+it_partut	nl	adj-50
+it_partut	nl_lassysmall	adj-50
+it_partut	no	adj-50+del-def+ngen-50
+it_partut	no_bokmaal	adj-50+del-def+ngen-50
+it_partut	no_nynorsk	adj-50+del-def+ngen-50
+it_partut	pl	adj-50+del-d
+it_partut	pt	
+it_partut	pt_bosque	
+it_partut	pt_br	
+it_partut	ro	del-def+det-50
+it_partut	ru	adj-50+del-d
+it_partut	ru_syntagrus	adj-50+del-d
+it_partut	sa	adj-50+adp-50+det-50+ngen-50+num-50
+it_partut	sk	adj-50+del-d+ngen-50
+it_partut	sl	adj-50+del-d+ngen-50
+it_partut	sl_sst	adj-50+del-d+ngen-50
+it_partut	sv	adj-50+del-def+ngen-50
+it_partut	sv_lines	adj-50+del-def+ngen-50
+it_partut	swl	adj-50+adp-50+det-50+ngen-50+num-50
+it_partut	ta	adj-50+adp-50+ngen-50
+it_partut	tr	adj-50+adp-50+del-def+ngen-50
+it_partut	ug	adj-50+adp-50+del-def+ngen-50
+it_partut	uk	adj-50+del-d+ngen-50
+it_partut	ur	adj-50+adp-50+del-d+ngen-50
+it_partut	vi	det-50
+it_partut	zh	adj-50+adp-50+del-def+ngen-50
+ja	ar	adj-50+adp-50+ngen-50
+ja	ar_nyuad	adj-50+adp-50+ngen-50
+ja	be	adp-50+del-d+ngen-50
+ja	bg	adp-50+ngen-50
+ja	ca	adj-50+adp-50+ngen-50
+ja	cop	adj-50+adp-50+det-50+ngen-50
+ja	cs	adp-50+del-d+ngen-50
+ja	cs_cac	adp-50+del-d+ngen-50
+ja	cs_cltt	adp-50+del-d+ngen-50
+ja	cu	adj-50+adp-50+det-50+ngen-50+num-50
+ja	da	adp-50
+ja	de	adp-50+ngen-50
+ja	el	adp-50+ngen-50
+ja	en	adp-50+ngen-50
+ja	en_esl	adp-50+ngen-50
+ja	en_lines	adp-50+ngen-50
+ja	en_partut	adp-50+ngen-50
+ja	es	adj-50+adp-50+ngen-50
+ja	es_ancora	adj-50+adp-50+ngen-50
+ja	et	del-d
+ja	eu	adj-50+det-50
+ja	fa	adj-50+adp-50+ngen-50
+ja	fi	del-d
+ja	fi_ftb	del-d
+ja	fr	adj-50+adp-50+ngen-50
+ja	fr_partut	adj-50+adp-50+ngen-50
+ja	fr_sequoia	adj-50+adp-50+ngen-50
+ja	ga	adj-50+adp-50+del-ind+det-50+ngen-50
+ja	gl	adj-50+adp-50+ngen-50
+ja	gl_treegal	adj-50+adp-50+ngen-50
+ja	got	adj-50+adp-50+det-50+ngen-50+num-50
+ja	grc	adj-50+adp-50+det-50+ngen-50+num-50
+ja	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ja	he	adj-50+adp-50+det-50+ngen-50
+ja	hi	del-d
+ja	hr	adp-50+del-d+ngen-50
+ja	hu	
+ja	id	adj-50+adp-50+del-ind+det-50+ngen-50
+ja	it	adj-50+adp-50+ngen-50
+ja	it_partut	adj-50+adp-50+ngen-50
+ja	ja	
+ja	ja_ktc	
+ja	kk	
+ja	ko	del-d
+ja	la	adj-50+adp-50+det-50+ngen-50+num-50
+ja	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+ja	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ja	lt	adp-50+del-d
+ja	lv	adp-50
+ja	nl	adp-50+ngen-50
+ja	nl_lassysmall	adp-50+ngen-50
+ja	no	adp-50+ngen-50
+ja	no_bokmaal	adp-50+ngen-50
+ja	no_nynorsk	adp-50+ngen-50
+ja	pl	adp-50+del-d+ngen-50
+ja	pt	adj-50+adp-50+ngen-50
+ja	pt_bosque	adj-50+adp-50+ngen-50
+ja	pt_br	adj-50+adp-50+ngen-50
+ja	ro	adj-50+adp-50+det-50+ngen-50
+ja	ru	adp-50+del-d+ngen-50
+ja	ru_syntagrus	adp-50+del-d+ngen-50
+ja	sa	adj-50+adp-50+det-50+ngen-50+num-50
+ja	sk	adp-50+del-d+ngen-50
+ja	sl	adp-50+del-d+ngen-50
+ja	sl_sst	adp-50+del-d+ngen-50
+ja	sv	adp-50
+ja	sv_lines	adp-50
+ja	swl	adj-50+adp-50+det-50+ngen-50+num-50
+ja	ta	
+ja	tr	
+ja	ug	
+ja	uk	adp-50+del-d+ngen-50
+ja	ur	del-d
+ja	vi	adj-50+adp-50+det-50+ngen-50
+ja	zh	adp-50
+ja_ktc	ar	adj-50+adp-50+ngen-50
+ja_ktc	ar_nyuad	adj-50+adp-50+ngen-50
+ja_ktc	be	adp-50+del-d+ngen-50
+ja_ktc	bg	adp-50+ngen-50
+ja_ktc	ca	adj-50+adp-50+ngen-50
+ja_ktc	cop	adj-50+adp-50+det-50+ngen-50
+ja_ktc	cs	adp-50+del-d+ngen-50
+ja_ktc	cs_cac	adp-50+del-d+ngen-50
+ja_ktc	cs_cltt	adp-50+del-d+ngen-50
+ja_ktc	cu	adj-50+adp-50+det-50+ngen-50+num-50
+ja_ktc	da	adp-50
+ja_ktc	de	adp-50+ngen-50
+ja_ktc	el	adp-50+ngen-50
+ja_ktc	en	adp-50+ngen-50
+ja_ktc	en_esl	adp-50+ngen-50
+ja_ktc	en_lines	adp-50+ngen-50
+ja_ktc	en_partut	adp-50+ngen-50
+ja_ktc	es	adj-50+adp-50+ngen-50
+ja_ktc	es_ancora	adj-50+adp-50+ngen-50
+ja_ktc	et	del-d
+ja_ktc	eu	adj-50+det-50
+ja_ktc	fa	adj-50+adp-50+ngen-50
+ja_ktc	fi	del-d
+ja_ktc	fi_ftb	del-d
+ja_ktc	fr	adj-50+adp-50+ngen-50
+ja_ktc	fr_partut	adj-50+adp-50+ngen-50
+ja_ktc	fr_sequoia	adj-50+adp-50+ngen-50
+ja_ktc	ga	adj-50+adp-50+del-ind+det-50+ngen-50
+ja_ktc	gl	adj-50+adp-50+ngen-50
+ja_ktc	gl_treegal	adj-50+adp-50+ngen-50
+ja_ktc	got	adj-50+adp-50+det-50+ngen-50+num-50
+ja_ktc	grc	adj-50+adp-50+det-50+ngen-50+num-50
+ja_ktc	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ja_ktc	he	adj-50+adp-50+det-50+ngen-50
+ja_ktc	hi	del-d
+ja_ktc	hr	adp-50+del-d+ngen-50
+ja_ktc	hu	
+ja_ktc	id	adj-50+adp-50+del-ind+det-50+ngen-50
+ja_ktc	it	adj-50+adp-50+ngen-50
+ja_ktc	it_partut	adj-50+adp-50+ngen-50
+ja_ktc	ja	
+ja_ktc	ja_ktc	
+ja_ktc	kk	
+ja_ktc	ko	del-d
+ja_ktc	la	adj-50+adp-50+det-50+ngen-50+num-50
+ja_ktc	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+ja_ktc	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ja_ktc	lt	adp-50+del-d
+ja_ktc	lv	adp-50
+ja_ktc	nl	adp-50+ngen-50
+ja_ktc	nl_lassysmall	adp-50+ngen-50
+ja_ktc	no	adp-50+ngen-50
+ja_ktc	no_bokmaal	adp-50+ngen-50
+ja_ktc	no_nynorsk	adp-50+ngen-50
+ja_ktc	pl	adp-50+del-d+ngen-50
+ja_ktc	pt	adj-50+adp-50+ngen-50
+ja_ktc	pt_bosque	adj-50+adp-50+ngen-50
+ja_ktc	pt_br	adj-50+adp-50+ngen-50
+ja_ktc	ro	adj-50+adp-50+det-50+ngen-50
+ja_ktc	ru	adp-50+del-d+ngen-50
+ja_ktc	ru_syntagrus	adp-50+del-d+ngen-50
+ja_ktc	sa	adj-50+adp-50+det-50+ngen-50+num-50
+ja_ktc	sk	adp-50+del-d+ngen-50
+ja_ktc	sl	adp-50+del-d+ngen-50
+ja_ktc	sl_sst	adp-50+del-d+ngen-50
+ja_ktc	sv	adp-50
+ja_ktc	sv_lines	adp-50
+ja_ktc	swl	adj-50+adp-50+det-50+ngen-50+num-50
+ja_ktc	ta	
+ja_ktc	tr	
+ja_ktc	ug	
+ja_ktc	uk	adp-50+del-d+ngen-50
+ja_ktc	ur	del-d
+ja_ktc	vi	adj-50+adp-50+det-50+ngen-50
+ja_ktc	zh	adp-50
+kk	ar	adj-50+adp-50+ngen-50
+kk	ar_nyuad	adj-50+adp-50+ngen-50
+kk	be	adp-50+del-d+ngen-50
+kk	bg	adp-50+ngen-50
+kk	ca	adj-50+adp-50+ngen-50
+kk	cop	adj-50+adp-50+det-50+ngen-50
+kk	cs	adp-50+del-d+ngen-50
+kk	cs_cac	adp-50+del-d+ngen-50
+kk	cs_cltt	adp-50+del-d+ngen-50
+kk	cu	adj-50+adp-50+det-50+ngen-50+num-50
+kk	da	adp-50
+kk	de	adp-50+ngen-50
+kk	el	adp-50+ngen-50
+kk	en	adp-50+ngen-50
+kk	en_esl	adp-50+ngen-50
+kk	en_lines	adp-50+ngen-50
+kk	en_partut	adp-50+ngen-50
+kk	es	adj-50+adp-50+ngen-50
+kk	es_ancora	adj-50+adp-50+ngen-50
+kk	et	del-d
+kk	eu	adj-50+det-50
+kk	fa	adj-50+adp-50+ngen-50
+kk	fi	del-d
+kk	fi_ftb	del-d
+kk	fr	adj-50+adp-50+ngen-50
+kk	fr_partut	adj-50+adp-50+ngen-50
+kk	fr_sequoia	adj-50+adp-50+ngen-50
+kk	ga	adj-50+adp-50+del-ind+det-50+ngen-50
+kk	gl	adj-50+adp-50+ngen-50
+kk	gl_treegal	adj-50+adp-50+ngen-50
+kk	got	adj-50+adp-50+det-50+ngen-50+num-50
+kk	grc	adj-50+adp-50+det-50+ngen-50+num-50
+kk	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+kk	he	adj-50+adp-50+det-50+ngen-50
+kk	hi	del-d
+kk	hr	adp-50+del-d+ngen-50
+kk	hu	
+kk	id	adj-50+adp-50+del-ind+det-50+ngen-50
+kk	it	adj-50+adp-50+ngen-50
+kk	it_partut	adj-50+adp-50+ngen-50
+kk	ja	
+kk	ja_ktc	
+kk	kk	
+kk	ko	del-d
+kk	la	adj-50+adp-50+det-50+ngen-50+num-50
+kk	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+kk	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+kk	lt	adp-50+del-d
+kk	lv	adp-50
+kk	nl	adp-50+ngen-50
+kk	nl_lassysmall	adp-50+ngen-50
+kk	no	adp-50+ngen-50
+kk	no_bokmaal	adp-50+ngen-50
+kk	no_nynorsk	adp-50+ngen-50
+kk	pl	adp-50+del-d+ngen-50
+kk	pt	adj-50+adp-50+ngen-50
+kk	pt_bosque	adj-50+adp-50+ngen-50
+kk	pt_br	adj-50+adp-50+ngen-50
+kk	ro	adj-50+adp-50+det-50+ngen-50
+kk	ru	adp-50+del-d+ngen-50
+kk	ru_syntagrus	adp-50+del-d+ngen-50
+kk	sa	adj-50+adp-50+det-50+ngen-50+num-50
+kk	sk	adp-50+del-d+ngen-50
+kk	sl	adp-50+del-d+ngen-50
+kk	sl_sst	adp-50+del-d+ngen-50
+kk	sv	adp-50
+kk	sv_lines	adp-50
+kk	swl	adj-50+adp-50+det-50+ngen-50+num-50
+kk	ta	
+kk	tr	
+kk	ug	
+kk	uk	adp-50+del-d+ngen-50
+kk	ur	del-d
+kk	vi	adj-50+adp-50+det-50+ngen-50
+kk	zh	adp-50
+ko	ar	adj-50+adp-50+del-def+ngen-50
+ko	ar_nyuad	adj-50+adp-50+del-def+ngen-50
+ko	be	adp-50+ngen-50
+ko	bg	adp-50+ngen-50
+ko	ca	adj-50+adp-50+ngen-50
+ko	cop	adj-50+adp-50+det-50+ngen-50
+ko	cs	adp-50+ngen-50
+ko	cs_cac	adp-50+ngen-50
+ko	cs_cltt	adp-50+ngen-50
+ko	cu	adj-50+adp-50+det-50+ngen-50+num-50
+ko	da	adp-50+del-def
+ko	de	adp-50+ngen-50
+ko	el	adp-50+ngen-50
+ko	en	adp-50+ngen-50
+ko	en_esl	adp-50+ngen-50
+ko	en_lines	adp-50+ngen-50
+ko	en_partut	adp-50+ngen-50
+ko	es	adj-50+adp-50+ngen-50
+ko	es_ancora	adj-50+adp-50+ngen-50
+ko	et	
+ko	eu	adj-50+det-50
+ko	fa	adj-50+adp-50+del-def+ngen-50
+ko	fi	
+ko	fi_ftb	
+ko	fr	adj-50+adp-50+ngen-50
+ko	fr_partut	adj-50+adp-50+ngen-50
+ko	fr_sequoia	adj-50+adp-50+ngen-50
+ko	ga	adj-50+adp-50+del-ind+det-50+ngen-50
+ko	gl	adj-50+adp-50+ngen-50
+ko	gl_treegal	adj-50+adp-50+ngen-50
+ko	got	adj-50+adp-50+det-50+ngen-50+num-50
+ko	grc	adj-50+adp-50+det-50+ngen-50+num-50
+ko	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ko	he	adj-50+adp-50+del-def+det-50+ngen-50
+ko	hi	
+ko	hr	adp-50+ngen-50
+ko	hu	
+ko	id	adj-50+adp-50+del-ind+det-50+ngen-50
+ko	it	adj-50+adp-50+ngen-50
+ko	it_partut	adj-50+adp-50+ngen-50
+ko	ja	del-def
+ko	ja_ktc	del-def
+ko	kk	del-def
+ko	ko	
+ko	la	adj-50+adp-50+det-50+ngen-50+num-50
+ko	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+ko	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ko	lt	adp-50
+ko	lv	adp-50
+ko	nl	adp-50+ngen-50
+ko	nl_lassysmall	adp-50+ngen-50
+ko	no	adp-50+del-def+ngen-50
+ko	no_bokmaal	adp-50+del-def+ngen-50
+ko	no_nynorsk	adp-50+del-def+ngen-50
+ko	pl	adp-50+ngen-50
+ko	pt	adj-50+adp-50+ngen-50
+ko	pt_bosque	adj-50+adp-50+ngen-50
+ko	pt_br	adj-50+adp-50+ngen-50
+ko	ro	adj-50+adp-50+del-def+det-50+ngen-50
+ko	ru	adp-50+ngen-50
+ko	ru_syntagrus	adp-50+ngen-50
+ko	sa	adj-50+adp-50+det-50+ngen-50+num-50
+ko	sk	adp-50+ngen-50
+ko	sl	adp-50+ngen-50
+ko	sl_sst	adp-50+ngen-50
+ko	sv	adp-50+del-def
+ko	sv_lines	adp-50+del-def
+ko	swl	adj-50+adp-50+det-50+ngen-50+num-50
+ko	ta	
+ko	tr	del-def
+ko	ug	del-def
+ko	uk	adp-50+ngen-50
+ko	ur	
+ko	vi	adj-50+adp-50+det-50+ngen-50
+ko	zh	adp-50+del-def
+la	ar	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+la	ar_nyuad	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+la	be	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+la	bg	adj-75+adp-75+det-75+num-75
+la	ca	adj-25+adp-75+det-75+ngen-25+num-75
+la	cop	adj-25+adp-75+ngen-25+num-75
+la	cs	adj-75+adp-75+del-d+det-75+num-75
+la	cs_cac	adj-75+adp-75+del-d+det-75+num-75
+la	cs_cltt	adj-75+adp-75+del-d+det-75+num-75
+la	cu	
+la	da	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+la	de	adj-75+adp-75+det-75+ngen-25+num-75
+la	el	adj-75+adp-75+det-75+ngen-25+num-75
+la	en	adj-75+adp-75+det-75+num-75
+la	en_esl	adj-75+adp-75+det-75+num-75
+la	en_lines	adj-75+adp-75+det-75+num-75
+la	en_partut	adj-75+adp-75+det-75+num-75
+la	es	adj-25+adp-75+det-75+ngen-25+num-75
+la	es_ancora	adj-25+adp-75+det-75+ngen-25+num-75
+la	et	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+la	eu	adj-25+adp-25+det-25+ngen-75+num-75
+la	fa	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+la	fi	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+la	fi_ftb	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+la	fr	adj-25+adp-75+det-75+ngen-25+num-75
+la	fr_partut	adj-25+adp-75+det-75+ngen-25+num-75
+la	fr_sequoia	adj-25+adp-75+det-75+ngen-25+num-75
+la	ga	adj-25+adp-75+del-ind+det-25+ngen-25+num-75
+la	gl	adj-25+adp-75+det-75+ngen-25+num-75
+la	gl_treegal	adj-25+adp-75+det-75+ngen-25+num-75
+la	got	
+la	grc	
+la	grc_proiel	
+la	he	adj-25+adp-75+del-def+det-25+ngen-25+num-75
+la	hi	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+la	hr	adj-75+adp-75+del-d+det-75+num-75
+la	hu	adj-75+adp-25+det-75+ngen-75+num-75
+la	id	adj-25+adp-75+del-ind+det-25+ngen-25+num-75
+la	it	adj-25+adp-75+det-75+ngen-25+num-75
+la	it_partut	adj-25+adp-75+det-75+ngen-25+num-75
+la	ja	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+la	ja_ktc	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+la	kk	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+la	ko	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+la	la	
+la	la_ittb	
+la	la_proiel	
+la	lt	adj-75+adp-75+del-d+det-75+ngen-75+num-75
+la	lv	adj-75+adp-75+det-75+ngen-75+num-75
+la	nl	adj-75+adp-75+det-75+ngen-25+num-75
+la	nl_lassysmall	adj-75+adp-75+det-75+ngen-25+num-75
+la	no	adj-75+adp-75+del-def+det-75+num-75
+la	no_bokmaal	adj-75+adp-75+del-def+det-75+num-75
+la	no_nynorsk	adj-75+adp-75+del-def+det-75+num-75
+la	pl	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+la	pt	adj-25+adp-75+det-75+ngen-25+num-75
+la	pt_bosque	adj-25+adp-75+det-75+ngen-25+num-75
+la	pt_br	adj-25+adp-75+det-75+ngen-25+num-75
+la	ro	adj-25+adp-75+del-def+ngen-25+num-75
+la	ru	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+la	ru_syntagrus	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+la	sa	
+la	sk	adj-75+adp-75+del-d+det-75+num-75
+la	sl	adj-75+adp-75+del-d+det-75+num-75
+la	sl_sst	adj-75+adp-75+del-d+det-75+num-75
+la	sv	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+la	sv_lines	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+la	swl	
+la	ta	adj-75+adp-25+det-75+ngen-75+num-75
+la	tr	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+la	ug	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+la	uk	adj-75+adp-75+del-d+det-75+num-75
+la	ur	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+la	vi	adj-25+adp-75+det-25+ngen-25+num-75
+la	zh	adj-75+del-def+det-75+ngen-75+num-75
+la_ittb	ar	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+la_ittb	ar_nyuad	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+la_ittb	be	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+la_ittb	bg	adj-75+adp-75+det-75+num-75
+la_ittb	ca	adj-25+adp-75+det-75+ngen-25+num-75
+la_ittb	cop	adj-25+adp-75+ngen-25+num-75
+la_ittb	cs	adj-75+adp-75+del-d+det-75+num-75
+la_ittb	cs_cac	adj-75+adp-75+del-d+det-75+num-75
+la_ittb	cs_cltt	adj-75+adp-75+del-d+det-75+num-75
+la_ittb	cu	
+la_ittb	da	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+la_ittb	de	adj-75+adp-75+det-75+ngen-25+num-75
+la_ittb	el	adj-75+adp-75+det-75+ngen-25+num-75
+la_ittb	en	adj-75+adp-75+det-75+num-75
+la_ittb	en_esl	adj-75+adp-75+det-75+num-75
+la_ittb	en_lines	adj-75+adp-75+det-75+num-75
+la_ittb	en_partut	adj-75+adp-75+det-75+num-75
+la_ittb	es	adj-25+adp-75+det-75+ngen-25+num-75
+la_ittb	es_ancora	adj-25+adp-75+det-75+ngen-25+num-75
+la_ittb	et	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+la_ittb	eu	adj-25+adp-25+det-25+ngen-75+num-75
+la_ittb	fa	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+la_ittb	fi	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+la_ittb	fi_ftb	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+la_ittb	fr	adj-25+adp-75+det-75+ngen-25+num-75
+la_ittb	fr_partut	adj-25+adp-75+det-75+ngen-25+num-75
+la_ittb	fr_sequoia	adj-25+adp-75+det-75+ngen-25+num-75
+la_ittb	ga	adj-25+adp-75+del-ind+det-25+ngen-25+num-75
+la_ittb	gl	adj-25+adp-75+det-75+ngen-25+num-75
+la_ittb	gl_treegal	adj-25+adp-75+det-75+ngen-25+num-75
+la_ittb	got	
+la_ittb	grc	
+la_ittb	grc_proiel	
+la_ittb	he	adj-25+adp-75+del-def+det-25+ngen-25+num-75
+la_ittb	hi	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+la_ittb	hr	adj-75+adp-75+del-d+det-75+num-75
+la_ittb	hu	adj-75+adp-25+det-75+ngen-75+num-75
+la_ittb	id	adj-25+adp-75+del-ind+det-25+ngen-25+num-75
+la_ittb	it	adj-25+adp-75+det-75+ngen-25+num-75
+la_ittb	it_partut	adj-25+adp-75+det-75+ngen-25+num-75
+la_ittb	ja	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+la_ittb	ja_ktc	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+la_ittb	kk	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+la_ittb	ko	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+la_ittb	la	
+la_ittb	la_ittb	
+la_ittb	la_proiel	
+la_ittb	lt	adj-75+adp-75+del-d+det-75+ngen-75+num-75
+la_ittb	lv	adj-75+adp-75+det-75+ngen-75+num-75
+la_ittb	nl	adj-75+adp-75+det-75+ngen-25+num-75
+la_ittb	nl_lassysmall	adj-75+adp-75+det-75+ngen-25+num-75
+la_ittb	no	adj-75+adp-75+del-def+det-75+num-75
+la_ittb	no_bokmaal	adj-75+adp-75+del-def+det-75+num-75
+la_ittb	no_nynorsk	adj-75+adp-75+del-def+det-75+num-75
+la_ittb	pl	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+la_ittb	pt	adj-25+adp-75+det-75+ngen-25+num-75
+la_ittb	pt_bosque	adj-25+adp-75+det-75+ngen-25+num-75
+la_ittb	pt_br	adj-25+adp-75+det-75+ngen-25+num-75
+la_ittb	ro	adj-25+adp-75+del-def+ngen-25+num-75
+la_ittb	ru	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+la_ittb	ru_syntagrus	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+la_ittb	sa	
+la_ittb	sk	adj-75+adp-75+del-d+det-75+num-75
+la_ittb	sl	adj-75+adp-75+del-d+det-75+num-75
+la_ittb	sl_sst	adj-75+adp-75+del-d+det-75+num-75
+la_ittb	sv	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+la_ittb	sv_lines	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+la_ittb	swl	
+la_ittb	ta	adj-75+adp-25+det-75+ngen-75+num-75
+la_ittb	tr	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+la_ittb	ug	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+la_ittb	uk	adj-75+adp-75+del-d+det-75+num-75
+la_ittb	ur	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+la_ittb	vi	adj-25+adp-75+det-25+ngen-25+num-75
+la_ittb	zh	adj-75+del-def+det-75+ngen-75+num-75
+la_proiel	ar	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+la_proiel	ar_nyuad	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+la_proiel	be	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+la_proiel	bg	adj-75+adp-75+det-75+num-75
+la_proiel	ca	adj-25+adp-75+det-75+ngen-25+num-75
+la_proiel	cop	adj-25+adp-75+ngen-25+num-75
+la_proiel	cs	adj-75+adp-75+del-d+det-75+num-75
+la_proiel	cs_cac	adj-75+adp-75+del-d+det-75+num-75
+la_proiel	cs_cltt	adj-75+adp-75+del-d+det-75+num-75
+la_proiel	cu	
+la_proiel	da	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+la_proiel	de	adj-75+adp-75+det-75+ngen-25+num-75
+la_proiel	el	adj-75+adp-75+det-75+ngen-25+num-75
+la_proiel	en	adj-75+adp-75+det-75+num-75
+la_proiel	en_esl	adj-75+adp-75+det-75+num-75
+la_proiel	en_lines	adj-75+adp-75+det-75+num-75
+la_proiel	en_partut	adj-75+adp-75+det-75+num-75
+la_proiel	es	adj-25+adp-75+det-75+ngen-25+num-75
+la_proiel	es_ancora	adj-25+adp-75+det-75+ngen-25+num-75
+la_proiel	et	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+la_proiel	eu	adj-25+adp-25+det-25+ngen-75+num-75
+la_proiel	fa	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+la_proiel	fi	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+la_proiel	fi_ftb	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+la_proiel	fr	adj-25+adp-75+det-75+ngen-25+num-75
+la_proiel	fr_partut	adj-25+adp-75+det-75+ngen-25+num-75
+la_proiel	fr_sequoia	adj-25+adp-75+det-75+ngen-25+num-75
+la_proiel	ga	adj-25+adp-75+del-ind+det-25+ngen-25+num-75
+la_proiel	gl	adj-25+adp-75+det-75+ngen-25+num-75
+la_proiel	gl_treegal	adj-25+adp-75+det-75+ngen-25+num-75
+la_proiel	got	
+la_proiel	grc	
+la_proiel	grc_proiel	
+la_proiel	he	adj-25+adp-75+del-def+det-25+ngen-25+num-75
+la_proiel	hi	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+la_proiel	hr	adj-75+adp-75+del-d+det-75+num-75
+la_proiel	hu	adj-75+adp-25+det-75+ngen-75+num-75
+la_proiel	id	adj-25+adp-75+del-ind+det-25+ngen-25+num-75
+la_proiel	it	adj-25+adp-75+det-75+ngen-25+num-75
+la_proiel	it_partut	adj-25+adp-75+det-75+ngen-25+num-75
+la_proiel	ja	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+la_proiel	ja_ktc	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+la_proiel	kk	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+la_proiel	ko	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+la_proiel	la	
+la_proiel	la_ittb	
+la_proiel	la_proiel	
+la_proiel	lt	adj-75+adp-75+del-d+det-75+ngen-75+num-75
+la_proiel	lv	adj-75+adp-75+det-75+ngen-75+num-75
+la_proiel	nl	adj-75+adp-75+det-75+ngen-25+num-75
+la_proiel	nl_lassysmall	adj-75+adp-75+det-75+ngen-25+num-75
+la_proiel	no	adj-75+adp-75+del-def+det-75+num-75
+la_proiel	no_bokmaal	adj-75+adp-75+del-def+det-75+num-75
+la_proiel	no_nynorsk	adj-75+adp-75+del-def+det-75+num-75
+la_proiel	pl	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+la_proiel	pt	adj-25+adp-75+det-75+ngen-25+num-75
+la_proiel	pt_bosque	adj-25+adp-75+det-75+ngen-25+num-75
+la_proiel	pt_br	adj-25+adp-75+det-75+ngen-25+num-75
+la_proiel	ro	adj-25+adp-75+del-def+ngen-25+num-75
+la_proiel	ru	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+la_proiel	ru_syntagrus	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+la_proiel	sa	
+la_proiel	sk	adj-75+adp-75+del-d+det-75+num-75
+la_proiel	sl	adj-75+adp-75+del-d+det-75+num-75
+la_proiel	sl_sst	adj-75+adp-75+del-d+det-75+num-75
+la_proiel	sv	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+la_proiel	sv_lines	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+la_proiel	swl	
+la_proiel	ta	adj-75+adp-25+det-75+ngen-75+num-75
+la_proiel	tr	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+la_proiel	ug	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+la_proiel	uk	adj-75+adp-75+del-d+det-75+num-75
+la_proiel	ur	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+la_proiel	vi	adj-25+adp-75+det-25+ngen-25+num-75
+la_proiel	zh	adj-75+del-def+det-75+ngen-75+num-75
+lt	ar	adj-50+del-def+ngen-50
+lt	ar_nyuad	adj-50+del-def+ngen-50
+lt	be	ngen-50
+lt	bg	ngen-50
+lt	ca	adj-50+ngen-50
+lt	cop	adj-50+det-50+ngen-50
+lt	cs	ngen-50
+lt	cs_cac	ngen-50
+lt	cs_cltt	ngen-50
+lt	cu	adj-50+adp-50+det-50+ngen-50+num-50
+lt	da	del-def
+lt	de	ngen-50
+lt	el	ngen-50
+lt	en	ngen-50
+lt	en_esl	ngen-50
+lt	en_lines	ngen-50
+lt	en_partut	ngen-50
+lt	es	adj-50+ngen-50
+lt	es_ancora	adj-50+ngen-50
+lt	et	adp-50
+lt	eu	adj-50+adp-50+det-50
+lt	fa	adj-50+del-def+ngen-50
+lt	fi	adp-50
+lt	fi_ftb	adp-50
+lt	fr	adj-50+ngen-50
+lt	fr_partut	adj-50+ngen-50
+lt	fr_sequoia	adj-50+ngen-50
+lt	ga	adj-50+del-ind+det-50+ngen-50
+lt	gl	adj-50+ngen-50
+lt	gl_treegal	adj-50+ngen-50
+lt	got	adj-50+adp-50+det-50+ngen-50+num-50
+lt	grc	adj-50+adp-50+det-50+ngen-50+num-50
+lt	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+lt	he	adj-50+del-def+det-50+ngen-50
+lt	hi	adp-50
+lt	hr	ngen-50
+lt	hu	adp-50
+lt	id	adj-50+del-ind+det-50+ngen-50
+lt	it	adj-50+ngen-50
+lt	it_partut	adj-50+ngen-50
+lt	ja	adp-50+del-def
+lt	ja_ktc	adp-50+del-def
+lt	kk	adp-50+del-def
+lt	ko	adp-50
+lt	la	adj-50+adp-50+det-50+ngen-50+num-50
+lt	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+lt	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+lt	lt	
+lt	lv	
+lt	nl	ngen-50
+lt	nl_lassysmall	ngen-50
+lt	no	del-def+ngen-50
+lt	no_bokmaal	del-def+ngen-50
+lt	no_nynorsk	del-def+ngen-50
+lt	pl	ngen-50
+lt	pt	adj-50+ngen-50
+lt	pt_bosque	adj-50+ngen-50
+lt	pt_br	adj-50+ngen-50
+lt	ro	adj-50+del-def+det-50+ngen-50
+lt	ru	ngen-50
+lt	ru_syntagrus	ngen-50
+lt	sa	adj-50+adp-50+det-50+ngen-50+num-50
+lt	sk	ngen-50
+lt	sl	ngen-50
+lt	sl_sst	ngen-50
+lt	sv	del-def
+lt	sv_lines	del-def
+lt	swl	adj-50+adp-50+det-50+ngen-50+num-50
+lt	ta	adp-50
+lt	tr	adp-50+del-def
+lt	ug	adp-50+del-def
+lt	uk	ngen-50
+lt	ur	adp-50
+lt	vi	adj-50+det-50+ngen-50
+lt	zh	adp-50+del-def
+lv	ar	adj-50+del-def+ngen-50
+lv	ar_nyuad	adj-50+del-def+ngen-50
+lv	be	del-d+ngen-50
+lv	bg	ngen-50
+lv	ca	adj-50+ngen-50
+lv	cop	adj-50+det-50+ngen-50
+lv	cs	del-d+ngen-50
+lv	cs_cac	del-d+ngen-50
+lv	cs_cltt	del-d+ngen-50
+lv	cu	adj-50+adp-50+det-50+ngen-50+num-50
+lv	da	del-def
+lv	de	ngen-50
+lv	el	ngen-50
+lv	en	ngen-50
+lv	en_esl	ngen-50
+lv	en_lines	ngen-50
+lv	en_partut	ngen-50
+lv	es	adj-50+ngen-50
+lv	es_ancora	adj-50+ngen-50
+lv	et	adp-50+del-d
+lv	eu	adj-50+adp-50+det-50
+lv	fa	adj-50+del-def+ngen-50
+lv	fi	adp-50+del-d
+lv	fi_ftb	adp-50+del-d
+lv	fr	adj-50+ngen-50
+lv	fr_partut	adj-50+ngen-50
+lv	fr_sequoia	adj-50+ngen-50
+lv	ga	adj-50+del-ind+det-50+ngen-50
+lv	gl	adj-50+ngen-50
+lv	gl_treegal	adj-50+ngen-50
+lv	got	adj-50+adp-50+det-50+ngen-50+num-50
+lv	grc	adj-50+adp-50+det-50+ngen-50+num-50
+lv	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+lv	he	adj-50+del-def+det-50+ngen-50
+lv	hi	adp-50+del-d
+lv	hr	del-d+ngen-50
+lv	hu	adp-50
+lv	id	adj-50+del-ind+det-50+ngen-50
+lv	it	adj-50+ngen-50
+lv	it_partut	adj-50+ngen-50
+lv	ja	adp-50+del-def
+lv	ja_ktc	adp-50+del-def
+lv	kk	adp-50+del-def
+lv	ko	adp-50+del-d
+lv	la	adj-50+adp-50+det-50+ngen-50+num-50
+lv	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+lv	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+lv	lt	del-d
+lv	lv	
+lv	nl	ngen-50
+lv	nl_lassysmall	ngen-50
+lv	no	del-def+ngen-50
+lv	no_bokmaal	del-def+ngen-50
+lv	no_nynorsk	del-def+ngen-50
+lv	pl	del-d+ngen-50
+lv	pt	adj-50+ngen-50
+lv	pt_bosque	adj-50+ngen-50
+lv	pt_br	adj-50+ngen-50
+lv	ro	adj-50+del-def+det-50+ngen-50
+lv	ru	del-d+ngen-50
+lv	ru_syntagrus	del-d+ngen-50
+lv	sa	adj-50+adp-50+det-50+ngen-50+num-50
+lv	sk	del-d+ngen-50
+lv	sl	del-d+ngen-50
+lv	sl_sst	del-d+ngen-50
+lv	sv	del-def
+lv	sv_lines	del-def
+lv	swl	adj-50+adp-50+det-50+ngen-50+num-50
+lv	ta	adp-50
+lv	tr	adp-50+del-def
+lv	ug	adp-50+del-def
+lv	uk	del-d+ngen-50
+lv	ur	adp-50+del-d
+lv	vi	adj-50+det-50+ngen-50
+lv	zh	adp-50+del-def
+nl	ar	adj-50+del-def
+nl	ar_nyuad	adj-50+del-def
+nl	be	del-d
+nl	bg	ngen-50
+nl	ca	adj-50
+nl	cop	adj-50+det-50
+nl	cs	del-d+ngen-50
+nl	cs_cac	del-d+ngen-50
+nl	cs_cltt	del-d+ngen-50
+nl	cu	adj-50+adp-50+det-50+ngen-50+num-50
+nl	da	del-def+ngen-50
+nl	de	
+nl	el	
+nl	en	ngen-50
+nl	en_esl	ngen-50
+nl	en_lines	ngen-50
+nl	en_partut	ngen-50
+nl	es	adj-50
+nl	es_ancora	adj-50
+nl	et	adp-50+del-d+ngen-50
+nl	eu	adj-50+adp-50+det-50+ngen-50
+nl	fa	adj-50+del-def
+nl	fi	adp-50+del-d+ngen-50
+nl	fi_ftb	adp-50+del-d+ngen-50
+nl	fr	adj-50
+nl	fr_partut	adj-50
+nl	fr_sequoia	adj-50
+nl	ga	adj-50+del-ind+det-50
+nl	gl	adj-50
+nl	gl_treegal	adj-50
+nl	got	adj-50+adp-50+det-50+ngen-50+num-50
+nl	grc	adj-50+adp-50+det-50+ngen-50+num-50
+nl	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+nl	he	adj-50+del-def+det-50
+nl	hi	adp-50+del-d+ngen-50
+nl	hr	del-d+ngen-50
+nl	hu	adp-50+ngen-50
+nl	id	adj-50+del-ind+det-50
+nl	it	adj-50
+nl	it_partut	adj-50
+nl	ja	adp-50+del-def+ngen-50
+nl	ja_ktc	adp-50+del-def+ngen-50
+nl	kk	adp-50+del-def+ngen-50
+nl	ko	adp-50+del-d+ngen-50
+nl	la	adj-50+adp-50+det-50+ngen-50+num-50
+nl	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+nl	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+nl	lt	del-d+ngen-50
+nl	lv	ngen-50
+nl	nl	
+nl	nl_lassysmall	
+nl	no	del-def+ngen-50
+nl	no_bokmaal	del-def+ngen-50
+nl	no_nynorsk	del-def+ngen-50
+nl	pl	del-d
+nl	pt	adj-50
+nl	pt_bosque	adj-50
+nl	pt_br	adj-50
+nl	ro	adj-50+del-def+det-50
+nl	ru	del-d
+nl	ru_syntagrus	del-d
+nl	sa	adj-50+adp-50+det-50+ngen-50+num-50
+nl	sk	del-d+ngen-50
+nl	sl	del-d+ngen-50
+nl	sl_sst	del-d+ngen-50
+nl	sv	del-def+ngen-50
+nl	sv_lines	del-def+ngen-50
+nl	swl	adj-50+adp-50+det-50+ngen-50+num-50
+nl	ta	adp-50+ngen-50
+nl	tr	adp-50+del-def+ngen-50
+nl	ug	adp-50+del-def+ngen-50
+nl	uk	del-d+ngen-50
+nl	ur	adp-50+del-d+ngen-50
+nl	vi	adj-50+det-50
+nl	zh	adp-50+del-def+ngen-50
+nl_lassysmall	ar	adj-50+del-def
+nl_lassysmall	ar_nyuad	adj-50+del-def
+nl_lassysmall	be	del-d
+nl_lassysmall	bg	ngen-50
+nl_lassysmall	ca	adj-50
+nl_lassysmall	cop	adj-50+det-50
+nl_lassysmall	cs	del-d+ngen-50
+nl_lassysmall	cs_cac	del-d+ngen-50
+nl_lassysmall	cs_cltt	del-d+ngen-50
+nl_lassysmall	cu	adj-50+adp-50+det-50+ngen-50+num-50
+nl_lassysmall	da	del-def+ngen-50
+nl_lassysmall	de	
+nl_lassysmall	el	
+nl_lassysmall	en	ngen-50
+nl_lassysmall	en_esl	ngen-50
+nl_lassysmall	en_lines	ngen-50
+nl_lassysmall	en_partut	ngen-50
+nl_lassysmall	es	adj-50
+nl_lassysmall	es_ancora	adj-50
+nl_lassysmall	et	adp-50+del-d+ngen-50
+nl_lassysmall	eu	adj-50+adp-50+det-50+ngen-50
+nl_lassysmall	fa	adj-50+del-def
+nl_lassysmall	fi	adp-50+del-d+ngen-50
+nl_lassysmall	fi_ftb	adp-50+del-d+ngen-50
+nl_lassysmall	fr	adj-50
+nl_lassysmall	fr_partut	adj-50
+nl_lassysmall	fr_sequoia	adj-50
+nl_lassysmall	ga	adj-50+del-ind+det-50
+nl_lassysmall	gl	adj-50
+nl_lassysmall	gl_treegal	adj-50
+nl_lassysmall	got	adj-50+adp-50+det-50+ngen-50+num-50
+nl_lassysmall	grc	adj-50+adp-50+det-50+ngen-50+num-50
+nl_lassysmall	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+nl_lassysmall	he	adj-50+del-def+det-50
+nl_lassysmall	hi	adp-50+del-d+ngen-50
+nl_lassysmall	hr	del-d+ngen-50
+nl_lassysmall	hu	adp-50+ngen-50
+nl_lassysmall	id	adj-50+del-ind+det-50
+nl_lassysmall	it	adj-50
+nl_lassysmall	it_partut	adj-50
+nl_lassysmall	ja	adp-50+del-def+ngen-50
+nl_lassysmall	ja_ktc	adp-50+del-def+ngen-50
+nl_lassysmall	kk	adp-50+del-def+ngen-50
+nl_lassysmall	ko	adp-50+del-d+ngen-50
+nl_lassysmall	la	adj-50+adp-50+det-50+ngen-50+num-50
+nl_lassysmall	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+nl_lassysmall	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+nl_lassysmall	lt	del-d+ngen-50
+nl_lassysmall	lv	ngen-50
+nl_lassysmall	nl	
+nl_lassysmall	nl_lassysmall	
+nl_lassysmall	no	del-def+ngen-50
+nl_lassysmall	no_bokmaal	del-def+ngen-50
+nl_lassysmall	no_nynorsk	del-def+ngen-50
+nl_lassysmall	pl	del-d
+nl_lassysmall	pt	adj-50
+nl_lassysmall	pt_bosque	adj-50
+nl_lassysmall	pt_br	adj-50
+nl_lassysmall	ro	adj-50+del-def+det-50
+nl_lassysmall	ru	del-d
+nl_lassysmall	ru_syntagrus	del-d
+nl_lassysmall	sa	adj-50+adp-50+det-50+ngen-50+num-50
+nl_lassysmall	sk	del-d+ngen-50
+nl_lassysmall	sl	del-d+ngen-50
+nl_lassysmall	sl_sst	del-d+ngen-50
+nl_lassysmall	sv	del-def+ngen-50
+nl_lassysmall	sv_lines	del-def+ngen-50
+nl_lassysmall	swl	adj-50+adp-50+det-50+ngen-50+num-50
+nl_lassysmall	ta	adp-50+ngen-50
+nl_lassysmall	tr	adp-50+del-def+ngen-50
+nl_lassysmall	ug	adp-50+del-def+ngen-50
+nl_lassysmall	uk	del-d+ngen-50
+nl_lassysmall	ur	adp-50+del-d+ngen-50
+nl_lassysmall	vi	adj-50+det-50
+nl_lassysmall	zh	adp-50+del-def+ngen-50
+no	ar	adj-50+ngen-25
+no	ar_nyuad	adj-50+ngen-25
+no	be	del-d+ngen-25
+no	bg	
+no	ca	adj-50+ngen-25
+no	cop	adj-50+det-50+ngen-25
+no	cs	del-d
+no	cs_cac	del-d
+no	cs_cltt	del-d
+no	cu	adj-50+adp-50+det-50+num-50
+no	da	ngen-75
+no	de	ngen-25
+no	el	ngen-25
+no	en	
+no	en_esl	
+no	en_lines	
+no	en_partut	
+no	es	adj-50+ngen-25
+no	es_ancora	adj-50+ngen-25
+no	et	adp-50+del-d+ngen-75
+no	eu	adj-50+adp-50+det-50+ngen-75
+no	fa	adj-50+ngen-25
+no	fi	adp-50+del-d+ngen-75
+no	fi_ftb	adp-50+del-d+ngen-75
+no	fr	adj-50+ngen-25
+no	fr_partut	adj-50+ngen-25
+no	fr_sequoia	adj-50+ngen-25
+no	ga	adj-50+del-ind+det-50+ngen-25
+no	gl	adj-50+ngen-25
+no	gl_treegal	adj-50+ngen-25
+no	got	adj-50+adp-50+det-50+num-50
+no	grc	adj-50+adp-50+det-50+num-50
+no	grc_proiel	adj-50+adp-50+det-50+num-50
+no	he	adj-50+det-50+ngen-25
+no	hi	adp-50+del-d+ngen-75
+no	hr	del-d
+no	hu	adp-50+ngen-75
+no	id	adj-50+del-ind+det-50+ngen-25
+no	it	adj-50+ngen-25
+no	it_partut	adj-50+ngen-25
+no	ja	adp-50+ngen-75
+no	ja_ktc	adp-50+ngen-75
+no	kk	adp-50+ngen-75
+no	ko	adp-50+del-d+ngen-75
+no	la	adj-50+adp-50+det-50+num-50
+no	la_ittb	adj-50+adp-50+det-50+num-50
+no	la_proiel	adj-50+adp-50+det-50+num-50
+no	lt	del-d+ngen-75
+no	lv	ngen-75
+no	nl	ngen-25
+no	nl_lassysmall	ngen-25
+no	no	
+no	no_bokmaal	
+no	no_nynorsk	
+no	pl	del-d+ngen-25
+no	pt	adj-50+ngen-25
+no	pt_bosque	adj-50+ngen-25
+no	pt_br	adj-50+ngen-25
+no	ro	adj-50+det-50+ngen-25
+no	ru	del-d+ngen-25
+no	ru_syntagrus	del-d+ngen-25
+no	sa	adj-50+adp-50+det-50+num-50
+no	sk	del-d
+no	sl	del-d
+no	sl_sst	del-d
+no	sv	ngen-75
+no	sv_lines	ngen-75
+no	swl	adj-50+adp-50+det-50+num-50
+no	ta	adp-50+ngen-75
+no	tr	adp-50+ngen-75
+no	ug	adp-50+ngen-75
+no	uk	del-d
+no	ur	adp-50+del-d+ngen-75
+no	vi	adj-50+det-50+ngen-25
+no	zh	adp-50+ngen-75
+no_bokmaal	ar	adj-50+ngen-25
+no_bokmaal	ar_nyuad	adj-50+ngen-25
+no_bokmaal	be	del-d+ngen-25
+no_bokmaal	bg	
+no_bokmaal	ca	adj-50+ngen-25
+no_bokmaal	cop	adj-50+det-50+ngen-25
+no_bokmaal	cs	del-d
+no_bokmaal	cs_cac	del-d
+no_bokmaal	cs_cltt	del-d
+no_bokmaal	cu	adj-50+adp-50+det-50+num-50
+no_bokmaal	da	ngen-75
+no_bokmaal	de	ngen-25
+no_bokmaal	el	ngen-25
+no_bokmaal	en	
+no_bokmaal	en_esl	
+no_bokmaal	en_lines	
+no_bokmaal	en_partut	
+no_bokmaal	es	adj-50+ngen-25
+no_bokmaal	es_ancora	adj-50+ngen-25
+no_bokmaal	et	adp-50+del-d+ngen-75
+no_bokmaal	eu	adj-50+adp-50+det-50+ngen-75
+no_bokmaal	fa	adj-50+ngen-25
+no_bokmaal	fi	adp-50+del-d+ngen-75
+no_bokmaal	fi_ftb	adp-50+del-d+ngen-75
+no_bokmaal	fr	adj-50+ngen-25
+no_bokmaal	fr_partut	adj-50+ngen-25
+no_bokmaal	fr_sequoia	adj-50+ngen-25
+no_bokmaal	ga	adj-50+del-ind+det-50+ngen-25
+no_bokmaal	gl	adj-50+ngen-25
+no_bokmaal	gl_treegal	adj-50+ngen-25
+no_bokmaal	got	adj-50+adp-50+det-50+num-50
+no_bokmaal	grc	adj-50+adp-50+det-50+num-50
+no_bokmaal	grc_proiel	adj-50+adp-50+det-50+num-50
+no_bokmaal	he	adj-50+det-50+ngen-25
+no_bokmaal	hi	adp-50+del-d+ngen-75
+no_bokmaal	hr	del-d
+no_bokmaal	hu	adp-50+ngen-75
+no_bokmaal	id	adj-50+del-ind+det-50+ngen-25
+no_bokmaal	it	adj-50+ngen-25
+no_bokmaal	it_partut	adj-50+ngen-25
+no_bokmaal	ja	adp-50+ngen-75
+no_bokmaal	ja_ktc	adp-50+ngen-75
+no_bokmaal	kk	adp-50+ngen-75
+no_bokmaal	ko	adp-50+del-d+ngen-75
+no_bokmaal	la	adj-50+adp-50+det-50+num-50
+no_bokmaal	la_ittb	adj-50+adp-50+det-50+num-50
+no_bokmaal	la_proiel	adj-50+adp-50+det-50+num-50
+no_bokmaal	lt	del-d+ngen-75
+no_bokmaal	lv	ngen-75
+no_bokmaal	nl	ngen-25
+no_bokmaal	nl_lassysmall	ngen-25
+no_bokmaal	no	
+no_bokmaal	no_bokmaal	
+no_bokmaal	no_nynorsk	
+no_bokmaal	pl	del-d+ngen-25
+no_bokmaal	pt	adj-50+ngen-25
+no_bokmaal	pt_bosque	adj-50+ngen-25
+no_bokmaal	pt_br	adj-50+ngen-25
+no_bokmaal	ro	adj-50+det-50+ngen-25
+no_bokmaal	ru	del-d+ngen-25
+no_bokmaal	ru_syntagrus	del-d+ngen-25
+no_bokmaal	sa	adj-50+adp-50+det-50+num-50
+no_bokmaal	sk	del-d
+no_bokmaal	sl	del-d
+no_bokmaal	sl_sst	del-d
+no_bokmaal	sv	ngen-75
+no_bokmaal	sv_lines	ngen-75
+no_bokmaal	swl	adj-50+adp-50+det-50+num-50
+no_bokmaal	ta	adp-50+ngen-75
+no_bokmaal	tr	adp-50+ngen-75
+no_bokmaal	ug	adp-50+ngen-75
+no_bokmaal	uk	del-d
+no_bokmaal	ur	adp-50+del-d+ngen-75
+no_bokmaal	vi	adj-50+det-50+ngen-25
+no_bokmaal	zh	adp-50+ngen-75
+no_nynorsk	ar	adj-50+ngen-25
+no_nynorsk	ar_nyuad	adj-50+ngen-25
+no_nynorsk	be	del-d+ngen-25
+no_nynorsk	bg	
+no_nynorsk	ca	adj-50+ngen-25
+no_nynorsk	cop	adj-50+det-50+ngen-25
+no_nynorsk	cs	del-d
+no_nynorsk	cs_cac	del-d
+no_nynorsk	cs_cltt	del-d
+no_nynorsk	cu	adj-50+adp-50+det-50+num-50
+no_nynorsk	da	ngen-75
+no_nynorsk	de	ngen-25
+no_nynorsk	el	ngen-25
+no_nynorsk	en	
+no_nynorsk	en_esl	
+no_nynorsk	en_lines	
+no_nynorsk	en_partut	
+no_nynorsk	es	adj-50+ngen-25
+no_nynorsk	es_ancora	adj-50+ngen-25
+no_nynorsk	et	adp-50+del-d+ngen-75
+no_nynorsk	eu	adj-50+adp-50+det-50+ngen-75
+no_nynorsk	fa	adj-50+ngen-25
+no_nynorsk	fi	adp-50+del-d+ngen-75
+no_nynorsk	fi_ftb	adp-50+del-d+ngen-75
+no_nynorsk	fr	adj-50+ngen-25
+no_nynorsk	fr_partut	adj-50+ngen-25
+no_nynorsk	fr_sequoia	adj-50+ngen-25
+no_nynorsk	ga	adj-50+del-ind+det-50+ngen-25
+no_nynorsk	gl	adj-50+ngen-25
+no_nynorsk	gl_treegal	adj-50+ngen-25
+no_nynorsk	got	adj-50+adp-50+det-50+num-50
+no_nynorsk	grc	adj-50+adp-50+det-50+num-50
+no_nynorsk	grc_proiel	adj-50+adp-50+det-50+num-50
+no_nynorsk	he	adj-50+det-50+ngen-25
+no_nynorsk	hi	adp-50+del-d+ngen-75
+no_nynorsk	hr	del-d
+no_nynorsk	hu	adp-50+ngen-75
+no_nynorsk	id	adj-50+del-ind+det-50+ngen-25
+no_nynorsk	it	adj-50+ngen-25
+no_nynorsk	it_partut	adj-50+ngen-25
+no_nynorsk	ja	adp-50+ngen-75
+no_nynorsk	ja_ktc	adp-50+ngen-75
+no_nynorsk	kk	adp-50+ngen-75
+no_nynorsk	ko	adp-50+del-d+ngen-75
+no_nynorsk	la	adj-50+adp-50+det-50+num-50
+no_nynorsk	la_ittb	adj-50+adp-50+det-50+num-50
+no_nynorsk	la_proiel	adj-50+adp-50+det-50+num-50
+no_nynorsk	lt	del-d+ngen-75
+no_nynorsk	lv	ngen-75
+no_nynorsk	nl	ngen-25
+no_nynorsk	nl_lassysmall	ngen-25
+no_nynorsk	no	
+no_nynorsk	no_bokmaal	
+no_nynorsk	no_nynorsk	
+no_nynorsk	pl	del-d+ngen-25
+no_nynorsk	pt	adj-50+ngen-25
+no_nynorsk	pt_bosque	adj-50+ngen-25
+no_nynorsk	pt_br	adj-50+ngen-25
+no_nynorsk	ro	adj-50+det-50+ngen-25
+no_nynorsk	ru	del-d+ngen-25
+no_nynorsk	ru_syntagrus	del-d+ngen-25
+no_nynorsk	sa	adj-50+adp-50+det-50+num-50
+no_nynorsk	sk	del-d
+no_nynorsk	sl	del-d
+no_nynorsk	sl_sst	del-d
+no_nynorsk	sv	ngen-75
+no_nynorsk	sv_lines	ngen-75
+no_nynorsk	swl	adj-50+adp-50+det-50+num-50
+no_nynorsk	ta	adp-50+ngen-75
+no_nynorsk	tr	adp-50+ngen-75
+no_nynorsk	ug	adp-50+ngen-75
+no_nynorsk	uk	del-d
+no_nynorsk	ur	adp-50+del-d+ngen-75
+no_nynorsk	vi	adj-50+det-50+ngen-25
+no_nynorsk	zh	adp-50+ngen-75
+pl	ar	adj-50+del-def
+pl	ar_nyuad	adj-50+del-def
+pl	be	
+pl	bg	ngen-50
+pl	ca	adj-50
+pl	cop	adj-50+det-50
+pl	cs	ngen-50
+pl	cs_cac	ngen-50
+pl	cs_cltt	ngen-50
+pl	cu	adj-50+adp-50+det-50+ngen-50+num-50
+pl	da	del-def+ngen-50
+pl	de	
+pl	el	
+pl	en	ngen-50
+pl	en_esl	ngen-50
+pl	en_lines	ngen-50
+pl	en_partut	ngen-50
+pl	es	adj-50
+pl	es_ancora	adj-50
+pl	et	adp-50+ngen-50
+pl	eu	adj-50+adp-50+det-50+ngen-50
+pl	fa	adj-50+del-def
+pl	fi	adp-50+ngen-50
+pl	fi_ftb	adp-50+ngen-50
+pl	fr	adj-50
+pl	fr_partut	adj-50
+pl	fr_sequoia	adj-50
+pl	ga	adj-50+del-ind+det-50
+pl	gl	adj-50
+pl	gl_treegal	adj-50
+pl	got	adj-50+adp-50+det-50+ngen-50+num-50
+pl	grc	adj-50+adp-50+det-50+ngen-50+num-50
+pl	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+pl	he	adj-50+del-def+det-50
+pl	hi	adp-50+ngen-50
+pl	hr	ngen-50
+pl	hu	adp-50+ngen-50
+pl	id	adj-50+del-ind+det-50
+pl	it	adj-50
+pl	it_partut	adj-50
+pl	ja	adp-50+del-def+ngen-50
+pl	ja_ktc	adp-50+del-def+ngen-50
+pl	kk	adp-50+del-def+ngen-50
+pl	ko	adp-50+ngen-50
+pl	la	adj-50+adp-50+det-50+ngen-50+num-50
+pl	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+pl	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+pl	lt	ngen-50
+pl	lv	ngen-50
+pl	nl	
+pl	nl_lassysmall	
+pl	no	del-def+ngen-50
+pl	no_bokmaal	del-def+ngen-50
+pl	no_nynorsk	del-def+ngen-50
+pl	pl	
+pl	pt	adj-50
+pl	pt_bosque	adj-50
+pl	pt_br	adj-50
+pl	ro	adj-50+del-def+det-50
+pl	ru	
+pl	ru_syntagrus	
+pl	sa	adj-50+adp-50+det-50+ngen-50+num-50
+pl	sk	ngen-50
+pl	sl	ngen-50
+pl	sl_sst	ngen-50
+pl	sv	del-def+ngen-50
+pl	sv_lines	del-def+ngen-50
+pl	swl	adj-50+adp-50+det-50+ngen-50+num-50
+pl	ta	adp-50+ngen-50
+pl	tr	adp-50+del-def+ngen-50
+pl	ug	adp-50+del-def+ngen-50
+pl	uk	ngen-50
+pl	ur	adp-50+ngen-50
+pl	vi	adj-50+det-50
+pl	zh	adp-50+del-def+ngen-50
+pt	ar	del-def
+pt	ar_nyuad	del-def
+pt	be	adj-50+del-d
+pt	bg	adj-50+ngen-50
+pt	ca	
+pt	cop	det-50
+pt	cs	adj-50+del-d+ngen-50
+pt	cs_cac	adj-50+del-d+ngen-50
+pt	cs_cltt	adj-50+del-d+ngen-50
+pt	cu	adj-50+adp-50+det-50+ngen-50+num-50
+pt	da	adj-50+del-def+ngen-50
+pt	de	adj-50
+pt	el	adj-50
+pt	en	adj-50+ngen-50
+pt	en_esl	adj-50+ngen-50
+pt	en_lines	adj-50+ngen-50
+pt	en_partut	adj-50+ngen-50
+pt	es	
+pt	es_ancora	
+pt	et	adj-50+adp-50+del-d+ngen-50
+pt	eu	adp-50+det-50+ngen-50
+pt	fa	del-def
+pt	fi	adj-50+adp-50+del-d+ngen-50
+pt	fi_ftb	adj-50+adp-50+del-d+ngen-50
+pt	fr	
+pt	fr_partut	
+pt	fr_sequoia	
+pt	ga	del-ind+det-50
+pt	gl	
+pt	gl_treegal	
+pt	got	adj-50+adp-50+det-50+ngen-50+num-50
+pt	grc	adj-50+adp-50+det-50+ngen-50+num-50
+pt	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+pt	he	del-def+det-50
+pt	hi	adj-50+adp-50+del-d+ngen-50
+pt	hr	adj-50+del-d+ngen-50
+pt	hu	adj-50+adp-50+ngen-50
+pt	id	del-ind+det-50
+pt	it	
+pt	it_partut	
+pt	ja	adj-50+adp-50+del-def+ngen-50
+pt	ja_ktc	adj-50+adp-50+del-def+ngen-50
+pt	kk	adj-50+adp-50+del-def+ngen-50
+pt	ko	adj-50+adp-50+del-d+ngen-50
+pt	la	adj-50+adp-50+det-50+ngen-50+num-50
+pt	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+pt	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+pt	lt	adj-50+del-d+ngen-50
+pt	lv	adj-50+ngen-50
+pt	nl	adj-50
+pt	nl_lassysmall	adj-50
+pt	no	adj-50+del-def+ngen-50
+pt	no_bokmaal	adj-50+del-def+ngen-50
+pt	no_nynorsk	adj-50+del-def+ngen-50
+pt	pl	adj-50+del-d
+pt	pt	
+pt	pt_bosque	
+pt	pt_br	
+pt	ro	del-def+det-50
+pt	ru	adj-50+del-d
+pt	ru_syntagrus	adj-50+del-d
+pt	sa	adj-50+adp-50+det-50+ngen-50+num-50
+pt	sk	adj-50+del-d+ngen-50
+pt	sl	adj-50+del-d+ngen-50
+pt	sl_sst	adj-50+del-d+ngen-50
+pt	sv	adj-50+del-def+ngen-50
+pt	sv_lines	adj-50+del-def+ngen-50
+pt	swl	adj-50+adp-50+det-50+ngen-50+num-50
+pt	ta	adj-50+adp-50+ngen-50
+pt	tr	adj-50+adp-50+del-def+ngen-50
+pt	ug	adj-50+adp-50+del-def+ngen-50
+pt	uk	adj-50+del-d+ngen-50
+pt	ur	adj-50+adp-50+del-d+ngen-50
+pt	vi	det-50
+pt	zh	adj-50+adp-50+del-def+ngen-50
+pt_bosque	ar	del-def
+pt_bosque	ar_nyuad	del-def
+pt_bosque	be	adj-50+del-d
+pt_bosque	bg	adj-50+ngen-50
+pt_bosque	ca	
+pt_bosque	cop	det-50
+pt_bosque	cs	adj-50+del-d+ngen-50
+pt_bosque	cs_cac	adj-50+del-d+ngen-50
+pt_bosque	cs_cltt	adj-50+del-d+ngen-50
+pt_bosque	cu	adj-50+adp-50+det-50+ngen-50+num-50
+pt_bosque	da	adj-50+del-def+ngen-50
+pt_bosque	de	adj-50
+pt_bosque	el	adj-50
+pt_bosque	en	adj-50+ngen-50
+pt_bosque	en_esl	adj-50+ngen-50
+pt_bosque	en_lines	adj-50+ngen-50
+pt_bosque	en_partut	adj-50+ngen-50
+pt_bosque	es	
+pt_bosque	es_ancora	
+pt_bosque	et	adj-50+adp-50+del-d+ngen-50
+pt_bosque	eu	adp-50+det-50+ngen-50
+pt_bosque	fa	del-def
+pt_bosque	fi	adj-50+adp-50+del-d+ngen-50
+pt_bosque	fi_ftb	adj-50+adp-50+del-d+ngen-50
+pt_bosque	fr	
+pt_bosque	fr_partut	
+pt_bosque	fr_sequoia	
+pt_bosque	ga	del-ind+det-50
+pt_bosque	gl	
+pt_bosque	gl_treegal	
+pt_bosque	got	adj-50+adp-50+det-50+ngen-50+num-50
+pt_bosque	grc	adj-50+adp-50+det-50+ngen-50+num-50
+pt_bosque	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+pt_bosque	he	del-def+det-50
+pt_bosque	hi	adj-50+adp-50+del-d+ngen-50
+pt_bosque	hr	adj-50+del-d+ngen-50
+pt_bosque	hu	adj-50+adp-50+ngen-50
+pt_bosque	id	del-ind+det-50
+pt_bosque	it	
+pt_bosque	it_partut	
+pt_bosque	ja	adj-50+adp-50+del-def+ngen-50
+pt_bosque	ja_ktc	adj-50+adp-50+del-def+ngen-50
+pt_bosque	kk	adj-50+adp-50+del-def+ngen-50
+pt_bosque	ko	adj-50+adp-50+del-d+ngen-50
+pt_bosque	la	adj-50+adp-50+det-50+ngen-50+num-50
+pt_bosque	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+pt_bosque	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+pt_bosque	lt	adj-50+del-d+ngen-50
+pt_bosque	lv	adj-50+ngen-50
+pt_bosque	nl	adj-50
+pt_bosque	nl_lassysmall	adj-50
+pt_bosque	no	adj-50+del-def+ngen-50
+pt_bosque	no_bokmaal	adj-50+del-def+ngen-50
+pt_bosque	no_nynorsk	adj-50+del-def+ngen-50
+pt_bosque	pl	adj-50+del-d
+pt_bosque	pt	
+pt_bosque	pt_bosque	
+pt_bosque	pt_br	
+pt_bosque	ro	del-def+det-50
+pt_bosque	ru	adj-50+del-d
+pt_bosque	ru_syntagrus	adj-50+del-d
+pt_bosque	sa	adj-50+adp-50+det-50+ngen-50+num-50
+pt_bosque	sk	adj-50+del-d+ngen-50
+pt_bosque	sl	adj-50+del-d+ngen-50
+pt_bosque	sl_sst	adj-50+del-d+ngen-50
+pt_bosque	sv	adj-50+del-def+ngen-50
+pt_bosque	sv_lines	adj-50+del-def+ngen-50
+pt_bosque	swl	adj-50+adp-50+det-50+ngen-50+num-50
+pt_bosque	ta	adj-50+adp-50+ngen-50
+pt_bosque	tr	adj-50+adp-50+del-def+ngen-50
+pt_bosque	ug	adj-50+adp-50+del-def+ngen-50
+pt_bosque	uk	adj-50+del-d+ngen-50
+pt_bosque	ur	adj-50+adp-50+del-d+ngen-50
+pt_bosque	vi	det-50
+pt_bosque	zh	adj-50+adp-50+del-def+ngen-50
+pt_br	ar	del-def
+pt_br	ar_nyuad	del-def
+pt_br	be	adj-50+del-d
+pt_br	bg	adj-50+ngen-50
+pt_br	ca	
+pt_br	cop	det-50
+pt_br	cs	adj-50+del-d+ngen-50
+pt_br	cs_cac	adj-50+del-d+ngen-50
+pt_br	cs_cltt	adj-50+del-d+ngen-50
+pt_br	cu	adj-50+adp-50+det-50+ngen-50+num-50
+pt_br	da	adj-50+del-def+ngen-50
+pt_br	de	adj-50
+pt_br	el	adj-50
+pt_br	en	adj-50+ngen-50
+pt_br	en_esl	adj-50+ngen-50
+pt_br	en_lines	adj-50+ngen-50
+pt_br	en_partut	adj-50+ngen-50
+pt_br	es	
+pt_br	es_ancora	
+pt_br	et	adj-50+adp-50+del-d+ngen-50
+pt_br	eu	adp-50+det-50+ngen-50
+pt_br	fa	del-def
+pt_br	fi	adj-50+adp-50+del-d+ngen-50
+pt_br	fi_ftb	adj-50+adp-50+del-d+ngen-50
+pt_br	fr	
+pt_br	fr_partut	
+pt_br	fr_sequoia	
+pt_br	ga	del-ind+det-50
+pt_br	gl	
+pt_br	gl_treegal	
+pt_br	got	adj-50+adp-50+det-50+ngen-50+num-50
+pt_br	grc	adj-50+adp-50+det-50+ngen-50+num-50
+pt_br	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+pt_br	he	del-def+det-50
+pt_br	hi	adj-50+adp-50+del-d+ngen-50
+pt_br	hr	adj-50+del-d+ngen-50
+pt_br	hu	adj-50+adp-50+ngen-50
+pt_br	id	del-ind+det-50
+pt_br	it	
+pt_br	it_partut	
+pt_br	ja	adj-50+adp-50+del-def+ngen-50
+pt_br	ja_ktc	adj-50+adp-50+del-def+ngen-50
+pt_br	kk	adj-50+adp-50+del-def+ngen-50
+pt_br	ko	adj-50+adp-50+del-d+ngen-50
+pt_br	la	adj-50+adp-50+det-50+ngen-50+num-50
+pt_br	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+pt_br	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+pt_br	lt	adj-50+del-d+ngen-50
+pt_br	lv	adj-50+ngen-50
+pt_br	nl	adj-50
+pt_br	nl_lassysmall	adj-50
+pt_br	no	adj-50+del-def+ngen-50
+pt_br	no_bokmaal	adj-50+del-def+ngen-50
+pt_br	no_nynorsk	adj-50+del-def+ngen-50
+pt_br	pl	adj-50+del-d
+pt_br	pt	
+pt_br	pt_bosque	
+pt_br	pt_br	
+pt_br	ro	del-def+det-50
+pt_br	ru	adj-50+del-d
+pt_br	ru_syntagrus	adj-50+del-d
+pt_br	sa	adj-50+adp-50+det-50+ngen-50+num-50
+pt_br	sk	adj-50+del-d+ngen-50
+pt_br	sl	adj-50+del-d+ngen-50
+pt_br	sl_sst	adj-50+del-d+ngen-50
+pt_br	sv	adj-50+del-def+ngen-50
+pt_br	sv_lines	adj-50+del-def+ngen-50
+pt_br	swl	adj-50+adp-50+det-50+ngen-50+num-50
+pt_br	ta	adj-50+adp-50+ngen-50
+pt_br	tr	adj-50+adp-50+del-def+ngen-50
+pt_br	ug	adj-50+adp-50+del-def+ngen-50
+pt_br	uk	adj-50+del-d+ngen-50
+pt_br	ur	adj-50+adp-50+del-d+ngen-50
+pt_br	vi	det-50
+pt_br	zh	adj-50+adp-50+del-def+ngen-50
+ro	ar	det-75
+ro	ar_nyuad	det-75
+ro	be	adj-50+del-d+det-75
+ro	bg	adj-50+det-75+ngen-50
+ro	ca	det-75
+ro	cop	
+ro	cs	adj-50+del-d+det-75+ngen-50
+ro	cs_cac	adj-50+del-d+det-75+ngen-50
+ro	cs_cltt	adj-50+del-d+det-75+ngen-50
+ro	cu	adj-50+adp-50+ngen-50+num-50
+ro	da	adj-50+det-75+ngen-50
+ro	de	adj-50+det-75
+ro	el	adj-50+det-75
+ro	en	adj-50+det-75+ngen-50
+ro	en_esl	adj-50+det-75+ngen-50
+ro	en_lines	adj-50+det-75+ngen-50
+ro	en_partut	adj-50+det-75+ngen-50
+ro	es	det-75
+ro	es_ancora	det-75
+ro	et	adj-50+adp-50+del-d+det-75+ngen-50
+ro	eu	adp-50+det-25+ngen-50
+ro	fa	det-75
+ro	fi	adj-50+adp-50+del-d+det-75+ngen-50
+ro	fi_ftb	adj-50+adp-50+del-d+det-75+ngen-50
+ro	fr	det-75
+ro	fr_partut	det-75
+ro	fr_sequoia	det-75
+ro	ga	del-ind+det-25
+ro	gl	det-75
+ro	gl_treegal	det-75
+ro	got	adj-50+adp-50+ngen-50+num-50
+ro	grc	adj-50+adp-50+ngen-50+num-50
+ro	grc_proiel	adj-50+adp-50+ngen-50+num-50
+ro	he	det-25
+ro	hi	adj-50+adp-50+del-d+det-75+ngen-50
+ro	hr	adj-50+del-d+det-75+ngen-50
+ro	hu	adj-50+adp-50+det-75+ngen-50
+ro	id	del-ind+det-25
+ro	it	det-75
+ro	it_partut	det-75
+ro	ja	adj-50+adp-50+det-75+ngen-50
+ro	ja_ktc	adj-50+adp-50+det-75+ngen-50
+ro	kk	adj-50+adp-50+det-75+ngen-50
+ro	ko	adj-50+adp-50+del-d+det-75+ngen-50
+ro	la	adj-50+adp-50+ngen-50+num-50
+ro	la_ittb	adj-50+adp-50+ngen-50+num-50
+ro	la_proiel	adj-50+adp-50+ngen-50+num-50
+ro	lt	adj-50+del-d+det-75+ngen-50
+ro	lv	adj-50+det-75+ngen-50
+ro	nl	adj-50+det-75
+ro	nl_lassysmall	adj-50+det-75
+ro	no	adj-50+det-75+ngen-50
+ro	no_bokmaal	adj-50+det-75+ngen-50
+ro	no_nynorsk	adj-50+det-75+ngen-50
+ro	pl	adj-50+del-d+det-75
+ro	pt	det-75
+ro	pt_bosque	det-75
+ro	pt_br	det-75
+ro	ro	
+ro	ru	adj-50+del-d+det-75
+ro	ru_syntagrus	adj-50+del-d+det-75
+ro	sa	adj-50+adp-50+ngen-50+num-50
+ro	sk	adj-50+del-d+det-75+ngen-50
+ro	sl	adj-50+del-d+det-75+ngen-50
+ro	sl_sst	adj-50+del-d+det-75+ngen-50
+ro	sv	adj-50+det-75+ngen-50
+ro	sv_lines	adj-50+det-75+ngen-50
+ro	swl	adj-50+adp-50+ngen-50+num-50
+ro	ta	adj-50+adp-50+det-75+ngen-50
+ro	tr	adj-50+adp-50+det-75+ngen-50
+ro	ug	adj-50+adp-50+det-75+ngen-50
+ro	uk	adj-50+del-d+det-75+ngen-50
+ro	ur	adj-50+adp-50+del-d+det-75+ngen-50
+ro	vi	det-25
+ro	zh	adj-50+adp-50+det-75+ngen-50
+ru	ar	adj-50+del-def
+ru	ar_nyuad	adj-50+del-def
+ru	be	
+ru	bg	ngen-50
+ru	ca	adj-50
+ru	cop	adj-50+det-50
+ru	cs	ngen-50
+ru	cs_cac	ngen-50
+ru	cs_cltt	ngen-50
+ru	cu	adj-50+adp-50+det-50+ngen-50+num-50
+ru	da	del-def+ngen-50
+ru	de	
+ru	el	
+ru	en	ngen-50
+ru	en_esl	ngen-50
+ru	en_lines	ngen-50
+ru	en_partut	ngen-50
+ru	es	adj-50
+ru	es_ancora	adj-50
+ru	et	adp-50+ngen-50
+ru	eu	adj-50+adp-50+det-50+ngen-50
+ru	fa	adj-50+del-def
+ru	fi	adp-50+ngen-50
+ru	fi_ftb	adp-50+ngen-50
+ru	fr	adj-50
+ru	fr_partut	adj-50
+ru	fr_sequoia	adj-50
+ru	ga	adj-50+del-ind+det-50
+ru	gl	adj-50
+ru	gl_treegal	adj-50
+ru	got	adj-50+adp-50+det-50+ngen-50+num-50
+ru	grc	adj-50+adp-50+det-50+ngen-50+num-50
+ru	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ru	he	adj-50+del-def+det-50
+ru	hi	adp-50+ngen-50
+ru	hr	ngen-50
+ru	hu	adp-50+ngen-50
+ru	id	adj-50+del-ind+det-50
+ru	it	adj-50
+ru	it_partut	adj-50
+ru	ja	adp-50+del-def+ngen-50
+ru	ja_ktc	adp-50+del-def+ngen-50
+ru	kk	adp-50+del-def+ngen-50
+ru	ko	adp-50+ngen-50
+ru	la	adj-50+adp-50+det-50+ngen-50+num-50
+ru	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+ru	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ru	lt	ngen-50
+ru	lv	ngen-50
+ru	nl	
+ru	nl_lassysmall	
+ru	no	del-def+ngen-50
+ru	no_bokmaal	del-def+ngen-50
+ru	no_nynorsk	del-def+ngen-50
+ru	pl	
+ru	pt	adj-50
+ru	pt_bosque	adj-50
+ru	pt_br	adj-50
+ru	ro	adj-50+del-def+det-50
+ru	ru	
+ru	ru_syntagrus	
+ru	sa	adj-50+adp-50+det-50+ngen-50+num-50
+ru	sk	ngen-50
+ru	sl	ngen-50
+ru	sl_sst	ngen-50
+ru	sv	del-def+ngen-50
+ru	sv_lines	del-def+ngen-50
+ru	swl	adj-50+adp-50+det-50+ngen-50+num-50
+ru	ta	adp-50+ngen-50
+ru	tr	adp-50+del-def+ngen-50
+ru	ug	adp-50+del-def+ngen-50
+ru	uk	ngen-50
+ru	ur	adp-50+ngen-50
+ru	vi	adj-50+det-50
+ru	zh	adp-50+del-def+ngen-50
+ru_syntagrus	ar	adj-50+del-def
+ru_syntagrus	ar_nyuad	adj-50+del-def
+ru_syntagrus	be	
+ru_syntagrus	bg	ngen-50
+ru_syntagrus	ca	adj-50
+ru_syntagrus	cop	adj-50+det-50
+ru_syntagrus	cs	ngen-50
+ru_syntagrus	cs_cac	ngen-50
+ru_syntagrus	cs_cltt	ngen-50
+ru_syntagrus	cu	adj-50+adp-50+det-50+ngen-50+num-50
+ru_syntagrus	da	del-def+ngen-50
+ru_syntagrus	de	
+ru_syntagrus	el	
+ru_syntagrus	en	ngen-50
+ru_syntagrus	en_esl	ngen-50
+ru_syntagrus	en_lines	ngen-50
+ru_syntagrus	en_partut	ngen-50
+ru_syntagrus	es	adj-50
+ru_syntagrus	es_ancora	adj-50
+ru_syntagrus	et	adp-50+ngen-50
+ru_syntagrus	eu	adj-50+adp-50+det-50+ngen-50
+ru_syntagrus	fa	adj-50+del-def
+ru_syntagrus	fi	adp-50+ngen-50
+ru_syntagrus	fi_ftb	adp-50+ngen-50
+ru_syntagrus	fr	adj-50
+ru_syntagrus	fr_partut	adj-50
+ru_syntagrus	fr_sequoia	adj-50
+ru_syntagrus	ga	adj-50+del-ind+det-50
+ru_syntagrus	gl	adj-50
+ru_syntagrus	gl_treegal	adj-50
+ru_syntagrus	got	adj-50+adp-50+det-50+ngen-50+num-50
+ru_syntagrus	grc	adj-50+adp-50+det-50+ngen-50+num-50
+ru_syntagrus	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ru_syntagrus	he	adj-50+del-def+det-50
+ru_syntagrus	hi	adp-50+ngen-50
+ru_syntagrus	hr	ngen-50
+ru_syntagrus	hu	adp-50+ngen-50
+ru_syntagrus	id	adj-50+del-ind+det-50
+ru_syntagrus	it	adj-50
+ru_syntagrus	it_partut	adj-50
+ru_syntagrus	ja	adp-50+del-def+ngen-50
+ru_syntagrus	ja_ktc	adp-50+del-def+ngen-50
+ru_syntagrus	kk	adp-50+del-def+ngen-50
+ru_syntagrus	ko	adp-50+ngen-50
+ru_syntagrus	la	adj-50+adp-50+det-50+ngen-50+num-50
+ru_syntagrus	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+ru_syntagrus	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ru_syntagrus	lt	ngen-50
+ru_syntagrus	lv	ngen-50
+ru_syntagrus	nl	
+ru_syntagrus	nl_lassysmall	
+ru_syntagrus	no	del-def+ngen-50
+ru_syntagrus	no_bokmaal	del-def+ngen-50
+ru_syntagrus	no_nynorsk	del-def+ngen-50
+ru_syntagrus	pl	
+ru_syntagrus	pt	adj-50
+ru_syntagrus	pt_bosque	adj-50
+ru_syntagrus	pt_br	adj-50
+ru_syntagrus	ro	adj-50+del-def+det-50
+ru_syntagrus	ru	
+ru_syntagrus	ru_syntagrus	
+ru_syntagrus	sa	adj-50+adp-50+det-50+ngen-50+num-50
+ru_syntagrus	sk	ngen-50
+ru_syntagrus	sl	ngen-50
+ru_syntagrus	sl_sst	ngen-50
+ru_syntagrus	sv	del-def+ngen-50
+ru_syntagrus	sv_lines	del-def+ngen-50
+ru_syntagrus	swl	adj-50+adp-50+det-50+ngen-50+num-50
+ru_syntagrus	ta	adp-50+ngen-50
+ru_syntagrus	tr	adp-50+del-def+ngen-50
+ru_syntagrus	ug	adp-50+del-def+ngen-50
+ru_syntagrus	uk	ngen-50
+ru_syntagrus	ur	adp-50+ngen-50
+ru_syntagrus	vi	adj-50+det-50
+ru_syntagrus	zh	adp-50+del-def+ngen-50
+sa	ar	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+sa	ar_nyuad	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+sa	be	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+sa	bg	adj-75+adp-75+det-75+num-75
+sa	ca	adj-25+adp-75+det-75+ngen-25+num-75
+sa	cop	adj-25+adp-75+ngen-25+num-75
+sa	cs	adj-75+adp-75+del-d+det-75+num-75
+sa	cs_cac	adj-75+adp-75+del-d+det-75+num-75
+sa	cs_cltt	adj-75+adp-75+del-d+det-75+num-75
+sa	cu	
+sa	da	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+sa	de	adj-75+adp-75+det-75+ngen-25+num-75
+sa	el	adj-75+adp-75+det-75+ngen-25+num-75
+sa	en	adj-75+adp-75+det-75+num-75
+sa	en_esl	adj-75+adp-75+det-75+num-75
+sa	en_lines	adj-75+adp-75+det-75+num-75
+sa	en_partut	adj-75+adp-75+det-75+num-75
+sa	es	adj-25+adp-75+det-75+ngen-25+num-75
+sa	es_ancora	adj-25+adp-75+det-75+ngen-25+num-75
+sa	et	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+sa	eu	adj-25+adp-25+det-25+ngen-75+num-75
+sa	fa	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+sa	fi	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+sa	fi_ftb	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+sa	fr	adj-25+adp-75+det-75+ngen-25+num-75
+sa	fr_partut	adj-25+adp-75+det-75+ngen-25+num-75
+sa	fr_sequoia	adj-25+adp-75+det-75+ngen-25+num-75
+sa	ga	adj-25+adp-75+del-ind+det-25+ngen-25+num-75
+sa	gl	adj-25+adp-75+det-75+ngen-25+num-75
+sa	gl_treegal	adj-25+adp-75+det-75+ngen-25+num-75
+sa	got	
+sa	grc	
+sa	grc_proiel	
+sa	he	adj-25+adp-75+del-def+det-25+ngen-25+num-75
+sa	hi	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+sa	hr	adj-75+adp-75+del-d+det-75+num-75
+sa	hu	adj-75+adp-25+det-75+ngen-75+num-75
+sa	id	adj-25+adp-75+del-ind+det-25+ngen-25+num-75
+sa	it	adj-25+adp-75+det-75+ngen-25+num-75
+sa	it_partut	adj-25+adp-75+det-75+ngen-25+num-75
+sa	ja	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+sa	ja_ktc	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+sa	kk	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+sa	ko	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+sa	la	
+sa	la_ittb	
+sa	la_proiel	
+sa	lt	adj-75+adp-75+del-d+det-75+ngen-75+num-75
+sa	lv	adj-75+adp-75+det-75+ngen-75+num-75
+sa	nl	adj-75+adp-75+det-75+ngen-25+num-75
+sa	nl_lassysmall	adj-75+adp-75+det-75+ngen-25+num-75
+sa	no	adj-75+adp-75+del-def+det-75+num-75
+sa	no_bokmaal	adj-75+adp-75+del-def+det-75+num-75
+sa	no_nynorsk	adj-75+adp-75+del-def+det-75+num-75
+sa	pl	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+sa	pt	adj-25+adp-75+det-75+ngen-25+num-75
+sa	pt_bosque	adj-25+adp-75+det-75+ngen-25+num-75
+sa	pt_br	adj-25+adp-75+det-75+ngen-25+num-75
+sa	ro	adj-25+adp-75+del-def+ngen-25+num-75
+sa	ru	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+sa	ru_syntagrus	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+sa	sa	
+sa	sk	adj-75+adp-75+del-d+det-75+num-75
+sa	sl	adj-75+adp-75+del-d+det-75+num-75
+sa	sl_sst	adj-75+adp-75+del-d+det-75+num-75
+sa	sv	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+sa	sv_lines	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+sa	swl	
+sa	ta	adj-75+adp-25+det-75+ngen-75+num-75
+sa	tr	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+sa	ug	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+sa	uk	adj-75+adp-75+del-d+det-75+num-75
+sa	ur	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+sa	vi	adj-25+adp-75+det-25+ngen-25+num-75
+sa	zh	adj-75+del-def+det-75+ngen-75+num-75
+sk	ar	adj-50+del-def+ngen-25
+sk	ar_nyuad	adj-50+del-def+ngen-25
+sk	be	ngen-25
+sk	bg	
+sk	ca	adj-50+ngen-25
+sk	cop	adj-50+det-50+ngen-25
+sk	cs	
+sk	cs_cac	
+sk	cs_cltt	
+sk	cu	adj-50+adp-50+det-50+num-50
+sk	da	del-def+ngen-75
+sk	de	ngen-25
+sk	el	ngen-25
+sk	en	
+sk	en_esl	
+sk	en_lines	
+sk	en_partut	
+sk	es	adj-50+ngen-25
+sk	es_ancora	adj-50+ngen-25
+sk	et	adp-50+ngen-75
+sk	eu	adj-50+adp-50+det-50+ngen-75
+sk	fa	adj-50+del-def+ngen-25
+sk	fi	adp-50+ngen-75
+sk	fi_ftb	adp-50+ngen-75
+sk	fr	adj-50+ngen-25
+sk	fr_partut	adj-50+ngen-25
+sk	fr_sequoia	adj-50+ngen-25
+sk	ga	adj-50+del-ind+det-50+ngen-25
+sk	gl	adj-50+ngen-25
+sk	gl_treegal	adj-50+ngen-25
+sk	got	adj-50+adp-50+det-50+num-50
+sk	grc	adj-50+adp-50+det-50+num-50
+sk	grc_proiel	adj-50+adp-50+det-50+num-50
+sk	he	adj-50+del-def+det-50+ngen-25
+sk	hi	adp-50+ngen-75
+sk	hr	
+sk	hu	adp-50+ngen-75
+sk	id	adj-50+del-ind+det-50+ngen-25
+sk	it	adj-50+ngen-25
+sk	it_partut	adj-50+ngen-25
+sk	ja	adp-50+del-def+ngen-75
+sk	ja_ktc	adp-50+del-def+ngen-75
+sk	kk	adp-50+del-def+ngen-75
+sk	ko	adp-50+ngen-75
+sk	la	adj-50+adp-50+det-50+num-50
+sk	la_ittb	adj-50+adp-50+det-50+num-50
+sk	la_proiel	adj-50+adp-50+det-50+num-50
+sk	lt	ngen-75
+sk	lv	ngen-75
+sk	nl	ngen-25
+sk	nl_lassysmall	ngen-25
+sk	no	del-def
+sk	no_bokmaal	del-def
+sk	no_nynorsk	del-def
+sk	pl	ngen-25
+sk	pt	adj-50+ngen-25
+sk	pt_bosque	adj-50+ngen-25
+sk	pt_br	adj-50+ngen-25
+sk	ro	adj-50+del-def+det-50+ngen-25
+sk	ru	ngen-25
+sk	ru_syntagrus	ngen-25
+sk	sa	adj-50+adp-50+det-50+num-50
+sk	sk	
+sk	sl	
+sk	sl_sst	
+sk	sv	del-def+ngen-75
+sk	sv_lines	del-def+ngen-75
+sk	swl	adj-50+adp-50+det-50+num-50
+sk	ta	adp-50+ngen-75
+sk	tr	adp-50+del-def+ngen-75
+sk	ug	adp-50+del-def+ngen-75
+sk	uk	
+sk	ur	adp-50+ngen-75
+sk	vi	adj-50+det-50+ngen-25
+sk	zh	adp-50+del-def+ngen-75
+sl	ar	adj-50+del-def+ngen-25
+sl	ar_nyuad	adj-50+del-def+ngen-25
+sl	be	ngen-25
+sl	bg	
+sl	ca	adj-50+ngen-25
+sl	cop	adj-50+det-50+ngen-25
+sl	cs	
+sl	cs_cac	
+sl	cs_cltt	
+sl	cu	adj-50+adp-50+det-50+num-50
+sl	da	del-def+ngen-75
+sl	de	ngen-25
+sl	el	ngen-25
+sl	en	
+sl	en_esl	
+sl	en_lines	
+sl	en_partut	
+sl	es	adj-50+ngen-25
+sl	es_ancora	adj-50+ngen-25
+sl	et	adp-50+ngen-75
+sl	eu	adj-50+adp-50+det-50+ngen-75
+sl	fa	adj-50+del-def+ngen-25
+sl	fi	adp-50+ngen-75
+sl	fi_ftb	adp-50+ngen-75
+sl	fr	adj-50+ngen-25
+sl	fr_partut	adj-50+ngen-25
+sl	fr_sequoia	adj-50+ngen-25
+sl	ga	adj-50+del-ind+det-50+ngen-25
+sl	gl	adj-50+ngen-25
+sl	gl_treegal	adj-50+ngen-25
+sl	got	adj-50+adp-50+det-50+num-50
+sl	grc	adj-50+adp-50+det-50+num-50
+sl	grc_proiel	adj-50+adp-50+det-50+num-50
+sl	he	adj-50+del-def+det-50+ngen-25
+sl	hi	adp-50+ngen-75
+sl	hr	
+sl	hu	adp-50+ngen-75
+sl	id	adj-50+del-ind+det-50+ngen-25
+sl	it	adj-50+ngen-25
+sl	it_partut	adj-50+ngen-25
+sl	ja	adp-50+del-def+ngen-75
+sl	ja_ktc	adp-50+del-def+ngen-75
+sl	kk	adp-50+del-def+ngen-75
+sl	ko	adp-50+ngen-75
+sl	la	adj-50+adp-50+det-50+num-50
+sl	la_ittb	adj-50+adp-50+det-50+num-50
+sl	la_proiel	adj-50+adp-50+det-50+num-50
+sl	lt	ngen-75
+sl	lv	ngen-75
+sl	nl	ngen-25
+sl	nl_lassysmall	ngen-25
+sl	no	del-def
+sl	no_bokmaal	del-def
+sl	no_nynorsk	del-def
+sl	pl	ngen-25
+sl	pt	adj-50+ngen-25
+sl	pt_bosque	adj-50+ngen-25
+sl	pt_br	adj-50+ngen-25
+sl	ro	adj-50+del-def+det-50+ngen-25
+sl	ru	ngen-25
+sl	ru_syntagrus	ngen-25
+sl	sa	adj-50+adp-50+det-50+num-50
+sl	sk	
+sl	sl	
+sl	sl_sst	
+sl	sv	del-def+ngen-75
+sl	sv_lines	del-def+ngen-75
+sl	swl	adj-50+adp-50+det-50+num-50
+sl	ta	adp-50+ngen-75
+sl	tr	adp-50+del-def+ngen-75
+sl	ug	adp-50+del-def+ngen-75
+sl	uk	
+sl	ur	adp-50+ngen-75
+sl	vi	adj-50+det-50+ngen-25
+sl	zh	adp-50+del-def+ngen-75
+sl_sst	ar	adj-50+del-def+ngen-25
+sl_sst	ar_nyuad	adj-50+del-def+ngen-25
+sl_sst	be	ngen-25
+sl_sst	bg	
+sl_sst	ca	adj-50+ngen-25
+sl_sst	cop	adj-50+det-50+ngen-25
+sl_sst	cs	
+sl_sst	cs_cac	
+sl_sst	cs_cltt	
+sl_sst	cu	adj-50+adp-50+det-50+num-50
+sl_sst	da	del-def+ngen-75
+sl_sst	de	ngen-25
+sl_sst	el	ngen-25
+sl_sst	en	
+sl_sst	en_esl	
+sl_sst	en_lines	
+sl_sst	en_partut	
+sl_sst	es	adj-50+ngen-25
+sl_sst	es_ancora	adj-50+ngen-25
+sl_sst	et	adp-50+ngen-75
+sl_sst	eu	adj-50+adp-50+det-50+ngen-75
+sl_sst	fa	adj-50+del-def+ngen-25
+sl_sst	fi	adp-50+ngen-75
+sl_sst	fi_ftb	adp-50+ngen-75
+sl_sst	fr	adj-50+ngen-25
+sl_sst	fr_partut	adj-50+ngen-25
+sl_sst	fr_sequoia	adj-50+ngen-25
+sl_sst	ga	adj-50+del-ind+det-50+ngen-25
+sl_sst	gl	adj-50+ngen-25
+sl_sst	gl_treegal	adj-50+ngen-25
+sl_sst	got	adj-50+adp-50+det-50+num-50
+sl_sst	grc	adj-50+adp-50+det-50+num-50
+sl_sst	grc_proiel	adj-50+adp-50+det-50+num-50
+sl_sst	he	adj-50+del-def+det-50+ngen-25
+sl_sst	hi	adp-50+ngen-75
+sl_sst	hr	
+sl_sst	hu	adp-50+ngen-75
+sl_sst	id	adj-50+del-ind+det-50+ngen-25
+sl_sst	it	adj-50+ngen-25
+sl_sst	it_partut	adj-50+ngen-25
+sl_sst	ja	adp-50+del-def+ngen-75
+sl_sst	ja_ktc	adp-50+del-def+ngen-75
+sl_sst	kk	adp-50+del-def+ngen-75
+sl_sst	ko	adp-50+ngen-75
+sl_sst	la	adj-50+adp-50+det-50+num-50
+sl_sst	la_ittb	adj-50+adp-50+det-50+num-50
+sl_sst	la_proiel	adj-50+adp-50+det-50+num-50
+sl_sst	lt	ngen-75
+sl_sst	lv	ngen-75
+sl_sst	nl	ngen-25
+sl_sst	nl_lassysmall	ngen-25
+sl_sst	no	del-def
+sl_sst	no_bokmaal	del-def
+sl_sst	no_nynorsk	del-def
+sl_sst	pl	ngen-25
+sl_sst	pt	adj-50+ngen-25
+sl_sst	pt_bosque	adj-50+ngen-25
+sl_sst	pt_br	adj-50+ngen-25
+sl_sst	ro	adj-50+del-def+det-50+ngen-25
+sl_sst	ru	ngen-25
+sl_sst	ru_syntagrus	ngen-25
+sl_sst	sa	adj-50+adp-50+det-50+num-50
+sl_sst	sk	
+sl_sst	sl	
+sl_sst	sl_sst	
+sl_sst	sv	del-def+ngen-75
+sl_sst	sv_lines	del-def+ngen-75
+sl_sst	swl	adj-50+adp-50+det-50+num-50
+sl_sst	ta	adp-50+ngen-75
+sl_sst	tr	adp-50+del-def+ngen-75
+sl_sst	ug	adp-50+del-def+ngen-75
+sl_sst	uk	
+sl_sst	ur	adp-50+ngen-75
+sl_sst	vi	adj-50+det-50+ngen-25
+sl_sst	zh	adp-50+del-def+ngen-75
+sv	ar	adj-50+ngen-50
+sv	ar_nyuad	adj-50+ngen-50
+sv	be	del-d+ngen-50
+sv	bg	ngen-50
+sv	ca	adj-50+ngen-50
+sv	cop	adj-50+det-50+ngen-50
+sv	cs	del-d+ngen-50
+sv	cs_cac	del-d+ngen-50
+sv	cs_cltt	del-d+ngen-50
+sv	cu	adj-50+adp-50+det-50+ngen-50+num-50
+sv	da	
+sv	de	ngen-50
+sv	el	ngen-50
+sv	en	ngen-50
+sv	en_esl	ngen-50
+sv	en_lines	ngen-50
+sv	en_partut	ngen-50
+sv	es	adj-50+ngen-50
+sv	es_ancora	adj-50+ngen-50
+sv	et	adp-50+del-d
+sv	eu	adj-50+adp-50+det-50
+sv	fa	adj-50+ngen-50
+sv	fi	adp-50+del-d
+sv	fi_ftb	adp-50+del-d
+sv	fr	adj-50+ngen-50
+sv	fr_partut	adj-50+ngen-50
+sv	fr_sequoia	adj-50+ngen-50
+sv	ga	adj-50+del-ind+det-50+ngen-50
+sv	gl	adj-50+ngen-50
+sv	gl_treegal	adj-50+ngen-50
+sv	got	adj-50+adp-50+det-50+ngen-50+num-50
+sv	grc	adj-50+adp-50+det-50+ngen-50+num-50
+sv	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+sv	he	adj-50+det-50+ngen-50
+sv	hi	adp-50+del-d
+sv	hr	del-d+ngen-50
+sv	hu	adp-50
+sv	id	adj-50+del-ind+det-50+ngen-50
+sv	it	adj-50+ngen-50
+sv	it_partut	adj-50+ngen-50
+sv	ja	adp-50
+sv	ja_ktc	adp-50
+sv	kk	adp-50
+sv	ko	adp-50+del-d
+sv	la	adj-50+adp-50+det-50+ngen-50+num-50
+sv	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+sv	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+sv	lt	del-d
+sv	lv	
+sv	nl	ngen-50
+sv	nl_lassysmall	ngen-50
+sv	no	ngen-50
+sv	no_bokmaal	ngen-50
+sv	no_nynorsk	ngen-50
+sv	pl	del-d+ngen-50
+sv	pt	adj-50+ngen-50
+sv	pt_bosque	adj-50+ngen-50
+sv	pt_br	adj-50+ngen-50
+sv	ro	adj-50+det-50+ngen-50
+sv	ru	del-d+ngen-50
+sv	ru_syntagrus	del-d+ngen-50
+sv	sa	adj-50+adp-50+det-50+ngen-50+num-50
+sv	sk	del-d+ngen-50
+sv	sl	del-d+ngen-50
+sv	sl_sst	del-d+ngen-50
+sv	sv	
+sv	sv_lines	
+sv	swl	adj-50+adp-50+det-50+ngen-50+num-50
+sv	ta	adp-50
+sv	tr	adp-50
+sv	ug	adp-50
+sv	uk	del-d+ngen-50
+sv	ur	adp-50+del-d
+sv	vi	adj-50+det-50+ngen-50
+sv	zh	adp-50
+sv_lines	ar	adj-50+ngen-50
+sv_lines	ar_nyuad	adj-50+ngen-50
+sv_lines	be	del-d+ngen-50
+sv_lines	bg	ngen-50
+sv_lines	ca	adj-50+ngen-50
+sv_lines	cop	adj-50+det-50+ngen-50
+sv_lines	cs	del-d+ngen-50
+sv_lines	cs_cac	del-d+ngen-50
+sv_lines	cs_cltt	del-d+ngen-50
+sv_lines	cu	adj-50+adp-50+det-50+ngen-50+num-50
+sv_lines	da	
+sv_lines	de	ngen-50
+sv_lines	el	ngen-50
+sv_lines	en	ngen-50
+sv_lines	en_esl	ngen-50
+sv_lines	en_lines	ngen-50
+sv_lines	en_partut	ngen-50
+sv_lines	es	adj-50+ngen-50
+sv_lines	es_ancora	adj-50+ngen-50
+sv_lines	et	adp-50+del-d
+sv_lines	eu	adj-50+adp-50+det-50
+sv_lines	fa	adj-50+ngen-50
+sv_lines	fi	adp-50+del-d
+sv_lines	fi_ftb	adp-50+del-d
+sv_lines	fr	adj-50+ngen-50
+sv_lines	fr_partut	adj-50+ngen-50
+sv_lines	fr_sequoia	adj-50+ngen-50
+sv_lines	ga	adj-50+del-ind+det-50+ngen-50
+sv_lines	gl	adj-50+ngen-50
+sv_lines	gl_treegal	adj-50+ngen-50
+sv_lines	got	adj-50+adp-50+det-50+ngen-50+num-50
+sv_lines	grc	adj-50+adp-50+det-50+ngen-50+num-50
+sv_lines	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+sv_lines	he	adj-50+det-50+ngen-50
+sv_lines	hi	adp-50+del-d
+sv_lines	hr	del-d+ngen-50
+sv_lines	hu	adp-50
+sv_lines	id	adj-50+del-ind+det-50+ngen-50
+sv_lines	it	adj-50+ngen-50
+sv_lines	it_partut	adj-50+ngen-50
+sv_lines	ja	adp-50
+sv_lines	ja_ktc	adp-50
+sv_lines	kk	adp-50
+sv_lines	ko	adp-50+del-d
+sv_lines	la	adj-50+adp-50+det-50+ngen-50+num-50
+sv_lines	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+sv_lines	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+sv_lines	lt	del-d
+sv_lines	lv	
+sv_lines	nl	ngen-50
+sv_lines	nl_lassysmall	ngen-50
+sv_lines	no	ngen-50
+sv_lines	no_bokmaal	ngen-50
+sv_lines	no_nynorsk	ngen-50
+sv_lines	pl	del-d+ngen-50
+sv_lines	pt	adj-50+ngen-50
+sv_lines	pt_bosque	adj-50+ngen-50
+sv_lines	pt_br	adj-50+ngen-50
+sv_lines	ro	adj-50+det-50+ngen-50
+sv_lines	ru	del-d+ngen-50
+sv_lines	ru_syntagrus	del-d+ngen-50
+sv_lines	sa	adj-50+adp-50+det-50+ngen-50+num-50
+sv_lines	sk	del-d+ngen-50
+sv_lines	sl	del-d+ngen-50
+sv_lines	sl_sst	del-d+ngen-50
+sv_lines	sv	
+sv_lines	sv_lines	
+sv_lines	swl	adj-50+adp-50+det-50+ngen-50+num-50
+sv_lines	ta	adp-50
+sv_lines	tr	adp-50
+sv_lines	ug	adp-50
+sv_lines	uk	del-d+ngen-50
+sv_lines	ur	adp-50+del-d
+sv_lines	vi	adj-50+det-50+ngen-50
+sv_lines	zh	adp-50
+swl	ar	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+swl	ar_nyuad	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+swl	be	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+swl	bg	adj-75+adp-75+det-75+num-75
+swl	ca	adj-25+adp-75+det-75+ngen-25+num-75
+swl	cop	adj-25+adp-75+ngen-25+num-75
+swl	cs	adj-75+adp-75+del-d+det-75+num-75
+swl	cs_cac	adj-75+adp-75+del-d+det-75+num-75
+swl	cs_cltt	adj-75+adp-75+del-d+det-75+num-75
+swl	cu	
+swl	da	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+swl	de	adj-75+adp-75+det-75+ngen-25+num-75
+swl	el	adj-75+adp-75+det-75+ngen-25+num-75
+swl	en	adj-75+adp-75+det-75+num-75
+swl	en_esl	adj-75+adp-75+det-75+num-75
+swl	en_lines	adj-75+adp-75+det-75+num-75
+swl	en_partut	adj-75+adp-75+det-75+num-75
+swl	es	adj-25+adp-75+det-75+ngen-25+num-75
+swl	es_ancora	adj-25+adp-75+det-75+ngen-25+num-75
+swl	et	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+swl	eu	adj-25+adp-25+det-25+ngen-75+num-75
+swl	fa	adj-25+adp-75+del-def+det-75+ngen-25+num-75
+swl	fi	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+swl	fi_ftb	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+swl	fr	adj-25+adp-75+det-75+ngen-25+num-75
+swl	fr_partut	adj-25+adp-75+det-75+ngen-25+num-75
+swl	fr_sequoia	adj-25+adp-75+det-75+ngen-25+num-75
+swl	ga	adj-25+adp-75+del-ind+det-25+ngen-25+num-75
+swl	gl	adj-25+adp-75+det-75+ngen-25+num-75
+swl	gl_treegal	adj-25+adp-75+det-75+ngen-25+num-75
+swl	got	
+swl	grc	
+swl	grc_proiel	
+swl	he	adj-25+adp-75+del-def+det-25+ngen-25+num-75
+swl	hi	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+swl	hr	adj-75+adp-75+del-d+det-75+num-75
+swl	hu	adj-75+adp-25+det-75+ngen-75+num-75
+swl	id	adj-25+adp-75+del-ind+det-25+ngen-25+num-75
+swl	it	adj-25+adp-75+det-75+ngen-25+num-75
+swl	it_partut	adj-25+adp-75+det-75+ngen-25+num-75
+swl	ja	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+swl	ja_ktc	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+swl	kk	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+swl	ko	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+swl	la	
+swl	la_ittb	
+swl	la_proiel	
+swl	lt	adj-75+adp-75+del-d+det-75+ngen-75+num-75
+swl	lv	adj-75+adp-75+det-75+ngen-75+num-75
+swl	nl	adj-75+adp-75+det-75+ngen-25+num-75
+swl	nl_lassysmall	adj-75+adp-75+det-75+ngen-25+num-75
+swl	no	adj-75+adp-75+del-def+det-75+num-75
+swl	no_bokmaal	adj-75+adp-75+del-def+det-75+num-75
+swl	no_nynorsk	adj-75+adp-75+del-def+det-75+num-75
+swl	pl	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+swl	pt	adj-25+adp-75+det-75+ngen-25+num-75
+swl	pt_bosque	adj-25+adp-75+det-75+ngen-25+num-75
+swl	pt_br	adj-25+adp-75+det-75+ngen-25+num-75
+swl	ro	adj-25+adp-75+del-def+ngen-25+num-75
+swl	ru	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+swl	ru_syntagrus	adj-75+adp-75+del-d+det-75+ngen-25+num-75
+swl	sa	
+swl	sk	adj-75+adp-75+del-d+det-75+num-75
+swl	sl	adj-75+adp-75+del-d+det-75+num-75
+swl	sl_sst	adj-75+adp-75+del-d+det-75+num-75
+swl	sv	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+swl	sv_lines	adj-75+adp-75+del-def+det-75+ngen-75+num-75
+swl	swl	
+swl	ta	adj-75+adp-25+det-75+ngen-75+num-75
+swl	tr	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+swl	ug	adj-75+adp-25+del-def+det-75+ngen-75+num-75
+swl	uk	adj-75+adp-75+del-d+det-75+num-75
+swl	ur	adj-75+adp-25+del-d+det-75+ngen-75+num-75
+swl	vi	adj-25+adp-75+det-25+ngen-25+num-75
+swl	zh	adj-75+del-def+det-75+ngen-75+num-75
+ta	ar	adj-50+adp-50+del-def+ngen-50
+ta	ar_nyuad	adj-50+adp-50+del-def+ngen-50
+ta	be	adp-50+del-d+ngen-50
+ta	bg	adp-50+ngen-50
+ta	ca	adj-50+adp-50+ngen-50
+ta	cop	adj-50+adp-50+det-50+ngen-50
+ta	cs	adp-50+del-d+ngen-50
+ta	cs_cac	adp-50+del-d+ngen-50
+ta	cs_cltt	adp-50+del-d+ngen-50
+ta	cu	adj-50+adp-50+det-50+ngen-50+num-50
+ta	da	adp-50+del-def
+ta	de	adp-50+ngen-50
+ta	el	adp-50+ngen-50
+ta	en	adp-50+ngen-50
+ta	en_esl	adp-50+ngen-50
+ta	en_lines	adp-50+ngen-50
+ta	en_partut	adp-50+ngen-50
+ta	es	adj-50+adp-50+ngen-50
+ta	es_ancora	adj-50+adp-50+ngen-50
+ta	et	del-d
+ta	eu	adj-50+det-50
+ta	fa	adj-50+adp-50+del-def+ngen-50
+ta	fi	del-d
+ta	fi_ftb	del-d
+ta	fr	adj-50+adp-50+ngen-50
+ta	fr_partut	adj-50+adp-50+ngen-50
+ta	fr_sequoia	adj-50+adp-50+ngen-50
+ta	ga	adj-50+adp-50+del-ind+det-50+ngen-50
+ta	gl	adj-50+adp-50+ngen-50
+ta	gl_treegal	adj-50+adp-50+ngen-50
+ta	got	adj-50+adp-50+det-50+ngen-50+num-50
+ta	grc	adj-50+adp-50+det-50+ngen-50+num-50
+ta	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ta	he	adj-50+adp-50+del-def+det-50+ngen-50
+ta	hi	del-d
+ta	hr	adp-50+del-d+ngen-50
+ta	hu	
+ta	id	adj-50+adp-50+del-ind+det-50+ngen-50
+ta	it	adj-50+adp-50+ngen-50
+ta	it_partut	adj-50+adp-50+ngen-50
+ta	ja	del-def
+ta	ja_ktc	del-def
+ta	kk	del-def
+ta	ko	del-d
+ta	la	adj-50+adp-50+det-50+ngen-50+num-50
+ta	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+ta	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ta	lt	adp-50+del-d
+ta	lv	adp-50
+ta	nl	adp-50+ngen-50
+ta	nl_lassysmall	adp-50+ngen-50
+ta	no	adp-50+del-def+ngen-50
+ta	no_bokmaal	adp-50+del-def+ngen-50
+ta	no_nynorsk	adp-50+del-def+ngen-50
+ta	pl	adp-50+del-d+ngen-50
+ta	pt	adj-50+adp-50+ngen-50
+ta	pt_bosque	adj-50+adp-50+ngen-50
+ta	pt_br	adj-50+adp-50+ngen-50
+ta	ro	adj-50+adp-50+del-def+det-50+ngen-50
+ta	ru	adp-50+del-d+ngen-50
+ta	ru_syntagrus	adp-50+del-d+ngen-50
+ta	sa	adj-50+adp-50+det-50+ngen-50+num-50
+ta	sk	adp-50+del-d+ngen-50
+ta	sl	adp-50+del-d+ngen-50
+ta	sl_sst	adp-50+del-d+ngen-50
+ta	sv	adp-50+del-def
+ta	sv_lines	adp-50+del-def
+ta	swl	adj-50+adp-50+det-50+ngen-50+num-50
+ta	ta	
+ta	tr	del-def
+ta	ug	del-def
+ta	uk	adp-50+del-d+ngen-50
+ta	ur	del-d
+ta	vi	adj-50+adp-50+det-50+ngen-50
+ta	zh	adp-50+del-def
+tr	ar	adj-50+adp-50+ngen-50
+tr	ar_nyuad	adj-50+adp-50+ngen-50
+tr	be	adp-50+del-d+ngen-50
+tr	bg	adp-50+ngen-50
+tr	ca	adj-50+adp-50+ngen-50
+tr	cop	adj-50+adp-50+det-50+ngen-50
+tr	cs	adp-50+del-d+ngen-50
+tr	cs_cac	adp-50+del-d+ngen-50
+tr	cs_cltt	adp-50+del-d+ngen-50
+tr	cu	adj-50+adp-50+det-50+ngen-50+num-50
+tr	da	adp-50
+tr	de	adp-50+ngen-50
+tr	el	adp-50+ngen-50
+tr	en	adp-50+ngen-50
+tr	en_esl	adp-50+ngen-50
+tr	en_lines	adp-50+ngen-50
+tr	en_partut	adp-50+ngen-50
+tr	es	adj-50+adp-50+ngen-50
+tr	es_ancora	adj-50+adp-50+ngen-50
+tr	et	del-d
+tr	eu	adj-50+det-50
+tr	fa	adj-50+adp-50+ngen-50
+tr	fi	del-d
+tr	fi_ftb	del-d
+tr	fr	adj-50+adp-50+ngen-50
+tr	fr_partut	adj-50+adp-50+ngen-50
+tr	fr_sequoia	adj-50+adp-50+ngen-50
+tr	ga	adj-50+adp-50+del-ind+det-50+ngen-50
+tr	gl	adj-50+adp-50+ngen-50
+tr	gl_treegal	adj-50+adp-50+ngen-50
+tr	got	adj-50+adp-50+det-50+ngen-50+num-50
+tr	grc	adj-50+adp-50+det-50+ngen-50+num-50
+tr	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+tr	he	adj-50+adp-50+det-50+ngen-50
+tr	hi	del-d
+tr	hr	adp-50+del-d+ngen-50
+tr	hu	
+tr	id	adj-50+adp-50+del-ind+det-50+ngen-50
+tr	it	adj-50+adp-50+ngen-50
+tr	it_partut	adj-50+adp-50+ngen-50
+tr	ja	
+tr	ja_ktc	
+tr	kk	
+tr	ko	del-d
+tr	la	adj-50+adp-50+det-50+ngen-50+num-50
+tr	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+tr	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+tr	lt	adp-50+del-d
+tr	lv	adp-50
+tr	nl	adp-50+ngen-50
+tr	nl_lassysmall	adp-50+ngen-50
+tr	no	adp-50+ngen-50
+tr	no_bokmaal	adp-50+ngen-50
+tr	no_nynorsk	adp-50+ngen-50
+tr	pl	adp-50+del-d+ngen-50
+tr	pt	adj-50+adp-50+ngen-50
+tr	pt_bosque	adj-50+adp-50+ngen-50
+tr	pt_br	adj-50+adp-50+ngen-50
+tr	ro	adj-50+adp-50+det-50+ngen-50
+tr	ru	adp-50+del-d+ngen-50
+tr	ru_syntagrus	adp-50+del-d+ngen-50
+tr	sa	adj-50+adp-50+det-50+ngen-50+num-50
+tr	sk	adp-50+del-d+ngen-50
+tr	sl	adp-50+del-d+ngen-50
+tr	sl_sst	adp-50+del-d+ngen-50
+tr	sv	adp-50
+tr	sv_lines	adp-50
+tr	swl	adj-50+adp-50+det-50+ngen-50+num-50
+tr	ta	
+tr	tr	
+tr	ug	
+tr	uk	adp-50+del-d+ngen-50
+tr	ur	del-d
+tr	vi	adj-50+adp-50+det-50+ngen-50
+tr	zh	adp-50
+ug	ar	adj-50+adp-50+ngen-50
+ug	ar_nyuad	adj-50+adp-50+ngen-50
+ug	be	adp-50+del-d+ngen-50
+ug	bg	adp-50+ngen-50
+ug	ca	adj-50+adp-50+ngen-50
+ug	cop	adj-50+adp-50+det-50+ngen-50
+ug	cs	adp-50+del-d+ngen-50
+ug	cs_cac	adp-50+del-d+ngen-50
+ug	cs_cltt	adp-50+del-d+ngen-50
+ug	cu	adj-50+adp-50+det-50+ngen-50+num-50
+ug	da	adp-50
+ug	de	adp-50+ngen-50
+ug	el	adp-50+ngen-50
+ug	en	adp-50+ngen-50
+ug	en_esl	adp-50+ngen-50
+ug	en_lines	adp-50+ngen-50
+ug	en_partut	adp-50+ngen-50
+ug	es	adj-50+adp-50+ngen-50
+ug	es_ancora	adj-50+adp-50+ngen-50
+ug	et	del-d
+ug	eu	adj-50+det-50
+ug	fa	adj-50+adp-50+ngen-50
+ug	fi	del-d
+ug	fi_ftb	del-d
+ug	fr	adj-50+adp-50+ngen-50
+ug	fr_partut	adj-50+adp-50+ngen-50
+ug	fr_sequoia	adj-50+adp-50+ngen-50
+ug	ga	adj-50+adp-50+del-ind+det-50+ngen-50
+ug	gl	adj-50+adp-50+ngen-50
+ug	gl_treegal	adj-50+adp-50+ngen-50
+ug	got	adj-50+adp-50+det-50+ngen-50+num-50
+ug	grc	adj-50+adp-50+det-50+ngen-50+num-50
+ug	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ug	he	adj-50+adp-50+det-50+ngen-50
+ug	hi	del-d
+ug	hr	adp-50+del-d+ngen-50
+ug	hu	
+ug	id	adj-50+adp-50+del-ind+det-50+ngen-50
+ug	it	adj-50+adp-50+ngen-50
+ug	it_partut	adj-50+adp-50+ngen-50
+ug	ja	
+ug	ja_ktc	
+ug	kk	
+ug	ko	del-d
+ug	la	adj-50+adp-50+det-50+ngen-50+num-50
+ug	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+ug	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ug	lt	adp-50+del-d
+ug	lv	adp-50
+ug	nl	adp-50+ngen-50
+ug	nl_lassysmall	adp-50+ngen-50
+ug	no	adp-50+ngen-50
+ug	no_bokmaal	adp-50+ngen-50
+ug	no_nynorsk	adp-50+ngen-50
+ug	pl	adp-50+del-d+ngen-50
+ug	pt	adj-50+adp-50+ngen-50
+ug	pt_bosque	adj-50+adp-50+ngen-50
+ug	pt_br	adj-50+adp-50+ngen-50
+ug	ro	adj-50+adp-50+det-50+ngen-50
+ug	ru	adp-50+del-d+ngen-50
+ug	ru_syntagrus	adp-50+del-d+ngen-50
+ug	sa	adj-50+adp-50+det-50+ngen-50+num-50
+ug	sk	adp-50+del-d+ngen-50
+ug	sl	adp-50+del-d+ngen-50
+ug	sl_sst	adp-50+del-d+ngen-50
+ug	sv	adp-50
+ug	sv_lines	adp-50
+ug	swl	adj-50+adp-50+det-50+ngen-50+num-50
+ug	ta	
+ug	tr	
+ug	ug	
+ug	uk	adp-50+del-d+ngen-50
+ug	ur	del-d
+ug	vi	adj-50+adp-50+det-50+ngen-50
+ug	zh	adp-50
+uk	ar	adj-50+del-def+ngen-25
+uk	ar_nyuad	adj-50+del-def+ngen-25
+uk	be	ngen-25
+uk	bg	
+uk	ca	adj-50+ngen-25
+uk	cop	adj-50+det-50+ngen-25
+uk	cs	
+uk	cs_cac	
+uk	cs_cltt	
+uk	cu	adj-50+adp-50+det-50+num-50
+uk	da	del-def+ngen-75
+uk	de	ngen-25
+uk	el	ngen-25
+uk	en	
+uk	en_esl	
+uk	en_lines	
+uk	en_partut	
+uk	es	adj-50+ngen-25
+uk	es_ancora	adj-50+ngen-25
+uk	et	adp-50+ngen-75
+uk	eu	adj-50+adp-50+det-50+ngen-75
+uk	fa	adj-50+del-def+ngen-25
+uk	fi	adp-50+ngen-75
+uk	fi_ftb	adp-50+ngen-75
+uk	fr	adj-50+ngen-25
+uk	fr_partut	adj-50+ngen-25
+uk	fr_sequoia	adj-50+ngen-25
+uk	ga	adj-50+del-ind+det-50+ngen-25
+uk	gl	adj-50+ngen-25
+uk	gl_treegal	adj-50+ngen-25
+uk	got	adj-50+adp-50+det-50+num-50
+uk	grc	adj-50+adp-50+det-50+num-50
+uk	grc_proiel	adj-50+adp-50+det-50+num-50
+uk	he	adj-50+del-def+det-50+ngen-25
+uk	hi	adp-50+ngen-75
+uk	hr	
+uk	hu	adp-50+ngen-75
+uk	id	adj-50+del-ind+det-50+ngen-25
+uk	it	adj-50+ngen-25
+uk	it_partut	adj-50+ngen-25
+uk	ja	adp-50+del-def+ngen-75
+uk	ja_ktc	adp-50+del-def+ngen-75
+uk	kk	adp-50+del-def+ngen-75
+uk	ko	adp-50+ngen-75
+uk	la	adj-50+adp-50+det-50+num-50
+uk	la_ittb	adj-50+adp-50+det-50+num-50
+uk	la_proiel	adj-50+adp-50+det-50+num-50
+uk	lt	ngen-75
+uk	lv	ngen-75
+uk	nl	ngen-25
+uk	nl_lassysmall	ngen-25
+uk	no	del-def
+uk	no_bokmaal	del-def
+uk	no_nynorsk	del-def
+uk	pl	ngen-25
+uk	pt	adj-50+ngen-25
+uk	pt_bosque	adj-50+ngen-25
+uk	pt_br	adj-50+ngen-25
+uk	ro	adj-50+del-def+det-50+ngen-25
+uk	ru	ngen-25
+uk	ru_syntagrus	ngen-25
+uk	sa	adj-50+adp-50+det-50+num-50
+uk	sk	
+uk	sl	
+uk	sl_sst	
+uk	sv	del-def+ngen-75
+uk	sv_lines	del-def+ngen-75
+uk	swl	adj-50+adp-50+det-50+num-50
+uk	ta	adp-50+ngen-75
+uk	tr	adp-50+del-def+ngen-75
+uk	ug	adp-50+del-def+ngen-75
+uk	uk	
+uk	ur	adp-50+ngen-75
+uk	vi	adj-50+det-50+ngen-25
+uk	zh	adp-50+del-def+ngen-75
+ur	ar	adj-50+adp-50+del-def+ngen-50
+ur	ar_nyuad	adj-50+adp-50+del-def+ngen-50
+ur	be	adp-50+ngen-50
+ur	bg	adp-50+ngen-50
+ur	ca	adj-50+adp-50+ngen-50
+ur	cop	adj-50+adp-50+det-50+ngen-50
+ur	cs	adp-50+ngen-50
+ur	cs_cac	adp-50+ngen-50
+ur	cs_cltt	adp-50+ngen-50
+ur	cu	adj-50+adp-50+det-50+ngen-50+num-50
+ur	da	adp-50+del-def
+ur	de	adp-50+ngen-50
+ur	el	adp-50+ngen-50
+ur	en	adp-50+ngen-50
+ur	en_esl	adp-50+ngen-50
+ur	en_lines	adp-50+ngen-50
+ur	en_partut	adp-50+ngen-50
+ur	es	adj-50+adp-50+ngen-50
+ur	es_ancora	adj-50+adp-50+ngen-50
+ur	et	
+ur	eu	adj-50+det-50
+ur	fa	adj-50+adp-50+del-def+ngen-50
+ur	fi	
+ur	fi_ftb	
+ur	fr	adj-50+adp-50+ngen-50
+ur	fr_partut	adj-50+adp-50+ngen-50
+ur	fr_sequoia	adj-50+adp-50+ngen-50
+ur	ga	adj-50+adp-50+del-ind+det-50+ngen-50
+ur	gl	adj-50+adp-50+ngen-50
+ur	gl_treegal	adj-50+adp-50+ngen-50
+ur	got	adj-50+adp-50+det-50+ngen-50+num-50
+ur	grc	adj-50+adp-50+det-50+ngen-50+num-50
+ur	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ur	he	adj-50+adp-50+del-def+det-50+ngen-50
+ur	hi	
+ur	hr	adp-50+ngen-50
+ur	hu	
+ur	id	adj-50+adp-50+del-ind+det-50+ngen-50
+ur	it	adj-50+adp-50+ngen-50
+ur	it_partut	adj-50+adp-50+ngen-50
+ur	ja	del-def
+ur	ja_ktc	del-def
+ur	kk	del-def
+ur	ko	
+ur	la	adj-50+adp-50+det-50+ngen-50+num-50
+ur	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+ur	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+ur	lt	adp-50
+ur	lv	adp-50
+ur	nl	adp-50+ngen-50
+ur	nl_lassysmall	adp-50+ngen-50
+ur	no	adp-50+del-def+ngen-50
+ur	no_bokmaal	adp-50+del-def+ngen-50
+ur	no_nynorsk	adp-50+del-def+ngen-50
+ur	pl	adp-50+ngen-50
+ur	pt	adj-50+adp-50+ngen-50
+ur	pt_bosque	adj-50+adp-50+ngen-50
+ur	pt_br	adj-50+adp-50+ngen-50
+ur	ro	adj-50+adp-50+del-def+det-50+ngen-50
+ur	ru	adp-50+ngen-50
+ur	ru_syntagrus	adp-50+ngen-50
+ur	sa	adj-50+adp-50+det-50+ngen-50+num-50
+ur	sk	adp-50+ngen-50
+ur	sl	adp-50+ngen-50
+ur	sl_sst	adp-50+ngen-50
+ur	sv	adp-50+del-def
+ur	sv_lines	adp-50+del-def
+ur	swl	adj-50+adp-50+det-50+ngen-50+num-50
+ur	ta	
+ur	tr	del-def
+ur	ug	del-def
+ur	uk	adp-50+ngen-50
+ur	ur	
+ur	vi	adj-50+adp-50+det-50+ngen-50
+ur	zh	adp-50+del-def
+vi	ar	del-def+det-50
+vi	ar_nyuad	del-def+det-50
+vi	be	adj-50+del-d+det-50
+vi	bg	adj-50+det-50+ngen-50
+vi	ca	det-50
+vi	cop	det-50
+vi	cs	adj-50+del-d+det-50+ngen-50
+vi	cs_cac	adj-50+del-d+det-50+ngen-50
+vi	cs_cltt	adj-50+del-d+det-50+ngen-50
+vi	cu	adj-50+adp-50+det-50+ngen-50+num-50
+vi	da	adj-50+del-def+det-50+ngen-50
+vi	de	adj-50+det-50
+vi	el	adj-50+det-50
+vi	en	adj-50+det-50+ngen-50
+vi	en_esl	adj-50+det-50+ngen-50
+vi	en_lines	adj-50+det-50+ngen-50
+vi	en_partut	adj-50+det-50+ngen-50
+vi	es	det-50
+vi	es_ancora	det-50
+vi	et	adj-50+adp-50+del-d+det-50+ngen-50
+vi	eu	adp-50+ngen-50
+vi	fa	del-def+det-50
+vi	fi	adj-50+adp-50+del-d+det-50+ngen-50
+vi	fi_ftb	adj-50+adp-50+del-d+det-50+ngen-50
+vi	fr	det-50
+vi	fr_partut	det-50
+vi	fr_sequoia	det-50
+vi	ga	del-ind
+vi	gl	det-50
+vi	gl_treegal	det-50
+vi	got	adj-50+adp-50+det-50+ngen-50+num-50
+vi	grc	adj-50+adp-50+det-50+ngen-50+num-50
+vi	grc_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+vi	he	del-def
+vi	hi	adj-50+adp-50+del-d+det-50+ngen-50
+vi	hr	adj-50+del-d+det-50+ngen-50
+vi	hu	adj-50+adp-50+det-50+ngen-50
+vi	id	del-ind
+vi	it	det-50
+vi	it_partut	det-50
+vi	ja	adj-50+adp-50+del-def+det-50+ngen-50
+vi	ja_ktc	adj-50+adp-50+del-def+det-50+ngen-50
+vi	kk	adj-50+adp-50+del-def+det-50+ngen-50
+vi	ko	adj-50+adp-50+del-d+det-50+ngen-50
+vi	la	adj-50+adp-50+det-50+ngen-50+num-50
+vi	la_ittb	adj-50+adp-50+det-50+ngen-50+num-50
+vi	la_proiel	adj-50+adp-50+det-50+ngen-50+num-50
+vi	lt	adj-50+del-d+det-50+ngen-50
+vi	lv	adj-50+det-50+ngen-50
+vi	nl	adj-50+det-50
+vi	nl_lassysmall	adj-50+det-50
+vi	no	adj-50+del-def+det-50+ngen-50
+vi	no_bokmaal	adj-50+del-def+det-50+ngen-50
+vi	no_nynorsk	adj-50+del-def+det-50+ngen-50
+vi	pl	adj-50+del-d+det-50
+vi	pt	det-50
+vi	pt_bosque	det-50
+vi	pt_br	det-50
+vi	ro	del-def+det-50
+vi	ru	adj-50+del-d+det-50
+vi	ru_syntagrus	adj-50+del-d+det-50
+vi	sa	adj-50+adp-50+det-50+ngen-50+num-50
+vi	sk	adj-50+del-d+det-50+ngen-50
+vi	sl	adj-50+del-d+det-50+ngen-50
+vi	sl_sst	adj-50+del-d+det-50+ngen-50
+vi	sv	adj-50+del-def+det-50+ngen-50
+vi	sv_lines	adj-50+del-def+det-50+ngen-50
+vi	swl	adj-50+adp-50+det-50+ngen-50+num-50
+vi	ta	adj-50+adp-50+det-50+ngen-50
+vi	tr	adj-50+adp-50+del-def+det-50+ngen-50
+vi	ug	adj-50+adp-50+del-def+det-50+ngen-50
+vi	uk	adj-50+del-d+det-50+ngen-50
+vi	ur	adj-50+adp-50+del-d+det-50+ngen-50
+vi	vi	
+vi	zh	adj-50+adp-50+del-def+det-50+ngen-50
+zh	ar	adj-50+adp-75+ngen-50
+zh	ar_nyuad	adj-50+adp-75+ngen-50
+zh	be	adp-75+del-d+ngen-50
+zh	bg	adp-75+ngen-50
+zh	ca	adj-50+adp-75+ngen-50
+zh	cop	adj-50+adp-75+det-50+ngen-50
+zh	cs	adp-75+del-d+ngen-50
+zh	cs_cac	adp-75+del-d+ngen-50
+zh	cs_cltt	adp-75+del-d+ngen-50
+zh	cu	adj-50+det-50+ngen-50+num-50
+zh	da	adp-75
+zh	de	adp-75+ngen-50
+zh	el	adp-75+ngen-50
+zh	en	adp-75+ngen-50
+zh	en_esl	adp-75+ngen-50
+zh	en_lines	adp-75+ngen-50
+zh	en_partut	adp-75+ngen-50
+zh	es	adj-50+adp-75+ngen-50
+zh	es_ancora	adj-50+adp-75+ngen-50
+zh	et	adp-25+del-d
+zh	eu	adj-50+adp-25+det-50
+zh	fa	adj-50+adp-75+ngen-50
+zh	fi	adp-25+del-d
+zh	fi_ftb	adp-25+del-d
+zh	fr	adj-50+adp-75+ngen-50
+zh	fr_partut	adj-50+adp-75+ngen-50
+zh	fr_sequoia	adj-50+adp-75+ngen-50
+zh	ga	adj-50+adp-75+del-ind+det-50+ngen-50
+zh	gl	adj-50+adp-75+ngen-50
+zh	gl_treegal	adj-50+adp-75+ngen-50
+zh	got	adj-50+det-50+ngen-50+num-50
+zh	grc	adj-50+det-50+ngen-50+num-50
+zh	grc_proiel	adj-50+det-50+ngen-50+num-50
+zh	he	adj-50+adp-75+det-50+ngen-50
+zh	hi	adp-25+del-d
+zh	hr	adp-75+del-d+ngen-50
+zh	hu	adp-25
+zh	id	adj-50+adp-75+del-ind+det-50+ngen-50
+zh	it	adj-50+adp-75+ngen-50
+zh	it_partut	adj-50+adp-75+ngen-50
+zh	ja	adp-25
+zh	ja_ktc	adp-25
+zh	kk	adp-25
+zh	ko	adp-25+del-d
+zh	la	adj-50+det-50+ngen-50+num-50
+zh	la_ittb	adj-50+det-50+ngen-50+num-50
+zh	la_proiel	adj-50+det-50+ngen-50+num-50
+zh	lt	adp-75+del-d
+zh	lv	adp-75
+zh	nl	adp-75+ngen-50
+zh	nl_lassysmall	adp-75+ngen-50
+zh	no	adp-75+ngen-50
+zh	no_bokmaal	adp-75+ngen-50
+zh	no_nynorsk	adp-75+ngen-50
+zh	pl	adp-75+del-d+ngen-50
+zh	pt	adj-50+adp-75+ngen-50
+zh	pt_bosque	adj-50+adp-75+ngen-50
+zh	pt_br	adj-50+adp-75+ngen-50
+zh	ro	adj-50+adp-75+det-50+ngen-50
+zh	ru	adp-75+del-d+ngen-50
+zh	ru_syntagrus	adp-75+del-d+ngen-50
+zh	sa	adj-50+det-50+ngen-50+num-50
+zh	sk	adp-75+del-d+ngen-50
+zh	sl	adp-75+del-d+ngen-50
+zh	sl_sst	adp-75+del-d+ngen-50
+zh	sv	adp-75
+zh	sv_lines	adp-75
+zh	swl	adj-50+det-50+ngen-50+num-50
+zh	ta	adp-25
+zh	tr	adp-25
+zh	ug	adp-25
+zh	uk	adp-75+del-d+ngen-50
+zh	ur	adp-25+del-d
+zh	vi	adj-50+adp-75+det-50+ngen-50
+zh	zh	

@@ -1,0 +1,3979 @@
+# sent_id = 1
+# text = ¿ Jatian ki jawen ibo n jawe atia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	8	punct	_	¿
+2	Jatian	_	SCONJ	SCONJ|cmpl|dd|hsy|int|sconjroot	Aspect=Perf|Evident=Nfh|Subj=Diff|VerbForm=Part	8	cc	_	Jatian
+3	ki	_	PART	PART|	_	8	mark	_	-ki
+4	jawen	_	DET	DET|	_	5	det	_	jawen
+5	ibo	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	8	nsubj	_	ibo|Case=Acc,Erg,Gen
+6	n	_	PART	PART|	_	5	case	_	-n
+7	jawe	_	PRON	PRON|pronroot.int	Number=Sing|Person=3	8	obj	_	jawe
+8	atia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	ati-a
+9	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	8	aux	_	iki
+10	?	_	PUNCT	PUNCT|$.	_	8	punct	_	?
+
+# sent_id = 2
+# text = ¿ Jatian ki joni jaweraki yoitia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	Jatian	_	SCONJ	SCONJ|cmpl|dd|hsy|int|sconjroot	Aspect=Perf|Evident=Nfh|Subj=Diff|VerbForm=Part	6	cc	_	Jatian
+3	ki	_	PART	PART|	_	6	mark	_	-ki
+4	joni	_	NOUN	NOUN|nroot	_	6	nsubj	_	joni
+5	jaweraki	_	PRON	PRON|	_	6	advmod	_	jaweraki
+6	yoitia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	yoiti-a
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 3
+# text = ¿ Jawekeskáakin ki jonin ino parantia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	Jawekeskáakin	_	PRON	PRON|	_	6	advmod	_	Jawekeskáakin
+3	ki	_	PART	PART|	_	6	mark	_	-ki
+4	jonin	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	6	nsubj	_	joni-n|Case=Acc,Erg,Gen
+5	ino	_	NOUN	NOUN|nroot	_	6	iobj	_	ino
+6	parantia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	paranti-a
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 4
+# text = ¿ jawe ki jonin aatia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	jawe	_	PRON	PRON|int|pronroot.int	Number=Sing|Person=3	5	obj	_	jawe
+3	ki	_	PART	PART|	_	5	mark	_	-ki
+4	jonin	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	5	nsubj	_	joni-n|Case=Acc,Erg,Gen
+5	aatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	aati-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 5
+# text = joni ronki ikia iki konxan bema toweiki iiti , xoboatinoxon .
+1	joni	_	NOUN	NOUN|hsy|nroot	Evident=Nfh	7	nsubj	_	joni
+2	ronki	_	PART	PART|	_	7	mark	_	-ronki
+3	ikia	_	VERB	VERB|cmpl|int|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	8	aux	_	iki-a
+4	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	3	aux	_	iki
+5	konxan	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	6	compound	_	konxan|Case=Acc,Erg,Gen
+6	bema	_	NOUN	NOUN|nroot|pref	_	7	obj	_	bema
+7	toweiki	_	VERB	VERB|vroot	_	0	root	_	toweiki
+8	iiti	_	VERB	VERB|inf|ssss|vroot|vroot.i	Subj=Same|Tense=RelSim|VerbForm=Inf	7	aux	_	iiti
+9	,	_	PUNCT	PUNCT|$.	_	7	punct	_	,
+10	xoboatinoxon	_	VERB	VERB|fssa|pref|vroot	Subj=Same|Tense=RelNext	7	advcl	_	xoboati-noxon
+11	.	_	PUNCT	PUNCT|$.	_	10	punct	_	.
+
+# sent_id = 6
+# text = ¿ jáwekeskati ki jaskátiai ?
+1	¿	_	PUNCT	PUNCT|$.	_	4	punct	_	¿
+2	jáwekeskati	_	PRON	PRON|	_	4	advmod	_	jáwekeskati
+3	ki	_	PART	PART|	_	4	mark	_	-ki
+4	jaskátiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	jaskáti-ai|Aspect=Imp,Perf
+5	?	_	PUNCT	PUNCT|$.	_	4	punct	_	?
+
+# sent_id = 7
+# text = ¡ Papá !
+1	¡	_	PUNCT	PUNCT|$.	_	2	punct	_	¡
+2	Papá	_	NOUN	NOUN|nroot.voc|nrootes|pref	Case=Voc	0	root	_	Papá
+3	!	_	PUNCT	PUNCT|$.	_	2	punct	_	!
+
+# sent_id = 8
+# text = jiwi ra nítiamaai , ni téetiyama , ni kirika onantiyamaai .
+1	jiwi	_	NOUN	NOUN|ev|nroot	Evident=Fh	3	nsubj	_	jiwi
+2	ra	_	PART	PART|	_	3	mark	_	-ra
+3	nítiamaai	_	VERB	VERB|caus|inc|mid|neg|pp1|pref|sds|vroot	Case=Cau|Mood=Ind|Polarity=Neg|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	níti-ama-ai|Aspect=Imp,Perf
+4	,	_	PUNCT	PUNCT|$.	_	3	punct	_	,
+5	ni	_	CONJ	CONJ|	_	6	cc	_	ni
+6	téetiyama	_	VERB	VERB|inf|mid|neg|ssss|vroot|vroot.i	Polarity=Neg|Subj=Same|Tense=RelSim|VerbForm=Inf	3	conj	_	téeti-yama
+7	,	_	PUNCT	PUNCT|$.	_	6	punct	_	,
+8	ni	_	CONJ	CONJ|	_	10	cc	_	ni
+9	kirika	_	NOUN	NOUN|nroot|pref	_	10	obj	_	kirika
+10	onantiyamaai	_	VERB	VERB|inc|neg|pp1|pref|sds|vroot|vroot.i	Polarity=Neg|Subj=Diff|Tense=RelSim|VerbForm=Part	3	conj	_	onanti-yama-ai|Aspect=Imp,Perf|Mood=Ind,Nec
+11	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 9
+# text = Jeeen , ea n ra moa onantike .
+1	Jeeen	_	INTJ	INTJ|intjroot	_	7	discourse	_	Jeeen
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	ea	_	PRON	PRON|1.sg|abs|all|ev	Evident=Fh|Number=Sing|Person=1	7	nsubj	_	ea
+4	n	_	PART	PART|	_	3	case	_	-n
+5	ra	_	PART	PART|	_	7	mark	_	-ra
+6	moa	_	ADV	ADV|advroot	_	7	advmod	_	moa
+7	onantike	_	VERB	VERB|cmpl|pds|vroot|vroot.i	Aspect=Perf|Mood=Ind|Subj=Diff|Tense=RelPrev	0	root	_	onanti-ke
+8	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 10
+# text = ¿ jawe ki nexnexen pitiai ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	jawe	_	PRON	PRON|int|pronroot.int	Number=Sing|Person=3	5	obj	_	jawe
+3	ki	_	PART	PART|	_	5	mark	_	-ki
+4	nexnexen	_	NOUN	NOUN|erg|nroot	Case=Erg	5	nsubj	_	nexnex-en
+5	pitiai	_	VERB	VERB|inc|pp1|sds|vroot	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	piti-ai|Aspect=Imp,Perf
+6	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 11
+# text = ¿ Jatian ki ino n jawe betia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	7	punct	_	¿
+2	Jatian	_	SCONJ	SCONJ|cmpl|dd|hsy|int|sconjroot	Aspect=Perf|Evident=Nfh|Subj=Diff|VerbForm=Part	7	cc	_	Jatian
+3	ki	_	PART	PART|	_	7	mark	_	-ki
+4	ino	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	7	nsubj	_	ino|Case=Acc,Erg,Gen
+5	n	_	PART	PART|	_	4	case	_	-n
+6	jawe	_	PRON	PRON|pronroot.int	Number=Sing|Person=3	7	obj	_	jawe
+7	betia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	beti-a
+8	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	7	aux	_	iki
+9	?	_	PUNCT	PUNCT|$.	_	7	punct	_	?
+
+# sent_id = 12
+# text = ¿ Wetsa nete n ki ino n chaxo jawe atia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	10	punct	_	¿
+2	Wetsa	_	ADJ	ADJ|adjroot|advroot	_	3	amod	_	Wetsa
+3	nete	_	NOUN	NOUN|all|dat|erg|gen|int|loc|nroot	_	10	obl	_	nete|Case=Dat,Erg,Gen
+4	n	_	PART	PART|	_	3	case	_	-n
+5	ki	_	PART	PART|	_	10	mark	_	-ki
+6	ino	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	10	nsubj	_	ino|Case=Acc,Erg,Gen
+7	n	_	PART	PART|	_	6	case	_	-n
+8	chaxo	_	NOUN	NOUN|nroot	_	9	iobj	_	chaxo
+9	jawe	_	PRON	PRON|pronroot.int	Number=Sing|Person=3	10	obj	_	jawe
+10	atia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	ati-a
+11	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	10	aux	_	iki
+12	?	_	PUNCT	PUNCT|$.	_	10	punct	_	?
+
+# sent_id = 13
+# text = Mapó ainbo ikini
+1	Mapó	_	NOUN	NOUN|nroot.voc	_	0	root	_	Mapó|Case=Gen,Voc
+2	ainbo	_	NOUN	NOUN|nroot|pl	Number=Plur	1	nsubj	_	ainbo
+3	ikini	_	VERB	VERB|mid|rem|vroot|vroot.i	Tense=Past	1	cop	_	iki-ni
+
+# sent_id = 14
+# text = ¿ mia a ki jawetii xeta ya iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	mia	_	PRON	PRON|	_	6	nsubj	_	mia
+3	a	_	PART	PART|	_	2	case	_	-a
+4	ki	_	PART	PART|	_	6	mark	_	-ki
+5	jawetii	_	PRON	PRON|	_	6	amod	_	jawetii
+6	xeta	_	NOUN	NOUN|nroot|pref|prop	_	0	root	_	xeta
+7	ya	_	PART	PART|	_	6	case	_	-ya
+8	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	6	cop	_	iki
+9	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 15
+# text = ¿ jainoa ki ino n jaweraki atitoshia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	7	punct	_	¿
+2	jainoa	_	SCONJ	SCONJ|abl|hsy|int|loc|sconjroot	Evident=Nfh	7	cc	_	jainoa
+3	ki	_	PART	PART|	_	7	mark	_	-ki
+4	ino	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	7	nsubj	_	ino|Case=Acc,Erg,Gen
+5	n	_	PART	PART|	_	4	case	_	-n
+6	jaweraki	_	PRON	PRON|	_	7	obj	_	jaweraki
+7	atitoshia	_	VERB	VERB|adv|cmpl|mid|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	ati-toshi-a
+8	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	7	aux	_	iki
+9	?	_	PUNCT	PUNCT|$.	_	7	punct	_	?
+
+# sent_id = 16
+# text = ¿ jawekeskaaxon ki mananxawe n ino retetia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	7	punct	_	¿
+2	jawekeskaaxon	_	PRON	PRON|	_	7	advmod	_	jawekeskaaxon
+3	ki	_	PART	PART|	_	7	mark	_	-ki
+4	mananxawe	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	7	nsubj	_	mananxawe|Case=Acc,Erg,Gen
+5	n	_	PART	PART|	_	4	case	_	-n
+6	ino	_	NOUN	NOUN|nroot	_	7	obj	_	ino
+7	retetia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	reteti-a
+8	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	7	aux	_	iki
+9	?	_	PUNCT	PUNCT|$.	_	7	punct	_	?
+
+# sent_id = 17
+# text = ainbo n wiso ino retetini
+1	ainbo	_	NOUN	NOUN|all|erg|gen|intrss|nroot|pl	Number=Plur	5	nsubj	_	ainbo|Case=Acc,Erg,Gen
+2	n	_	PART	PART|	_	1	case	_	-n
+3	wiso	_	ADJ	ADJ|adjroot	_	4	amod	_	wiso
+4	ino	_	NOUN	NOUN|nroot	_	5	obj	_	ino
+5	retetini	_	VERB	VERB|mid|rem|vroot	Tense=Past	0	root	_	reteti-ni
+
+# sent_id = 18
+# text = Ochíti iki mecha .
+1	Ochíti	_	NOUN	NOUN|nroot	Case=Voc	3	nsubj	_	Ochíti
+2	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	3	cop	_	iki
+3	mecha	_	ADJ	ADJ|adjroot	_	0	root	_	mecha
+4	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 19
+# text = Llama iki Perú ainxon kaíatikanai jawéki .
+1	Llama	_	NOUN	NOUN|nroot	_	6	nsubj	_	Llama
+2	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	6	cop	_	iki
+3	Perú	_	PROPN	PROPN|	_	5	obl	_	Perú
+4	ainxon	_	PART	PART|	_	3	case	_	-ainxon
+5	kaíatikanai	_	VERB	VERB|caus|inc|pl|pp1|pref|sds|vroot|vroot.i	Case=Cau|Mood=Ind|Number=Plur|Subj=Diff|Tense=RelSim|VerbForm=Part	6	amod	_	kaíati-kan-ai|Aspect=Imp,Perf
+6	jawéki	_	NOUN	NOUN|nroot	Case=Voc	0	root	_	jawéki
+7	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 20
+# text = Ja llama jatike matsinnkobiribi , bochiki .
+1	Ja	_	DET	DET|demroot	_	2	det	_	Ja
+2	llama	_	NOUN	NOUN|nroot	_	3	nsubj	_	llama
+3	jatike	_	VERB	VERB|cmpl|pds|vroot|vroot.i	Aspect=Perf|Mood=Ind|Subj=Diff|Tense=RelPrev	0	root	_	jati-ke
+4	matsinnkobiribi	_	NOUN	NOUN|adv|all|em|erg|gen|nroot	_	3	obl	_	matsin-nko-bi-ribi|Case=Erg,Gen,Loc
+5	,	_	PUNCT	PUNCT|$.	_	4	punct	_	,
+6	bochiki	_	ADV	ADV|advroot	_	3	advmod	_	bochiki
+7	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 21
+# text = jaskákenbi ki ja xawe n joni mératia iki .
+1	jaskákenbi	_	CONJ	CONJ|	_	7	cc	_	jaskáken-bi
+2	ki	_	PART	PART|	_	7	mark	_	-ki
+3	ja	_	DET	DET|demroot	_	4	det	_	ja
+4	xawe	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	7	nsubj	_	xawe|Case=Acc,Erg,Gen
+5	n	_	PART	PART|	_	4	case	_	-n
+6	joni	_	NOUN	NOUN|nroot	_	7	obj	_	joni
+7	mératia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	mérati-a
+8	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	7	aux	_	iki
+9	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 22
+# text = meratitaanan ki xawe ikonbiresi ki íshtotia iki ; koin poto chankátikaini .
+1	meratitaanan	_	VERB	VERB|hsy|int|pss|vroot|vroot.i	Evident=Nfh|Subj=Same|Tense=RelPrev	6	advcl	_	merati-taanan
+2	ki	_	PART	PART|	_	6	mark	_	-ki
+3	xawe	_	NOUN	NOUN|nroot	_	6	nsubj	_	xawe
+4	ikonbiresi	_	ADJ	ADJ|	_	6	advcl	_	ikon-bires-i
+5	ki	_	PART	PART|	_	6	mark	_	-ki
+6	íshtotia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	íshtoti-a
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	;	_	PUNCT	PUNCT|$.	_	6	punct	_	;
+9	koin	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	10	compound	_	koin|Case=Acc,Erg,Gen
+10	poto	_	NOUN	NOUN|nroot	_	11	obj	_	poto
+11	chankátikaini	_	VERB	VERB|and1|ssss|vroot.i	Case=Abl|Subj=Same|Tense=RelSim	6	advcl	_	chankáti-kain-i
+12	.	_	PUNCT	PUNCT|$.	_	11	punct	_	.
+
+# sent_id = 23
+# text = ¿ tsoabo ki yoitiai nato kointonin ?
+1	¿	_	PUNCT	PUNCT|$.	_	4	punct	_	¿
+2	tsoabo	_	PRON	PRON|abs|int|pl|pronroot.int	_	4	obj	_	tsoa-bo
+3	ki	_	PART	PART|	_	4	mark	_	-ki
+4	yoitiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	yoiti-ai|Aspect=Imp,Perf
+5	nato	_	DET	DET|demroot	_	6	det	_	nato
+6	kointonin	_	NOUN	NOUN|all|erg|gen|nroot|pref|priv	_	4	nsubj	_	kointo-nin|Case=Erg,Gen
+7	?	_	PUNCT	PUNCT|$.	_	4	punct	_	?
+
+# sent_id = 24
+# text = ¿ Jaton axébiribi ki jawekeska ikikatiai ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	Jaton	_	DET	DET|	_	3	det	_	Jaton
+3	axébiribi	_	NOUN	NOUN|adv|em|int|nroot.voc	Case=Voc	5	nsubj	_	axé-bi-ribi
+4	ki	_	PART	PART|	_	5	mark	_	-ki
+5	jawekeska	_	PRON	PRON|pronroot.int	_	0	root	_	jawekeska
+6	ikikatiai	_	VERB	VERB|inc|mid|pp1|pst4|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|VerbForm=Part	5	cop	_	iki-kati-ai|Aspect=Imp,Perf|Tense=Past,RelSim
+7	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 25
+# text = Jatian moa mapétiketian oinaxax pikótiribia iki .
+1	Jatian	_	SCONJ	SCONJ|cmpl|dd|sconjroot|temp	Aspect=Perf|Case=Tem|Subj=Diff|VerbForm=Part	5	cc	_	Jatian
+2	moa	_	ADV	ADV|advroot	_	5	advmod	_	moa
+3	mapétiketian	_	VERB	VERB|ds|p|vroot|vroot.i	Subj=Diff|Tense=RelPrev	5	advcl	_	mapéti-ketian
+4	oinaxax	_	VERB	VERB|psss|vroot|vroot.i	Subj=Same|Tense=RelPrev	5	advcl	_	oinax-ax
+5	pikótiribia	_	VERB	VERB|adv|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	pikóti-ribi-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 26
+# text = pikótixon joni n ja ainbo yatantia iki .
+1	pikótixon	_	VERB	VERB|pssa|vroot	Subj=Same|Tense=RelPrev	6	advcl	_	pikóti-xon
+2	joni	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	6	nsubj	_	joni|Case=Acc,Erg,Gen
+3	n	_	PART	PART|	_	2	case	_	-n
+4	ja	_	DET	DET|demroot	_	5	det	_	ja
+5	ainbo	_	NOUN	NOUN|nroot|pl	Number=Plur	6	obj	_	ainbo
+6	yatantia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	yatanti-a
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 27
+# text = Ja yatantia yoitia iki :
+1	Ja	_	DET	DET|demroot	_	2	det	_	Ja
+2	yatantia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	3	nsubj	_	yatanti-a
+3	yoitia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	yoiti-a
+4	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	3	aux	_	iki
+5	:	_	PUNCT	PUNCT|$.	_	3	punct	_	:
+
+# sent_id = 28
+# text = ea a ra jato n ináres iki -
+1	ea	_	PRON	PRON|	_	6	nsubj	_	ea
+2	a	_	PART	PART|	_	1	case	_	-a
+3	ra	_	PART	PART|	_	7	mark	_	-ra
+4	jato	_	PRON	PRON|3.pl|all	Number=Plur|Person=3	6	nmod	_	jato
+5	n	_	PART	PART|	_	4	case	_	-n
+6	ináres	_	NOUN	NOUN|adv|nroot.voc	Case=Voc	7	obj	_	iná-res
+7	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	0	root	_	iki
+8	-	_	PUNCT	PUNCT|	_	7	punct	_	&hypen
+
+# sent_id = 29
+# text = atikin ainbobaon atia iki .
+1	atikin	_	VERB	VERB|sssa|vroot	Subj=Same|Tense=RelSim	3	advcl	_	ati-kin
+2	ainbobaon	_	NOUN	NOUN|erg|nroot|pl	Case=Erg|Number=Plur	3	nsubj	_	ainbo-baon
+3	atia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	ati-a
+4	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	3	aux	_	iki
+5	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 30
+# text = Jatibi bake ra jawen bimi kókotinin kéentiai .
+1	Jatibi	_	ADJ	ADJ|adjroot	_	2	amod	_	Jatibi
+2	bake	_	NOUN	NOUN|ev|nroot	Evident=Fh	7	iobj	_	bake
+3	ra	_	PART	PART|	_	7	mark	_	-ra
+4	jawen	_	DET	DET|	_	5	det	_	jawen
+5	bimi	_	NOUN	NOUN|nroot	_	6	nsubj	_	bimi
+6	kókotinin	_	VERB	VERB|	_	7	nsubj	_	kókoti-nin
+7	kéentiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	kéenti-ai|Aspect=Imp,Perf
+8	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 31
+# text = ¿ Jawetio ani rin jawen jiwi ?
+1	¿	_	PUNCT	PUNCT|$.	_	3	punct	_	¿
+2	Jawetio	_	PRON	PRON|	_	3	amod	_	Jawetio
+3	ani	_	ADJ	ADJ|adjroot|int2	PronType=Int	0	root	_	ani
+4	rin	_	PART	PART|	_	3	cop	_	-rin
+5	jawen	_	DET	DET|	_	6	det	_	jawen
+6	jiwi	_	NOUN	NOUN|nroot	_	3	nsubj	_	jiwi
+7	?	_	PUNCT	PUNCT|$.	_	3	punct	_	?
+
+# sent_id = 32
+# text = ¿ Jawetio ani rin isonxoma n jawen jiwi ?
+1	¿	_	PUNCT	PUNCT|$.	_	3	punct	_	¿
+2	Jawetio	_	PRON	PRON|	_	3	amod	_	Jawetio
+3	ani	_	ADJ	ADJ|adjroot|int2	PronType=Int	0	root	_	ani
+4	rin	_	PART	PART|	_	3	cop	_	-rin
+5	isonxoma	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	8	nmod	_	isonxoma|Case=Acc,Erg,Gen
+6	n	_	PART	PART|	_	5	case	_	-n
+7	jawen	_	DET	DET|	_	8	det	_	jawen
+8	jiwi	_	NOUN	NOUN|nroot	_	3	nsubj	_	jiwi
+9	?	_	PUNCT	PUNCT|$.	_	3	punct	_	?
+
+# sent_id = 33
+# text = Ja joni jotiai iki non n maestro .
+1	Ja	_	DET	DET|demroot	_	2	det	_	Ja
+2	joni	_	NOUN	NOUN|nroot	_	7	nsubj	_	joni
+3	jotiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	2	amod	_	joti-ai|Aspect=Imp,Perf
+4	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	7	cop	_	iki
+5	non	_	PRON	PRON|1.pl|all|erg|gen	Number=Plur|Person=1	7	nmod	_	non
+6	n	_	PART	PART|	_	5	case	_	-n
+7	maestro	_	NOUN	NOUN|nroot	_	0	root	_	maestro
+8	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 34
+# text = Buenos días , ¡ bakebo !
+1	Buenos	_	ADJ	ADJ|adjroot	_	2	amod	_	Buenos
+2	días	_	NOUN	NOUN|nroot	Case=Voc	5	discourse	_	días
+3	,	_	PUNCT	PUNCT|$.	_	2	punct	_	,
+4	¡	_	PUNCT	PUNCT|$.	_	5	punct	_	¡
+5	bakebo	_	NOUN	NOUN|nroot|pl	Number=Plur	0	root	_	bake-bo
+6	!	_	PUNCT	PUNCT|$.	_	5	punct	_	!
+
+# sent_id = 35
+# text = ¿ jaweati ki noa n shíroatitima iki noa n rarebo ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	jaweati	_	PRON	PRON|	_	6	advmod	_	jaweati
+3	ki	_	PART	PART|	_	6	mark	_	-ki
+4	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	6	nsubj	_	noa
+5	n	_	PART	PART|	_	4	case	_	-n
+6	shíroatitima	_	VERB	VERB|	_	0	root	_	shíroati-ti-ma
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	10	nmod	_	noa
+9	n	_	PART	PART|	_	8	case	_	-n
+10	rarebo	_	NOUN	NOUN|nroot|pl|pref	Number=Plur	6	obj	_	rarebo
+11	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 36
+# text = ¿ jaweati ki noa n rarebo noan noititi iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	8	punct	_	¿
+2	jaweati	_	PRON	PRON|	_	8	advmod	_	jaweati
+3	ki	_	PART	PART|	_	8	advcl	_	-ki
+4	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	6	nmod	_	noa
+5	n	_	PART	PART|	_	4	case	_	-n
+6	rarebo	_	NOUN	NOUN|nroot|pl|pref	Number=Plur	8	obj	_	rarebo
+7	noan	_	PRON	PRON|1.pl|abs|all	_	8	nsubj	_	noa-n
+8	noititi	_	VERB	VERB|inf|pref|vroot.i	VerbForm=Inf	0	root	_	noiti-ti
+9	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	8	aux	_	iki
+10	?	_	PUNCT	PUNCT|$.	_	8	punct	_	?
+
+# sent_id = 37
+# text = jotiyamaai Teniente .
+1	jotiyamaai	_	VERB	VERB|inc|neg|pp1|pref|sds|vroot|vroot.i	Polarity=Neg|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	joti-yama-ai|Aspect=Imp,Perf|Mood=Ind,Nec
+2	Teniente	_	NOUN	NOUN|nroot|nrootes	_	1	nsubj	_	Teniente
+3	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 38
+# text = ¿ Iskoira ointii ki wetsa apo jotiyamaai ?
+1	¿	_	PUNCT	PUNCT|$.	_	7	punct	_	¿
+2	Iskoira	_	NOUN	NOUN|nroot	_	3	obj	_	Iskoira
+3	ointii	_	VERB	VERB|hsy|int|ssss|vroot.i	Evident=Nfh|Subj=Same|Tense=RelSim	7	advcl	_	ointi-i
+4	ki	_	PART	PART|	_	7	mark	_	-ki
+5	wetsa	_	DET	DET|	_	6	det	_	wetsa
+6	apo	_	NOUN	NOUN|nroot	_	7	nsubj	_	apo
+7	jotiyamaai	_	VERB	VERB|inc|neg|pp1|pref|sds|vroot|vroot.i	Polarity=Neg|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	joti-yama-ai|Aspect=Imp,Perf|Mood=Ind,Nec
+8	?	_	PUNCT	PUNCT|$.	_	7	punct	_	?
+
+# sent_id = 39
+# text = jotiyamaai escuela ointii .
+1	jotiyamaai	_	VERB	VERB|inc|neg|pp1|pref|sds|vroot|vroot.i	Polarity=Neg|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	joti-yama-ai|Aspect=Imp,Perf|Mood=Ind,Nec
+2	escuela	_	NOUN	NOUN|nroot|nrootes	_	3	obj	_	escuela
+3	ointii	_	VERB	VERB|ssss|vroot.i	Subj=Same|Tense=RelSim	1	advcl	_	ointi-i
+4	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 40
+# text = ¿ Non jema koshiatia joni ki jotiyamaai ?
+1	¿	_	PUNCT	PUNCT|$.	_	7	punct	_	¿
+2	Non	_	DET	DET|	_	3	det	_	Non
+3	jema	_	NOUN	NOUN|nroot	_	5	compound	_	jema
+4	koshiatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	5	amod	_	koshiati-a
+5	joni	_	NOUN	NOUN|dat|int|loc|nroot|pref	Case=Dat	7	nsubj	_	joni
+6	ki	_	PART	PART|	_	7	mark	_	-ki
+7	jotiyamaai	_	VERB	VERB|inc|neg|pp1|pref|sds|vroot|vroot.i	Polarity=Neg|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	joti-yama-ai|Aspect=Imp,Perf|Mood=Ind,Nec
+8	?	_	PUNCT	PUNCT|$.	_	7	punct	_	?
+
+# sent_id = 41
+# text = jotiyamaai .
+1	jotiyamaai	_	VERB	VERB|inc|neg|pp1|pref|sds|vroot|vroot.i	Polarity=Neg|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	joti-yama-ai|Aspect=Imp,Perf|Mood=Ind,Nec
+2	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 42
+# text = ino n ra pitiai nami .
+1	ino	_	NOUN	NOUN|all|erg|ev|gen|nroot	Evident=Fh	4	nsubj	_	ino|Case=Erg,Gen
+2	n	_	PART	PART|	_	1	case	_	-n
+3	ra	_	PART	PART|	_	4	mark	_	-ra
+4	pitiai	_	VERB	VERB|inc|pp1|sds|vroot	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	piti-ai|Aspect=Imp,Perf
+5	nami	_	NOUN	NOUN|nroot	_	4	obj	_	nami
+6	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 43
+# text = shino ra jina ya iki .
+1	shino	_	NOUN	NOUN|ev|nroot	Evident=Fh	3	nsubj	_	shino
+2	ra	_	PART	PART|	_	3	mark	_	-ra
+3	jina	_	NOUN	NOUN|nroot|pref|prop	_	0	root	_	jina
+4	ya	_	PART	PART|	_	3	case	_	-ya
+5	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	3	cop	_	iki
+6	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 44
+# text = ja ra jiwi n néetiai .
+1	ja	_	PRON	PRON|3.sg|ev	Evident=Fh|Number=Sing|Person=3	5	nsubj	_	ja
+2	ra	_	PART	PART|	_	5	mark	_	-ra
+3	jiwi	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	5	obl	_	jiwi|Case=Acc,Erg,Gen
+4	n	_	PART	PART|	_	3	case	_	-n
+5	néetiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	néeti-ai|Aspect=Imp,Perf
+6	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 45
+# text = kikínshaman atikin esé onantiwe .
+1	kikínshaman	_	ADV	ADV|	_	4	advmod	_	kikín-shaman
+2	atikin	_	VERB	VERB|sssa|vroot	Subj=Same|Tense=RelSim	4	advcl	_	ati-kin
+3	esé	_	NOUN	NOUN|nroot.voc	Case=Voc	4	obj	_	esé
+4	onantiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	onanti-we
+5	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 46
+# text = noa a ra akintiananai .
+1	noa	_	PRON	PRON|	_	4	nsubj	_	noa
+2	a	_	PART	PART|	_	1	case	_	-a
+3	ra	_	PART	PART|	_	4	mark	_	-ra
+4	akintiananai	_	VERB	VERB|caus|inc|mal|mid|pp1|pref|rec|sds|vroot	Mood=Ind|Polarity=Neg|Subj=Diff|Tense=RelSim|VerbForm=Part|Voice=Rcp	0	root	_	akinti-anan-ai|Aspect=Imp,Perf|Case=Ben,Cau
+5	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 47
+# text = Jainoax San Martín Chile nko jotia iki .
+1	Jainoax	_	SCONJ	SCONJ|abl|loc|s|sconjroot	_	6	cc	_	Jainoax
+2	San	_	PROPN	PROPN|propnroot	_	6	nsubj	_	San
+3	Martín	_	PROPN	PROPN|propnroot	_	2	flat	_	Martín
+4	Chile	_	PROPN	PROPN|all|propnroot	_	6	obl	_	Chile
+5	nko	_	PART	PART|	_	4	case	_	-nko
+6	jotia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	joti-a
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 48
+# text = Ikaxbi jawen bake n bene ki ikia iki kikinbires shinan koshi a .
+1	Ikaxbi	_	CONJ	CONJ|	_	10	cc	_	Ikaxbi
+2	jawen	_	DET	DET|	_	3	det	_	jawen
+3	bake	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	10	nsubj	_	bake|Case=Acc,Erg,Gen
+4	n	_	PART	PART|	_	3	case	_	-n
+5	bene	_	NOUN	NOUN|adjroot|dat|int|loc|nroot	Case=Dat	3	nmod	_	bene
+6	ki	_	PART	PART|	_	10	mark	_	-ki
+7	ikia	_	VERB	VERB|cmpl|int|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	10	cop	_	iki-a
+8	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	7	aux	_	iki
+9	kikinbires	_	ADV	ADV|adv|advroot	_	10	amod	_	kikin-bires
+10	shinan	_	NOUN	NOUN|adjroot|all|erg|gen|intrss|nroot|vroot:nmlz	_	0	root	_	shinan|Case=Acc,Erg,Gen
+11	koshi	_	ADJ	ADJ|pp2|vroot.i	Tense=Pqp	10	amod	_	koshi
+12	a	_	PART	PART|	_	10	case	_	-a
+13	.	_	PUNCT	PUNCT|$.	_	10	punct	_	.
+
+# sent_id = 49
+# text = ea a ra moa katiai - atikin atia iki , jawen papa n iná .
+1	ea	_	PRON	PRON|	_	5	nsubj	_	ea
+2	a	_	PART	PART|	_	1	case	_	-a
+3	ra	_	PART	PART|	_	5	mark	_	-ra
+4	moa	_	ADV	ADV|advroot	_	5	advmod	_	moa
+5	katiai	_	VERB	VERB|inc|pp1|sds|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	8	obj	_	kati-ai|Aspect=Imp,Perf
+6	-	_	PUNCT	PUNCT|	_	5	punct	_	&hypen
+7	atikin	_	VERB	VERB|sssa|vroot	Subj=Same|Tense=RelSim	8	advcl	_	ati-kin
+8	atia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	ati-a
+9	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	8	aux	_	iki
+10	,	_	PUNCT	PUNCT|$.	_	8	punct	_	,
+11	jawen	_	DET	DET|	_	12	det	_	jawen
+12	papa	_	NOUN	NOUN|all|erg|gen|intrss|nroot|pref	_	8	nsubj	_	papa|Case=Acc,Erg,Gen
+13	n	_	PART	PART|	_	12	case	_	-n
+14	iná	_	NOUN	NOUN|nroot.voc	Case=Voc	8	iobj	_	iná
+15	.	_	PUNCT	PUNCT|$.	_	14	punct	_	.
+
+# sent_id = 50
+# text = Jaskáataanan moa katia iki .
+1	Jaskáataanan	_	CONJ	CONJ|	_	3	cc	_	Jaskáataanan
+2	moa	_	ADV	ADV|advroot	_	3	advmod	_	moa
+3	katia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	kati-a
+4	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	3	aux	_	iki
+5	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 51
+# text = wíshatiwe , siná jawéki nin janeboribi .
+1	wíshatiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	wíshati-we
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	siná	_	ADJ	ADJ|adjroot	_	4	amod	_	siná
+4	jawéki	_	NOUN	NOUN|erg|nroot	_	6	nmod	_	jawéki|Case=Erg,Voc
+5	nin	_	PART	PART|	_	4	case	_	-nin
+6	janeboribi	_	NOUN	NOUN|adv|nroot|pl	Number=Plur	1	obj	_	jane-bo-ribi
+7	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 52
+# text = wíshatiwe , wetsa isá kan janeboribi .
+1	wíshatiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	wíshati-we
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	wetsa	_	ADJ	ADJ|adjroot|advroot	_	4	amod	_	wetsa
+4	isá	_	NOUN	NOUN|erg|kan|nroot.voc	_	6	nmod	_	isá|Case=Erg,Voc
+5	kan	_	PART	PART|	_	4	case	_	-kan
+6	janeboribi	_	NOUN	NOUN|adv|nroot|pl	Number=Plur	1	obj	_	jane-bo-ribi
+7	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 53
+# text = wíshatiwe , wetsa rono n janeboribi .
+1	wíshatiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	wíshati-we
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	wetsa	_	ADJ	ADJ|adjroot|advroot	_	4	amod	_	wetsa
+4	rono	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	6	nmod	_	rono|Case=Acc,Erg,Gen
+5	n	_	PART	PART|	_	4	case	_	-n
+6	janeboribi	_	NOUN	NOUN|adv|nroot|pl	Number=Plur	1	obj	_	jane-bo-ribi
+7	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 54
+# text = wíshatiwe , wetsa yapa n janeboribi .
+1	wíshatiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	wíshati-we
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	wetsa	_	ADJ	ADJ|adjroot|advroot	_	4	amod	_	wetsa
+4	yapa	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	6	nmod	_	yapa|Case=Acc,Erg,Gen
+5	n	_	PART	PART|	_	4	case	_	-n
+6	janeboribi	_	NOUN	NOUN|adv|nroot|pl	Number=Plur	1	obj	_	jane-bo-ribi
+7	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 55
+# text = mia n maestro kirika yokátiwe .
+1	mia	_	PRON	PRON|2.sg|abs|all	Number=Sing|Person=2	3	nmod	_	mia
+2	n	_	PART	PART|	_	1	case	_	-n
+3	maestro	_	NOUN	NOUN|nroot	Case=Gen	5	iobj	_	maestro
+4	kirika	_	NOUN	NOUN|nroot|pref	_	5	obj	_	kirika
+5	yokátiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	yokáti-we
+6	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 56
+# text = ¿ jene nkoniax ki jawe ikia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	jene	_	NOUN	NOUN|abl|dat|int|lig|loc|nroot|s	Case=Dat	6	nmod	_	jene
+3	nkoniax	_	PART	PART|	_	2	case	_	-nkoniax
+4	ki	_	PART	PART|	_	6	mark	_	-ki
+5	jawe	_	PRON	PRON|pronroot.int	Number=Sing|Person=3	6	nsubj	_	jawe
+6	ikia	_	VERB	VERB|cmpl|int|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	iki-a
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 57
+# text = ¿ jotixon ki jaweraki atia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	jotixon	_	VERB	VERB|hsy|int|pssa|vroot	Evident=Nfh|Subj=Same|Tense=RelPrev	5	advcl	_	joti-xon
+3	ki	_	PART	PART|	_	5	mark	_	-ki
+4	jaweraki	_	PRON	PRON|	_	5	obj	_	jaweraki
+5	atia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	ati-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 58
+# text = ¿ katikin ki jawe mératia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	katikin	_	VERB	VERB|	_	5	advcl	_	kati-kin
+3	ki	_	PART	PART|	_	5	mark	_	-ki
+4	jawe	_	PRON	PRON|pronroot.int	Number=Sing|Person=3	5	obj	_	jawe
+5	mératia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	mérati-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 59
+# text = ¿ jáweati ki mia n caucho bánatiai ?
+1	¿	_	PUNCT	PUNCT|$.	_	7	punct	_	¿
+2	jáweati	_	PRON	PRON|	_	7	advmod	_	jáweati
+3	ki	_	PART	PART|	_	7	mark	_	-ki
+4	mia	_	PRON	PRON|2.sg|abs|all	Number=Sing|Person=2	7	nsubj	_	mia
+5	n	_	PART	PART|	_	4	case	_	-n
+6	caucho	_	NOUN	NOUN|nroot	_	7	obj	_	caucho
+7	bánatiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	bánati-ai|Aspect=Imp,Perf
+8	?	_	PUNCT	PUNCT|$.	_	7	punct	_	?
+
+# sent_id = 60
+# text = atikin atikana iki joni baon .
+1	atikin	_	VERB	VERB|sssa|vroot	Subj=Same|Tense=RelSim	2	advcl	_	ati-kin
+2	atikana	_	VERB	VERB|cmpl|mid|pl|po>s/a|pp2|vroot	Aspect=Perf|Number=Plur|Tense=Pqp|VerbForm=Part	0	root	_	ati-kan-a
+3	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	2	aux	_	iki
+4	joni	_	NOUN	NOUN|all|erg|gen|intrss|loc|nroot|pl|pref	Number=Plur	2	nsubj	_	joni|Case=Acc,Erg,Gen
+5	baon	_	PART	PART|	_	4	case	_	-baon
+6	.	_	PUNCT	PUNCT|$.	_	2	punct	_	.
+
+# sent_id = 61
+# text = Jainxon wetsa joni baon Kosi osántia iki .
+1	Jainxon	_	SCONJ	SCONJ|a|sconjroot	_	6	cc	_	Jainxon
+2	wetsa	_	ADJ	ADJ|adjroot|advroot	_	3	amod	_	wetsa
+3	joni	_	NOUN	NOUN|all|erg|gen|intrss|loc|nroot|pl|pref	Number=Plur	6	nsubj	_	joni|Case=Acc,Erg,Gen
+4	baon	_	PART	PART|	_	3	case	_	-baon
+5	Kosi	_	PROPN	PROPN|propnroot	_	6	obj	_	Kosi
+6	osántia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	osánti-a
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 62
+# text = Moa meshotiax pakétiketian yawish an pitia iki .
+1	Moa	_	ADV	ADV|advroot	_	2	advmod	_	Moa
+2	meshotiax	_	VERB	VERB|psss|vroot|vroot.i	Subj=Same|Tense=RelPrev	6	advcl	_	meshoti-ax
+3	pakétiketian	_	VERB	VERB|ds|p|vroot|vroot.i	Subj=Diff|Tense=RelPrev	6	advcl	_	pakéti-ketian
+4	yawish	_	NOUN	NOUN|erg|nroot	Case=Erg	6	nsubj	_	yawish
+5	an	_	PART	PART|	_	4	case	_	-an
+6	pitia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	piti-a
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 63
+# text = ¿ yawish an ki , jaweraki ino parantia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	8	punct	_	¿
+2	yawish	_	NOUN	NOUN|dat|erg|int|loc|nroot	_	8	nsubj	_	yawish|Case=Dat,Erg
+3	an	_	PART	PART|	_	2	case	_	-an
+4	ki	_	PART	PART|	_	8	mark	_	-ki
+5	,	_	PUNCT	PUNCT|$.	_	2	punct	_	,
+6	jaweraki	_	PRON	PRON|	_	8	advmod	_	jaweraki
+7	ino	_	NOUN	NOUN|nroot	_	8	obj	_	ino
+8	parantia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	paranti-a
+9	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	8	aux	_	iki
+10	?	_	PUNCT	PUNCT|$.	_	8	punct	_	?
+
+# sent_id = 64
+# text = ¿ jainxon ki yawish en jaweraki parantiribia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	7	punct	_	¿
+2	jainxon	_	SCONJ	SCONJ|a|hsy|int|sconjroot	Evident=Nfh	7	cc	_	jainxon
+3	ki	_	PART	PART|	_	7	mark	_	-ki
+4	yawish	_	NOUN	NOUN|erg|nroot	Case=Erg	7	nsubj	_	yawish
+5	en	_	PART	PART|	_	4	case	_	-en
+6	jaweraki	_	PRON	PRON|	_	7	advmod	_	jaweraki
+7	parantiribia	_	VERB	VERB|adv|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	paranti-ribi-a
+8	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	7	aux	_	iki
+9	?	_	PUNCT	PUNCT|$.	_	7	punct	_	?
+
+# sent_id = 65
+# text = ¿ jawekeskatax ki ino mawatia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	jawekeskatax	_	PRON	PRON|	_	5	advmod	_	jawekeskatax
+3	ki	_	PART	PART|	_	5	mark	_	-ki
+4	ino	_	NOUN	NOUN|nroot	_	5	nsubj	_	ino
+5	mawatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	mawati-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 66
+# text = Nií meran ra ikiai xana , shokores matsi .
+1	Nií	_	NOUN	NOUN|nroot.voc	Case=Voc	5	obl	_	Nií
+2	meran	_	POSTP	POSTP|	_	1	case	_	meran
+3	ra	_	PART	PART|	_	5	mark	_	-ra
+4	ikiai	_	VERB	VERB|inc|int|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	5	cop	_	iki-ai|Aspect=Imp,Perf
+5	xana	_	ADJ	ADJ|adjroot	_	0	root	_	xana
+6	,	_	PUNCT	PUNCT|$.	_	8	punct	_	,
+7	shokores	_	ADV	ADV|adv|advroot	_	8	advmod	_	shokores
+8	matsi	_	ADJ	ADJ|	_	5	conj	_	matsi
+9	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 67
+# text = Ja maxó bákeranon man ki , ¿ jaweraki jawen tita atia iki ?
+1	Ja	_	DET	DET|demroot	_	3	det	_	Ja
+2	maxó	_	NOUN	NOUN|nroot.voc	_	3	compound	_	maxó|Case=Gen,Voc
+3	bákeranon	_	NOUN	NOUN|dat|erg|int|loc|nroot	_	11	nsubj	_	bákeranon|Case=Dat,Erg,Voc
+4	man	_	PART	PART|	_	3	case	_	-man
+5	ki	_	PART	PART|	_	11	mark	_	-ki
+6	,	_	PUNCT	PUNCT|$.	_	3	punct	_	,
+7	¿	_	PUNCT	PUNCT|$.	_	11	punct	_	¿
+8	jaweraki	_	PRON	PRON|	_	11	obj	_	jaweraki
+9	jawen	_	DET	DET|	_	10	det	_	jawen
+10	tita	_	NOUN	NOUN|nroot	_	11	iobj	_	tita
+11	atia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	ati-a
+12	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	11	aux	_	iki
+13	?	_	PUNCT	PUNCT|$.	_	11	punct	_	?
+
+# sent_id = 68
+# text = ¿ jatian ki jawen tita n jaweraki atia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	8	punct	_	¿
+2	jatian	_	SCONJ	SCONJ|cmpl|dd|hsy|int|sconjroot	Aspect=Perf|Evident=Nfh|Subj=Diff|VerbForm=Part	8	cc	_	jatian
+3	ki	_	PART	PART|	_	8	mark	_	-ki
+4	jawen	_	DET	DET|	_	5	det	_	jawen
+5	tita	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	8	nsubj	_	tita|Case=Acc,Erg,Gen
+6	n	_	PART	PART|	_	5	case	_	-n
+7	jaweraki	_	PRON	PRON|	_	8	obj	_	jaweraki
+8	atia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	ati-a
+9	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	8	aux	_	iki
+10	?	_	PUNCT	PUNCT|$.	_	8	punct	_	?
+
+# sent_id = 69
+# text = ¿ Atapa betiketian , jawe ménititi ki jawen titan yoitia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	10	punct	_	¿
+2	Atapa	_	NOUN	NOUN|nroot	_	3	obj	_	Atapa
+3	betiketian	_	VERB	VERB|ds|p|vroot|vroot.i	Subj=Diff|Tense=RelPrev	10	advcl	_	beti-ketian
+4	,	_	PUNCT	PUNCT|$.	_	3	punct	_	,
+5	jawe	_	PRON	PRON|pronroot.int	Number=Sing|Person=3	6	obj	_	jawe
+6	ménititi	_	VERB	VERB|hsy|inf|int|vroot|vroot.i	Evident=Nfh|VerbForm=Inf	10	obj	_	méniti-ti
+7	ki	_	PART	PART|	_	10	mark	_	-ki
+8	jawen	_	DET	DET|	_	9	det	_	jawen
+9	titan	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	10	nsubj	_	tita-n|Case=Acc,Erg,Gen
+10	yoitia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	yoiti-a
+11	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	10	aux	_	iki
+12	?	_	PUNCT	PUNCT|$.	_	10	punct	_	?
+
+# sent_id = 70
+# text = ¿ Jawetii joni ki ja maxó bákeranon man jato botia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	10	punct	_	¿
+2	Jawetii	_	PRON	PRON|	_	3	amod	_	Jawetii
+3	joni	_	NOUN	NOUN|dat|int|loc|nroot|pref	Case=Dat	10	nsubj	_	joni
+4	ki	_	PART	PART|	_	10	mark	_	-ki
+5	ja	_	PRON	PRON|3.sg	Number=Sing|Person=3	7	det	_	ja
+6	maxó	_	NOUN	NOUN|nroot.voc	_	7	compound	_	maxó|Case=Gen,Voc
+7	bákeranon	_	NOUN	NOUN|erg|nroot	_	10	obl	_	bákeranon|Case=Erg,Voc
+8	man	_	PART	PART|	_	7	case	_	-man
+9	jato	_	PRON	PRON|3.pl	Number=Plur|Person=3	3	appos	_	jato
+10	botia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	boti-a
+11	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	10	aux	_	iki
+12	?	_	PUNCT	PUNCT|$.	_	10	punct	_	?
+
+# sent_id = 71
+# text = ¿ jaweranoa ki jawen tita n mératia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	7	punct	_	¿
+2	jaweranoa	_	PRON	PRON|	_	7	advmod	_	jaweranoa
+3	ki	_	PART	PART|	_	7	mark	_	-ki
+4	jawen	_	DET	DET|	_	5	det	_	jawen
+5	tita	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	7	nsubj	_	tita|Case=Acc,Erg,Gen
+6	n	_	PART	PART|	_	5	case	_	-n
+7	mératia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	mérati-a
+8	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	7	aux	_	iki
+9	?	_	PUNCT	PUNCT|$.	_	7	punct	_	?
+
+# sent_id = 72
+# text = ¿ Ja bake ki jawe banetia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	Ja	_	DET	DET|demroot	_	3	det	_	Ja
+3	bake	_	NOUN	NOUN|dat|int|loc|nroot	Case=Dat	6	nsubj	_	bake
+4	ki	_	PART	PART|	_	6	mark	_	-ki
+5	jawe	_	PRON	PRON|pronroot.int	Number=Sing|Person=3	6	obj	_	jawe
+6	banetia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	baneti-a
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 73
+# text = jabi jenetiyamaa iki .
+1	jabi	_	PRON	PRON|3.sg:acc|em	PronType=Emp|Reflex=Yes	2	nsubj	_	ja-bi
+2	jenetiyamaa	_	VERB	VERB|cmpl|neg|po>s/a|pp2|pref|vroot|vroot.i	Aspect=Perf|Mood=Nec|Polarity=Neg|Tense=Pqp|VerbForm=Part	0	root	_	jeneti-yama-a
+3	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	2	aux	_	iki
+4	.	_	PUNCT	PUNCT|$.	_	2	punct	_	.
+
+# sent_id = 74
+# text = Ja konxan toetii to iitiaitian ki , ino n nikatia iki .
+1	Ja	_	DET	DET|demroot	_	2	det	_	Ja
+2	konxan	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	3	obj	_	konxan|Case=Acc,Erg,Gen
+3	toetii	_	VERB	VERB|ssss|vroot.i	Subj=Same|Tense=RelSim	10	obj	_	toeti-i
+4	to	_	NOUN	NOUN|	_	5	obj	_	to
+5	iitiaitian	_	VERB	VERB|ds|hsy|int|s|vroot	Evident=Nfh|Subj=Diff|Tense=RelSim	3	advcl	_	iiti-aitian
+6	ki	_	PART	PART|	_	3	mark	_	-ki
+7	,	_	PUNCT	PUNCT|$.	_	3	punct	_	,
+8	ino	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	10	nsubj	_	ino|Case=Acc,Erg,Gen
+9	n	_	PART	PART|	_	8	case	_	-n
+10	nikatia	_	VERB	VERB|cmpl|po>s/a|pp2|pst4|vroot.i	Aspect=Perf|VerbForm=Part	0	root	_	nikati-a|Tense=Past,Pqp
+11	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	10	aux	_	iki
+12	.	_	PUNCT	PUNCT|$.	_	10	punct	_	.
+
+# sent_id = 75
+# text = mia n cuaderno meran wishatiwe , pichika jiwi n jane .
+1	mia	_	PRON	PRON|2.sg|abs|all	Number=Sing|Person=2	3	det	_	mia
+2	n	_	PART	PART|	_	1	case	_	-n
+3	cuaderno	_	NOUN	NOUN|nroot|nrootes	_	5	obl	_	cuaderno
+4	meran	_	POSTP	POSTP|	_	3	case	_	meran
+5	wishatiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	wishati-we
+6	,	_	PUNCT	PUNCT|$.	_	5	punct	_	,
+7	pichika	_	NUM	NUM|numroot.c	_	10	nummod	_	pichika
+8	jiwi	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	10	nmod	_	jiwi|Case=Acc,Erg,Gen
+9	n	_	PART	PART|	_	8	case	_	-n
+10	jane	_	NOUN	NOUN|nroot	_	5	obj	_	jane
+11	.	_	PUNCT	PUNCT|$.	_	10	punct	_	.
+
+# sent_id = 76
+# text = mia n atiibatabo jakiribi yoyo atiribawe .
+1	mia	_	PRON	PRON|2.sg|abs|all	Number=Sing|Person=2	3	nsubj	_	mia
+2	n	_	PART	PART|	_	1	case	_	-n
+3	atiibatabo	_	VERB	VERB|	_	6	obj	_	ati-ibat-a-bo
+4	jakiribi	_	ADV	ADV|adv|advroot|demroot|loc	Case=Loc	6	advmod	_	jakiribi
+5	yoyo	_	PART	PART|partroot	_	6	compound	_	yoyo
+6	atiribawe	_	VERB	VERB|adv|imp|mid|vroot	Mood=Imp	0	root	_	ati-riba-we
+7	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 77
+# text = ointikayata nato joniatikin atikana .
+1	ointikayata	_	VERB	VERB|	_	0	root	_	ointi-kaya-ta
+2	nato	_	PRON	PRON|	_	3	obj	_	nato
+3	joniatikin	_	VERB	VERB|	_	4	advcl	_	joniati-kin
+4	atikana	_	VERB	VERB|cmpl|mid|pl|po>s/a|pp2|vroot	Aspect=Perf|Number=Plur|Tense=Pqp|VerbForm=Part	1	obj	_	ati-kan-a
+5	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 78
+# text = ¿ Jawerato bake ki ikia ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	Jawerato	_	PRON	PRON|pronroot.int	_	3	amod	_	Jawerato
+3	bake	_	NOUN	NOUN|dat|int|loc|nroot	Case=Dat	5	nsubj	_	bake
+4	ki	_	PART	PART|	_	5	mark	_	-ki
+5	ikia	_	VERB	VERB|cmpl|int|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	iki-a
+6	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 79
+# text = Jaskarabiribi ronki ikipaonike jawen tee .
+1	Jaskarabiribi	_	ADJ	ADJ|	_	5	nsubj	_	Jaskara-bi-ribi
+2	ronki	_	PART	PART|	_	5	mark	_	-ronki
+3	ikipaonike	_	VERB	VERB|cmpl|hab|mid|pds|rem|vroot|vroot.i	Mood=Ind|Subj=Diff	5	cop	_	iki-pao-ni-ke|Aspect=Hab,Perf|Tense=Past,RelPrev
+4	jawen	_	DET	DET|	_	5	det	_	jawen
+5	tee	_	NOUN	NOUN|nroot	_	0	root	_	tee
+6	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 80
+# text = jainoax ki koshi méetianana iki .
+1	jainoax	_	SCONJ	SCONJ|abl|hsy|int|loc|s|sconjroot	Evident=Nfh	4	cc	_	jainoax
+2	ki	_	PART	PART|	_	4	mark	_	-ki
+3	koshi	_	ADJ	ADJ|adjroot	_	4	compound	_	koshi
+4	méetianana	_	VERB	VERB|caus|cmpl|mal|mid|po>s/a|pp2|pref|rec|vroot	Aspect=Perf|Polarity=Neg|Tense=Pqp|VerbForm=Part|Voice=Rcp	0	root	_	méeti-anan-a|Case=Ben,Cau
+5	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	4	aux	_	iki
+6	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 81
+# text = Jatian ja keotiaitian ki , ainbo baon mawa mawatia iki .
+1	Jatian	_	ADV	ADV|advroot	_	3	advmod	_	Jatian
+2	ja	_	PRON	PRON|3.sg	Number=Sing|Person=3	3	nsubj	_	ja
+3	keotiaitian	_	VERB	VERB|ds|hsy|int|s|vroot|vroot.i	Evident=Nfh|Subj=Diff|Tense=RelSim	9	advcl	_	keoti-aitian
+4	ki	_	PART	PART|	_	9	mark	_	-ki
+5	,	_	PUNCT	PUNCT|$.	_	3	punct	_	,
+6	ainbo	_	NOUN	NOUN|erg|nroot|pl	Case=Erg|Number=Plur	9	nsubj	_	ainbo
+7	baon	_	PART	PART|	_	6	case	_	-baon
+8	mawa	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	9	compound	_	mawa
+9	mawatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	mawati-a
+10	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	9	aux	_	iki
+11	.	_	PUNCT	PUNCT|$.	_	9	punct	_	.
+
+# sent_id = 82
+# text = ¿ Jainxon ki ja ainbo jáwekeskaatia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	Jainxon	_	SCONJ	SCONJ|a|hsy|int|sconjroot	Evident=Nfh	6	cc	_	Jainxon
+3	ki	_	PART	PART|	_	6	mark	_	-ki
+4	ja	_	DET	DET|demroot	_	5	det	_	ja
+5	ainbo	_	NOUN	NOUN|nroot|pl	Number=Plur	6	nsubj	_	ainbo
+6	jáwekeskaatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	jáwekeskaati-a
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 83
+# text = Nokon mentsis keras ikiketian nokon borosiko meran ea n níatia iki .
+1	Nokon	_	DET	DET|	_	2	det	_	Nokon
+2	mentsis	_	NOUN	NOUN|nroot	_	10	obj	_	mentsis
+3	keras	_	ADJ	ADJ|adjroot	_	2	amod	_	keras
+4	ikiketian	_	VERB	VERB|ds|int|mid|p|vroot|vroot.i	Subj=Diff|Tense=RelPrev	10	advcl	_	iki-ketian
+5	nokon	_	DET	DET|	_	6	det	_	nokon
+6	borosiko	_	NOUN	NOUN|nroot	_	10	obl	_	borosiko
+7	meran	_	POSTP	POSTP|	_	6	case	_	meran
+8	ea	_	PRON	PRON|1.sg|abs|all	Number=Sing|Person=1	10	nsubj	_	ea
+9	n	_	PART	PART|	_	8	case	_	-n
+10	níatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	níati-a
+11	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	10	aux	_	iki
+12	.	_	PUNCT	PUNCT|$.	_	10	punct	_	.
+
+# sent_id = 84
+# text = ea a ra kéentiyamaai maestro n ointitinin .
+1	ea	_	PRON	PRON|	_	4	nsubj	_	ea
+2	a	_	PART	PART|	_	1	case	_	-a
+3	ra	_	PART	PART|	_	4	mark	_	-ra
+4	kéentiyamaai	_	VERB	VERB|inc|neg|pp1|pref|sds|vroot|vroot.i	Polarity=Neg|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	kéenti-yama-ai|Aspect=Imp,Perf|Mood=Ind,Nec
+5	maestro	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	7	nsubj	_	maestro|Case=Acc,Erg,Gen
+6	n	_	PART	PART|	_	5	case	_	-n
+7	ointitinin	_	VERB	VERB|	_	4	obj	_	ointi-ti-nin
+8	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 85
+# text = ¿ joni n ki ja roo icha mératixon jawekeskáatia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	9	punct	_	¿
+2	joni	_	NOUN	NOUN|all|dat|erg|gen|int|loc|nroot	_	9	nsubj	_	joni|Case=Dat,Erg,Gen
+3	n	_	PART	PART|	_	2	case	_	-n
+4	ki	_	PART	PART|	_	9	mark	_	-ki
+5	ja	_	DET	DET|demroot	_	6	det	_	ja
+6	roo	_	NOUN	NOUN|nroot	_	8	obj	_	roo
+7	icha	_	ADJ	ADJ|adjroot|advroot	_	6	amod	_	icha
+8	mératixon	_	VERB	VERB|pssa|vroot	Subj=Same|Tense=RelPrev	9	advcl	_	mérati-xon
+9	jawekeskáatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	jawekeskáati-a
+10	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	9	aux	_	iki
+11	?	_	PUNCT	PUNCT|$.	_	9	punct	_	?
+
+# sent_id = 86
+# text = Xawe ainbo n jawen bene pótatini
+1	Xawe	_	NOUN	NOUN|nroot	Case=Gen	2	compound	_	Xawe
+2	ainbo	_	NOUN	NOUN|all|erg|gen|intrss|nroot|pl	Number=Plur	6	nsubj	_	ainbo|Case=Acc,Erg,Gen
+3	n	_	PART	PART|	_	2	case	_	-n
+4	jawen	_	DET	DET|	_	5	det	_	jawen
+5	bene	_	NOUN	NOUN|adjroot|nroot	_	6	obj	_	bene
+6	pótatini	_	VERB	VERB|rem|vroot|vroot.i	Tense=Past	0	root	_	pótati-ni
+
+# sent_id = 87
+# text = Ja ainbo ki ikikatiai , jawen bene piti benatii katia pekáo ki , wai órotii katii .
+1	Ja	_	DET	DET|demroot	_	2	det	_	Ja
+2	ainbo	_	NOUN	NOUN|dat|int|loc|nroot|pl	Case=Dat|Number=Plur	15	nsubj	_	ainbo
+3	ki	_	PART	PART|	_	15	mark	_	-ki
+4	ikikatiai	_	VERB	VERB|inc|mid|pp1|pst4|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|VerbForm=Part	16	aux	_	iki-kati-ai|Aspect=Imp,Perf|Tense=Past,RelSim
+5	,	_	PUNCT	PUNCT|$.	_	4	punct	_	,
+6	jawen	_	DET	DET|	_	7	det	_	jawen
+7	bene	_	NOUN	NOUN|adjroot|nroot	Case=Gen	9	nsubj	_	bene
+8	piti	_	NOUN	NOUN|nmlz|nroot|vroot|vroot.i	_	9	obj	_	piti
+9	benatii	_	VERB	VERB|ssss|vroot.i	Subj=Same|Tense=RelSim	15	advcl	_	benati-i
+10	katia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	9	aux	_	kati-a
+11	pekáo	_	CONJ	CONJ|	_	9	cc	_	pekáo
+12	ki	_	PART	PART|	_	9	mark	_	-ki
+13	,	_	PUNCT	PUNCT|$.	_	9	punct	_	,
+14	wai	_	NOUN	NOUN|nroot	_	15	obj	_	wai
+15	órotii	_	VERB	VERB|ssss|vroot.i	Subj=Same|Tense=RelSim	0	root	_	óroti-i
+16	katii	_	VERB	VERB|ssss|vroot.i	Subj=Same|Tense=RelSim	15	aux	_	kati-i
+17	.	_	PUNCT	PUNCT|$.	_	15	punct	_	.
+
+# sent_id = 88
+# text = Jakiribi atixon ki bitia iki , ani tora .
+1	Jakiribi	_	ADV	ADV|adv|advroot|demroot|loc	Case=Loc	4	advmod	_	Jakiribi
+2	atixon	_	VERB	VERB|hsy|int|pssa|vroot	Evident=Nfh|Subj=Same|Tense=RelPrev	4	advcl	_	ati-xon
+3	ki	_	PART	PART|	_	4	mark	_	-ki
+4	bitia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	biti-a
+5	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	4	aux	_	iki
+6	,	_	PUNCT	PUNCT|$.	_	4	punct	_	,
+7	ani	_	ADJ	ADJ|adjroot	_	8	amod	_	ani
+8	tora	_	NOUN	NOUN|nroot	_	4	obj	_	tora
+9	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 89
+# text = Jatian yapa ainbo n jato nokotiwetsayamaa iki .
+1	Jatian	_	SCONJ	SCONJ|cmpl|dd|sconjroot|temp	Aspect=Perf|Case=Tem|Subj=Diff|VerbForm=Part	6	cc	_	Jatian
+2	yapa	_	NOUN	NOUN|nroot	Case=Gen	3	compound	_	yapa
+3	ainbo	_	NOUN	NOUN|all|erg|gen|intrss|nroot|pl	Number=Plur	6	nsubj	_	ainbo|Case=Acc,Erg,Gen
+4	n	_	PART	PART|	_	3	case	_	-n
+5	jato	_	PRON	PRON|3.pl	Number=Plur|Person=3	6	iobj	_	jato
+6	nokotiwetsayamaa	_	VERB	VERB|	_	0	root	_	nokoti-wetsa-yama-a
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 90
+# text = joníbena tian ino betan wasa ikini
+1	joníbena	_	ADV	ADV|advroot|temp	Case=Tem	6	advmod	_	joníbena
+2	tian	_	PART	PART|	_	1	case	_	-tian
+3	ino	_	NOUN	NOUN|nroot	_	6	nsubj	_	ino
+4	betan	_	CCONJ	CCONJ|cconjroot	_	5	cc	_	betan
+5	wasa	_	NOUN	NOUN|nroot	_	3	conj	_	wasa
+6	ikini	_	VERB	VERB|mid|rem|vroot|vroot.i	Tense=Past	0	root	_	iki-ni
+
+# sent_id = 91
+# text = Mananxawe betan chaxo ikini
+1	Mananxawe	_	NOUN	NOUN|nroot	_	4	nsubj	_	Mananxawe
+2	betan	_	CCONJ	CCONJ|cconjroot	_	3	cc	_	betan
+3	chaxo	_	NOUN	NOUN|nroot	_	1	conj	_	chaxo
+4	ikini	_	VERB	VERB|mid|rem|vroot|vroot.i	Tense=Past	0	root	_	iki-ni
+
+# sent_id = 92
+# text = Jatian yawishan makan nexatia iki nishi n .
+1	Jatian	_	SCONJ	SCONJ|cmpl|dd|sconjroot|temp	Aspect=Perf|Case=Tem|Subj=Diff|VerbForm=Part	4	cc	_	Jatian
+2	yawishan	_	NOUN	NOUN|erg|nroot	_	4	nsubj	_	yawish-an|Case=Erg,Gen
+3	makan	_	NOUN	NOUN|all|cmpl|erg|gen|intrss|kan|nroot|pref|vroot.i	_	4	obj	_	makan|Case=Acc,Erg,Gen
+4	nexatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	nexati-a
+5	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	4	aux	_	iki
+6	nishi	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	4	obl	_	nishi|Case=Acc,Erg,Gen
+7	n	_	PART	PART|	_	6	case	_	-n
+8	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 93
+# text = Jaskáaxon : " Neri jotiwe , koká .
+1	Jaskáaxon	_	CONJ	CONJ|	_	5	cc	_	Jaskáaxon
+2	:	_	PUNCT	PUNCT|$.	_	1	punct	_	:
+3	"	_	PUNCT	PUNCT|$.	_	5	punct	_	"
+4	Neri	_	ADV	ADV|advroot	_	5	advmod	_	Neri
+5	jotiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	joti-we
+6	,	_	PUNCT	PUNCT|$.	_	5	punct	_	,
+7	koká	_	NOUN	NOUN|cmpl|nroot.voc|pref|vroot.i	Case=Voc	5	vocative	_	koká
+8	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 94
+# text = " atia iki .
+1	"	_	PUNCT	PUNCT|$.	_	4	punct	_	"
+2	atia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	ati-a
+3	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	2	aux	_	iki
+4	.	_	PUNCT	PUNCT|$.	_	2	punct	_	.
+
+# sent_id = 95
+# text = Jainoax jotiribakasabi jotitikoma ikia iki .
+1	Jainoax	_	SCONJ	SCONJ|abl|loc|s|sconjroot	_	3	cc	_	Jainoax
+2	jotiribakasabi	_	VERB	VERB|	_	3	advcl	_	joti-riba-kas-a-bi
+3	jotitikoma	_	VERB	VERB|	_	0	root	_	joti-ti-koma
+4	ikia	_	AUX	AUX|auxroot|cmpl|int|po>s/a|pp2	Tense=Pqp	3	aux	_	iki-a
+5	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	4	aux	_	iki
+6	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 96
+# text = bari jotiaiori
+1	bari	_	NOUN	NOUN|loc|nroot	_	2	nsubj	_	bari
+2	jotiaiori	_	VERB	VERB|	_	0	root	_	joti-ai-o-ri
+
+# sent_id = 97
+# text = nete résenena o
+1	nete	_	NOUN	NOUN|nroot	Case=Gen	0	root	_	nete
+2	résenena	_	NOUN	NOUN|loc|nroot	Case=Voc	1	nmod	_	résenena
+3	o	_	PART	PART|	_	2	case	_	-o
+
+# sent_id = 98
+# text = nete tsisenen o
+1	nete	_	NOUN	NOUN|nroot	Case=Gen	0	root	_	nete
+2	tsisenen	_	NOUN	NOUN|loc|nroot	_	1	nmod	_	tsisenen
+3	o	_	PART	PART|	_	2	case	_	-o
+
+# sent_id = 99
+# text = bari katiai o ri
+1	bari	_	NOUN	NOUN|loc|nroot	_	0	root	_	bari
+2	katiai	_	VERB	VERB|	_	1	nmod	_	kati-ai
+3	o	_	PART	PART|	_	2	case	_	-o
+4	ri	_	PART	PART|	_	2	case	_	-ri
+
+# sent_id = 100
+# text = bari ra jakon iki .
+1	bari	_	NOUN	NOUN|ev|loc|nroot	Evident=Fh	3	nsubj	_	bari
+2	ra	_	PART	PART|	_	3	mark	_	-ra
+3	jakon	_	ADJ	ADJ|adjroot|erg	_	0	root	_	jakon
+4	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	3	cop	_	iki
+5	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 101
+# text = Jaskáaxon , ja jonin jonétixon ointia iki , jawen awin bakentiai .
+1	Jaskáaxon	_	CONJ	CONJ|	_	6	cc	_	Jaskáaxon
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	ja	_	DET	DET|demroot	_	4	det	_	ja
+4	jonin	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	6	nsubj	_	joni-n|Case=Acc,Erg,Gen
+5	jonétixon	_	VERB	VERB|pssa|vroot	Subj=Same|Tense=RelPrev	6	advcl	_	jonéti-xon
+6	ointia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	ointi-a
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	,	_	PUNCT	PUNCT|$.	_	6	punct	_	,
+9	jawen	_	DET	DET|	_	10	det	_	jawen
+10	awin	_	NOUN	NOUN|nroot	_	11	nsubj	_	awin
+11	bakentiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	6	obj	_	bakenti-ai|Aspect=Imp,Perf
+12	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 102
+# text = meratixon notsíntiananbi yoitia iki :
+1	meratixon	_	VERB	VERB|pssa|vroot	Subj=Same|Tense=RelPrev	3	advcl	_	merati-xon
+2	notsíntiananbi	_	VERB	VERB|em|sss|vroot|vroot.i	Subj=Same|Tense=RelSim	3	advcl	_	notsínti-anan-bi
+3	yoitia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	yoiti-a
+4	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	3	aux	_	iki
+5	:	_	PUNCT	PUNCT|$.	_	3	punct	_	:
+
+# sent_id = 103
+# text = Jaweatikan mia n jonétixon eaa ointiai .
+1	Jaweatikan	_	CONJ	CONJ|	_	6	cc	_	Jaweati-kan
+2	mia	_	PRON	PRON|2.sg|abs|all	Number=Sing|Person=2	6	nsubj	_	mia
+3	n	_	PART	PART|	_	2	case	_	-n
+4	jonétixon	_	VERB	VERB|pssa|vroot	Subj=Same|Tense=RelPrev	6	advcl	_	jonéti-xon
+5	eaa	_	PRON	PRON|	_	6	nsubj	_	ea-a
+6	ointiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	ointi-ai|Aspect=Imp,Perf
+7	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 104
+# text = Jaská , ja ino bochiki kotsatiax janxbátia iki .
+1	Jaská	_	CONJ	CONJ|	_	7	cc	_	Jaská
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	ja	_	DET	DET|demroot	_	4	det	_	ja
+4	ino	_	NOUN	NOUN|nroot	_	7	nsubj	_	ino
+5	bochiki	_	ADV	ADV|advroot	_	7	advmod	_	bochiki
+6	kotsatiax	_	VERB	VERB|psss|vroot|vroot.i	Subj=Same|Tense=RelPrev	7	advcl	_	kotsati-ax
+7	janxbátia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	janxbáti-a
+8	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	7	aux	_	iki
+9	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 105
+# text = ¿ Joxo shino n ki mananxawe jaweati bochiki botia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	9	punct	_	¿
+2	Joxo	_	ADJ	ADJ|adjroot	_	3	amod	_	Joxo
+3	shino	_	NOUN	NOUN|all|dat|erg|gen|int|loc|nroot	_	9	nsubj	_	shino|Case=Dat,Erg,Gen
+4	n	_	PART	PART|	_	3	case	_	-n
+5	ki	_	PART	PART|	_	9	mark	_	-ki
+6	mananxawe	_	NOUN	NOUN|nroot	_	9	obj	_	mananxawe
+7	jaweati	_	PRON	PRON|	_	9	advmod	_	jaweati
+8	bochiki	_	ADV	ADV|advroot	_	9	advmod	_	bochiki
+9	botia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	boti-a
+10	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	9	aux	_	iki
+11	?	_	PUNCT	PUNCT|$.	_	9	punct	_	?
+
+# sent_id = 106
+# text = ¿ Jawetio basi ki mananxawe bochiki ikia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	7	punct	_	¿
+2	Jawetio	_	PRON	PRON|	_	3	advmod	_	Jawetio
+3	basi	_	ADV	ADV|	_	7	advmod	_	basi
+4	ki	_	PART	PART|	_	7	mark	_	-ki
+5	mananxawe	_	NOUN	NOUN|nroot	_	7	nsubj	_	mananxawe
+6	bochiki	_	ADV	ADV|advroot	_	7	advmod	_	bochiki
+7	ikia	_	VERB	VERB|cmpl|int|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	iki-a
+8	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	7	aux	_	iki
+9	?	_	PUNCT	PUNCT|$.	_	7	punct	_	?
+
+# sent_id = 107
+# text = Jaskatax ki ja xete banetia iki .
+1	Jaskatax	_	ADV	ADV|	_	5	advmod	_	Jaskatax
+2	ki	_	PART	PART|	_	5	mark	_	-ki
+3	ja	_	PRON	PRON|3.sg	Number=Sing|Person=3	5	nsubj	_	ja
+4	xete	_	NOUN	NOUN|nroot	_	5	obj	_	xete
+5	banetia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	baneti-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 108
+# text = Jaskarainxon jaton Inca ochóatikana iki .
+1	Jaskarainxon	_	CONJ	CONJ|	_	4	cc	_	Jaskarainxon
+2	jaton	_	DET	DET|	_	3	det	_	jato-n
+3	Inca	_	PROPN	PROPN|	_	4	obj	_	Inca
+4	ochóatikana	_	VERB	VERB|caus|cmpl|pl|po>s/a|pp2|pref|vroot|vroot.i	Aspect=Perf|Case=Cau|Number=Plur|Tense=Pqp|VerbForm=Part	0	root	_	ochóati-kan-a
+5	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	4	aux	_	iki
+6	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 109
+# text = wishatiwe , siná jawékinin janeboribi .
+1	wishatiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	wishati-we
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	siná	_	ADJ	ADJ|adjroot	_	4	amod	_	siná
+4	jawékinin	_	NOUN	NOUN|erg|nroot	_	5	nmod	_	jawéki-nin|Case=Erg,Gen,Voc
+5	janeboribi	_	NOUN	NOUN|adv|nroot|pl	Number=Plur	1	obj	_	jane-bo-ribi
+6	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 110
+# text = wishatiwe , wetsa isákan janeboribi .
+1	wishatiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	wishati-we
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	wetsa	_	ADJ	ADJ|adjroot|advroot	_	4	amod	_	wetsa
+4	isákan	_	NOUN	NOUN|erg|kan|nroot.voc	_	5	nmod	_	isá-kan|Case=Erg,Gen,Voc
+5	janeboribi	_	NOUN	NOUN|adv|nroot|pl	Number=Plur	1	obj	_	jane-bo-ribi
+6	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 111
+# text = wishatiwe , wetsa rono n janeboribi .
+1	wishatiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	wishati-we
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	wetsa	_	ADJ	ADJ|adjroot|advroot	_	4	amod	_	wetsa
+4	rono	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	6	nmod	_	rono|Case=Acc,Erg,Gen
+5	n	_	PART	PART|	_	4	case	_	-n
+6	janeboribi	_	NOUN	NOUN|adv|nroot|pl	Number=Plur	1	obj	_	jane-bo-ribi
+7	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 112
+# text = wishatiwe , wetsa yapa n janeboribi .
+1	wishatiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	wishati-we
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	wetsa	_	ADJ	ADJ|adjroot|advroot	_	4	amod	_	wetsa
+4	yapa	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	6	nmod	_	yapa|Case=Acc,Erg,Gen
+5	n	_	PART	PART|	_	4	case	_	-n
+6	janeboribi	_	NOUN	NOUN|adv|nroot|pl	Number=Plur	1	obj	_	jane-bo-ribi
+7	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 113
+# text = Australia iki nasi ani .
+1	Australia	_	PROPN	PROPN|propnroot	_	3	nsubj	_	Australia
+2	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	3	cop	_	iki
+3	nasi	_	NOUN	NOUN|nroot	_	0	root	_	nasi
+4	ani	_	ADJ	ADJ|adjroot	_	3	amod	_	ani
+5	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 114
+# text = ¿ Jaweranorin ?
+1	¿	_	PUNCT	PUNCT|$.	_	2	punct	_	¿
+2	Jaweranorin	_	PRON	PRON|int2|pronroot.int	PronType=Int	0	root	_	Jaweranorin
+3	?	_	PUNCT	PUNCT|$.	_	2	punct	_	?
+
+# sent_id = 115
+# text = Jatian bakebo ratétikana iki , jato patax pakétiketian .
+1	Jatian	_	SCONJ	SCONJ|cmpl|dd|sconjroot|temp	Aspect=Perf|Case=Tem|Subj=Diff|VerbForm=Part	3	cc	_	Jatian
+2	bakebo	_	NOUN	NOUN|nroot|pl	Number=Plur	3	nsubj	_	bake-bo
+3	ratétikana	_	VERB	VERB|caus|cmpl|pl|po>s/a|pp2|pref|vroot|vroot.i	Aspect=Perf|Case=Cau|Number=Plur|Tense=Pqp|VerbForm=Part	0	root	_	ratéti-kan-a
+4	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	3	aux	_	iki
+5	,	_	PUNCT	PUNCT|$.	_	3	punct	_	,
+6	jato	_	PRON	PRON|3.pl	Number=Plur|Person=3	8	nsubj	_	jato
+7	patax	_	POSTP	POSTP|	_	6	case	_	patax
+8	pakétiketian	_	VERB	VERB|ds|p|vroot|vroot.i	Subj=Diff|Tense=RelPrev	3	advcl	_	pakéti-ketian
+9	.	_	PUNCT	PUNCT|$.	_	8	punct	_	.
+
+# sent_id = 116
+# text = Jatian wasan , jawen epa óxatiketian , piti quéyotia iki .
+1	Jatian	_	SCONJ	SCONJ|cmpl|dd|sconjroot|temp	Aspect=Perf|Case=Tem|Subj=Diff|VerbForm=Part	9	cc	_	Jatian
+2	wasan	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	9	nsubj	_	wasa-n|Case=Acc,Erg,Gen
+3	,	_	PUNCT	PUNCT|$.	_	2	punct	_	,
+4	jawen	_	DET	DET|	_	5	det	_	jawen
+5	epa	_	NOUN	NOUN|nroot	_	6	nsubj	_	epa
+6	óxatiketian	_	VERB	VERB|ds|p|vroot|vroot.i	Subj=Diff|Tense=RelPrev	9	advcl	_	óxati-ketian
+7	,	_	PUNCT	PUNCT|$.	_	6	punct	_	,
+8	piti	_	NOUN	NOUN|nmlz|nroot|vroot|vroot.i	_	9	obj	_	piti
+9	quéyotia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	quéyoti-a
+10	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	9	aux	_	iki
+11	.	_	PUNCT	PUNCT|$.	_	9	punct	_	.
+
+# sent_id = 117
+# text = Piti kéyotixon , quentí kan makan bóchoatixon , bochiki panina iki .
+1	Piti	_	NOUN	NOUN|nmlz|nroot|vroot|vroot.i	_	2	obj	_	Piti
+2	kéyotixon	_	VERB	VERB|	_	10	advcl	_	kéyoti-xon
+3	,	_	PUNCT	PUNCT|$.	_	2	punct	_	,
+4	quentí	_	NOUN	NOUN|erg|kan|nroot.voc	_	7	obl	_	quentí|Case=Erg,Voc
+5	kan	_	PART	PART|	_	4	case	_	-kan
+6	makan	_	NOUN	NOUN|all|cmpl|erg|gen|intrss|kan|nroot|pref|vroot.i	_	7	obj	_	makan|Case=Acc,Erg,Gen
+7	bóchoatixon	_	VERB	VERB|pssa|vroot	Subj=Same|Tense=RelPrev	10	advcl	_	bóchoati-xon
+8	,	_	PUNCT	PUNCT|$.	_	7	punct	_	,
+9	bochiki	_	ADV	ADV|advroot	_	10	advmod	_	bochiki
+10	panina	_	VERB	VERB|caus|cmpl|po>s/a|pp2|pref|vroot|vroot.i	Aspect=Perf|Case=Cau|Tense=Pqp|VerbForm=Part	0	root	_	panina
+11	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	10	aux	_	iki
+12	.	_	PUNCT	PUNCT|$.	_	10	punct	_	.
+
+# sent_id = 118
+# text = Jaskáaxon , bochiki péyakatixon , jawen epa jishtentiai mana mánatia iki .
+1	Jaskáaxon	_	CONJ	CONJ|	_	10	cc	_	Jaskáaxon
+2	,	_	PUNCT	PUNCT|$.	_	1	acl	_	,
+3	bochiki	_	ADV	ADV|advroot	_	4	advmod	_	bochiki
+4	péyakatixon	_	VERB	VERB|pssa|vroot	Subj=Same|Tense=RelPrev	10	advcl	_	péyakati-xon
+5	,	_	PUNCT	PUNCT|$.	_	4	punct	_	,
+6	jawen	_	DET	DET|	_	7	det	_	jawen
+7	epa	_	NOUN	NOUN|nroot	_	8	nsubj	_	epa
+8	jishtentiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	10	obj	_	jishtenti-ai|Aspect=Imp,Perf
+9	mana	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	10	compound	_	mana
+10	mánatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	mánati-a
+11	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	10	aux	_	iki
+12	.	_	PUNCT	PUNCT|$.	_	10	punct	_	.
+
+# sent_id = 119
+# text = Jaskáa , ino n piti shinántiyamaa iki , pikástii ikiwanxonbi .
+1	Jaskáa	_	SCONJ	SCONJ|cmpl|sconjroot|siml	Aspect=Perf|VerbForm=Part	6	cc	_	Jaskáa
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	ino	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	6	nsubj	_	ino|Case=Acc,Erg,Gen
+4	n	_	PART	PART|	_	3	case	_	-n
+5	piti	_	VERB	VERB|inf|mid|vroot|vroot.i	VerbForm=Inf	6	obj	_	piti
+6	shinántiyamaa	_	VERB	VERB|cmpl|neg|po>s/a|pp2|pref|vroot|vroot.i	Aspect=Perf|Mood=Nec|Polarity=Neg|Tense=Pqp|VerbForm=Part	0	root	_	shinánti-yama-a
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	,	_	PUNCT	PUNCT|$.	_	6	punct	_	,
+9	pikástii	_	VERB	VERB|ssss|vroot.i	Subj=Same|Tense=RelSim	6	advcl	_	pikásti-i
+10	ikiwanxonbi	_	AUX	AUX|	_	9	aux	_	iki-wan-xon-bi
+11	.	_	PUNCT	PUNCT|$.	_	9	punct	_	.
+
+# sent_id = 120
+# text = Jaskáa katia iki , jawen rayos .
+1	Jaskáa	_	SCONJ	SCONJ|cmpl|sconjroot|siml	Aspect=Perf|VerbForm=Part	2	cc	_	Jaskáa
+2	katia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	kati-a
+3	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	2	aux	_	iki
+4	,	_	PUNCT	PUNCT|$.	_	2	punct	_	,
+5	jawen	_	DET	DET|	_	6	det	_	jawen
+6	rayos	_	NOUN	NOUN|nroot|nrootes	_	2	nsubj	_	rayos
+7	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 121
+# text = katikin , botia iki rabé xopan .
+1	katikin	_	VERB	VERB|	_	3	advcl	_	kati-kin
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	botia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	boti-a
+4	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	3	aux	_	iki
+5	rabé	_	NUM	NUM|numroot.c	_	6	nummod	_	rabé
+6	xopan	_	NOUN	NOUN|all|erg|gen|intrss|nroot|pref	_	3	obj	_	xopan|Case=Acc,Erg,Gen
+7	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 122
+# text = Ani manan man ra matsibires iki .
+1	Ani	_	ADJ	ADJ|adjroot	_	2	amod	_	Ani
+2	manan	_	NOUN	NOUN|all|cmpl|erg|ev|gen|nroot|pref|vroot	Evident=Fh	5	nsubj	_	manan|Case=Erg,Gen
+3	man	_	PART	PART|	_	2	case	_	-man
+4	ra	_	PART	PART|	_	5	mark	_	-ra
+5	matsibires	_	NOUN	NOUN|adv|em|nroot	_	0	root	_	matsi-bires
+6	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	5	cop	_	iki
+7	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 123
+# text = Icha makan iki jain , nií ichamama .
+1	Icha	_	ADJ	ADJ|adjroot|advroot	_	2	amod	_	Icha
+2	makan	_	NOUN	NOUN|all|cmpl|erg|gen|intrss|kan|nroot|pref|vroot.i	_	3	nsubj	_	makan|Case=Acc,Erg,Gen
+3	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	0	root	_	iki
+4	jain	_	ADV	ADV|advroot	_	3	advmod	_	jain
+5	,	_	PUNCT	PUNCT|$.	_	4	punct	_	,
+6	nií	_	NOUN	NOUN|nroot.voc	Case=Voc	3	nsubj	_	nií
+7	ichamama	_	ADJ	ADJ|adjroot|neg	Polarity=Neg	6	amod	_	ichama-ma
+8	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 124
+# text = Ja manán man jane iki , Andes Manan .
+1	Ja	_	DET	DET|demroot	_	2	det	_	Ja
+2	manán	_	NOUN	NOUN|all|cmpl|erg|gen|nroot|nroot.voc|pref|vroot	_	4	nmod	_	manán|Case=Erg,Gen,Voc
+3	man	_	PART	PART|	_	2	case	_	-man
+4	jane	_	NOUN	NOUN|nroot	_	8	nsubj	_	jane
+5	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	8	cop	_	iki
+6	,	_	PUNCT	PUNCT|$.	_	5	punct	_	,
+7	Andes	_	PROPN	PROPN|propnroot	_	8	compound	_	Andes
+8	Manan	_	PROPN	PROPN|	_	0	root	_	Manan
+9	.	_	PUNCT	PUNCT|$.	_	8	punct	_	.
+
+# sent_id = 125
+# text = Aniparo kexá iki matsi wetsa oxe baon .
+1	Aniparo	_	NOUN	NOUN|nroot	_	3	obl	_	Aniparo
+2	kexá	_	POSTP	POSTP|	_	1	case	_	kexá
+3	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	0	root	_	iki
+4	matsi	_	NOUN	NOUN|nroot	_	3	nsubj	_	matsi
+5	wetsa	_	ADJ	ADJ|adjroot|advroot	_	6	amod	_	wetsa
+6	oxe	_	NOUN	NOUN|erg|nroot|pl	Case=Erg|Number=Plur	3	obl	_	oxe
+7	baon	_	PART	PART|	_	6	case	_	-baon
+8	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 126
+# text = ¿ tsoa a ki mia n mekayao yakatia ?
+1	¿	_	PUNCT	PUNCT|$.	_	8	punct	_	¿
+2	tsoa	_	PRON	PRON|	_	8	nsubj	_	tsoa
+3	a	_	PART	PART|	_	2	case	_	-a
+4	ki	_	PART	PART|	_	8	mark	_	-ki
+5	mia	_	PRON	PRON|2.sg|abs|all	Number=Sing|Person=2	8	obl	_	mia
+6	n	_	PART	PART|	_	5	case	_	-n
+7	mekayao	_	POSTP	POSTP|	_	5	case	_	mekayao
+8	yakatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	yakati-a
+9	?	_	PUNCT	PUNCT|$.	_	8	punct	_	?
+
+# sent_id = 127
+# text = ¿ tsoa a ki mia n memio yakatia ?
+1	¿	_	PUNCT	PUNCT|$.	_	8	punct	_	¿
+2	tsoa	_	PRON	PRON|	_	8	nsubj	_	tsoa
+3	a	_	PART	PART|	_	2	case	_	-a
+4	ki	_	PART	PART|	_	8	mark	_	-ki
+5	mia	_	PRON	PRON|2.sg|abs|all	Number=Sing|Person=2	8	obl	_	mia
+6	n	_	PART	PART|	_	5	case	_	-n
+7	memio	_	POSTP	POSTP|	_	5	case	_	memio
+8	yakatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	yakati-a
+9	?	_	PUNCT	PUNCT|$.	_	8	punct	_	?
+
+# sent_id = 128
+# text = Baná jawékiboribi bari n keentiai .
+1	Baná	_	ADJ	ADJ|adjroot|pp2|vroot	Tense=Pqp	2	amod	_	Baná
+2	jawékiboribi	_	NOUN	NOUN|adv|nroot|pl	Number=Plur	5	nsubj	_	jawéki-bo-ribi|Case=Gen,Voc
+3	bari	_	NOUN	NOUN|all|erg|gen|int2|intrss|loc|nroot	PronType=Int	5	obl	_	bari|Case=Acc,Erg,Gen
+4	n	_	PART	PART|	_	3	case	_	-n
+5	keentiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	keenti-ai|Aspect=Imp,Perf
+6	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 129
+# text = ointiwe , oa paro kexá jiwi xóxotiabo .
+1	ointiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	ointi-we
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	oa	_	DET	DET|demroot	_	4	det	_	oa
+4	paro	_	NOUN	NOUN|nroot	_	6	nmod	_	paro
+5	kexá	_	POSTP	POSTP|	_	4	case	_	kexá
+6	jiwi	_	NOUN	NOUN|nroot	_	1	obj	_	jiwi
+7	xóxotiabo	_	VERB	VERB|	_	6	amod	_	xóxoti-a-bo
+8	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 130
+# text = jaskáaxon ki ja joni icha piti a banétinike ; jatíbi roo rétetikin kéyotiax .
+1	jaskáaxon	_	CONJ	CONJ|	_	8	cc	_	jaskáaxon
+2	ki	_	PART	PART|	_	8	mark	_	-ki
+3	ja	_	DET	DET|demroot	_	4	det	_	ja
+4	joni	_	NOUN	NOUN|nroot	_	8	nsubj	_	joni
+5	icha	_	ADJ	ADJ|adjroot|advroot	_	6	amod	_	icha
+6	piti	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	8	obl	_	piti
+7	a	_	PART	PART|	_	6	case	_	-a
+8	banétinike	_	VERB	VERB|cmpl|pds|pref|rem|vroot|vroot.i	Aspect=Perf|Mood=Ind|Subj=Diff	0	root	_	banéti-ni-ke|Tense=Past,RelPrev
+9	;	_	PUNCT	PUNCT|$.	_	8	punct	_	;
+10	jatíbi	_	ADJ	ADJ|adjroot	_	11	amod	_	jatíbi
+11	roo	_	NOUN	NOUN|nroot	_	12	obj	_	roo
+12	rétetikin	_	VERB	VERB|	_	13	advcl	_	réteti-kin
+13	kéyotiax	_	VERB	VERB|	_	8	advcl	_	kéyoti-ax
+14	.	_	PUNCT	PUNCT|$.	_	13	punct	_	.
+
+# sent_id = 131
+# text = Jaskatai ninkátiax onki jotia iki , jawen awin , tasá papía ; beneshaman .
+1	Jaskatai	_	SCONJ	SCONJ|inc|sconjroot|siml	Aspect=Imp|Mood=Ind	4	cc	_	Jaskatai
+2	ninkátiax	_	VERB	VERB|	_	4	advcl	_	ninkáti-ax
+3	onki	_	PART	PART|	_	4	mark	_	-onki
+4	jotia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	joti-a
+5	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	4	aux	_	iki
+6	,	_	PUNCT	PUNCT|$.	_	4	punct	_	,
+7	jawen	_	DET	DET|	_	8	det	_	jawen
+8	awin	_	NOUN	NOUN|nroot	_	4	nsubj	_	awin
+9	,	_	PUNCT	PUNCT|$.	_	8	punct	_	,
+10	tasá	_	NOUN	NOUN|nroot.voc|pref	Case=Voc	11	obj	_	tasá
+11	papía	_	ADJ	ADJ|adjroot|pp2|pref|vroot	Tense=Pqp	8	nmod	_	papía
+12	;	_	PUNCT	PUNCT|$.	_	11	punct	_	;
+13	beneshaman	_	ADJ	ADJ|adjroot|intens	_	4	advmod	_	bene-shaman
+14	.	_	PUNCT	PUNCT|$.	_	13	punct	_	.
+
+# sent_id = 132
+# text = Ja bake basiribima aniatia iki .
+1	Ja	_	DET	DET|demroot	_	2	det	_	Ja
+2	bake	_	NOUN	NOUN|nroot	_	4	nsubj	_	bake
+3	basiribima	_	ADV	ADV|	_	4	advmod	_	basi-ribi-ma
+4	aniatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	aniati-a
+5	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	4	aux	_	iki
+6	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 133
+# text = Ja moa anitiketian , jakiribi ainbo toótiribia iki .
+1	Ja	_	PRON	PRON|3.sg	Number=Sing|Person=3	3	nsubj	_	Ja
+2	moa	_	ADV	ADV|advroot	_	3	advmod	_	moa
+3	anitiketian	_	VERB	VERB|ds|p|vroot|vroot.i	Subj=Diff|Tense=RelPrev	7	advcl	_	aniti-ketian
+4	,	_	PUNCT	PUNCT|$.	_	3	punct	_	,
+5	jakiribi	_	ADV	ADV|adv|advroot|demroot|loc	Case=Loc	7	advmod	_	jakiribi
+6	ainbo	_	NOUN	NOUN|nroot|pl	Number=Plur	7	nsubj	_	ainbo
+7	toótiribia	_	VERB	VERB|adv|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	toóti-ribi-a
+8	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	7	aux	_	iki
+9	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 134
+# text = ¿ Jawen akinti ki ja joni yoitia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	7	punct	_	¿
+2	Jawen	_	DET	DET|	_	3	det	_	Jawen
+3	akinti	_	NOUN	NOUN|dat|int|loc|nmlz|nroot|vroot	Case=Dat	7	obj	_	akinti
+4	ki	_	PART	PART|	_	7	mark	_	-ki
+5	ja	_	DET	DET|demroot	_	6	det	_	ja
+6	joni	_	NOUN	NOUN|nroot	_	7	iobj	_	joni
+7	yoitia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	yoiti-a
+8	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	7	aux	_	iki
+9	?	_	PUNCT	PUNCT|$.	_	7	punct	_	?
+
+# sent_id = 135
+# text = Mananxawe betan nonon rabé ikini
+1	Mananxawe	_	NOUN	NOUN|nroot	_	5	nsubj	_	Mananxawe
+2	betan	_	CCONJ	CCONJ|cconjroot	_	3	cc	_	betan
+3	nonon	_	NOUN	NOUN|adjroot|all|erg|gen|intrss|loc|nroot	_	1	conj	_	nonon|Case=Acc,Erg,Gen
+4	rabé	_	NUM	NUM|numroot.c	_	3	nummod	_	rabé
+5	ikini	_	VERB	VERB|mid|rem|vroot|vroot.i	Tense=Past	0	root	_	iki-ni
+
+# sent_id = 136
+# text = Jainoax meskó tsinitiboribi jato onantimakatiai .
+1	Jainoax	_	SCONJ	SCONJ|abl|loc|s|sconjroot	_	5	cc	_	Jainoax
+2	meskó	_	ADJ	ADJ|adjroot	_	3	amod	_	meskó
+3	tsinitiboribi	_	NOUN	NOUN|adv|nmlz|nroot|pl|vroot.i	Number=Plur	5	obj	_	tsiniti-bo-ribi
+4	jato	_	PRON	PRON|3.pl	Number=Plur|Person=3	5	iobj	_	jato
+5	onantimakatiai	_	VERB	VERB|inc|pp1|pref|sds|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	onanti-ma-kati-ai|Aspect=Imp,Perf
+6	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 137
+# text = Jaskáxon shinantia iki :
+1	Jaskáxon	_	SCONJ	SCONJ|a|sconjroot|siml	_	2	cc	_	Jaskáxon
+2	shinantia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	shinanti-a
+3	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	2	aux	_	iki
+4	:	_	PUNCT	PUNCT|$.	_	2	punct	_	:
+
+# sent_id = 138
+# text = Jaskáaxon joni n mai chinitia iki ; ja meran sontantimeeti .
+1	Jaskáaxon	_	CONJ	CONJ|	_	5	cc	_	Jaskáaxon
+2	joni	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	5	nsubj	_	joni|Case=Acc,Erg,Gen
+3	n	_	PART	PART|	_	2	case	_	-n
+4	mai	_	NOUN	NOUN|nroot	_	5	obj	_	mai
+5	chinitia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	chiniti-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	;	_	PUNCT	PUNCT|$.	_	5	punct	_	;
+8	ja	_	PRON	PRON|3.sg	Number=Sing|Person=3	10	obl	_	ja
+9	meran	_	POSTP	POSTP|	_	8	case	_	meran
+10	sontantimeeti	_	VERB	VERB|	_	5	mark	_	sontanti-meet-i
+11	.	_	PUNCT	PUNCT|$.	_	10	punct	_	.
+
+# sent_id = 139
+# text = Ja mai chínitiax chichó sotantimeeta iki , ja joni .
+1	Ja	_	DET	DET|demroot	_	2	det	_	Ja
+2	mai	_	NOUN	NOUN|nroot	_	3	obl	_	mai
+3	chínitiax	_	VERB	VERB|psss|vroot|vroot.i	Subj=Same|Tense=RelPrev	5	mark	_	chíniti-ax
+4	chichó	_	POSTP	POSTP|	_	2	case	_	chichó
+5	sotantimeeta	_	VERB	VERB|	_	0	root	_	sotanti-meet-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	,	_	PUNCT	PUNCT|$.	_	5	punct	_	,
+8	ja	_	DET	DET|demroot	_	9	det	_	ja
+9	joni	_	NOUN	NOUN|nroot	_	5	nsubj	_	joni
+10	.	_	PUNCT	PUNCT|$.	_	9	punct	_	.
+
+# sent_id = 140
+# text = Cristóbal Colón ikia iki jawéki oma joni .
+1	Cristóbal	_	PROPN	PROPN|propnroot	_	7	nsubj	_	Cristóbal
+2	Colón	_	PROPN	PROPN|propnroot	_	1	flat	_	Colón
+3	ikia	_	VERB	VERB|cmpl|int|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	7	cop	_	iki-a
+4	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	3	aux	_	iki
+5	jawéki	_	NOUN	NOUN|nroot|priv	Case=Voc	7	nmod	_	jawéki
+6	oma	_	PART	PART|	_	5	case	_	-oma
+7	joni	_	NOUN	NOUN|nroot	_	0	root	_	joni
+8	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 141
+# text = ikikeanaxmabi wetsa ainbo baon kimisha vapor menitia iki .
+1	ikikeanaxmabi	_	VERB	VERB|	_	7	advcl	_	iki-kean-ax-ma-bi
+2	wetsa	_	ADJ	ADJ|adjroot|advroot	_	3	amod	_	wetsa
+3	ainbo	_	NOUN	NOUN|erg|nroot|pl	Case=Erg|Number=Plur	7	nsubj	_	ainbo
+4	baon	_	PART	PART|	_	3	case	_	-baon
+5	kimisha	_	NUM	NUM|numroot.c	_	6	nummod	_	kimisha
+6	vapor	_	NOUN	NOUN|nroot|nrootes	_	7	obj	_	vapor
+7	menitia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	meniti-a
+8	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	7	aux	_	iki
+9	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 142
+# text = Jatíbi baná jawékibo iki xóxotiai jawékibo .
+1	Jatíbi	_	ADJ	ADJ|adjroot	_	3	amod	_	Jatíbi
+2	baná	_	ADJ	ADJ|adjroot|pp2|vroot	Tense=Pqp	3	amod	_	baná
+3	jawékibo	_	NOUN	NOUN|nroot|pl	Case=Voc|Number=Plur	6	nsubj	_	jawéki-bo
+4	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	6	cop	_	iki
+5	xóxotiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	6	amod	_	xóxoti-ai|Aspect=Imp,Perf
+6	jawékibo	_	NOUN	NOUN|nroot|pl	Case=Voc|Number=Plur	0	root	_	jawéki-bo
+7	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 143
+# text = Ani jiwiboribi iki xóxotiairibi .
+1	Ani	_	ADJ	ADJ|adjroot	_	2	amod	_	Ani
+2	jiwiboribi	_	NOUN	NOUN|adv|nroot|pl	Number=Plur	4	nsubj	_	jiwi-bo-ribi
+3	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	4	cop	_	iki
+4	xóxotiairibi	_	VERB	VERB|adv|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	xóxoti-ai-ribi|Aspect=Imp,Perf
+5	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 144
+# text = mai ra netetiibi westíora mayátiai .
+1	mai	_	NOUN	NOUN|ev|nroot	Evident=Fh	5	nsubj	_	mai
+2	ra	_	PART	PART|	_	5	mark	_	-ra
+3	netetiibi	_	NOUN	NOUN|distr|nroot	Case=Dis	5	obl	_	nete-tiibi
+4	westíora	_	NUM	NUM|numroot.c	_	3	nummod	_	westíora
+5	mayátiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	mayáti-ai|Aspect=Imp,Perf
+6	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 145
+# text = Llama iki Perú ain kaíatikanai jawéki .
+1	Llama	_	NOUN	NOUN|nroot	_	6	nsubj	_	Llama
+2	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	6	cop	_	iki
+3	Perú	_	PROPN	PROPN|all|propnroot	_	6	nmod	_	Perú
+4	ain	_	PART	PART|	_	3	case	_	-ain
+5	kaíatikanai	_	VERB	VERB|caus|inc|pl|pp1|pref|sds|vroot|vroot.i	Case=Cau|Mood=Ind|Number=Plur|Subj=Diff|Tense=RelSim|VerbForm=Part	6	amod	_	kaíati-kan-ai|Aspect=Imp,Perf
+6	jawéki	_	NOUN	NOUN|nroot	Case=Voc	0	root	_	jawéki
+7	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 146
+# text = ¿ jawekeskarain ki jonibo katikana iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	jawekeskarain	_	PRON	PRON|	_	5	advmod	_	jawekeskarain
+3	ki	_	PART	PART|	_	5	mark	_	-ki
+4	jonibo	_	NOUN	NOUN|nroot|pl|pref	Number=Plur	5	nsubj	_	joni-bo
+5	katikana	_	VERB	VERB|cmpl|pl|po>s/a|pp2|vroot.i	Aspect=Perf|Number=Plur|Tense=Pqp|VerbForm=Part	0	root	_	kati-kan-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 147
+# text = ¿ jawe ki ainbo n kachiokea nikatia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	7	punct	_	¿
+2	jawe	_	PRON	PRON|int|pronroot.int	Number=Sing|Person=3	7	obj	_	jawe
+3	ki	_	PART	PART|	_	7	mark	_	-ki
+4	ainbo	_	NOUN	NOUN|all|erg|gen|intrss|nroot|pl	Number=Plur	7	nsubj	_	ainbo|Case=Acc,Erg,Gen
+5	n	_	PART	PART|	_	4	case	_	-n
+6	kachiokea	_	ADV	ADV|	_	7	advmod	_	kachio-kea
+7	nikatia	_	VERB	VERB|cmpl|po>s/a|pp2|pst4|vroot.i	Aspect=Perf|VerbForm=Part	0	root	_	nikati-a|Tense=Past,Pqp
+8	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	7	aux	_	iki
+9	?	_	PUNCT	PUNCT|$.	_	7	punct	_	?
+
+# sent_id = 148
+# text = ¿ Jawekeskaaxon ja onsá yoina retetia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	Jawekeskaaxon	_	PRON	PRON|	_	6	advmod	_	Jawekeskaaxon
+3	ja	_	PRON	PRON|3.sg	Number=Sing|Person=3	6	nsubj	_	ja
+4	onsá	_	ADJ	ADJ|adjroot	_	5	amod	_	onsá
+5	yoina	_	NOUN	NOUN|cmpl|nroot|vroot	_	6	obj	_	yoina
+6	retetia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	reteti-a
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 149
+# text = ¿ Memio kea meken man ki jawe yatantia ?
+1	¿	_	PUNCT	PUNCT|$.	_	8	punct	_	¿
+2	Memio	_	ADV	ADV|	_	4	advmod	_	Memio
+3	kea	_	PART	PART|	_	2	case	_	-kea
+4	meken	_	NOUN	NOUN|all|dat|erg|gen|int|loc|nroot|pref	_	8	obl	_	meken|Case=Dat,Erg,Gen
+5	man	_	PART	PART|	_	4	case	_	-man
+6	ki	_	PART	PART|	_	8	mark	_	-ki
+7	jawe	_	PRON	PRON|pronroot.int	Number=Sing|Person=3	8	obj	_	jawe
+8	yatantia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	yatanti-a
+9	?	_	PUNCT	PUNCT|$.	_	8	punct	_	?
+
+# sent_id = 150
+# text = wetsa iki mekayao kea meken .
+1	wetsa	_	NOUN	NOUN|adjroot|nroot	_	5	nsubj	_	wetsa
+2	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	5	cop	_	iki
+3	mekayao	_	ADV	ADV|	_	5	advmod	_	mekayao
+4	kea	_	PART	PART|	_	3	case	_	-kea
+5	meken	_	NOUN	NOUN|all|erg|gen|intrss|nroot|pref	_	0	root	_	meken|Case=Acc,Erg,Gen
+6	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 151
+# text = ja a mekayaokea meken mia n ointiyamaai .
+1	ja	_	DET	DET|	_	4	det	_	ja
+2	a	_	PART	PART|	_	1	case	_	-a
+3	mekayaokea	_	ADV	ADV|	_	4	advmod	_	mekayao-kea
+4	meken	_	NOUN	NOUN|all|erg|gen|intrss|nroot|pref	_	7	obj	_	meken|Case=Acc,Erg,Gen
+5	mia	_	PRON	PRON|2.sg|abs|all	Number=Sing|Person=2	7	nsubj	_	mia
+6	n	_	PART	PART|	_	5	case	_	-n
+7	ointiyamaai	_	VERB	VERB|inc|neg|pp1|pref|sds|vroot|vroot.i	Polarity=Neg|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	ointi-yama-ai|Aspect=Imp,Perf|Mood=Ind,Nec
+8	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 152
+# text = ¿ Jawerano rin ja a mekayao kea meken ?
+1	¿	_	PUNCT	PUNCT|$.	_	8	punct	_	¿
+2	Jawerano	_	PRON	PRON|int2|pronroot.int	PronType=Int	8	obl	_	Jawerano
+3	rin	_	PART	PART|	_	8	mark	_	-rin
+4	ja	_	DET	DET|	_	8	det	_	ja
+5	a	_	PART	PART|	_	4	case	_	-a
+6	mekayao	_	ADV	ADV|	_	8	advmod	_	mekayao
+7	kea	_	PART	PART|	_	6	case	_	-kea
+8	meken	_	NOUN	NOUN|all|erg|gen|intrss|nroot|pref	_	0	root	_	meken|Case=Acc,Erg,Gen
+9	?	_	PUNCT	PUNCT|$.	_	8	punct	_	?
+
+# sent_id = 153
+# text = ¿ ja a mekayao kea meken ki banka pekáo iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	ja	_	DET	DET|	_	6	det	_	ja
+3	a	_	PART	PART|	_	2	case	_	-a
+4	mekayao	_	ADV	ADV|	_	6	advmod	_	mekayao
+5	kea	_	PART	PART|	_	4	case	_	-kea
+6	meken	_	NOUN	NOUN|all|dat|erg|gen|int|loc|nroot|pref	_	0	root	_	meken|Case=Dat,Erg,Gen
+7	ki	_	PART	PART|	_	6	mark	_	-ki
+8	banka	_	NOUN	NOUN|nroot	_	6	obl	_	banka
+9	pekáo	_	POSTP	POSTP|	_	8	case	_	pekáo
+10	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	cop	_	iki
+11	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 154
+# text = ¿ ja a mekayao kea meken ki mesa n iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	ja	_	DET	DET|	_	6	det	_	ja
+3	a	_	PART	PART|	_	2	case	_	-a
+4	mekayao	_	ADV	ADV|	_	6	advmod	_	mekayao
+5	kea	_	PART	PART|	_	4	case	_	-kea
+6	meken	_	NOUN	NOUN|all|dat|erg|gen|int|loc|nroot|pref	_	0	root	_	meken|Case=Dat,Erg,Gen
+7	ki	_	PART	PART|	_	6	mark	_	-ki
+8	mesa	_	NOUN	NOUN|all|erg|gen|intrss|nroot|pref	_	6	obl	_	mesa|Case=Acc,Erg,Gen
+9	n	_	PART	PART|	_	8	case	_	-n
+10	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	6	cop	_	iki
+11	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 155
+# text = Nokon kirika meran riki .
+1	Nokon	_	DET	DET|	_	2	det	_	Nokon
+2	kirika	_	NOUN	NOUN|nroot|pref	_	0	root	_	kirika
+3	meran	_	POSTP	POSTP|	_	2	case	_	meran
+4	riki	_	VERB	VERB|vroot|vroot.i	Mood=Nec	2	cop	_	riki
+5	.	_	PUNCT	PUNCT|$.	_	2	punct	_	.
+
+# sent_id = 156
+# text = ¿ jainoaxki jawe iki nokon Memio kea meken man ?
+1	¿	_	PUNCT	PUNCT|$.	_	3	punct	_	¿
+2	jainoaxki	_	SCONJ	SCONJ|abl|hsy|int|loc|s|sconjroot	Evident=Nfh	3	cc	_	jainoax-ki
+3	jawe	_	PRON	PRON|pronroot.int	Number=Sing|Person=3	0	root	_	jawe
+4	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	3	cop	_	iki
+5	nokon	_	DET	DET|	_	8	det	_	nokon
+6	Memio	_	ADV	ADV|	_	8	advmod	_	Memio
+7	kea	_	PART	PART|	_	6	case	_	-kea
+8	meken	_	NOUN	NOUN|all|erg|gen|nroot|pref	_	3	obl	_	meken|Case=Erg,Gen
+9	man	_	PART	PART|	_	8	case	_	-man
+10	?	_	PUNCT	PUNCT|$.	_	3	punct	_	?
+
+# sent_id = 157
+# text = Mapamea ointixon aninasibo benatiwe .
+1	Mapamea	_	NOUN	NOUN|abl|loc|nroot|pref	_	2	obl	_	Mapa-mea
+2	ointixon	_	VERB	VERB|pssa|vroot	Subj=Same|Tense=RelPrev	4	advcl	_	ointi-xon
+3	aninasibo	_	NOUN	NOUN|nroot|pl	Number=Plur	4	obj	_	aninasi-bo
+4	benatiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	benati-we
+5	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 158
+# text = ¿ jawe ki yoitiai nato kointo nin ?
+1	¿	_	PUNCT	PUNCT|$.	_	4	punct	_	¿
+2	jawe	_	PRON	PRON|int|pronroot.int	Number=Sing|Person=3	4	obj	_	jawe
+3	ki	_	PART	PART|	_	4	mark	_	-ki
+4	yoitiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	yoiti-ai|Aspect=Imp,Perf
+5	nato	_	DET	DET|demroot	_	6	det	_	nato
+6	kointo	_	NOUN	NOUN|all|erg|gen|nroot|pref|priv	_	4	nsubj	_	kointo|Case=Erg,Gen
+7	nin	_	PART	PART|	_	6	case	_	-nin
+8	?	_	PUNCT	PUNCT|$.	_	4	punct	_	?
+
+# sent_id = 159
+# text = ¿ jawekeskaxon ki noaa atia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	jawekeskaxon	_	PRON	PRON|a|int|pronroot.int	_	5	advmod	_	jawekeskaxon
+3	ki	_	PART	PART|	_	5	mark	_	-ki
+4	noaa	_	PRON	PRON|	_	5	obj	_	noa-a
+5	atia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	ati-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 160
+# text = ¿ jawepari ki pikotiai ?
+1	¿	_	PUNCT	PUNCT|$.	_	4	punct	_	¿
+2	jawepari	_	PRON	PRON|	_	4	nsubj	_	jawe-pari
+3	ki	_	PART	PART|	_	4	mark	_	-ki
+4	pikotiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	pikoti-ai|Aspect=Imp,Perf
+5	?	_	PUNCT	PUNCT|$.	_	4	punct	_	?
+
+# sent_id = 161
+# text = katixon , nókotia iki westíora kini meran oa .
+1	katixon	_	VERB	VERB|pssa|vroot	Subj=Same|Tense=RelPrev	3	advcl	_	kati-xon
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	nókotia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	nókoti-a
+4	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	3	aux	_	iki
+5	westíora	_	DET	DET|	_	6	det	_	westíora
+6	kini	_	NOUN	NOUN|nroot	_	3	obl	_	kini
+7	meran	_	POSTP	POSTP|	_	6	case	_	meran
+8	oa	_	PART	PART|	_	7	case	_	-oa
+9	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 162
+# text = baritiatiibi icha bimitiai .
+1	baritiatiibi	_	NOUN	NOUN|distr|nroot	Case=Dis	3	obl	_	baritia-tiibi
+2	icha	_	ADJ	ADJ|adjroot|advroot	_	3	advmod	_	icha
+3	bimitiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	bimiti-ai|Aspect=Imp,Perf
+4	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 163
+# text = Ja llama iki jakon jakonbires jawéki , manan ani mea jawéki .
+1	Ja	_	DET	DET|demroot	_	2	det	_	Ja
+2	llama	_	NOUN	NOUN|nroot	_	6	nsubj	_	llama
+3	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	6	cop	_	iki
+4	jakon	_	ADJ	ADJ|adjroot|erg	_	5	compound	_	jakon
+5	jakonbires	_	ADJ	ADJ|adjroot|adv	_	6	amod	_	jakon-bires
+6	jawéki	_	NOUN	NOUN|nroot	Case=Voc	0	root	_	jawéki
+7	,	_	PUNCT	PUNCT|$.	_	11	punct	_	,
+8	manan	_	NOUN	NOUN|all|cmpl|erg|gen|intrss|nroot|pref|vroot	_	11	nmod	_	manan|Case=Acc,Erg,Gen
+9	ani	_	ADJ	ADJ|	_	8	amod	_	ani
+10	mea	_	PART	PART|	_	8	case	_	-mea
+11	jawéki	_	NOUN	NOUN|nroot	Case=Voc	6	conj	_	jawéki
+12	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 164
+# text = Escuela tapo noa n matsótiti iki .
+1	Escuela	_	NOUN	NOUN|nroot|nrootes	Case=Gen	2	compound	_	Escuela
+2	tapo	_	NOUN	NOUN|nroot	_	5	obj	_	tapo
+3	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	5	nsubj	_	noa
+4	n	_	PART	PART|	_	3	case	_	-n
+5	matsótiti	_	VERB	VERB|inf|vroot|vroot.i	VerbForm=Inf	0	root	_	matsóti-ti
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 165
+# text = Kirika potatishokoboa noan tasá kan napótiti iki .
+1	Kirika	_	NOUN	NOUN|nroot|pref	_	6	obj	_	Kirika
+2	potatishokoboa	_	VERB	VERB|	_	1	amod	_	potati-shoko-bo-a
+3	noan	_	PRON	PRON|1.pl|abs|all	_	6	nsubj	_	noa-n
+4	tasá	_	NOUN	NOUN|erg|kan|nroot.voc|pref	_	6	obl	_	tasá|Case=Erg,Voc
+5	kan	_	PART	PART|	_	4	case	_	-kan
+6	napótiti	_	VERB	VERB|inf|vroot|vroot.i	VerbForm=Inf	0	root	_	napóti-ti
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 166
+# text = Bakeatiai jawéki ra rabé iki .
+1	Bakeatiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	2	amod	_	Bakeati-ai|Aspect=Imp,Perf
+2	jawéki	_	NOUN	NOUN|ev|nroot	Case=Voc|Evident=Fh	4	nsubj	_	jawéki
+3	ra	_	PART	PART|	_	4	mark	_	-ra
+4	rabé	_	NUM	NUM|numroot.c	_	0	root	_	rabé
+5	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	4	cop	_	iki
+6	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 167
+# text = Jatike joni n kaíatiti jawéki , jainoax nií meran ikia jawéki .
+1	Jatike	_	VERB	VERB|cmpl|pds|vroot|vroot.i	Aspect=Perf|Mood=Ind|Subj=Diff|Tense=RelPrev	0	root	_	Jati-ke
+2	joni	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	4	nsubj	_	joni|Case=Acc,Erg,Gen
+3	n	_	PART	PART|	_	2	case	_	-n
+4	kaíatiti	_	VERB	VERB|inf|vroot|vroot.i	VerbForm=Inf	5	amod	_	kaíati-ti
+5	jawéki	_	NOUN	NOUN|nroot	Case=Voc	1	nsubj	_	jawéki
+6	,	_	PUNCT	PUNCT|$.	_	5	punct	_	,
+7	jainoax	_	SCONJ	SCONJ|abl|loc|s|sconjroot	_	11	cc	_	jainoax
+8	nií	_	NOUN	NOUN|nroot.voc	Case=Voc	10	obl	_	nií
+9	meran	_	POSTP	POSTP|	_	8	case	_	meran
+10	ikia	_	VERB	VERB|cmpl|int|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	11	amod	_	iki-a
+11	jawéki	_	NOUN	NOUN|nroot	Case=Voc	5	conj	_	jawéki
+12	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 168
+# text = moatian ronki Santa Rosa nko ki Chexe Inca ikipaonike .
+1	moatian	_	ADV	ADV|	_	9	advmod	_	moatian
+2	ronki	_	PART	PART|	_	9	mark	_	-ronki
+3	Santa	_	PROPN	PROPN|propnroot	_	4	compound	_	Santa
+4	Rosa	_	PROPN	PROPN|	_	9	obl	_	Rosa
+5	nko	_	PART	PART|	_	4	case	_	-nko
+6	ki	_	PART	PART|	_	9	mark	_	-ki
+7	Chexe	_	PROPN	PROPN|propnroot	_	8	compound	_	Chexe
+8	Inca	_	PROPN	PROPN|	_	9	nsubj	_	Inca
+9	ikipaonike	_	VERB	VERB|cmpl|hab|mid|pds|rem|vroot|vroot.i	Mood=Ind|Subj=Diff	0	root	_	iki-pao-ni-ke|Aspect=Hab,Perf|Tense=Past,RelPrev
+10	.	_	PUNCT	PUNCT|$.	_	9	punct	_	.
+
+# sent_id = 169
+# text = Ja Inca ronki ikipaonike , wisotanishoko joni .
+1	Ja	_	DET	DET|demroot	_	2	det	_	Ja
+2	Inca	_	NOUN	NOUN|all|dat|erg|gen|hsy|int|loc|nroot|pref	Evident=Nfh	7	nsubj	_	Inca|Case=Dat,Erg,Gen
+3	ronki	_	PART	PART|	_	7	mark	_	-ronki
+4	ikipaonike	_	VERB	VERB|cmpl|hab|mid|pds|rem|vroot|vroot.i	Mood=Ind|Subj=Diff	7	cop	_	iki-pao-ni-ke|Aspect=Hab,Perf|Tense=Past,RelPrev
+5	,	_	PUNCT	PUNCT|$.	_	4	punct	_	,
+6	wisotanishoko	_	ADJ	ADJ|	_	7	amod	_	wiso-tani-shoko
+7	joni	_	NOUN	NOUN|nroot	_	0	root	_	joni
+8	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 170
+# text = Jaskara ikiketian ronki atipaokannike " Chexe Inca " , atikin .
+1	Jaskara	_	CONJ	CONJ|	_	4	cc	_	Jaskara
+2	ikiketian	_	VERB	VERB|ds|hsy|int|mid|p|vroot|vroot.i	Evident=Nfh|Subj=Diff|Tense=RelPrev	4	advcl	_	iki-ketian
+3	ronki	_	PART	PART|	_	4	mark	_	-ronki
+4	atipaokannike	_	VERB	VERB|cmpl|hab|mid|pds|pl|rem|vroot	Mood=Ind|Number=Plur|Subj=Diff	0	root	_	ati-pao-kan-ni-ke|Aspect=Hab,Perf|Tense=Past,RelPrev
+5	"	_	PUNCT	PUNCT|$.	_	7	punct	_	"
+6	Chexe	_	PROPN	PROPN|propnroot	_	7	amod	_	Chexe
+7	Inca	_	PROPN	PROPN|	_	4	obj	_	Inca
+8	"	_	PUNCT	PUNCT|$.	_	7	punct	_	"
+9	,	_	PUNCT	PUNCT|$.	_	7	punct	_	,
+10	atikin	_	VERB	VERB|sssa|vroot	Subj=Same|Tense=RelSim	4	advcl	_	ati-kin
+11	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 171
+# text = ¿ ainbo n ki jaweraki jawen bene atikatiai ?
+1	¿	_	PUNCT	PUNCT|$.	_	8	punct	_	¿
+2	ainbo	_	NOUN	NOUN|all|dat|erg|gen|int|loc|nroot|pl	Number=Plur	8	nsubj	_	ainbo|Case=Dat,Erg,Gen
+3	n	_	PART	PART|	_	2	case	_	-n
+4	ki	_	PART	PART|	_	8	mark	_	-ki
+5	jaweraki	_	PRON	PRON|	_	8	obj	_	jaweraki
+6	jawen	_	DET	DET|	_	7	det	_	jawen
+7	bene	_	NOUN	NOUN|adjroot|nroot	_	8	iobj	_	bene
+8	atikatiai	_	VERB	VERB|inc|mid|pp1|pst4|sds|vroot	Mood=Ind|Subj=Diff|VerbForm=Part	0	root	_	ati-kati-ai|Aspect=Imp,Perf|Tense=Past,RelSim
+9	?	_	PUNCT	PUNCT|$.	_	8	punct	_	?
+
+# sent_id = 172
+# text = noa n anibo baon noa a atiai cuídantikin .
+1	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	3	nmod	_	noa
+2	n	_	PART	PART|	_	1	case	_	-n
+3	anibo	_	NOUN	NOUN|adjroot|erg|nroot|pl	Case=Erg|Number=Plur	7	nsubj	_	anibo
+4	baon	_	PART	PART|	_	3	case	_	-baon
+5	noa	_	PRON	PRON|	_	7	obj	_	noa
+6	a	_	PART	PART|	_	5	case	_	-a
+7	atiai	_	VERB	VERB|inc|pp1|sds|vroot	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	ati-ai|Aspect=Imp,Perf
+8	cuídantikin	_	VERB	VERB|	_	7	advcl	_	cuídanti-kin
+9	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 173
+# text = jainxonribi noa n papáisi n noa a noitike .
+1	jainxonribi	_	SCONJ	SCONJ|a|adv|sconjroot	_	8	cc	_	jainxon-ribi
+2	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	4	nmod	_	noa
+3	n	_	PART	PART|	_	2	case	_	-n
+4	papáisi	_	NOUN	NOUN|all|deprec|erg|gen|intrss|nroot.voc|pref	_	8	nsubj	_	papá-isi|Case=Acc,Erg,Gen,Voc
+5	n	_	PART	PART|	_	4	case	_	-n
+6	noa	_	PRON	PRON|	_	8	obj	_	noa
+7	a	_	PART	PART|	_	6	case	_	-a
+8	noitike	_	VERB	VERB|cmpl|pds|pref|vroot.i	Aspect=Perf|Mood=Ind|Subj=Diff|Tense=RelPrev	0	root	_	noiti-ke
+9	.	_	PUNCT	PUNCT|$.	_	8	punct	_	.
+
+# sent_id = 174
+# text = Katikinbi ja jonin shinantia iki :
+1	Katikinbi	_	VERB	VERB|	_	4	advcl	_	Kati-kin-bi
+2	ja	_	DET	DET|demroot	_	3	det	_	ja
+3	jonin	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	0	root	_	joni-n|Case=Acc,Erg,Gen
+4	shinantia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	3	nsubj	_	shinanti-a
+5	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	4	aux	_	iki
+6	:	_	PUNCT	PUNCT|$.	_	4	punct	_	:
+
+# sent_id = 175
+# text = eaa ra jakonbirestani iki .
+1	eaa	_	PRON	PRON|	_	3	nsubj	_	ea-a
+2	ra	_	PART	PART|	_	3	mark	_	-ra
+3	jakonbirestani	_	ADJ	ADJ|	_	0	root	_	jakon-bires-tani
+4	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	3	cop	_	iki
+5	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 176
+# text = ¿ mia n papa ki jaskábirestani iitiai ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	mia	_	PRON	PRON|2.sg|abs|all	Number=Sing|Person=2	4	det	_	mia
+3	n	_	PART	PART|	_	2	case	_	-n
+4	papa	_	NOUN	NOUN|dat|int|loc|nroot|pref	Case=Dat	6	nsubj	_	papa
+5	ki	_	PART	PART|	_	6	mark	_	-ki
+6	jaskábirestani	_	ADV	ADV|	_	0	root	_	jaská-bires-tani
+7	iitiai	_	VERB	VERB|inc|pp1|sds|vroot	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	6	cop	_	iiti-ai|Aspect=Imp,Perf
+8	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 177
+# text = ¿ jatibi ki isintikonama ?
+1	¿	_	PUNCT	PUNCT|$.	_	4	punct	_	¿
+2	jatibi	_	ADJ	ADJ|adjroot|int	_	4	nsubj	_	jatibi
+3	ki	_	PART	PART|	_	4	mark	_	-ki
+4	isintikonama	_	VERB	VERB|	_	0	root	_	isinti-kon-a-ma
+5	?	_	PUNCT	PUNCT|$.	_	4	punct	_	?
+
+# sent_id = 178
+# text = ikiama .
+1	ikiama	_	VERB	VERB|cmpl|int|neg|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Polarity=Neg|Tense=Pqp|VerbForm=Part	0	root	_	iki-ama
+2	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 179
+# text = jatibi ra koshibirestani ikikanai .
+1	jatibi	_	ADJ	ADJ|	_	3	nsubj	_	jatibi
+2	ra	_	PART	PART|	_	3	mark	_	-ra
+3	koshibirestani	_	ADJ	ADJ|	_	0	root	_	koshi-bires-tani
+4	ikikanai	_	VERB	VERB|inc|mid|pl|pp1|sds|vroot|vroot.i	Mood=Ind|Number=Plur|Subj=Diff|Tense=RelSim|VerbForm=Part	3	cop	_	iki-kan-ai|Aspect=Imp,Perf
+5	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 180
+# text = Jenjen .
+1	Jenjen	_	INTJ	INTJ|intjroot	_	0	root	_	Jenjen
+2	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 181
+# text = katiribaparibanon .
+1	katiribaparibanon	_	VERB	VERB|	_	0	root	_	kati-riba-pari-banon
+2	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 182
+# text = Nokon tita n wai orotiai .
+1	Nokon	_	DET	DET|	_	2	det	_	Nokon
+2	tita	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	5	nsubj	_	tita|Case=Acc,Erg,Gen
+3	n	_	PART	PART|	_	2	case	_	-n
+4	wai	_	NOUN	NOUN|nroot	_	5	obj	_	wai
+5	orotiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	oroti-ai|Aspect=Imp,Perf
+6	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 183
+# text = Nokon papa n jiwi rératiai , waiatikin .
+1	Nokon	_	DET	DET|	_	2	det	_	Nokon
+2	papa	_	NOUN	NOUN|all|erg|gen|intrss|nroot|pref	_	5	nsubj	_	papa|Case=Acc,Erg,Gen
+3	n	_	PART	PART|	_	2	case	_	-n
+4	jiwi	_	NOUN	NOUN|nroot	_	5	obj	_	jiwi
+5	rératiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	rérati-ai|Aspect=Imp,Perf
+6	,	_	PUNCT	PUNCT|$.	_	5	punct	_	,
+7	waiatikin	_	VERB	VERB|	_	5	advcl	_	waiati-kin
+8	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 184
+# text = Nokon papa nétetiibi jene n katiai , yomeratii .
+1	Nokon	_	DET	DET|	_	2	det	_	Nokon
+2	papa	_	NOUN	NOUN|nroot|nrootes|pref	Case=Gen	6	nsubj	_	papa
+3	nétetiibi	_	NOUN	NOUN|distr|nroot	_	6	advmod	_	néte-tiibi|Case=Dis,Gen,Voc
+4	jene	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	6	obl	_	jene|Case=Acc,Erg,Gen
+5	n	_	PART	PART|	_	4	case	_	-n
+6	katiai	_	VERB	VERB|inc|pp1|sds|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	kati-ai|Aspect=Imp,Perf
+7	,	_	PUNCT	PUNCT|$.	_	6	punct	_	,
+8	yomeratii	_	VERB	VERB|ssss|vroot.i	Subj=Same|Tense=RelSim	6	advcl	_	yomerati-i
+9	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 185
+# text = Nokon papa n noa a marotixonai non n chopa y kerosene .
+1	Nokon	_	DET	DET|	_	2	det	_	Nokon
+2	papa	_	NOUN	NOUN|all|erg|gen|intrss|nroot|pref	_	6	nsubj	_	papa|Case=Acc,Erg,Gen
+3	n	_	PART	PART|	_	2	case	_	-n
+4	noa	_	PRON	PRON|	_	6	iobj	_	noa
+5	a	_	PART	PART|	_	4	case	_	-a
+6	marotixonai	_	VERB	VERB|ben|inc|pp1|sds|vroot	Case=Ben|Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	maroti-xon-ai|Aspect=Imp,Perf
+7	non	_	PRON	PRON|1.pl|all|erg|gen	Number=Plur|Person=1	9	nmod	_	non
+8	n	_	PART	PART|	_	7	case	_	-n
+9	chopa	_	NOUN	NOUN|nroot	_	6	obj	_	chopa
+10	y	_	CONJ	CONJ|	_	11	cc	_	y
+11	kerosene	_	NOUN	NOUN|nroot	_	9	conj	_	kerosene
+12	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 186
+# text = jakonatikin nacatiai noa n xeta n , besheatikin .
+1	jakonatikin	_	VERB	VERB|	_	2	advcl	_	jakonati-kin
+2	nacatiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	nacati-ai|Aspect=Imp,Perf
+3	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	2	nsubj	_	noa
+4	n	_	PART	PART|	_	3	case	_	-n
+5	xeta	_	NOUN	NOUN|all|erg|gen|intrss|nroot|pref	_	2	obl	_	xeta|Case=Acc,Erg,Gen
+6	n	_	PART	PART|	_	5	case	_	-n
+7	,	_	PUNCT	PUNCT|$.	_	2	punct	_	,
+8	besheatikin	_	VERB	VERB|sssa|vroot	Subj=Same|Tense=RelSim	2	advcl	_	besheati-kin
+9	.	_	PUNCT	PUNCT|$.	_	2	punct	_	.
+
+# sent_id = 187
+# text = noa n poko meranoax a noa n jawékiatiabo wetsaatiresibaai .
+1	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	3	nmod	_	noa
+2	n	_	PART	PART|	_	1	case	_	-n
+3	poko	_	NOUN	NOUN|nroot	_	9	obl	_	poko
+4	meranoax	_	POSTP	POSTP|	_	3	case	_	meran-oax
+5	a	_	PART	PART|	_	9	mark	_	-a
+6	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	8	nmod	_	noa
+7	n	_	PART	PART|	_	6	case	_	-n
+8	jawékiatiabo	_	VERB	VERB|	_	9	nsubj	_	jawékiati-a-bo
+9	wetsaatiresibaai	_	VERB	VERB|	_	0	root	_	wetsaati-res-iba-ai
+10	.	_	PUNCT	PUNCT|$.	_	9	punct	_	.
+
+# sent_id = 188
+# text = Yami jawékiboribi , itiresa jawékibo iki .
+1	Yami	_	NOUN	NOUN|nroot	Case=Gen	2	compound	_	Yami
+2	jawékiboribi	_	NOUN	NOUN|adv|nroot|pl	Case=Voc|Number=Plur	5	nsubj	_	jawéki-bo-ribi
+3	,	_	PUNCT	PUNCT|$.	_	2	punct	_	,
+4	itiresa	_	VERB	VERB|adv|cmpl|po>s/a|pp2|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	5	amod	_	iti-res-a
+5	jawékibo	_	NOUN	NOUN|nroot|pl	Case=Voc|Number=Plur	0	root	_	jawéki-bo
+6	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	5	cop	_	iki
+7	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 189
+# text = Perú ain ra jatike icha yami keská jawékibo .
+1	Perú	_	PROPN	PROPN|all|ev|propnroot	Evident=Fh	4	obl	_	Perú
+2	ain	_	PART	PART|	_	1	case	_	-ain
+3	ra	_	PART	PART|	_	4	mark	_	-ra
+4	jatike	_	VERB	VERB|cmpl|pds|vroot|vroot.i	Aspect=Perf|Mood=Ind|Subj=Diff|Tense=RelPrev	0	root	_	jati-ke
+5	icha	_	ADJ	ADJ|adjroot|advroot	_	6	amod	_	icha
+6	yami	_	NOUN	NOUN|nroot	_	8	nmod	_	yami
+7	keská	_	POSTP	POSTP|	_	6	case	_	keská
+8	jawékibo	_	NOUN	NOUN|nroot|pl	Case=Voc|Number=Plur	4	nsubj	_	jawéki-bo
+9	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 190
+# text = Ja jawékibo iki koríki , centavo , yami , yami boí .
+1	Ja	_	DET	DET|demroot	_	2	det	_	Ja
+2	jawékibo	_	NOUN	NOUN|nroot|pl	Case=Voc|Number=Plur	4	nsubj	_	jawéki-bo
+3	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	4	cop	_	iki
+4	koríki	_	NOUN	NOUN|dat|int|loc|nroot|nroot.voc	_	0	root	_	koríki|Case=Dat,Voc
+5	,	_	PUNCT	PUNCT|$.	_	4	punct	_	,
+6	centavo	_	NOUN	NOUN|nroot	_	4	conj	_	centavo
+7	,	_	PUNCT	PUNCT|$.	_	8	punct	_	,
+8	yami	_	NOUN	NOUN|nroot	_	4	conj	_	yami
+9	,	_	PUNCT	PUNCT|$.	_	10	punct	_	,
+10	yami	_	NOUN	NOUN|nroot	Case=Gen	11	compound	_	yami
+11	boí	_	NOUN	NOUN|nroot.voc	Case=Voc	4	conj	_	boí
+12	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 191
+# text = itiresa jawékibo bítixon icha jakon jawékibo atikanai .
+1	itiresa	_	VERB	VERB|adv|cmpl|po>s/a|pp2|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	2	amod	_	iti-res-a
+2	jawékibo	_	NOUN	NOUN|nroot|pl	Case=Voc|Number=Plur	3	obj	_	jawéki-bo
+3	bítixon	_	VERB	VERB|pssa|vroot	Subj=Same|Tense=RelPrev	7	advcl	_	bíti-xon
+4	icha	_	ADJ	ADJ|adjroot|advroot	_	6	amod	_	icha
+5	jakon	_	ADJ	ADJ|adjroot|erg	_	6	amod	_	jakon
+6	jawékibo	_	NOUN	NOUN|nroot|pl	Case=Voc|Number=Plur	7	obj	_	jawéki-bo
+7	atikanai	_	VERB	VERB|inc|mid|pl|pp1|sds|vroot	Mood=Ind|Number=Plur|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	ati-kan-ai|Aspect=Imp,Perf
+8	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 192
+# text = Petroleo xeni iki itiresa jawéki .
+1	Petroleo	_	NOUN	NOUN|nroot|nrootes	Case=Gen	2	nmod	_	Petroleo
+2	xeni	_	NOUN	NOUN|nroot	_	5	nsubj	_	xeni
+3	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	5	cop	_	iki
+4	itiresa	_	VERB	VERB|adv|cmpl|po>s/a|pp2|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	5	amod	_	iti-res-a
+5	jawéki	_	NOUN	NOUN|nroot	Case=Voc	0	root	_	jawéki
+6	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 193
+# text = ¿ yoxánshoko ainbo ki jotiyamaai ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	yoxánshoko	_	NOUN	NOUN|adjroot|dim|nroot	_	5	nsubj	_	yoxán-shoko|Case=Gen,Voc
+3	ainbo	_	NOUN	NOUN|dat|int|loc|nroot|pl	Case=Dat|Number=Plur	2	compound	_	ainbo
+4	ki	_	PART	PART|	_	5	mark	_	-ki
+5	jotiyamaai	_	VERB	VERB|inc|neg|pp1|pref|sds|vroot|vroot.i	Polarity=Neg|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	joti-yama-ai|Aspect=Imp,Perf|Mood=Ind,Nec
+6	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 194
+# text = ¿ xóntako ki jotiyamaai ?
+1	¿	_	PUNCT	PUNCT|$.	_	4	punct	_	¿
+2	xóntako	_	NOUN	NOUN|dat|int|loc|nroot	_	4	nsubj	_	xóntako|Case=Dat,Voc
+3	ki	_	PART	PART|	_	4	mark	_	-ki
+4	jotiyamaai	_	VERB	VERB|inc|neg|pp1|pref|sds|vroot|vroot.i	Polarity=Neg|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	joti-yama-ai|Aspect=Imp,Perf|Mood=Ind,Nec
+5	?	_	PUNCT	PUNCT|$.	_	4	punct	_	?
+
+# sent_id = 195
+# text = jotiyamaai , ni yoxanshokobi , ni xóntakobi , ni nokon anibobi betiyamakanai .
+1	jotiyamaai	_	VERB	VERB|inc|neg|pp1|pref|sds|vroot|vroot.i	Polarity=Neg|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	joti-yama-ai|Aspect=Imp,Perf|Mood=Ind,Nec
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	ni	_	CONJ	CONJ|	_	4	cc	_	ni
+4	yoxanshokobi	_	NOUN	NOUN|dim|em|nroot	_	1	nsubj	_	yoxan-shoko-bi
+5	,	_	PUNCT	PUNCT|$.	_	7	punct	_	,
+6	ni	_	CONJ	CONJ|	_	7	cc	_	ni
+7	xóntakobi	_	NOUN	NOUN|em|nroot	Case=Voc	4	conj	_	xóntako-bi
+8	,	_	PUNCT	PUNCT|$.	_	12	punct	_	,
+9	ni	_	CONJ	CONJ|	_	12	cc	_	ni
+10	nokon	_	DET	DET|	_	11	det	_	nokon
+11	anibobi	_	NOUN	NOUN|adjroot|em|nroot|pl	Number=Plur	12	obj	_	anibo-bi
+12	betiyamakanai	_	VERB	VERB|inc|mid|neg|pl|pp1|pref|sds|vroot|vroot.i	Number=Plur|Polarity=Neg|Subj=Diff|Tense=RelSim|VerbForm=Part	1	conj	_	beti-yama-kan-ai|Aspect=Imp,Perf|Mood=Ind,Nec
+13	.	_	PUNCT	PUNCT|$.	_	12	punct	_	.
+
+# sent_id = 196
+# text = Y ¿ jaweaki ki mia a weníntiakaina ?
+1	Y	_	CONJ	CONJ|	_	7	cc	_	Y
+2	¿	_	PUNCT	PUNCT|$.	_	7	punct	_	¿
+3	jaweaki	_	PRON	PRON|	_	7	advmod	_	jaweaki
+4	ki	_	PART	PART|	_	7	mark	_	-ki
+5	mia	_	PRON	PRON|	_	7	nsubj	_	mia
+6	a	_	PART	PART|	_	5	case	_	-a
+7	weníntiakaina	_	VERB	VERB|and1|cmpl|mid|po>s/a|pp2|pref|vroot	Aspect=Perf|Case=Abl|Tense=Pqp|VerbForm=Part	0	root	_	wenínti-a-kain-a
+8	?	_	PUNCT	PUNCT|$.	_	7	punct	_	?
+
+# sent_id = 197
+# text = moa ra wetsa joni jotiai , ja a ra noa n shíroatitima iki .
+1	moa	_	ADV	ADV|advroot|ev	Evident=Fh	5	advmod	_	moa
+2	ra	_	PART	PART|	_	5	mark	_	-ra
+3	wetsa	_	ADJ	ADJ|adjroot|advroot	_	4	amod	_	wetsa
+4	joni	_	NOUN	NOUN|nroot	_	5	nsubj	_	joni
+5	jotiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	joti-ai|Aspect=Imp,Perf
+6	,	_	PUNCT	PUNCT|$.	_	12	cc	_	,
+7	ja	_	PRON	PRON|	_	12	obj	_	ja
+8	a	_	PART	PART|	_	7	case	_	-a
+9	ra	_	PART	PART|	_	12	mark	_	-ra
+10	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	12	nsubj	_	noa
+11	n	_	PART	PART|	_	10	case	_	-n
+12	shíroatitima	_	VERB	VERB|	_	5	conj	_	shíroati-ti-ma
+13	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	12	aux	_	iki
+14	.	_	PUNCT	PUNCT|$.	_	12	punct	_	.
+
+# sent_id = 198
+# text = Ja joni ra jotiai , noa n reken .
+1	Ja	_	DET	DET|demroot	_	2	det	_	Ja
+2	joni	_	NOUN	NOUN|ev|nroot	Evident=Fh	4	nsubj	_	joni
+3	ra	_	PART	PART|	_	4	mark	_	-ra
+4	jotiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	joti-ai|Aspect=Imp,Perf
+5	,	_	PUNCT	PUNCT|$.	_	4	punct	_	,
+6	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	8	nmod	_	noa
+7	n	_	PART	PART|	_	6	case	_	-n
+8	reken	_	NOUN	NOUN|adjroot|all|erg|gen|intrss|nroot|pref	_	2	appos	_	reken|Case=Acc,Erg,Gen
+9	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 199
+# text = miaa jakiribi ointiberibai jotinox .
+1	miaa	_	PRON	PRON|	_	3	nsubj	_	mia-a
+2	jakiribi	_	ADV	ADV|adv|advroot|demroot|loc	Case=Loc	3	advmod	_	jakiribi
+3	ointiberibai	_	VERB	VERB|adv|mid|pref|ssss|vroot|vroot.i	Subj=Same|Tense=RelSim	0	root	_	ointi-be-riba-i
+4	jotinox	_	VERB	VERB|fsss|vroot.i	Subj=Same|Tense=RelNext	3	advcl	_	joti-nox
+5	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 200
+# text = mian kirika meran wishatiwe , mia be raeanantiai baon jane .
+1	mian	_	PRON	PRON|2.sg|abs|all	_	2	det	_	mia-n
+2	kirika	_	NOUN	NOUN|nroot|pref	_	4	nmod	_	kirika
+3	meran	_	POSTP	POSTP|	_	2	case	_	meran
+4	wishatiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	wishati-we
+5	,	_	PUNCT	PUNCT|$.	_	4	punct	_	,
+6	mia	_	PRON	PRON|	_	8	nmod	_	mia
+7	be	_	PART	PART|	_	6	case	_	-be
+8	raeanantiai	_	VERB	VERB|	_	10	nmod	_	raeananti-ai
+9	baon	_	PART	PART|	_	8	case	_	-baon
+10	jane	_	NOUN	NOUN|nroot	_	4	obj	_	jane
+11	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 201
+# text = ¡ Chama !
+1	¡	_	PUNCT	PUNCT|$.	_	2	punct	_	¡
+2	Chama	_	NOUN	NOUN|nroot|pref	_	0	root	_	Chama
+3	!	_	PUNCT	PUNCT|$.	_	2	punct	_	!
+
+# sent_id = 202
+# text = ¿ presidente ki jotiyamaai ?
+1	¿	_	PUNCT	PUNCT|$.	_	4	punct	_	¿
+2	presidente	_	NOUN	NOUN|dat|int|loc|nroot	Case=Dat	4	nsubj	_	presidente
+3	ki	_	PART	PART|	_	4	mark	_	-ki
+4	jotiyamaai	_	VERB	VERB|inc|neg|pp1|pref|sds|vroot|vroot.i	Polarity=Neg|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	joti-yama-ai|Aspect=Imp,Perf|Mood=Ind,Nec
+5	?	_	PUNCT	PUNCT|$.	_	4	punct	_	?
+
+# sent_id = 203
+# text = jotiyamaai Presidente .
+1	jotiyamaai	_	VERB	VERB|inc|neg|pp1|pref|sds|vroot|vroot.i	Polarity=Neg|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	joti-yama-ai|Aspect=Imp,Perf|Mood=Ind,Nec
+2	Presidente	_	NOUN	NOUN|nroot|nrootes	_	1	nsubj	_	Presidente
+3	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 204
+# text = ¿ teniente ki jotiyamaai ?
+1	¿	_	PUNCT	PUNCT|$.	_	4	punct	_	¿
+2	teniente	_	NOUN	NOUN|dat|int|loc|nroot	Case=Dat	4	nsubj	_	teniente
+3	ki	_	PART	PART|	_	4	mark	_	-ki
+4	jotiyamaai	_	VERB	VERB|inc|neg|pp1|pref|sds|vroot|vroot.i	Polarity=Neg|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	joti-yama-ai|Aspect=Imp,Perf|Mood=Ind,Nec
+5	?	_	PUNCT	PUNCT|$.	_	4	punct	_	?
+
+# sent_id = 205
+# text = ikia iki wetsa joni , Cristóbal Colón .
+1	ikia	_	VERB	VERB|cmpl|int|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	iki-a
+2	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	1	aux	_	iki
+3	wetsa	_	ADJ	ADJ|adjroot|advroot	_	4	amod	_	wetsa
+4	joni	_	NOUN	NOUN|nroot	_	1	nsubj	_	joni
+5	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+6	Cristóbal	_	PROPN	PROPN|propnroot	_	4	appos	_	Cristóbal
+7	Colón	_	PROPN	PROPN|propnroot	_	6	flat	_	Colón
+8	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 206
+# text = bakeatiai jawéki ra rabé iki .
+1	bakeatiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	2	amod	_	bakeati-ai|Aspect=Imp,Perf
+2	jawéki	_	NOUN	NOUN|ev|nroot	Case=Voc|Evident=Fh	4	nsubj	_	jawéki
+3	ra	_	PART	PART|	_	4	mark	_	-ra
+4	rabé	_	NUM	NUM|numroot.c	_	0	root	_	rabé
+5	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	4	cop	_	iki
+6	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 207
+# text = jatike joni n kaíatiti jawéki , jainoax nií meran ikia jawéki .
+1	jatike	_	VERB	VERB|cmpl|pds|vroot|vroot.i	Aspect=Perf|Mood=Ind|Subj=Diff|Tense=RelPrev	0	root	_	jati-ke
+2	joni	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	4	nmod	_	joni|Case=Acc,Erg,Gen
+3	n	_	PART	PART|	_	2	case	_	-n
+4	kaíatiti	_	VERB	VERB|inf|vroot|vroot.i	VerbForm=Inf	5	amod	_	kaíati-ti
+5	jawéki	_	NOUN	NOUN|nroot	Case=Voc	1	nsubj	_	jawéki
+6	,	_	PUNCT	PUNCT|$.	_	5	punct	_	,
+7	jainoax	_	SCONJ	SCONJ|abl|loc|s|sconjroot	_	11	cc	_	jainoax
+8	nií	_	NOUN	NOUN|nroot.voc	Case=Voc	10	obl	_	nií
+9	meran	_	POSTP	POSTP|	_	8	case	_	meran
+10	ikia	_	VERB	VERB|cmpl|int|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	11	amod	_	iki-a
+11	jawéki	_	NOUN	NOUN|nroot	Case=Voc	5	conj	_	jawéki
+12	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 208
+# text = mia n cuaderno meran wíshatiwe , pichika jiwi n jane .
+1	mia	_	PRON	PRON|2.sg|abs|all	Number=Sing|Person=2	3	nmod	_	mia
+2	n	_	PART	PART|	_	1	case	_	-n
+3	cuaderno	_	NOUN	NOUN|nroot|nrootes	_	5	obl	_	cuaderno
+4	meran	_	POSTP	POSTP|	_	3	case	_	meran
+5	wíshatiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	wíshati-we
+6	,	_	PUNCT	PUNCT|$.	_	5	punct	_	,
+7	pichika	_	NUM	NUM|numroot.c	_	8	nummod	_	pichika
+8	jiwi	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	10	nmod	_	jiwi|Case=Acc,Erg,Gen
+9	n	_	PART	PART|	_	8	case	_	-n
+10	jane	_	NOUN	NOUN|nroot	_	5	obj	_	jane
+11	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 209
+# text = jainxonribi wíshatiwe , pichika baná jawéki nin jane , ikaxbi jiwima .
+1	jainxonribi	_	SCONJ	SCONJ|a|adv|sconjroot	_	2	cc	_	jainxon-ribi
+2	wíshatiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	wíshati-we
+3	,	_	PUNCT	PUNCT|$.	_	2	punct	_	,
+4	pichika	_	NUM	NUM|numroot.c	_	6	nummod	_	pichika
+5	baná	_	ADJ	ADJ|adjroot|pp2|vroot	Tense=Pqp	6	amod	_	baná
+6	jawéki	_	NOUN	NOUN|erg|nroot	_	8	nmod	_	jawéki|Case=Erg,Voc
+7	nin	_	PART	PART|	_	6	case	_	-nin
+8	jane	_	NOUN	NOUN|nroot	_	2	obj	_	jane
+9	,	_	PUNCT	PUNCT|$.	_	11	punct	_	,
+10	ikaxbi	_	CONJ	CONJ|	_	11	cc	_	ikaxbi
+11	jiwima	_	NOUN	NOUN|nroot|pref	_	8	conj	_	jiwi-ma
+12	.	_	PUNCT	PUNCT|$.	_	2	punct	_	.
+
+# sent_id = 210
+# text = Ja baná jawékibo iki , xeki , papa quinuaribi .
+1	Ja	_	DET	DET|demroot	_	2	det	_	Ja
+2	baná	_	ADJ	ADJ|adjroot|pp2|vroot	Tense=Pqp	3	amod	_	baná
+3	jawékibo	_	NOUN	NOUN|nroot|pl	Case=Voc|Number=Plur	6	nsubj	_	jawéki-bo
+4	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	6	cop	_	iki
+5	,	_	PUNCT	PUNCT|$.	_	4	punct	_	,
+6	xeki	_	NOUN	NOUN|nroot	_	0	root	_	xeki
+7	,	_	PUNCT	PUNCT|$.	_	8	punct	_	,
+8	papa	_	NOUN	NOUN|nroot|nrootes|pref	Case=Gen	6	conj	_	papa
+9	quinuaribi	_	NOUN	NOUN|adv|em|loc|nroot	_	6	conj	_	quinua-ribi
+10	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 211
+# text = Ja xeki , papa , quinua , ja jawéki xóxotii péokootia iki Perú ainoax .
+1	Ja	_	DET	DET|demroot	_	2	det	_	Ja
+2	xeki	_	NOUN	NOUN|nroot	_	11	nsubj	_	xeki
+3	,	_	PUNCT	PUNCT|$.	_	4	punct	_	,
+4	papa	_	NOUN	NOUN|nroot|nrootes|pref	_	2	conj	_	papa
+5	,	_	PUNCT	PUNCT|$.	_	6	punct	_	,
+6	quinua	_	NOUN	NOUN|nroot|nrootes	_	4	conj	_	quinua
+7	,	_	PUNCT	PUNCT|$.	_	6	punct	_	,
+8	ja	_	DET	DET|demroot	_	9	det	_	ja
+9	jawéki	_	NOUN	NOUN|nroot	Case=Voc	10	nsubj	_	jawéki
+10	xóxotii	_	VERB	VERB|ssss|vroot.i	Subj=Same|Tense=RelSim	11	advcl	_	xóxoti-i
+11	péokootia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	péokooti-a
+12	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	11	aux	_	iki
+13	Perú	_	PROPN	PROPN|abl|loc|propnroot|s	_	11	obl	_	Perú
+14	ainoax	_	PART	PART|	_	13	case	_	-ainoax
+15	.	_	PUNCT	PUNCT|$.	_	11	punct	_	.
+
+# sent_id = 212
+# text = Perú tekíbo iki :
+1	Perú	_	PROPN	PROPN|propnroot	_	2	nsubj	_	Perú
+2	tekíbo	_	NOUN	NOUN|nroot.voc|pl	Case=Voc|Number=Plur	3	cop	_	tekí-bo
+3	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	0	root	_	iki
+4	:	_	PUNCT	PUNCT|$.	_	2	punct	_	:
+
+# sent_id = 213
+# text = Jawen ibo n ra bítiai jawen xoma , jawen nami , jawen bichi .
+1	Jawen	_	DET	DET|	_	2	det	_	Jawen
+2	ibo	_	NOUN	NOUN|all|erg|ev|gen|nroot	Evident=Fh	5	nsubj	_	ibo|Case=Erg,Gen
+3	n	_	PART	PART|	_	2	amod	_	-n
+4	ra	_	PART	PART|	_	5	mark	_	-ra
+5	bítiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	bíti-ai|Aspect=Imp,Perf
+6	jawen	_	DET	DET|	_	7	det	_	jawen
+7	xoma	_	NOUN	NOUN|nroot|pref	_	5	obj	_	xoma
+8	,	_	PUNCT	PUNCT|$.	_	10	punct	_	,
+9	jawen	_	DET	DET|	_	10	det	_	jawen
+10	nami	_	NOUN	NOUN|nroot	_	7	conj	_	nami
+11	,	_	PUNCT	PUNCT|$.	_	13	punct	_	,
+12	jawen	_	DET	DET|	_	13	det	_	jawen
+13	bichi	_	NOUN	NOUN|nroot	_	7	conj	_	bichi
+14	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 214
+# text = ointiwe ¡ tita !
+1	ointiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	ointi-we
+2	¡	_	PUNCT	PUNCT|$.	_	3	punct	_	¡
+3	tita	_	NOUN	NOUN|nroot	_	1	vocative	_	tita
+4	!	_	PUNCT	PUNCT|$.	_	3	punct	_	!
+
+# sent_id = 215
+# text = ea n ra meskó sion ointike .
+1	ea	_	PRON	PRON|1.sg|abs|all|ev	Evident=Fh|Number=Sing|Person=1	6	nsubj	_	ea
+2	n	_	PART	PART|	_	1	case	_	-n
+3	ra	_	PART	PART|	_	6	mark	_	-ra
+4	meskó	_	ADJ	ADJ|adjroot	_	5	amod	_	meskó
+5	sion	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	6	obj	_	sion|Case=Acc,Erg,Gen
+6	ointike	_	VERB	VERB|cmpl|pds|vroot|vroot.i	Aspect=Perf|Mood=Ind|Subj=Diff|Tense=RelPrev	0	root	_	ointi-ke
+7	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 216
+# text = mia n cuaderno meran wíshatiwe , bake n ointia keskabo , meskó sionbo .
+1	mia	_	PRON	PRON|2.sg|abs|all	Number=Sing|Person=2	3	nmod	_	mia
+2	n	_	PART	PART|	_	1	case	_	-n
+3	cuaderno	_	NOUN	NOUN|nroot|nrootes	_	5	obl	_	cuaderno
+4	meran	_	POSTP	POSTP|	_	3	case	_	meran
+5	wíshatiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	wíshati-we
+6	,	_	PUNCT	PUNCT|$.	_	5	punct	_	,
+7	bake	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	9	nsubj	_	bake|Case=Acc,Erg,Gen
+8	n	_	PART	PART|	_	7	case	_	-n
+9	ointia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	13	appos	_	ointi-a
+10	keskabo	_	POSTP	POSTP|	_	9	case	_	keska-bo
+11	,	_	PUNCT	PUNCT|$.	_	9	punct	_	,
+12	meskó	_	ADJ	ADJ|adjroot	_	13	amod	_	meskó
+13	sionbo	_	NOUN	NOUN|all|erg|gen|nroot|pl	Number=Plur	5	obj	_	sion-bo|Case=Erg,Gen
+14	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 217
+# text = Iso atii kachio katikanni
+1	Iso	_	NOUN	NOUN|nroot	_	4	nsubj	_	Iso
+2	atii	_	VERB	VERB|ssss|vroot.i	Subj=Same|Tense=RelSim	4	advcl	_	ati-i
+3	kachio	_	ADV	ADV|advroot	_	4	advmod	_	kachio
+4	katikanni	_	VERB	VERB|pl|rem|vroot.i	Number=Plur|Tense=Past	0	root	_	kati-kan-ni
+
+# sent_id = 218
+# text = Ainbo betan popo ikini
+1	Ainbo	_	NOUN	NOUN|nroot|pl	Number=Plur	4	nsubj	_	Ainbo
+2	betan	_	CCONJ	CCONJ|cconjroot	_	3	cc	_	betan
+3	popo	_	NOUN	NOUN|nroot	_	1	conj	_	popo
+4	ikini	_	VERB	VERB|mid|rem|vroot|vroot.i	Tense=Past	0	root	_	iki-ni
+
+# sent_id = 219
+# text = Ja awá koshichayora ikia iki .
+1	Ja	_	PRON	PRON|3.sg	Number=Sing|Person=3	2	det	_	Ja
+2	awá	_	NOUN	NOUN|nroot.voc	Case=Voc	3	nsubj	_	awá
+3	koshichayora	_	ADJ	ADJ|	_	0	root	_	koshi-cha-yora
+4	ikia	_	VERB	VERB|cmpl|int|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	3	cop	_	iki-a
+5	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	4	aux	_	iki
+6	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 220
+# text = Yoáshiko Inka ikini
+1	Yoáshiko	_	PROPN	PROPN|propnroot	_	2	compound	_	Yoáshiko
+2	Inka	_	PROPN	PROPN|propnroot	_	0	root	_	Inka
+3	ikini	_	VERB	VERB|mid|rem|vroot|vroot.i	Tense=Past	2	nsubj	_	iki-ni
+
+# sent_id = 221
+# text = Yoáshiko Inka ronki jatipaonike joni icha xaran .
+1	Yoáshiko	_	PROPN	PROPN|propnroot	_	4	nsubj	_	Yoáshiko
+2	Inka	_	PROPN	PROPN|hsy|propnroot	Evident=Nfh	4	nsubj	_	Inka
+3	ronki	_	PART	PART|	_	4	mark	_	-ronki
+4	jatipaonike	_	VERB	VERB|cmpl|hab|pds|rem|vroot|vroot.i	Mood=Ind|Subj=Diff	0	root	_	jati-pao-ni-ke|Aspect=Hab,Perf|Tense=Past,RelPrev
+5	joni	_	NOUN	NOUN|nroot	_	4	obl	_	joni
+6	icha	_	ADJ	ADJ|adjroot|advroot	_	5	amod	_	icha
+7	xaran	_	POSTP	POSTP|	_	5	case	_	xaran
+8	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 222
+# text = Wai atixon , banatikaskin atsa taxo , yokátikana ki jato rarás atixon , menitii .
+1	Wai	_	NOUN	NOUN|nroot	_	2	obj	_	Wai
+2	atixon	_	VERB	VERB|pssa|vroot	Subj=Same|Tense=RelPrev	8	advcl	_	ati-xon
+3	,	_	PUNCT	PUNCT|$.	_	2	punct	_	,
+4	banatikaskin	_	VERB	VERB|des|sssa|vroot	Mood=Des|Subj=Same|Tense=RelSim	8	advcl	_	banati-kas-kin
+5	atsa	_	NOUN	NOUN|nroot	Case=Gen	6	compound	_	atsa
+6	taxo	_	NOUN	NOUN|nroot	_	4	obj	_	taxo
+7	,	_	PUNCT	PUNCT|$.	_	4	punct	_	,
+8	yokátikana	_	VERB	VERB|caus|cmpl|hsy|int|pl|po>s/a|pp2|pref|vroot|vroot.i	Aspect=Perf|Case=Cau|Evident=Nfh|Number=Plur|Tense=Pqp|VerbForm=Part	0	root	_	yokáti-kan-a
+9	ki	_	PART	PART|	_	8	mark	_	-ki
+10	jato	_	PRON	PRON|3.pl	Number=Plur|Person=3	8	obj	_	jato
+11	rarás	_	PART	PART|partroot	_	12	aux	_	rarás
+12	atixon	_	VERB	VERB|pssa|vroot	Subj=Same|Tense=RelPrev	8	advcl	_	ati-xon
+13	,	_	PUNCT	PUNCT|$.	_	12	punct	_	,
+14	menitii	_	VERB	VERB|ssss|vroot.i	Subj=Same|Tense=RelSim	8	advcl	_	meniti-i
+15	.	_	PUNCT	PUNCT|$.	_	8	punct	_	.
+
+# sent_id = 223
+# text = Xeki yokátikana ki jaskáribi , chií meran niatixon , jato menitii .
+1	Xeki	_	NOUN	NOUN|nroot	_	2	obj	_	Xeki
+2	yokátikana	_	VERB	VERB|caus|cmpl|hsy|int|pl|po>s/a|pp2|pref|vroot|vroot.i	Aspect=Perf|Case=Cau|Evident=Nfh|Number=Plur|Tense=Pqp|VerbForm=Part	0	root	_	yokáti-kan-a
+3	ki	_	PART	PART|	_	2	mark	_	-ki
+4	jaskáribi	_	ADV	ADV|adv|advroot|demroot|loc	Case=Loc	2	advmod	_	jaskáribi
+5	,	_	PUNCT	PUNCT|$.	_	2	punct	_	,
+6	chií	_	NOUN	NOUN|nroot.voc	Case=Voc	8	obl	_	chií
+7	meran	_	POSTP	POSTP|	_	6	case	_	meran
+8	niatixon	_	VERB	VERB|pssa|vroot	Subj=Same|Tense=RelPrev	2	advcl	_	niati-xon
+9	,	_	PUNCT	PUNCT|$.	_	8	punct	_	,
+10	jato	_	PRON	PRON|3.pl	Number=Plur|Person=3	11	iobj	_	jato
+11	menitii	_	VERB	VERB|ssss|vroot.i	Subj=Same|Tense=RelSim	2	advcl	_	meniti-i
+12	.	_	PUNCT	PUNCT|$.	_	2	punct	_	.
+
+# sent_id = 224
+# text = América ainoax Europa iki ochóbires .
+1	América	_	PROPN	PROPN|abl|loc|propnroot|s	_	4	obl	_	América
+2	ainoax	_	PART	PART|	_	1	case	_	-ainoax
+3	Europa	_	PROPN	PROPN|propnroot	_	4	nsubj	_	Europa
+4	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	0	root	_	iki
+5	ochóbires	_	ADV	ADV|adv|advroot	_	4	advmod	_	ochó-bires
+6	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 225
+# text = noa n atipantike retetiti .
+1	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	4	nsubj	_	noa
+2	n	_	PART	PART|	_	1	case	_	-n
+3	atipantike	_	VERB	VERB|cmpl|mid|pds|vroot	Aspect=Perf|Mood=Ind|Subj=Diff|Tense=RelPrev	4	aux	_	atipanti-ke
+4	retetiti	_	VERB	VERB|inf|mid|vroot	VerbForm=Inf	0	root	_	reteti-ti
+5	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 226
+# text = noinboribi iki jakonma jawéki .
+1	noinboribi	_	NOUN	NOUN|adv|all|erg|gen|nroot|pl	Number=Plur	4	nsubj	_	noin-bo-ribi|Case=Erg,Gen
+2	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	4	cop	_	iki
+3	jakonma	_	ADJ	ADJ|adjroot|neg	Polarity=Neg	4	amod	_	jakon-ma
+4	jawéki	_	NOUN	NOUN|nroot	Case=Voc	0	root	_	jawéki
+5	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 227
+# text = Jaskáaxon mia n ja a atia naman wíshatiwe jawen jane .
+1	Jaskáaxon	_	CONJ	CONJ|	_	8	cc	_	Jaskáaxon
+2	mia	_	PRON	PRON|2.sg|abs|all	Number=Sing|Person=2	6	nsubj	_	mia
+3	n	_	PART	PART|	_	2	case	_	-n
+4	ja	_	PRON	PRON|	_	8	obl	_	ja
+5	a	_	PART	PART|	_	4	case	_	-a
+6	atia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	4	amod	_	ati-a
+7	naman	_	POSTP	POSTP|	_	4	case	_	naman
+8	wíshatiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	wíshati-we
+9	jawen	_	DET	DET|	_	10	det	_	jawen
+10	jane	_	NOUN	NOUN|nroot	_	8	obj	_	jane
+11	.	_	PUNCT	PUNCT|$.	_	8	punct	_	.
+
+# sent_id = 228
+# text = Wai ramítiai jawékibo keskáakin wíshatiwe .
+1	Wai	_	NOUN	NOUN|nroot	_	2	nsubj	_	Wai
+2	ramítiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	3	amod	_	ramíti-ai|Aspect=Imp,Perf
+3	jawékibo	_	NOUN	NOUN|nroot|pl	Case=Voc|Number=Plur	5	obj	_	jawéki-bo
+4	keskáakin	_	ADV	ADV|	_	5	advmod	_	keskáakin
+5	wíshatiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	wíshati-we
+6	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 229
+# text = katixon , ja bakeranon man jawen pia bénatikinbi meratiyamaa iki .
+1	katixon	_	VERB	VERB|pssa|vroot	Subj=Same|Tense=RelPrev	8	advcl	_	kati-xon
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	ja	_	DET	DET|demroot	_	4	det	_	ja
+4	bakeranon	_	NOUN	NOUN|all|erg|gen|nroot	_	8	nsubj	_	bakeranon|Case=Erg,Gen
+5	man	_	PART	PART|	_	4	case	_	-man
+6	jawen	_	DET	DET|	_	7	det	_	jawen
+7	pia	_	NOUN	NOUN|cmpl|nroot|vroot|vroot.i	_	8	obj	_	pia
+8	bénatikinbi	_	VERB	VERB|	_	9	advcl	_	bénati-kin-bi
+9	meratiyamaa	_	VERB	VERB|cmpl|neg|po>s/a|pp2|pref|vroot|vroot.i	Aspect=Perf|Mood=Nec|Polarity=Neg|Tense=Pqp|VerbForm=Part	0	root	_	merati-yama-a
+10	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	9	aux	_	iki
+11	.	_	PUNCT	PUNCT|$.	_	9	punct	_	.
+
+# sent_id = 230
+# text = Aniparo kexá ra oi betiyamaai .
+1	Aniparo	_	NOUN	NOUN|nroot	_	5	obl	_	Aniparo
+2	kexá	_	POSTP	POSTP|	_	1	case	_	kexá
+3	ra	_	PART	PART|	_	5	mark	_	-ra
+4	oi	_	NOUN	NOUN|nroot	_	5	nsubj	_	oi
+5	betiyamaai	_	VERB	VERB|inc|neg|pp1|pref|sds|vroot|vroot.i	Polarity=Neg|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	beti-yama-ai|Aspect=Imp,Perf|Mood=Ind,Nec
+6	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 231
+# text = Aniparo kexá iki mashires .
+1	Aniparo	_	NOUN	NOUN|nroot	_	3	obl	_	Aniparo
+2	kexá	_	POSTP	POSTP|	_	1	case	_	kexá
+3	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	4	nsubj	_	iki
+4	mashires	_	NOUN	NOUN|adv|nroot	_	0	root	_	mashi-res
+5	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 232
+# text = jáskataxxon ki moa katiti átipantiyamakana iki .
+1	jáskataxxon	_	CONJ	CONJ|	_	4	cc	_	jáskatax-xon
+2	ki	_	PART	PART|	_	4	mark	_	-ki
+3	moa	_	ADV	ADV|advroot	_	4	advmod	_	moa
+4	katiti	_	VERB	VERB|inf|vroot.i	VerbForm=Inf	0	root	_	kati-ti
+5	átipantiyamakana	_	AUX	AUX|	_	4	aux	_	átipanti-yama-kan-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 233
+# text = inkan noaa joniatini
+1	inkan	_	NOUN	NOUN|all|cmpl|erg|gen|intrss|nroot|pref|vroot.i	_	3	nsubj	_	inka-n|Case=Acc,Erg,Gen
+2	noaa	_	PRON	PRON|	_	3	obj	_	noa-a
+3	joniatini	_	VERB	VERB|rem|vroot|vroot.i	Tense=Past	0	root	_	joniati-ni
+
+# sent_id = 234
+# text = Jaaboronkiki ja nonn kirinko atiaibo .
+1	Jaaboronkiki	_	CONJ	CONJ|	_	5	cc	_	Jaaboronkiki
+2	ja	_	PRON	PRON|3.sg	Number=Sing|Person=3	3	det	_	ja
+3	nonn	_	DET	DET|	_	5	nsubj	_	non-n
+4	kirinko	_	NOUN	NOUN|nroot	_	5	obj	_	kirinko
+5	atiaibo	_	VERB	VERB|	_	0	root	_	ati-ai-bo
+6	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 235
+# text = Jaaboronkiki , ja nonn rashíko atikin atiaibo .
+1	Jaaboronkiki	_	CONJ	CONJ|	_	7	cc	_	Jaaboronkiki
+2	,	_	PUNCT	PUNCT|$.	_	7	punct	_	,
+3	ja	_	PRON	PRON|3.sg	Number=Sing|Person=3	4	det	_	ja
+4	nonn	_	DET	DET|	_	7	nsubj	_	non-n
+5	rashíko	_	NOUN	NOUN|adjroot|nroot	Case=Voc	7	obj	_	rashíko
+6	atikin	_	VERB	VERB|sssa|vroot	Subj=Same|Tense=RelSim	7	advcl	_	ati-kin
+7	atiaibo	_	VERB	VERB|	_	0	root	_	ati-ai-bo
+8	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 236
+# text = jainoaxki Inka yoyo ikia iki :
+1	jainoaxki	_	SCONJ	SCONJ|abl|hsy|int|loc|s|sconjroot	Evident=Nfh	4	cc	_	jainoax-ki
+2	Inka	_	NOUN	NOUN|cmpl|nroot|nrootes|pref|vroot.i	_	4	nsubj	_	Inka
+3	yoyo	_	INTJ	INTJ|	_	4	aux	_	yoyo
+4	ikia	_	VERB	VERB|cmpl|int|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	iki-a
+5	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	4	aux	_	iki
+6	:	_	PUNCT	PUNCT|$.	_	4	punct	_	:
+
+# sent_id = 237
+# text = - Jakonmatani rabe ra ean joniatike .
+1	-	_	PUNCT	PUNCT|	_	6	punct	_	&hypen
+2	Jakonmatani	_	ADJ	ADJ|	_	3	amod	_	Jakon-ma-tani
+3	rabe	_	NUM	NUM|	_	6	obj	_	rabe
+4	ra	_	PART	PART|	_	6	mark	_	-ra
+5	ean	_	PRON	PRON|1.sg|abs|all	_	6	nsubj	_	ea-n
+6	joniatike	_	VERB	VERB|cmpl|pds|vroot|vroot.i	Aspect=Perf|Mood=Ind|Subj=Diff|Tense=RelPrev	0	root	_	joniati-ke
+7	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 238
+# text = Rama ra ean wetsa atiribaai -
+1	Rama	_	ADV	ADV|advroot|ev	Evident=Fh	5	advmod	_	Rama
+2	ra	_	PART	PART|	_	5	mark	_	-ra
+3	ean	_	PRON	PRON|1.sg|abs|all	_	5	nsubj	_	ea-n
+4	wetsa	_	NOUN	NOUN|adjroot|nroot	_	5	obj	_	wetsa
+5	atiribaai	_	VERB	VERB|adv|inc|mid|pp1|sds|vroot	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	ati-riba-ai|Aspect=Imp,Perf
+6	-	_	PUNCT	PUNCT|	_	5	punct	_	&hypen
+
+# sent_id = 239
+# text = iki .
+1	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	0	root	_	iki
+2	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 240
+# text = ¿ tsoabo ikia ki nato kointo nin yoitiai ?
+1	¿	_	PUNCT	PUNCT|$.	_	8	punct	_	¿
+2	tsoabo	_	PRON	PRON|abs|pl|pronroot.int	_	8	obj	_	tsoa-bo
+3	ikia	_	VERB	VERB|cmpl|hsy|int|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Evident=Nfh|Tense=Pqp|VerbForm=Part	2	nsubj	_	iki-a
+4	ki	_	PART	PART|	_	8	mark	_	-ki
+5	nato	_	DET	DET|demroot	_	6	det	_	nato
+6	kointo	_	NOUN	NOUN|all|erg|gen|nroot|pref|priv	_	8	nsubj	_	kointo|Case=Erg,Gen
+7	nin	_	PART	PART|	_	6	case	_	-nin
+8	yoitiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	yoiti-ai|Aspect=Imp,Perf
+9	?	_	PUNCT	PUNCT|$.	_	8	punct	_	?
+
+# sent_id = 241
+# text = ¿ tsoa ki ikia iki , wasa ?
+1	¿	_	PUNCT	PUNCT|$.	_	7	punct	_	¿
+2	tsoa	_	PRON	PRON|abs|int|pronroot.int	_	7	nsubj	_	tsoa
+3	ki	_	PART	PART|	_	7	mark	_	-ki
+4	ikia	_	VERB	VERB|cmpl|int|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	7	cop	_	iki-a
+5	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	4	aux	_	iki
+6	,	_	PUNCT	PUNCT|$.	_	4	punct	_	,
+7	wasa	_	NOUN	NOUN|nroot	_	0	root	_	wasa
+8	?	_	PUNCT	PUNCT|$.	_	7	punct	_	?
+
+# sent_id = 242
+# text = ¿ jawe ki epa n jawen noxa yokátia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	8	punct	_	¿
+2	jawe	_	PRON	PRON|int|pronroot.int	Number=Sing|Person=3	8	obj	_	jawe
+3	ki	_	PART	PART|	_	8	mark	_	-ki
+4	epa	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	8	nsubj	_	epa|Case=Acc,Erg,Gen
+5	n	_	PART	PART|	_	4	case	_	-n
+6	jawen	_	DET	DET|	_	7	det	_	jawen
+7	noxa	_	NOUN	NOUN|nroot|pref	_	8	iobj	_	noxa
+8	yokátia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	yokáti-a
+9	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	8	aux	_	iki
+10	?	_	PUNCT	PUNCT|$.	_	8	punct	_	?
+
+# sent_id = 243
+# text = ¿ rikantikin ki jawe bitikana iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	rikantikin	_	VERB	VERB|	_	5	advcl	_	rikanti-kin
+3	ki	_	PART	PART|	_	5	mark	_	-ki
+4	jawe	_	PRON	PRON|pronroot.int	Number=Sing|Person=3	5	obj	_	jawe
+5	bitikana	_	VERB	VERB|cmpl|mid|pl|po>s/a|pp2|vroot	Aspect=Perf|Number=Plur|Tense=Pqp|VerbForm=Part	0	root	_	biti-kan-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 244
+# text = Nokon paparibi ea n yómeratikinai .
+1	Nokon	_	DET	DET|	_	2	det	_	Nokon
+2	paparibi	_	NOUN	NOUN|adv|em|loc|nroot|pref	_	5	obj	_	papa-ribi
+3	ea	_	PRON	PRON|1.sg|abs|all	Number=Sing|Person=1	5	nsubj	_	ea
+4	n	_	PART	PART|	_	3	case	_	-n
+5	yómeratikinai	_	VERB	VERB|assoc|inc|pp1|sds|vroot|vroot.i	Case=Com|Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	yómerati-kin-ai|Aspect=Imp,Perf
+6	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 245
+# text = botikanai joni , kirika , jawéki botimakanabo .
+1	botikanai	_	VERB	VERB|inc|pl|pp1|sds|vroot.i	Mood=Ind|Number=Plur|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	boti-kan-ai|Aspect=Imp,Perf
+2	joni	_	NOUN	NOUN|nroot	_	1	nsubj	_	joni
+3	,	_	PUNCT	PUNCT|$.	_	4	punct	_	,
+4	kirika	_	NOUN	NOUN|nroot|pref	_	2	conj	_	kirika
+5	,	_	PUNCT	PUNCT|$.	_	6	punct	_	,
+6	jawéki	_	NOUN	NOUN|nroot	Case=Voc	2	conj	_	jawéki
+7	botimakanabo	_	VERB	VERB|	_	6	nmod	_	boti-ma-kan-a-bo
+8	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 246
+# text = ¿ jatianki mananxawe n jato jaweraki atia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	7	punct	_	¿
+2	jatianki	_	SCONJ	SCONJ|cmpl|dd|hsy|int|sconjroot	Aspect=Perf|Evident=Nfh|Subj=Diff|VerbForm=Part	7	cc	_	jatian-ki
+3	mananxawe	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	7	nsubj	_	mananxawe|Case=Acc,Erg,Gen
+4	n	_	PART	PART|	_	3	case	_	-n
+5	jato	_	PRON	PRON|3.pl	Number=Plur|Person=3	7	iobj	_	jato
+6	jaweraki	_	PRON	PRON|	_	7	obj	_	jaweraki
+7	atia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	ati-a
+8	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	7	aux	_	iki
+9	?	_	PUNCT	PUNCT|$.	_	7	punct	_	?
+
+# sent_id = 247
+# text = ¿ jawerano ki katikana iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	4	punct	_	¿
+2	jawerano	_	PRON	PRON|int|pronroot.int	_	4	advmod	_	jawerano
+3	ki	_	PART	PART|	_	4	mark	_	-ki
+4	katikana	_	VERB	VERB|cmpl|pl|po>s/a|pp2|vroot.i	Aspect=Perf|Number=Plur|Tense=Pqp|VerbForm=Part	0	root	_	kati-kan-a
+5	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	4	aux	_	iki
+6	?	_	PUNCT	PUNCT|$.	_	4	punct	_	?
+
+# sent_id = 248
+# text = Wiso riki xoke .
+1	Wiso	_	ADJ	ADJ|adjroot	_	0	root	_	Wiso
+2	riki	_	VERB	VERB|vroot|vroot.i	Mood=Nec	1	cop	_	riki
+3	xoke	_	NOUN	NOUN|nroot|pref	_	1	nsubj	_	xoke
+4	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 249
+# text = Jainoax jawen texonko joshin .
+1	Jainoax	_	SCONJ	SCONJ|abl|loc|s|sconjroot	_	4	conj	_	Jainoax
+2	jawen	_	DET	DET|	_	3	det	_	jawen
+3	texonko	_	NOUN	NOUN|all|nroot	Case=Loc	4	nsubj	_	texo-nko
+4	joshin	_	ADJ	ADJ|adjroot	_	0	root	_	joshin
+5	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 250
+# text = Xoke riki jankosh .
+1	Xoke	_	NOUN	NOUN|nroot|pref	_	2	nsubj	_	Xoke
+2	riki	_	VERB	VERB|vroot|vroot.i	Mood=Nec	0	root	_	riki
+3	jankosh	_	ADV	ADV|	_	2	advmod	_	jankosh
+4	.	_	PUNCT	PUNCT|$.	_	2	punct	_	.
+
+# sent_id = 251
+# text = ¿ jawerano ki joni katia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	jawerano	_	PRON	PRON|int|pronroot.int	_	5	advmod	_	jawerano
+3	ki	_	PART	PART|	_	5	mark	_	-ki
+4	joni	_	NOUN	NOUN|nroot	_	5	nsubj	_	joni
+5	katia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	kati-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 252
+# text = ¿ katikin ki jawe meratia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	katikin	_	VERB	VERB|	_	5	advcl	_	kati-kin
+3	ki	_	PART	PART|	_	5	mark	_	-ki
+4	jawe	_	PRON	PRON|pronroot.int	Number=Sing|Person=3	5	obj	_	jawe
+5	meratia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	merati-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 253
+# text = ¿ Jawetii shishi ki bitikana iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	Jawetii	_	PRON	PRON|	_	3	amod	_	Jawetii
+3	shishi	_	NOUN	NOUN|dat|int|loc|nroot	Case=Dat	5	obj	_	shishi
+4	ki	_	PART	PART|	_	5	mark	_	-ki
+5	bitikana	_	VERB	VERB|cmpl|mid|pl|po>s/a|pp2|vroot	Aspect=Perf|Number=Plur|Tense=Pqp|VerbForm=Part	0	root	_	biti-kan-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 254
+# text = Joxo shino betan mananxawe ikini
+1	Joxo	_	ADJ	ADJ|adjroot	_	2	amod	_	Joxo
+2	shino	_	NOUN	NOUN|nroot	_	5	nsubj	_	shino
+3	betan	_	CCONJ	CCONJ|cconjroot	_	4	cc	_	betan
+4	mananxawe	_	NOUN	NOUN|nroot	_	2	conj	_	mananxawe
+5	ikini	_	VERB	VERB|mid|rem|vroot|vroot.i	Tense=Past	0	root	_	iki-ni
+
+# sent_id = 255
+# text = jakonshamanbires ea n shinantiai .
+1	jakonshamanbires	_	ADJ	ADJ|	_	4	obj	_	jakon-shaman-bires
+2	ea	_	PRON	PRON|1.sg|abs|all	Number=Sing|Person=1	4	nsubj	_	ea
+3	n	_	PART	PART|	_	2	case	_	-n
+4	shinantiai	_	VERB	VERB|inc|pp1|sds|vroot	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	shinanti-ai|Aspect=Imp,Perf
+5	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 256
+# text = ¿ Jawerato bake keskaribi rin mia ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	Jawerato	_	PRON	PRON|pronroot.int	_	3	amod	_	Jawerato
+3	bake	_	NOUN	NOUN|nroot	_	6	nsubj	_	bake
+4	keskaribi	_	POSTP	POSTP|	_	3	case	_	keska-ribi
+5	rin	_	PART	PART|	_	6	mark	_	-rin
+6	mia	_	PRON	PRON|2.sg|abs	Number=Sing|Person=2	0	root	_	mia
+7	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 257
+# text = Ino betan yawish ikini
+1	Ino	_	NOUN	NOUN|nroot	_	4	nsubj	_	Ino
+2	betan	_	CCONJ	CCONJ|cconjroot	_	3	cc	_	betan
+3	yawish	_	NOUN	NOUN|nroot	_	1	conj	_	yawish
+4	ikini	_	VERB	VERB|mid|rem|vroot|vroot.i	Tense=Past	0	root	_	iki-ni
+
+# sent_id = 258
+# text = Jaskara ikiketian ki jakiribi katiribakana iki .
+1	Jaskara	_	CONJ	CONJ|	_	5	cc	_	Jaskara
+2	ikiketian	_	VERB	VERB|ds|hsy|int|mid|p|vroot|vroot.i	Evident=Nfh|Subj=Diff|Tense=RelPrev	5	advcl	_	iki-ketian
+3	ki	_	PART	PART|	_	5	mark	_	-ki
+4	jakiribi	_	ADV	ADV|adv|advroot|demroot|loc	Case=Loc	5	advmod	_	jakiribi
+5	katiribakana	_	VERB	VERB|adv|cmpl|pl|po>s/a|pp2|vroot.i	Aspect=Perf|Number=Plur|Tense=Pqp|VerbForm=Part	0	root	_	kati-riba-kan-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 259
+# text = Jatian jato yoitia iki :
+1	Jatian	_	SCONJ	SCONJ|cmpl|dd|sconjroot|temp	Aspect=Perf|Case=Tem|Subj=Diff|VerbForm=Part	3	cc	_	Jatian
+2	jato	_	PRON	PRON|3.pl	Number=Plur|Person=3	3	nsubj	_	jato
+3	yoitia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	yoiti-a
+4	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	3	aux	_	iki
+5	:	_	PUNCT	PUNCT|$.	_	3	punct	_	:
+
+# sent_id = 260
+# text = Bititankanwe bakebo , icha riki kankan - atikin jato atia iki .
+1	Bititankanwe	_	VERB	VERB|adv|imp|mid|pl|vroot	Number=Plur	10	obj	_	Biti-tan-kan-we|Mood=Imp,Prp
+2	bakebo	_	NOUN	NOUN|nroot|pl	Number=Plur	1	vocative	_	bake-bo
+3	,	_	PUNCT	PUNCT|$.	_	4	punct	_	,
+4	icha	_	ADJ	ADJ|adjroot|advroot	_	1	conj	_	icha
+5	riki	_	VERB	VERB|vroot|vroot.i	Mood=Nec	4	cop	_	riki
+6	kankan	_	NOUN	NOUN|all|cmpl|erg|gen|kan|nroot|vroot.i	_	4	nsubj	_	kankan|Case=Erg,Gen
+7	-	_	PUNCT	PUNCT|	_	1	punct	_	&hypen
+8	atikin	_	VERB	VERB|sssa|vroot	Subj=Same|Tense=RelSim	10	advcl	_	ati-kin
+9	jato	_	PRON	PRON|3.pl	Number=Plur|Person=3	10	iobj	_	jato
+10	atia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	ati-a
+11	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	10	aux	_	iki
+12	.	_	PUNCT	PUNCT|$.	_	10	punct	_	.
+
+# sent_id = 261
+# text = ¿ jawekeskaxon ki jonin jawen awin pitimakatitai ?
+1	¿	_	PUNCT	PUNCT|$.	_	7	punct	_	¿
+2	jawekeskaxon	_	PRON	PRON|a|int|pronroot.int	_	7	advmod	_	jawekeskaxon
+3	ki	_	PART	PART|	_	7	mark	_	-ki
+4	jonin	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	7	nsubj	_	joni-n|Case=Acc,Erg,Gen
+5	jawen	_	DET	DET|	_	6	det	_	jawen
+6	awin	_	NOUN	NOUN|nroot	_	7	obj	_	awin
+7	pitimakatitai	_	VERB	VERB|caus|inc|mid|neg|pp1|pref|pst4|sds|vroot	Case=Cau|Mood=Ind|Polarity=Neg|Subj=Diff|VerbForm=Part	0	root	_	piti-ma-katit-ai|Aspect=Imp,Perf|Tense=Past,RelSim
+8	?	_	PUNCT	PUNCT|$.	_	7	punct	_	?
+
+# sent_id = 262
+# text = ¿ Jawekeska jisá ki ainbo jotia iki , jaiba merátii ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	Jawekeska	_	PRON	PRON|pronroot.int	_	6	advmod	_	Jawekeska
+3	jisá	_	NOUN	NOUN|dat|int|loc|nroot.voc	_	2	amod	_	jisá|Case=Dat,Voc
+4	ki	_	PART	PART|	_	6	mark	_	-ki
+5	ainbo	_	NOUN	NOUN|nroot|pl	Number=Plur	6	nsubj	_	ainbo
+6	jotia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	joti-a
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	,	_	PUNCT	PUNCT|$.	_	6	punct	_	,
+9	jaiba	_	PRON	PRON|3.sg|chez	Case=Ade	10	nsubj	_	ja-iba
+10	merátii	_	VERB	VERB|ssss|vroot.i	Subj=Same|Tense=RelSim	6	advcl	_	meráti-i
+11	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 263
+# text = ¿ Jawekeskati popo keotiaain ki ainbo baon rakátixon ninkátia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	9	punct	_	¿
+2	Jawekeskati	_	PRON	PRON|	_	4	advmod	_	Jawekeskati
+3	popo	_	NOUN	NOUN|nroot	_	4	nsubj	_	popo
+4	keotiaain	_	VERB	VERB|	_	9	advcl	_	keoti-a-ain
+5	ki	_	PART	PART|	_	9	mark	_	-ki
+6	ainbo	_	NOUN	NOUN|erg|nroot|pl	Case=Erg|Number=Plur	9	nsubj	_	ainbo
+7	baon	_	PART	PART|	_	6	case	_	-baon
+8	rakátixon	_	VERB	VERB|pref|pssa|vroot	Subj=Same|Tense=RelPrev	9	advcl	_	rakáti-xon
+9	ninkátia	_	VERB	VERB|caus|cmpl|po>s/a|pp2|pst4|vroot.i	Aspect=Perf|Case=Cau|VerbForm=Part	0	root	_	ninkáti-a|Tense=Past,Pqp
+10	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	9	aux	_	iki
+11	?	_	PUNCT	PUNCT|$.	_	9	punct	_	?
+
+# sent_id = 264
+# text = ¿ jáwerano ki awá katia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	jáwerano	_	PRON	PRON|	_	5	advmod	_	jáwerano
+3	ki	_	PART	PART|	_	5	mark	_	-ki
+4	awá	_	NOUN	NOUN|nroot.voc	Case=Voc	5	nsubj	_	awá
+5	katia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	kati-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 265
+# text = Ja rashíko joni ronki ikia iki xawi wai a .
+1	Ja	_	DET	DET|demroot	_	3	det	_	Ja
+2	rashíko	_	ADJ	ADJ|adjroot	_	3	amod	_	rashíko
+3	joni	_	NOUN	NOUN|hsy|nroot	Evident=Nfh	8	nsubj	_	joni
+4	ronki	_	PART	PART|	_	8	mark	_	-ronki
+5	ikia	_	VERB	VERB|cmpl|int|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	8	cop	_	iki-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	xawi	_	NOUN	NOUN|nroot	Case=Gen	8	nmod	_	xawi
+8	wai	_	NOUN	NOUN|cmpl|nroot|vroot	_	0	root	_	wai
+9	a	_	PART	PART|	_	8	case	_	-a
+10	.	_	PUNCT	PUNCT|$.	_	8	punct	_	.
+
+# sent_id = 266
+# text = Jaskábi , jawebi yoitiamaa iki .
+1	Jaskábi	_	SCONJ	SCONJ|em|sconjroot|siml	_	4	cc	_	Jaská-bi
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	jawebi	_	PRON	PRON|em|pronroot.int	PronType=Emp|Reflex=Yes	4	obj	_	jawebi
+4	yoitiamaa	_	VERB	VERB|caus|cmpl|mid|neg|po>s/a|pp2|pref|vroot	Aspect=Perf|Case=Cau|Polarity=Neg|Tense=Pqp|VerbForm=Part	0	root	_	yoiti-ama-a
+5	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	4	aux	_	iki
+6	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 267
+# text = Jaskáaxon , boi joniatia iki ; ja xawi wai kexá atiti .
+1	Jaskáaxon	_	CONJ	CONJ|	_	4	cc	_	Jaskáaxon
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	boi	_	NOUN	NOUN|nroot	_	4	obj	_	boi
+4	joniatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	joniati-a
+5	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	4	aux	_	iki
+6	;	_	PUNCT	PUNCT|$.	_	4	punct	_	;
+7	ja	_	DET	DET|demroot	_	9	det	_	ja
+8	xawi	_	NOUN	NOUN|nroot	Case=Gen	9	nmod	_	xawi
+9	wai	_	NOUN	NOUN|nroot	_	11	obj	_	wai
+10	kexá	_	POSTP	POSTP|	_	9	case	_	kexá
+11	atiti	_	VERB	VERB|inf|mid|vroot	VerbForm=Inf	4	advcl	_	ati-ti
+12	.	_	PUNCT	PUNCT|$.	_	11	punct	_	.
+
+# sent_id = 268
+# text = Ja vicuñabiribi atikanai , " Manan Animea Chonoshoko " atikin , jakonshoko ikiaxbi oshitanishoko ikiketian .
+1	Ja	_	DET	DET|demroot	_	2	det	_	Ja
+2	vicuñabiribi	_	NOUN	NOUN|adv|em|nroot	_	3	obj	_	vicuña-bi-ribi
+3	atikanai	_	VERB	VERB|inc|mid|pl|pp1|sds|vroot	Mood=Ind|Number=Plur|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	ati-kan-ai|Aspect=Imp,Perf
+4	,	_	PUNCT	PUNCT|$.	_	3	punct	_	,
+5	"	_	PUNCT	PUNCT|$.	_	8	punct	_	"
+6	Manan	_	NOUN	NOUN|all|cmpl|erg|gen|intrss|nroot|pref|vroot	_	8	nmod	_	Manan|Case=Acc,Erg,Gen
+7	Animea	_	ADJ	ADJ|	_	6	amod	_	Ani-mea
+8	Chonoshoko	_	NOUN	NOUN|all|dim|erg|gen|loc|nroot	_	3	iobj	_	Chono-shoko|Case=Erg,Gen
+9	"	_	PUNCT	PUNCT|$.	_	8	punct	_	"
+10	atikin	_	VERB	VERB|sssa|vroot	Subj=Same|Tense=RelSim	3	advcl	_	ati-kin
+11	,	_	PUNCT	PUNCT|$.	_	10	punct	_	,
+12	jakonshoko	_	ADJ	ADJ|adjroot|dim	_	3	advmod	_	jakon-shoko
+13	ikiaxbi	_	VERB	VERB|em|int|psss|vroot|vroot.i	Subj=Same|Tense=RelPrev	12	cop	_	iki-ax-bi
+14	oshitanishoko	_	ADJ	ADJ|	_	3	advcl	_	oshi-tani-shoko
+15	ikiketian	_	VERB	VERB|ds|int|mid|p|vroot|vroot.i	Subj=Diff|Tense=RelPrev	14	cop	_	iki-ketian
+16	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 269
+# text = Vicuña rani bitikanai , mas jakon rani ikiketian .
+1	Vicuña	_	NOUN	NOUN|nroot|nrootes	Case=Gen	2	compound	_	Vicuña
+2	rani	_	NOUN	NOUN|nroot	_	3	obj	_	rani
+3	bitikanai	_	VERB	VERB|inc|mid|pl|pp1|sds|vroot	Mood=Ind|Number=Plur|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	biti-kan-ai|Aspect=Imp,Perf
+4	,	_	PUNCT	PUNCT|$.	_	3	punct	_	,
+5	mas	_	SYM	SYM|	_	6	advmod	_	mas
+6	jakon	_	ADJ	ADJ|adjroot|erg	_	7	amod	_	jakon
+7	rani	_	NOUN	NOUN|nroot	_	3	advcl	_	rani
+8	ikiketian	_	VERB	VERB|ds|int|mid|p|vroot|vroot.i	Subj=Diff|Tense=RelPrev	7	cop	_	iki-ketian
+9	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 270
+# text = Ja vicuña iki , joni n kaíatimatima jawéki .
+1	Ja	_	DET	DET|demroot	_	2	det	_	Ja
+2	vicuña	_	NOUN	NOUN|nroot|nrootes	_	8	nsubj	_	vicuña
+3	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	8	cop	_	iki
+4	,	_	PUNCT	PUNCT|$.	_	3	punct	_	,
+5	joni	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	7	nsubj	_	joni|Case=Acc,Erg,Gen
+6	n	_	PART	PART|	_	5	case	_	-n
+7	kaíatimatima	_	VERB	VERB|	_	8	amod	_	kaíatima-ti-ma
+8	jawéki	_	NOUN	NOUN|nroot	Case=Voc	0	root	_	jawéki
+9	.	_	PUNCT	PUNCT|$.	_	8	punct	_	.
+
+# sent_id = 271
+# text = Jatíbi koshitiai jawéki iki bakeatiai jawekibo .
+1	Jatíbi	_	ADJ	ADJ|adjroot	_	2	amod	_	Jatíbi
+2	koshitiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	3	amod	_	koshiti-ai|Aspect=Imp,Perf
+3	jawéki	_	NOUN	NOUN|nroot	Case=Voc	6	nsubj	_	jawéki
+4	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	6	cop	_	iki
+5	bakeatiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	6	amod	_	bakeati-ai|Aspect=Imp,Perf
+6	jawekibo	_	NOUN	NOUN|nroot|pl	Number=Plur	0	root	_	jaweki-bo
+7	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 272
+# text = joatiax ki taxnátibekona iki .
+1	joatiax	_	VERB	VERB|hsy|int|psss|vroot|vroot.i	Evident=Nfh|Subj=Same|Tense=RelPrev	3	advcl	_	joati-ax
+2	ki	_	PART	PART|	_	3	mark	_	-ki
+3	taxnátibekona	_	VERB	VERB|cmpl|dual|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Number=Dual|Tense=Pqp|VerbForm=Part	0	root	_	taxnáti-bekon-a
+4	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	3	aux	_	iki
+5	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 273
+# text = Moa taxnátixon ki , ja chiakatia tonin , reyakatia yoitia iki :
+1	Moa	_	ADV	ADV|advroot	_	2	advmod	_	Moa
+2	taxnátixon	_	VERB	VERB|hsy|int|pssa|vroot	Evident=Nfh|Subj=Same|Tense=RelPrev	10	advcl	_	taxnáti-xon
+3	ki	_	PART	PART|	_	10	mark	_	-ki
+4	,	_	PUNCT	PUNCT|$.	_	2	punct	_	,
+5	ja	_	DET	DET|demroot	_	6	det	_	ja
+6	chiakatia	_	VERB	VERB|	_	10	nsubj	_	chiakati-a
+7	tonin	_	PART	PART|	_	6	case	_	-tonin
+8	,	_	PUNCT	PUNCT|$.	_	6	punct	_	,
+9	reyakatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	10	iobj	_	reyakati-a
+10	yoitia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	yoiti-a
+11	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	10	punct	_	iki
+12	:	_	PUNCT	PUNCT|$.	_	10	punct	_	:
+
+# sent_id = 274
+# text = Jasin riki piti .
+1	Jasin	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	3	nsubj	_	Jasin|Case=Acc,Erg,Gen
+2	riki	_	VERB	VERB|vroot|vroot.i	Mood=Nec	3	cop	_	riki
+3	piti	_	NOUN	NOUN|nmlz|nroot|vroot|vroot.i	_	0	root	_	piti
+4	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 275
+# text = jasinman bero riki maxkoshoko .
+1	jasinman	_	NOUN	NOUN|all|erg|gen|nroot	_	2	nmod	_	jasin-man|Case=Erg,Gen
+2	bero	_	NOUN	NOUN|nroot	_	4	nsubj	_	bero
+3	riki	_	VERB	VERB|vroot|vroot.i	Mood=Nec	4	cop	_	riki
+4	maxkoshoko	_	ADJ	ADJ|adjroot|dim	_	0	root	_	maxko-shoko
+5	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 276
+# text = Jawen bero riki maxkoshoko .
+1	Jawen	_	DET	DET|	_	2	det	_	Jawen
+2	bero	_	NOUN	NOUN|nroot	_	4	nsubj	_	bero
+3	riki	_	VERB	VERB|vroot|vroot.i	Mood=Nec	4	cop	_	riki
+4	maxkoshoko	_	ADJ	ADJ|adjroot|dim	_	0	root	_	maxko-shoko
+5	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 277
+# text = abo ronki ikikatiai nete bená tian ki Inka .
+1	abo	_	NOUN	NOUN|hsy|nroot	Evident=Nfh	8	nsubj	_	abo
+2	ronki	_	PART	PART|	_	8	mark	_	-ronki
+3	ikikatiai	_	VERB	VERB|inc|mid|pp1|pst4|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|VerbForm=Part	8	cop	_	iki-kati-ai|Aspect=Imp,Perf|Tense=Past,RelSim
+4	nete	_	NOUN	NOUN|nroot	_	8	obl	_	nete
+5	bená	_	ADJ	ADJ|	_	4	amod	_	bená
+6	tian	_	PART	PART|	_	4	case	_	-tian
+7	ki	_	PART	PART|	_	4	mark	_	-ki
+8	Inka	_	NOUN	NOUN|cmpl|nroot|nrootes|pref|vroot.i	_	0	root	_	Inka
+9	.	_	PUNCT	PUNCT|$.	_	8	punct	_	.
+
+# sent_id = 278
+# text = iiti ki ja bakeranon chonka posaka baritia moa senentia iki .
+1	iiti	_	CONJ	CONJ|	_	9	cc	_	iiti
+2	ki	_	PART	PART|	_	9	mark	_	-ki
+3	ja	_	PRON	PRON|3.sg	Number=Sing|Person=3	4	det	_	ja
+4	bakeranon	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	9	nsubj	_	bakeranon|Case=Acc,Erg,Gen
+5	chonka	_	NUM	NUM|numroot.c	_	7	nummod	_	chonka
+6	posaka	_	NOUN	NOUN|nroot	Case=Gen	5	compound	_	posaka
+7	baritia	_	NOUN	NOUN|nroot	_	9	obj	_	baritia
+8	moa	_	ADV	ADV|advroot	_	9	advmod	_	moa
+9	senentia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	senenti-a
+10	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	9	aux	_	iki
+11	.	_	PUNCT	PUNCT|$.	_	9	punct	_	.
+
+# sent_id = 279
+# text = iiti ronki nokótia iki , xetebo jonibo iba .
+1	iiti	_	CONJ	CONJ|	_	3	cc	_	iiti
+2	ronki	_	PART	PART|	_	3	mark	_	-ronki
+3	nokótia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	nokóti-a
+4	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	3	aux	_	iki
+5	,	_	PUNCT	PUNCT|$.	_	3	punct	_	,
+6	xetebo	_	NOUN	NOUN|nroot|pl	Case=Gen|Number=Plur	7	amod	_	xetebo
+7	jonibo	_	NOUN	NOUN|chez|nroot|pl|pref	Case=Ade|Number=Plur	3	obj	_	joni-bo
+8	iba	_	PART	PART|	_	7	case	_	-iba
+9	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 280
+# text = Ja atitanan joni ishtotia iki .
+1	Ja	_	PRON	PRON|3.sg	Number=Sing|Person=3	2	obj	_	Ja
+2	atitanan	_	VERB	VERB|mid|pss|vroot	Subj=Same|Tense=RelPrev	4	advcl	_	ati-tanan
+3	joni	_	NOUN	NOUN|nroot	_	4	nsubj	_	joni
+4	ishtotia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	ishtoti-a
+5	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	4	aux	_	iki
+6	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 281
+# text = jabi jawe ikiamaa iki .
+1	jabi	_	PRON	PRON|3.sg:acc|em	PronType=Emp|Reflex=Yes	3	nsubj	_	ja-bi
+2	jawe	_	PRON	PRON|pronroot.int	Number=Sing|Person=3	3	obj	_	jawe
+3	ikiamaa	_	VERB	VERB|caus|cmpl|neg|po>s/a|pp2|vroot	Aspect=Perf|Case=Cau|Polarity=Neg|Tense=Pqp|VerbForm=Part	0	root	_	iki-ama-a
+4	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	3	aux	_	iki
+5	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 282
+# text = ¿ Jawerato ponté rin mia n escuela nkoniax ?
+1	¿	_	PUNCT	PUNCT|$.	_	3	punct	_	¿
+2	Jawerato	_	PRON	PRON|pronroot.int	_	3	amod	_	Jawerato
+3	ponté	_	NOUN	NOUN|adjroot|all|erg|gen|int2|intrss|loc|nroot.voc	PronType=Int	0	root	_	ponté|Case=Acc,Erg,Gen,Voc
+4	rin	_	PART	PART|	_	3	mark	_	-rin
+5	mia	_	PRON	PRON|2.sg|abs|all	Number=Sing|Person=2	7	nmod	_	mia
+6	n	_	PART	PART|	_	5	case	_	-n
+7	escuela	_	NOUN	NOUN|abl|lig|loc|nroot|s	_	3	obl	_	escuela
+8	nkoniax	_	PART	PART|	_	7	case	_	-nkoniax
+9	?	_	PUNCT	PUNCT|$.	_	3	punct	_	?
+
+# sent_id = 283
+# text = ¿ Jawerato aninasi n rin España ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	Jawerato	_	PRON	PRON|pronroot.int	_	3	amod	_	Jawerato
+3	aninasi	_	NOUN	NOUN|all|erg|gen|int2|nroot	PronType=Int	6	obl	_	aninasi|Case=Erg,Gen
+4	n	_	PART	PART|	_	3	case	_	-n
+5	rin	_	PART	PART|	_	6	mark	_	-rin
+6	España	_	PROPN	PROPN|propnroot	_	0	root	_	España
+7	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 284
+# text = Nií meran bai jatike .
+1	Nií	_	NOUN	NOUN|nroot.voc	Case=Voc	4	obl	_	Nií
+2	meran	_	POSTP	POSTP|	_	1	case	_	meran
+3	bai	_	NOUN	NOUN|nroot	_	4	nsubj	_	bai
+4	jatike	_	VERB	VERB|cmpl|pds|vroot|vroot.i	Aspect=Perf|Mood=Ind|Subj=Diff|Tense=RelPrev	0	root	_	jati-ke
+5	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 285
+# text = Vicuña rani bitikanai , mas jakon rani ikiketian .
+1	Vicuña	_	NOUN	NOUN|nroot|nrootes	Case=Gen	2	compound	_	Vicuña
+2	rani	_	NOUN	NOUN|nroot	_	3	obj	_	rani
+3	bitikanai	_	VERB	VERB|inc|mid|pl|pp1|sds|vroot	Mood=Ind|Number=Plur|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	biti-kan-ai|Aspect=Imp,Perf
+4	,	_	PUNCT	PUNCT|$.	_	3	punct	_	,
+5	mas	_	SYM	SYM|	_	6	advmod	_	mas
+6	jakon	_	ADJ	ADJ|adjroot|erg	_	7	amod	_	jakon
+7	rani	_	NOUN	NOUN|nroot	_	3	advcl	_	rani
+8	ikiketian	_	VERB	VERB|ds|int|mid|p|vroot|vroot.i	Subj=Diff|Tense=RelPrev	7	cop	_	iki-ketian
+9	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 286
+# text = Jatíbi kóshitiai jawéki iki bakeatiai jawékibo .
+1	Jatíbi	_	ADJ	ADJ|adjroot	_	3	amod	_	Jatíbi
+2	kóshitiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	3	amod	_	kóshiti-ai|Aspect=Imp,Perf
+3	jawéki	_	NOUN	NOUN|nroot	Case=Voc	6	nsubj	_	jawéki
+4	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	6	cop	_	iki
+5	bakeatiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	6	amod	_	bakeati-ai|Aspect=Imp,Perf
+6	jawékibo	_	NOUN	NOUN|nroot|pl	Case=Voc|Number=Plur	0	root	_	jawéki-bo
+7	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 287
+# text = Pancha n ra banatia iki jawetiishokores waxmen .
+1	Pancha	_	PROPN	PROPN|all|erg|ev|gen|propnroot	Evident=Fh	4	nsubj	_	Pancha
+2	n	_	PART	PART|	_	1	case	_	-n
+3	ra	_	PART	PART|	_	4	mark	_	-ra
+4	banatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	banati-a
+5	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	4	aux	_	iki
+6	jawetiishokores	_	ADJ	ADJ|adjroot|adv|dim	_	7	amod	_	jawetii-shoko-res
+7	waxmen	_	NOUN	NOUN|nroot	_	4	obj	_	waxmen
+8	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 288
+# text = Jaskatax bakeranon koráka ikini
+1	Jaskatax	_	CONJ	CONJ|	_	4	cc	_	Jaskatax
+2	bakeranon	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	4	nsubj	_	bakeranon|Case=Acc,Erg,Gen
+3	koráka	_	NOUN	NOUN|nroot	Case=Voc	2	nmod	_	koráka
+4	ikini	_	VERB	VERB|mid|rem|vroot|vroot.i	Tense=Past	0	root	_	iki-ni
+
+# sent_id = 289
+# text = Jatian ino n ja joni ikonhatixon , jawen rabé mekenbi ja chopétia meran niatia iki .
+1	Jatian	_	SCONJ	SCONJ|cmpl|dd|sconjroot|temp	Aspect=Perf|Case=Tem|Subj=Diff|VerbForm=Part	6	cc	_	Jatian
+2	ino	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	6	nsubj	_	ino|Case=Acc,Erg,Gen
+3	n	_	PART	PART|	_	2	case	_	-n
+4	ja	_	DET	DET|demroot	_	5	det	_	ja
+5	joni	_	NOUN	NOUN|nroot	_	6	obj	_	joni
+6	ikonhatixon	_	VERB	VERB|pssa|vroot	Subj=Same|Tense=RelPrev	0	root	_	ikonhati-xon
+7	,	_	PUNCT	PUNCT|$.	_	6	punct	_	,
+8	jawen	_	DET	DET|	_	10	det	_	jawen
+9	rabé	_	NUM	NUM|numroot.c	_	10	nummod	_	rabé
+10	mekenbi	_	NOUN	NOUN|all|em|erg|gen|nroot|pref	_	14	obj	_	meken-bi|Case=Erg,Gen
+11	ja	_	DET	DET|demroot	_	12	det	_	ja
+12	chopétia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	14	obl	_	chopéti-a
+13	meran	_	POSTP	POSTP|	_	12	case	_	meran
+14	niatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	6	advcl	_	niati-a
+15	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	14	aux	_	iki
+16	.	_	PUNCT	PUNCT|$.	_	14	punct	_	.
+
+# sent_id = 290
+# text = Jato ninkatiax moa netétishokoax katia iki .
+1	Jato	_	PRON	PRON|3.pl	Number=Plur|Person=3	2	iobj	_	Jato
+2	ninkatiax	_	VERB	VERB|caus|psss|pst4|vroot.i	Case=Cau|Subj=Same	5	advcl	_	ninkati-ax|Tense=Past,RelPrev
+3	moa	_	ADV	ADV|advroot	_	2	advmod	_	moa
+4	netétishokoax	_	VERB	VERB|dim|psss|vroot|vroot.i	Subj=Same|Tense=RelPrev	5	advcl	_	netéti-shoko-ax
+5	katia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	kati-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 291
+# text = jenetiyamaaitian benkex atiribaa iki timatikin .
+1	jenetiyamaaitian	_	VERB	VERB|	_	3	advcl	_	jeneti-yama-aitian
+2	benkex	_	ADV	ADV|advroot	_	3	advmod	_	benkex
+3	atiribaa	_	VERB	VERB|adv|cmpl|mid|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	ati-riba-a
+4	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	3	aux	_	iki
+5	timatikin	_	VERB	VERB|	_	3	advcl	_	timati-kin
+6	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 292
+# text = Nato escuela iki noa n papa baon noa a atixona .
+1	Nato	_	ADJ	ADJ|adjroot	_	2	amod	_	Nato
+2	escuela	_	NOUN	NOUN|nroot|nrootes	_	10	nsubj	_	escuela
+3	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	10	cop	_	iki
+4	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	6	nmod	_	noa
+5	n	_	PART	PART|	_	4	case	_	-n
+6	papa	_	NOUN	NOUN|erg|nroot|pl|pref	Case=Erg|Number=Plur	10	nmod	_	papa
+7	baon	_	PART	PART|	_	6	case	_	-baon
+8	noa	_	PRON	PRON|	_	10	iobj	_	noa
+9	a	_	PART	PART|	_	8	case	_	-a
+10	atixona	_	VERB	VERB|ben|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Case=Ben|Tense=Pqp|VerbForm=Part	0	root	_	ati-xon-a
+11	.	_	PUNCT	PUNCT|$.	_	10	punct	_	.
+
+# sent_id = 293
+# text = Nato escuela nkoxon noa n onantiai , jakon bake ikinoxon , noa n nete cuidantinoxon .
+1	Nato	_	ADJ	ADJ|adjroot	_	2	amod	_	Nato
+2	escuela	_	NOUN	NOUN|	_	6	obl	_	escuela
+3	nkoxon	_	PART	PART|	_	2	case	_	-nkoxon
+4	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	6	nsubj	_	noa
+5	n	_	PART	PART|	_	4	case	_	-n
+6	onantiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	onanti-ai|Aspect=Imp,Perf
+7	,	_	PUNCT	PUNCT|$.	_	6	punct	_	,
+8	jakon	_	ADJ	ADJ|adjroot|erg	_	9	amod	_	jakon
+9	bake	_	NOUN	NOUN|nroot	_	6	advcl	_	bake
+10	ikinoxon	_	VERB	VERB|fssa|vroot	Subj=Same|Tense=RelNext	9	cop	_	iki-noxon
+11	,	_	PUNCT	PUNCT|$.	_	15	punct	_	,
+12	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	14	nmod	_	noa
+13	n	_	PART	PART|	_	12	case	_	-n
+14	nete	_	NOUN	NOUN|nroot	_	15	obj	_	nete
+15	cuidantinoxon	_	VERB	VERB|fssa|vroot	Subj=Same|Tense=RelNext	9	conj	_	cuidanti-noxon
+16	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 294
+# text = noa n escuela ra noa n jáwetianbi manishtimatima iki .
+1	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	3	nmod	_	noa
+2	n	_	PART	PART|	_	1	case	_	-n
+3	escuela	_	NOUN	NOUN|ev|nroot	Evident=Fh	8	obj	_	escuela
+4	ra	_	PART	PART|	_	8	mark	_	-ra
+5	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	8	nsubj	_	noa
+6	n	_	PART	PART|	_	5	case	_	-n
+7	jáwetianbi	_	ADV	ADV|advroot	_	8	advmod	_	jáwetianbi
+8	manishtimatima	_	VERB	VERB|	_	0	root	_	manishti-ma-ti-ma
+9	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	8	aux	_	iki
+10	.	_	PUNCT	PUNCT|$.	_	8	punct	_	.
+
+# sent_id = 295
+# text = wasnonbo soatinon atikanwe .
+1	wasnonbo	_	NOUN	NOUN|nroot|pl	Number=Plur	3	obj	_	wasnon-bo
+2	soatinon	_	VERB	VERB|	_	3	advcl	_	soati-non
+3	atikanwe	_	VERB	VERB|imp|mid|pl|vroot	Mood=Imp|Number=Plur	0	root	_	ati-kan-we
+4	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 296
+# text = Jaskarainoax ki mawátiti pikotia iki .
+1	Jaskarainoax	_	ADV	ADV|loc|nroot	Case=Loc	4	advmod	_	Jaskarainoax
+2	ki	_	PART	PART|	_	4	mark	_	-ki
+3	mawátiti	_	VERB	VERB|inf|vroot|vroot.i	VerbForm=Inf	4	nsubj	_	mawáti-ti
+4	pikotia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	pikoti-a
+5	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	4	aux	_	iki
+6	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 297
+# text = Jaskatax ki , ja iná ainbo meax , xetebo jonibo kaítia iki .
+1	Jaskatax	_	CONJ	CONJ|	_	11	cc	_	Jaskatax
+2	ki	_	PART	PART|	_	11	mark	_	-ki
+3	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+4	ja	_	DET	DET|demroot	_	5	det	_	ja
+5	iná	_	NOUN	NOUN|nroot.voc	_	11	obl	_	iná|Case=Gen,Voc
+6	ainbo	_	NOUN	NOUN|abl|loc|nroot|pl|s	Number=Plur	5	compound	_	ainbo
+7	meax	_	PART	PART|	_	5	case	_	-meax
+8	,	_	PUNCT	PUNCT|$.	_	5	punct	_	,
+9	xetebo	_	ADJ	ADJ|	_	10	amod	_	xetebo
+10	jonibo	_	NOUN	NOUN|nroot|pl|pref	Number=Plur	11	nsubj	_	joni-bo
+11	kaítia	_	VERB	VERB|cmpl|po>s/a|pp2|pref|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	kaíti-a
+12	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	11	aux	_	iki
+13	.	_	PUNCT	PUNCT|$.	_	11	punct	_	.
+
+# sent_id = 298
+# text = Santa Rosa nko chexe Inca ikini
+1	Santa	_	PROPN	PROPN|propnroot	_	2	compound	_	Santa
+2	Rosa	_	PROPN	PROPN|	_	5	nmod	_	Rosa
+3	nko	_	PART	PART|	_	2	case	_	-nko
+4	chexe	_	PROPN	PROPN|propnroot	_	5	compound	_	chexe
+5	Inca	_	PROPN	PROPN|	_	6	nsubj	_	Inca
+6	ikini	_	VERB	VERB|mid|rem|vroot|vroot.i	Tense=Past	0	root	_	iki-ni
+
+# sent_id = 299
+# text = noa n chíoshokobo noa n ointiai .
+1	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	3	nmod	_	noa
+2	n	_	PART	PART|	_	1	case	_	-n
+3	chíoshokobo	_	NOUN	NOUN|dim|nroot|pl	Case=Voc|Number=Plur	6	obj	_	chío-shoko-bo
+4	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	6	nsubj	_	noa
+5	n	_	PART	PART|	_	4	case	_	-n
+6	ointiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	ointi-ai|Aspect=Imp,Perf
+7	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 300
+# text = noa n anibo noa n jawéki atikinai .
+1	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	3	nmod	_	noa
+2	n	_	PART	PART|	_	1	case	_	-n
+3	anibo	_	NOUN	NOUN|adjroot|nroot|pl	Number=Plur	7	nsubj	_	anibo
+4	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	6	nmod	_	noa
+5	n	_	PART	PART|	_	4	case	_	-n
+6	jawéki	_	NOUN	NOUN|nroot	Case=Voc	7	obj	_	jawéki
+7	atikinai	_	VERB	VERB|assoc|inc|pp1|sds|vroot	Case=Com|Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	ati-kin-ai|Aspect=Imp,Perf
+8	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 301
+# text = Jainxon noa n yoxanshokobo noa n jawéki akintiti iki .
+1	Jainxon	_	SCONJ	SCONJ|a|sconjroot	_	8	cc	_	Jainxon
+2	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	4	nmod	_	noa
+3	n	_	PART	PART|	_	2	case	_	-n
+4	yoxanshokobo	_	NOUN	NOUN|dim|nroot|pl	Number=Plur	8	nsubj	_	yoxan-shoko-bo
+5	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	7	nmod	_	noa
+6	n	_	PART	PART|	_	5	case	_	-n
+7	jawéki	_	NOUN	NOUN|nroot	Case=Voc	8	obj	_	jawéki
+8	akintiti	_	VERB	VERB|inf|vroot|vroot.i	VerbForm=Inf	0	root	_	akinti-ti
+9	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	8	aux	_	iki
+10	.	_	PUNCT	PUNCT|$.	_	8	punct	_	.
+
+# sent_id = 302
+# text = ¿ Jawe yoitii ikia rin nato kointo ?
+1	¿	_	PUNCT	PUNCT|$.	_	3	punct	_	¿
+2	Jawe	_	PRON	PRON|pronroot.int	Number=Sing|Person=3	3	obj	_	Jawe
+3	yoitii	_	VERB	VERB|ssss|vroot.i	Subj=Same|Tense=RelSim	0	root	_	yoiti-i
+4	ikia	_	AUX	AUX|auxroot|cmpl|int|int2|po>s/a|pp2	PronType=Int|Tense=Pqp	3	aux	_	iki-a
+5	rin	_	PART	PART|	_	3	mark	_	-rin
+6	nato	_	ADJ	ADJ|adjroot	_	7	amod	_	nato
+7	kointo	_	NOUN	NOUN|nroot|pref|priv	_	3	nsubj	_	kointo
+8	?	_	PUNCT	PUNCT|$.	_	3	punct	_	?
+
+# sent_id = 303
+# text = ¿ Moa basi iitikin ki , jawerano bakeranon raantikana iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	9	punct	_	¿
+2	Moa	_	ADV	ADV|advroot	_	4	advmod	_	Moa
+3	basi	_	ADV	ADV|advroot	_	4	advmod	_	basi
+4	iitikin	_	VERB	VERB|hsy|int|sssa|vroot	Evident=Nfh|Subj=Same|Tense=RelSim	9	advcl	_	iiti-kin
+5	ki	_	PART	PART|	_	9	mark	_	-ki
+6	,	_	PUNCT	PUNCT|$.	_	4	punct	_	,
+7	jawerano	_	PRON	PRON|pronroot.int	_	9	obj	_	jawerano
+8	bakeranon	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	9	nsubj	_	bakeranon|Case=Acc,Erg,Gen
+9	raantikana	_	VERB	VERB|caus|cmpl|pl|po>s/a|pp2|pref|vroot|vroot.i	Aspect=Perf|Case=Cau|Number=Plur|Tense=Pqp|VerbForm=Part	0	root	_	raanti-kan-a
+10	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	9	aux	_	iki
+11	?	_	PUNCT	PUNCT|$.	_	9	punct	_	?
+
+# sent_id = 304
+# text = Jaskara ikiketian , yantan bari jikitiamapainon riki .
+1	Jaskara	_	CONJ	CONJ|	_	6	cc	_	Jaskara
+2	ikiketian	_	VERB	VERB|ds|int|mid|p|vroot|vroot.i	Subj=Diff|Tense=RelPrev	6	advcl	_	iki-ketian
+3	,	_	PUNCT	PUNCT|$.	_	2	punct	_	,
+4	yantan	_	ADV	ADV|advroot	_	6	advmod	_	yantan
+5	bari	_	NOUN	NOUN|loc|nroot	_	6	nsubj	_	bari
+6	jikitiamapainon	_	VERB	VERB|	_	0	root	_	jikiti-ama-painon
+7	riki	_	AUX	AUX|auxroot|ev	Evident=Fh|Mood=Nec	6	aux	_	riki
+8	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 305
+# text = Iamarake .
+1	Iamarake	_	INTJ	INTJ|intjroot	_	0	root	_	Iamarake
+2	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 306
+# text = Aa ¡ papa !
+1	Aa	_	INTJ	INTJ|	_	3	discourse	_	Aa
+2	¡	_	PUNCT	PUNCT|$.	_	3	punct	_	¡
+3	papa	_	NOUN	NOUN|nroot|nrootes|pref	_	0	root	_	papa
+4	!	_	PUNCT	PUNCT|$.	_	3	punct	_	!
+
+# sent_id = 307
+# text = atiyorakin ra eaa xoitike .
+1	atiyorakin	_	VERB	VERB|ev|intens|sssa|vroot	Evident=Fh|Subj=Same|Tense=RelSim	4	advcl	_	ati-yora-kin
+2	ra	_	PART	PART|	_	4	mark	_	-ra
+3	eaa	_	PRON	PRON|	_	4	obj	_	ea-a
+4	xoitike	_	VERB	VERB|cmpl|pds|pref|vroot.i	Aspect=Perf|Mood=Ind|Subj=Diff|Tense=RelPrev	0	root	_	xoiti-ke
+5	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 308
+# text = Jainoax jatiribake ja n noa n yora koshiatiti .
+1	Jainoax	_	SCONJ	SCONJ|abl|loc|s|sconjroot	_	2	cc	_	Jainoax
+2	jatiribake	_	VERB	VERB|adv|cmpl|pds|vroot|vroot.i	Aspect=Perf|Mood=Ind|Subj=Diff|Tense=RelPrev	0	root	_	jati-riba-ke
+3	ja	_	PRON	PRON|3.sg|all|erg	Number=Sing|Person=3	8	nsubj	_	ja
+4	n	_	PART	PART|	_	3	case	_	-n
+5	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	7	nmod	_	noa
+6	n	_	PART	PART|	_	5	case	_	-n
+7	yora	_	NOUN	NOUN|nroot	_	8	obj	_	yora
+8	koshiatiti	_	VERB	VERB|inf|vroot|vroot.i	VerbForm=Inf	2	nsubj	_	koshiati-ti
+9	.	_	PUNCT	PUNCT|$.	_	2	punct	_	.
+
+# sent_id = 309
+# text = wai nkonia jawéki peishoko bititanwe .
+1	wai	_	NOUN	NOUN|abl|lig|loc|nroot	_	5	obl	_	wai
+2	nkonia	_	PART	PART|	_	1	case	_	-nkonia
+3	jawéki	_	NOUN	NOUN|nroot	_	4	amod	_	jawéki|Case=Gen,Voc
+4	peishoko	_	NOUN	NOUN|dim|nroot	_	5	obj	_	pei-shoko
+5	bititanwe	_	VERB	VERB|adv|imp|mid|vroot	_	0	root	_	biti-tan-we|Mood=Imp,Prp
+6	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 310
+# text = Ja a pei keskáatikin mia n cuaderno nin atiwe .
+1	Ja	_	DET	DET|	_	3	det	_	Ja
+2	a	_	PART	PART|	_	1	case	_	-a
+3	pei	_	NOUN	NOUN|nroot	_	9	obj	_	pei
+4	keskáatikin	_	VERB	VERB|	_	9	advcl	_	keskáati-kin
+5	mia	_	PRON	PRON|2.sg|abs|all	Number=Sing|Person=2	7	det	_	mia
+6	n	_	PART	PART|	_	5	case	_	-n
+7	cuaderno	_	NOUN	NOUN|erg|nroot	Case=Erg	9	obl	_	cuaderno
+8	nin	_	PART	PART|	_	7	case	_	-nin
+9	atiwe	_	VERB	VERB|imp|mid|vroot	Mood=Imp	0	root	_	ati-we
+10	.	_	PUNCT	PUNCT|$.	_	9	punct	_	.
+
+# sent_id = 311
+# text = ¿ tsoa a ki inka n chii bititi yonotikana iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	9	punct	_	¿
+2	tsoa	_	PRON	PRON|	_	9	obj	_	tsoa
+3	a	_	PART	PART|	_	2	case	_	-a
+4	ki	_	PART	PART|	_	9	mark	_	-ki
+5	inka	_	NOUN	NOUN|all|cmpl|erg|gen|intrss|nroot|pref|vroot.i	_	8	obj	_	inka|Case=Acc,Erg,Gen
+6	n	_	PART	PART|	_	5	case	_	-n
+7	chii	_	NOUN	NOUN|nroot	_	5	nmod	_	chii
+8	bititi	_	VERB	VERB|inf|mid|vroot	VerbForm=Inf	9	obl	_	biti-ti
+9	yonotikana	_	VERB	VERB|caus|cmpl|pl|po>s/a|pp2|pref|vroot|vroot.i	Aspect=Perf|Case=Cau|Number=Plur|Tense=Pqp|VerbForm=Part	0	root	_	yonoti-kan-a
+10	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	9	aux	_	iki
+11	?	_	PUNCT	PUNCT|$.	_	9	punct	_	?
+
+# sent_id = 312
+# text = Awá betan chosko bakeranon ikini
+1	Awá	_	NOUN	NOUN|nroot.voc	Case=Voc	5	nsubj	_	Awá
+2	betan	_	CCONJ	CCONJ|cconjroot	_	4	cc	_	betan
+3	chosko	_	NUM	NUM|numroot.c	_	4	nummod	_	chosko
+4	bakeranon	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	1	conj	_	bakeranon|Case=Acc,Erg,Gen
+5	ikini	_	VERB	VERB|mid|rem|vroot|vroot.i	Tense=Past	0	root	_	iki-ni
+
+# sent_id = 313
+# text = Ikaxbi payari riki joxo .
+1	Ikaxbi	_	CONJ	CONJ|	_	5	cc	_	Ikaxbi
+2	payari	_	NOUN	NOUN|loc|nroot|pref|prop	_	4	nsubj	_	payari
+3	riki	_	VERB	VERB|vroot|vroot.i	Mood=Nec	4	cop	_	riki
+4	joxo	_	ADJ	ADJ|adjroot	_	0	root	_	joxo
+5	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 314
+# text = Jawen jana riki xakiti keská .
+1	Jawen	_	DET	DET|	_	2	det	_	Jawen
+2	jana	_	NOUN	NOUN|nroot	_	4	nsubj	_	jana
+3	riki	_	VERB	VERB|vroot|vroot.i	Mood=Nec	4	cop	_	riki
+4	xakiti	_	NOUN	NOUN|nroot	_	0	root	_	xakiti
+5	keská	_	POSTP	POSTP|	_	4	case	_	keská
+6	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 315
+# text = Ja riki pia n tsakatiti .
+1	Ja	_	PRON	PRON|3.sg	Number=Sing|Person=3	5	nsubj	_	Ja
+2	riki	_	AUX	AUX|auxroot|ev	Evident=Fh|Mood=Nec	5	cop	_	riki
+3	pia	_	NOUN	NOUN|all|cmpl|erg|gen|intrss|nroot|vroot|vroot.i	_	5	obl	_	pia|Case=Acc,Erg,Gen
+4	n	_	PART	PART|	_	3	case	_	-n
+5	tsakatiti	_	VERB	VERB|inf|vroot|vroot.i	VerbForm=Inf	0	root	_	tsakati-ti
+6	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 316
+# text = ikaxbi ra ja maxko iki .
+1	ikaxbi	_	CONJ	CONJ|	_	4	cc	_	ikaxbi
+2	ra	_	PART	PART|	_	4	mark	_	-ra
+3	ja	_	PRON	PRON|3.sg	Number=Sing|Person=3	4	nsubj	_	ja
+4	maxko	_	ADJ	ADJ|adjroot	_	0	root	_	maxko
+5	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	4	cop	_	iki
+6	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 317
+# text = wametio anima .
+1	wametio	_	NOUN	NOUN|loc|nmlz|vroot|vroot.i	_	2	nsubj	_	wame-tio
+2	anima	_	ADJ	ADJ|adjroot|neg	Polarity=Neg	0	root	_	ani-ma
+3	.	_	PUNCT	PUNCT|$.	_	2	punct	_	.
+
+# sent_id = 318
+# text = ¿ jawen ki payari yomeratiti iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	jawen	_	PRON	PRON|dat|erg|inst|int|loc|pos3|pronroot.int	Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	obl	_	jawe-n|Case=Dat,Ins
+3	ki	_	PART	PART|	_	5	mark	_	-ki
+4	payari	_	NOUN	NOUN|loc|nroot|pref|prop	_	5	obj	_	payari
+5	yomeratiti	_	VERB	VERB|inf|vroot|vroot.i	VerbForm=Inf	0	root	_	yomerati-ti
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 319
+# text = Jainxon ea n jakon chopa sáwetia iki .
+1	Jainxon	_	SCONJ	SCONJ|a|sconjroot	_	6	cc	_	Jainxon
+2	ea	_	PRON	PRON|1.sg|abs|all	Number=Sing|Person=1	6	nsubj	_	ea
+3	n	_	PART	PART|	_	2	case	_	-n
+4	jakon	_	ADJ	ADJ|adjroot|erg	_	5	amod	_	jakon
+5	chopa	_	NOUN	NOUN|nroot	_	6	obj	_	chopa
+6	sáwetia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	sáweti-a
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 320
+# text = Yamékiri ea n potótikinshaman xéatia iki .
+1	Yamékiri	_	ADV	ADV|advroot	_	5	advmod	_	Yamékiri
+2	ea	_	PRON	PRON|1.sg|abs|all	Number=Sing|Person=1	5	nsubj	_	ea
+3	n	_	PART	PART|	_	2	case	_	-n
+4	potótikinshaman	_	VERB	VERB|	_	5	advcl	_	potóti-kin-shaman
+5	xéatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	xéati-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 321
+# text = ea a mánokoxotia iki , cepillo nin ; nokon xeta chokatii , ompax bexnan man .
+1	ea	_	PRON	PRON|	_	3	nsubj	_	ea
+2	a	_	PART	PART|	_	1	case	_	-a
+3	mánokoxotia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	mánokoxoti-a
+4	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	3	aux	_	iki
+5	,	_	PUNCT	PUNCT|$.	_	3	punct	_	,
+6	cepillo	_	NOUN	NOUN|erg|nroot	Case=Erg	3	obl	_	cepillo
+7	nin	_	PART	PART|	_	6	case	_	-nin
+8	;	_	PUNCT	PUNCT|$.	_	6	punct	_	;
+9	nokon	_	DET	DET|	_	10	det	_	nokon
+10	xeta	_	NOUN	NOUN|nroot|pref	_	11	obj	_	xeta
+11	chokatii	_	VERB	VERB|mid|pst4|ssss|vroot	Subj=Same	3	advcl	_	chokati-i|Tense=Past,RelSim
+12	,	_	PUNCT	PUNCT|$.	_	11	punct	_	,
+13	ompax	_	NOUN	NOUN|nroot	_	3	obl	_	ompax
+14	bexnan	_	ADJ	ADJ|	_	13	amod	_	bexnan
+15	man	_	PART	PART|	_	13	case	_	-man
+16	.	_	PUNCT	PUNCT|$.	_	13	punct	_	.
+
+# sent_id = 322
+# text = mia n cuaderno nin jawen janebo atiwe .
+1	mia	_	PRON	PRON|2.sg|abs|all	Number=Sing|Person=2	3	nmod	_	mia
+2	n	_	PART	PART|	_	1	case	_	-n
+3	cuaderno	_	NOUN	NOUN|erg|nroot	Case=Erg	7	obl	_	cuaderno
+4	nin	_	PART	PART|	_	3	case	_	-nin
+5	jawen	_	DET	DET|	_	6	det	_	jawen
+6	janebo	_	NOUN	NOUN|nroot|pl	Number=Plur	7	obj	_	jane-bo
+7	atiwe	_	VERB	VERB|imp|mid|vroot	Mood=Imp	0	root	_	ati-we
+8	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 323
+# text = ¿ Jawerano rin Norte América ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	Jawerano	_	PRON	PRON|int2|pronroot.int	PronType=Int	5	advmod	_	Jawerano
+3	rin	_	PART	PART|	_	5	mark	_	-rin
+4	Norte	_	PROPN	PROPN|propnroot	_	5	compound	_	Norte
+5	América	_	PROPN	PROPN|propnroot	_	0	root	_	América
+6	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 324
+# text = ¿ Jawerato aninasi n rin Perú ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	Jawerato	_	PRON	PRON|pronroot.int	_	3	amod	_	Jawerato
+3	aninasi	_	NOUN	NOUN|all|erg|gen|int2|nroot	PronType=Int	6	obl	_	aninasi|Case=Erg,Gen
+4	n	_	PART	PART|	_	3	case	_	-n
+5	rin	_	PART	PART|	_	6	mark	_	-rin
+6	Perú	_	PROPN	PROPN|propnroot	_	0	root	_	Perú
+7	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 325
+# text = ¿ Jawerato ponté ki katiti iki , Asiain katii ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	Jawerato	_	PRON	PRON|pronroot.int	_	3	amod	_	Jawerato
+3	ponté	_	NOUN	NOUN|adjroot|dat|int|loc|nroot.voc	_	5	advmod	_	ponté|Case=Dat,Voc
+4	ki	_	PART	PART|	_	5	mark	_	-ki
+5	katiti	_	VERB	VERB|inf|vroot.i	VerbForm=Inf	0	root	_	kati-ti
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	,	_	PUNCT	PUNCT|$.	_	5	punct	_	,
+8	Asiain	_	PROPN	PROPN|	_	9	obl	_	Asia-in
+9	katii	_	VERB	VERB|ssss|vroot.i	Subj=Same|Tense=RelSim	5	advcl	_	kati-i
+10	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 326
+# text = jatian ki yoitia iki : " Nato bimi kokotii jotiax a ea a iitiai , " atikin .
+1	jatian	_	SCONJ	SCONJ|cmpl|dd|hsy|int|sconjroot	Aspect=Perf|Evident=Nfh|Subj=Diff|VerbForm=Part	3	cc	_	jatian
+2	ki	_	PART	PART|	_	3	mark	_	-ki
+3	yoitia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	yoiti-a
+4	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	3	aux	_	iki
+5	:	_	PUNCT	PUNCT|$.	_	3	punct	_	:
+6	"	_	PUNCT	PUNCT|$.	_	14	punct	_	"
+7	Nato	_	DET	DET|demroot	_	8	det	_	Nato
+8	bimi	_	NOUN	NOUN|nroot	_	9	obj	_	bimi
+9	kokotii	_	VERB	VERB|ssss|vroot.i	Subj=Same|Tense=RelSim	14	advcl	_	kokoti-i
+10	jotiax	_	VERB	VERB|	_	14	advcl	_	joti-ax
+11	a	_	PART	PART|	_	14	mark	_	-a
+12	ea	_	PRON	PRON|	_	14	nsubj	_	ea
+13	a	_	PART	PART|	_	12	case	_	-a
+14	iitiai	_	VERB	VERB|inc|pp1|sds|vroot	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	17	ccomp	_	iiti-ai|Aspect=Imp,Perf
+15	,	_	PUNCT	PUNCT|$.	_	14	punct	_	,
+16	"	_	PUNCT	PUNCT|$.	_	14	punct	_	"
+17	atikin	_	VERB	VERB|sssa|vroot	Subj=Same|Tense=RelSim	3	advcl	_	ati-kin
+18	.	_	PUNCT	PUNCT|$.	_	14	punct	_	.
+
+# sent_id = 327
+# text = Jaskatax ino neetishokokasabi ititikoma ikia iki , ja jiwi sibá ikiax .
+1	Jaskatax	_	CONJ	CONJ|	_	3	cc	_	Jaskatax
+2	ino	_	NOUN	NOUN|nroot	_	3	nsubj	_	ino
+3	neetishokokasabi	_	VERB	VERB|	_	0	root	_	neeti-shoko-kas-a-bi
+4	ititikoma	_	VERB	VERB|	_	3	advcl	_	iti-ti-koma
+5	ikia	_	AUX	AUX|auxroot|cmpl|int|po>s/a|pp2	Tense=Pqp	3	aux	_	iki-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	,	_	PUNCT	PUNCT|$.	_	3	punct	_	,
+8	ja	_	DET	DET|demroot	_	9	det	_	ja
+9	jiwi	_	NOUN	NOUN|nroot	_	10	nsubj	_	jiwi
+10	sibá	_	ADJ	ADJ|adjroot	_	3	advmod	_	sibá
+11	ikiax	_	VERB	VERB|int|psss|vroot|vroot.i	Subj=Same|Tense=RelPrev	10	cop	_	iki-ax
+12	.	_	PUNCT	PUNCT|$.	_	10	punct	_	.
+
+# sent_id = 328
+# text = Jakon jaweki bánatiai .
+1	Jakon	_	ADJ	ADJ|adjroot|erg	_	2	amod	_	Jakon
+2	jaweki	_	NOUN	NOUN|nroot	_	3	obj	_	jaweki
+3	bánatiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	bánati-ai|Aspect=Imp,Perf
+4	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 329
+# text = Atsa taxo bánatiai .
+1	Atsa	_	NOUN	NOUN|nroot	Case=Gen	2	compound	_	Atsa
+2	taxo	_	NOUN	NOUN|nroot	_	3	obj	_	taxo
+3	bánatiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	bánati-ai|Aspect=Imp,Perf
+4	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 330
+# text = Xeki bero bánatiai .
+1	Xeki	_	NOUN	NOUN|nroot	Case=Gen	2	compound	_	Xeki
+2	bero	_	NOUN	NOUN|nroot	_	3	obj	_	bero
+3	bánatiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	bánati-ai|Aspect=Imp,Perf
+4	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 331
+# text = Kari tapon bánatiai .
+1	Kari	_	NOUN	NOUN|cmpl|loc|nroot|vroot.i	Case=Gen	2	compound	_	Kari
+2	tapon	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	3	obj	_	tapon|Case=Acc,Erg,Gen
+3	bánatiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	bánati-ai|Aspect=Imp,Perf
+4	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 332
+# text = Maxó bakeranon betan jawen tita ikini
+1	Maxó	_	NOUN	NOUN|nroot.voc	_	2	compound	_	Maxó|Case=Gen,Voc
+2	bakeranon	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	6	nsubj	_	bakeranon|Case=Acc,Erg,Gen
+3	betan	_	CCONJ	CCONJ|cconjroot	_	5	cc	_	betan
+4	jawen	_	DET	DET|	_	5	det	_	jawen
+5	tita	_	NOUN	NOUN|nroot	_	2	conj	_	tita
+6	ikini	_	VERB	VERB|mid|rem|vroot|vroot.i	Tense=Past	0	root	_	iki-ni
+
+# sent_id = 333
+# text = Jaskatax , ja maxó bakeranon katia iki , chonka pichika joni a .
+1	Jaskatax	_	CONJ	CONJ|	_	6	cc	_	Jaskatax
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	ja	_	DET	DET|demroot	_	5	det	_	ja
+4	maxó	_	NOUN	NOUN|nroot.voc	_	5	compound	_	maxó|Case=Gen,Voc
+5	bakeranon	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	6	nsubj	_	bakeranon|Case=Acc,Erg,Gen
+6	katia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	kati-a
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	,	_	PUNCT	PUNCT|$.	_	6	punct	_	,
+9	chonka	_	NUM	NUM|numroot.c	_	11	nummod	_	chonka
+10	pichika	_	NUM	NUM|numroot.c	_	9	compound	_	pichika
+11	joni	_	NOUN	NOUN|cmpl|nroot|pref|vroot.i	_	6	obl	_	joni
+12	a	_	PART	PART|	_	11	case	_	-a
+13	.	_	PUNCT	PUNCT|$.	_	11	punct	_	.
+
+# sent_id = 334
+# text = Moa kawántiketian jawen tita n mana mánatia iki , yantantipaketaitian .
+1	Moa	_	ADV	ADV|advroot	_	2	advmod	_	Moa
+2	kawántiketian	_	VERB	VERB|ds|p|vroot|vroot.i	Subj=Diff|Tense=RelPrev	7	advcl	_	kawánti-ketian
+3	jawen	_	DET	DET|	_	4	det	_	jawen
+4	tita	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	7	nsubj	_	tita|Case=Acc,Erg,Gen
+5	n	_	PART	PART|	_	4	case	_	-n
+6	mana	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	7	compound	_	mana
+7	mánatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	mánati-a
+8	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	7	aux	_	iki
+9	,	_	PUNCT	PUNCT|$.	_	7	punct	_	,
+10	yantantipaketaitian	_	VERB	VERB|	_	7	advcl	_	yantanti-paket-aitian
+11	.	_	PUNCT	PUNCT|$.	_	10	punct	_	.
+
+# sent_id = 335
+# text = nétetiibi noa n xeatiti iki , westíora litro inonbires , ompax .
+1	nétetiibi	_	NOUN	NOUN|distr|nroot	_	4	advmod	_	néte-tiibi|Case=Dis,Voc
+2	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	4	nsubj	_	noa
+3	n	_	PART	PART|	_	2	case	_	-n
+4	xeatiti	_	VERB	VERB|inf|mid|pref|vroot	VerbForm=Inf	0	root	_	xeati-ti
+5	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	4	aux	_	iki
+6	,	_	PUNCT	PUNCT|$.	_	4	punct	_	,
+7	westíora	_	DET	DET|	_	8	det	_	westíora
+8	litro	_	NOUN	NOUN|nroot	_	4	obj	_	litro
+9	inonbires	_	ADV	ADV|advroot	_	4	advmod	_	inonbires
+10	,	_	PUNCT	PUNCT|$.	_	8	punct	_	,
+11	ompax	_	NOUN	NOUN|nroot	_	8	compound	_	ompax
+12	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 336
+# text = noa n xeatiti iki jakon ompaxbicho .
+1	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	3	nsubj	_	noa
+2	n	_	PART	PART|	_	1	case	_	-n
+3	xeatiti	_	VERB	VERB|inf|mid|pref|vroot	VerbForm=Inf	0	root	_	xeati-ti
+4	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	3	aux	_	iki
+5	jakon	_	ADJ	ADJ|adjroot|erg	_	6	amod	_	jakon
+6	ompaxbicho	_	NOUN	NOUN|adv|nroot	_	3	obj	_	ompax-bicho
+7	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 337
+# text = Jaskatax ja Inca n xeni n sikítia iki .
+1	Jaskatax	_	CONJ	CONJ|	_	7	cc	_	Jaskatax
+2	ja	_	DET	DET|demroot	_	3	det	_	ja
+3	Inca	_	NOUN	NOUN|all|erg|gen|intrss|nroot|pref	_	7	nsubj	_	Inca|Case=Acc,Erg,Gen
+4	n	_	PART	PART|	_	3	case	_	-n
+5	xeni	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	7	obl	_	xeni|Case=Acc,Erg,Gen
+6	n	_	PART	PART|	_	5	case	_	-n
+7	sikítia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	sikíti-a
+8	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	7	aux	_	iki
+9	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 338
+# text = Jaskáaxon incaatikin janetikana iki , ja Manco Cápac .
+1	Jaskáaxon	_	CONJ	CONJ|	_	3	cc	_	Jaskáaxon
+2	incaatikin	_	VERB	VERB|	_	3	advcl	_	incaati-kin
+3	janetikana	_	VERB	VERB|caus|cmpl|pl|po>s/a|pp2|pref|vroot|vroot.i	Aspect=Perf|Case=Cau|Number=Plur|Tense=Pqp|VerbForm=Part	0	root	_	janeti-kan-a
+4	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	3	aux	_	iki
+5	,	_	PUNCT	PUNCT|$.	_	3	punct	_	,
+6	ja	_	DET	DET|demroot	_	8	det	_	ja
+7	Manco	_	PROPN	PROPN|propnroot	_	8	compound	_	Manco
+8	Cápac	_	PROPN	PROPN|propnroot	_	3	obj	_	Cápac
+9	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 339
+# text = jatiribi yapabo ra ikiai makeki raketiti .
+1	jatiribi	_	ADJ	ADJ|	_	2	amod	_	jati-ribi
+2	yapabo	_	NOUN	NOUN|ev|nroot|pl	Evident=Fh|Number=Plur	6	nsubj	_	yapa-bo
+3	ra	_	PART	PART|	_	6	mark	_	-ra
+4	ikiai	_	AUX	AUX|auxroot|inc|int|pp1|sds	Aspect=Imp|Mood=Ind|Subj=Diff|Tense=RelSim	6	aux	_	iki-ai
+5	makeki	_	NOUN	NOUN|dat|int|loc|nroot|pref	Case=Dat	6	obj	_	make-ki
+6	raketiti	_	VERB	VERB|inf|vroot|vroot.i	VerbForm=Inf	0	root	_	raketi-ti
+7	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 340
+# text = ¿ Jawe kopi ki jawen xeta kensho iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	Jawe	_	PRON	PRON|pronroot.int	Number=Sing|Person=3	6	advmod	_	Jawe
+3	kopi	_	NOUN	NOUN|dat|int|loc|nroot|pref	Case=Dat	2	cc	_	kopi
+4	ki	_	PART	PART|	_	6	mark	_	-ki
+5	jawen	_	DET	DET|	_	6	det	_	jawen
+6	xeta	_	NOUN	NOUN|nroot|pref	_	0	root	_	xeta
+7	kensho	_	ADJ	ADJ|adjroot	_	6	amod	_	kensho
+8	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	6	cop	_	iki
+9	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 341
+# text = Apoo .
+1	Apoo	_	INTJ	INTJ|	_	0	root	_	Apoo
+2	.	_	PUNCT	PUNCT|$.	_	1	punct	_	.
+
+# sent_id = 342
+# text = eripanon ¡ papa !
+1	eripanon	_	INTJ	INTJ|	_	3	discourse	_	eri-panon
+2	¡	_	PUNCT	PUNCT|$.	_	3	punct	_	¡
+3	papa	_	NOUN	NOUN|nroot|nrootes|pref	_	0	root	_	papa
+4	!	_	PUNCT	PUNCT|$.	_	3	punct	_	!
+
+# sent_id = 343
+# text = mia a ra jakonbires maestro iki .
+1	mia	_	PRON	PRON|	_	4	nsubj	_	mia
+2	a	_	PART	PART|	_	1	case	_	-a
+3	ra	_	PART	PART|	_	4	mark	_	-ra
+4	jakonbires	_	ADJ	ADJ|adjroot|adv	_	5	amod	_	jakon-bires
+5	maestro	_	NOUN	NOUN|nroot	_	0	root	_	maestro
+6	iki	_	VERB	VERB|ssss|vroot|vroot.i	Mood=Nec|Subj=Same|Tense=RelSim	4	cop	_	iki
+7	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 344
+# text = noa n xeta n beshéatikin nakatiai , jawékiatikin .
+1	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	6	nsubj	_	noa
+2	n	_	PART	PART|	_	1	case	_	-n
+3	xeta	_	NOUN	NOUN|all|erg|gen|intrss|nroot|pref	_	6	obl	_	xeta|Case=Acc,Erg,Gen
+4	n	_	PART	PART|	_	3	case	_	-n
+5	beshéatikin	_	VERB	VERB|	_	6	advcl	_	beshéati-kin
+6	nakatiai	_	VERB	VERB|inc|pp1|pref|sds|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	nakati-ai|Aspect=Imp,Perf
+7	,	_	PUNCT	PUNCT|$.	_	6	punct	_	,
+8	jawékiatikin	_	VERB	VERB|sssa|vroot	Subj=Same|Tense=RelSim	6	advcl	_	jawékiati-kin
+9	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 345
+# text = ¿ jaweati ki noa n nakatiai , jawékiatikin ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	jaweati	_	PRON	PRON|	_	6	obl	_	jaweati
+3	ki	_	PART	PART|	_	6	mark	_	-ki
+4	noa	_	PRON	PRON|1.pl|abs|all	Number=Plur|Person=1	6	nsubj	_	noa
+5	n	_	PART	PART|	_	4	case	_	-n
+6	nakatiai	_	VERB	VERB|inc|pp1|pref|sds|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	nakati-ai|Aspect=Imp,Perf
+7	,	_	PUNCT	PUNCT|$.	_	6	punct	_	,
+8	jawékiatikin	_	VERB	VERB|sssa|vroot	Subj=Same|Tense=RelSim	6	advcl	_	jawékiati-kin
+9	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 346
+# text = Ja ainbo betan Huayna Cápac jatian wanotia iki .
+1	Ja	_	DET	DET|demroot	_	2	det	_	Ja
+2	ainbo	_	NOUN	NOUN|nroot|pl	Number=Plur	7	obl	_	ainbo
+3	betan	_	POSTP	POSTP|	_	2	case	_	betan
+4	Huayna	_	PROPN	PROPN|propnroot	_	5	compound	_	Huayna
+5	Cápac	_	PROPN	PROPN|propnroot	_	7	nsubj	_	Cápac
+6	jatian	_	ADV	ADV|advroot	_	7	advmod	_	jatian
+7	wanotia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	wanoti-a
+8	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	7	aux	_	iki
+9	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 347
+# text = Jaskatax ja rabé joni raetianana iki .
+1	Jaskatax	_	CONJ	CONJ|	_	5	cc	_	Jaskatax
+2	ja	_	DET	DET|demroot	_	4	det	_	ja
+3	rabé	_	NUM	NUM|numroot.c	_	4	nummod	_	rabé
+4	joni	_	NOUN	NOUN|nroot	_	5	nsubj	_	joni
+5	raetianana	_	VERB	VERB|caus|cmpl|mal|mid|po>s/a|pp2|pref|rec|vroot	Aspect=Perf|Polarity=Neg|Tense=Pqp|VerbForm=Part|Voice=Rcp	0	root	_	raeti-anan-a|Case=Ben,Cau
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 348
+# text = ¿ jaweskarain ki bachiatiai ?
+1	¿	_	PUNCT	PUNCT|$.	_	4	punct	_	¿
+2	jaweskarain	_	PRON	PRON|	_	4	obj	_	jaweskarain
+3	ki	_	PART	PART|	_	4	mark	_	-ki
+4	bachiatiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	bachiati-ai|Aspect=Imp,Perf
+5	?	_	PUNCT	PUNCT|$.	_	4	punct	_	?
+
+# sent_id = 349
+# text = Jatian jawen bene katia iki .
+1	Jatian	_	SCONJ	SCONJ|cmpl|dd|sconjroot|temp	Aspect=Perf|Case=Tem|Subj=Diff|VerbForm=Part	4	cc	_	Jatian
+2	jawen	_	DET	DET|	_	3	det	_	jawen
+3	bene	_	NOUN	NOUN|adjroot|nroot	_	4	nsubj	_	bene
+4	katia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	kati-a
+5	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	4	aux	_	iki
+6	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 350
+# text = Ja báke ki ishton aniatia iki .
+1	Ja	_	DET	DET|demroot	_	2	det	_	Ja
+2	báke	_	NOUN	NOUN|dat|int|loc|nroot	_	5	nsubj	_	báke|Case=Dat,Voc
+3	ki	_	PART	PART|	_	5	mark	_	-ki
+4	ishton	_	ADV	ADV|advroot	_	5	advmod	_	ishton
+5	aniatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	aniati-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 351
+# text = Moa anitiketian , jakiribi ja ainbo tootia iki .
+1	Moa	_	ADV	ADV|advroot	_	2	advmod	_	Moa
+2	anitiketian	_	VERB	VERB|ds|p|vroot|vroot.i	Subj=Diff|Tense=RelPrev	7	advcl	_	aniti-ketian
+3	,	_	PUNCT	PUNCT|$.	_	2	punct	_	,
+4	jakiribi	_	SCONJ	SCONJ|adv|cmpl|hsy|int|sconjroot	Aspect=Perf|Evident=Nfh|VerbForm=Part	7	cc	_	jakiribi
+5	ja	_	DET	DET|demroot	_	6	det	_	ja
+6	ainbo	_	NOUN	NOUN|nroot|pl	Number=Plur	7	nsubj	_	ainbo
+7	tootia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	tooti-a
+8	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	7	aux	_	iki
+9	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 352
+# text = jaskaaxon ki ainbo n ki wiso ino retetia iki .
+1	jaskaaxon	_	CONJ	CONJ|	_	8	cc	_	jaskaaxon
+2	ki	_	PART	PART|	_	8	mark	_	-ki
+3	ainbo	_	NOUN	NOUN|all|dat|erg|gen|int|loc|nroot|pl	Number=Plur	8	nsubj	_	ainbo|Case=Dat,Erg,Gen
+4	n	_	PART	PART|	_	3	case	_	-n
+5	ki	_	PART	PART|	_	8	mark	_	-ki
+6	wiso	_	ADJ	ADJ|adjroot	_	7	amod	_	wiso
+7	ino	_	NOUN	NOUN|nroot	_	8	obj	_	ino
+8	retetia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	reteti-a
+9	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	8	aux	_	iki
+10	.	_	PUNCT	PUNCT|$.	_	8	punct	_	.
+
+# sent_id = 353
+# text = ¿ awá kan ki jawe pitia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	awá	_	NOUN	NOUN|dat|erg|int|loc|nroot.voc	_	6	nsubj	_	awá|Case=Dat,Erg,Voc
+3	kan	_	PART	PART|	_	2	case	_	-kan
+4	ki	_	PART	PART|	_	6	mark	_	-ki
+5	jawe	_	PRON	PRON|pronroot.int	Number=Sing|Person=3	6	obj	_	jawe
+6	pitia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	piti-a
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 354
+# text = ¿ jawekeskati ki ino naman pakétia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	jawekeskati	_	PRON	PRON|	_	6	advmod	_	jawekeskati
+3	ki	_	PART	PART|	_	6	mark	_	-ki
+4	ino	_	NOUN	NOUN|nroot	_	6	nsubj	_	ino
+5	naman	_	POSTP	POSTP|	_	6	case	_	naman
+6	pakétia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	pakéti-a
+7	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	6	aux	_	iki
+8	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 355
+# text = ¿ tsoa a ki yoitiai nato kointonin ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	tsoa	_	PRON	PRON|	_	5	obj	_	tsoa
+3	a	_	PART	PART|	_	2	case	_	-a
+4	ki	_	PART	PART|	_	5	mark	_	-ki
+5	yoitiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	yoiti-ai|Aspect=Imp,Perf
+6	nato	_	ADJ	ADJ|adjroot	_	7	amod	_	nato
+7	kointonin	_	NOUN	NOUN|all|erg|gen|nroot|pref|priv	_	5	nsubj	_	kointo-nin|Case=Erg,Gen
+8	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 356
+# text = ¿ tsoa a ikia ki yoitiai nato kointo nin ?
+1	¿	_	PUNCT	PUNCT|$.	_	6	punct	_	¿
+2	tsoa	_	PRON	PRON|	_	6	obj	_	tsoa
+3	a	_	PART	PART|	_	2	case	_	-a
+4	ikia	_	VERB	VERB|cmpl|hsy|int|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Evident=Nfh|Tense=Pqp|VerbForm=Part	2	amod	_	iki-a
+5	ki	_	PART	PART|	_	6	mark	_	-ki
+6	yoitiai	_	VERB	VERB|inc|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	yoiti-ai|Aspect=Imp,Perf
+7	nato	_	ADJ	ADJ|adjroot	_	8	amod	_	nato
+8	kointo	_	NOUN	NOUN|all|erg|gen|nroot|pref|priv	_	6	nsubj	_	kointo|Case=Erg,Gen
+9	nin	_	PART	PART|	_	8	case	_	-nin
+10	?	_	PUNCT	PUNCT|$.	_	6	punct	_	?
+
+# sent_id = 357
+# text = ¿ jawekeskaxon ki amen onántia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	jawekeskaxon	_	PRON	PRON|a|int|pronroot.int	_	5	advmod	_	jawekeskaxon
+3	ki	_	PART	PART|	_	5	mark	_	-ki
+4	amen	_	NOUN	NOUN|all|erg|gen|intrss|nroot|nrootes	_	5	obj	_	amen|Case=Acc,Erg,Gen
+5	onántia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	onánti-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 358
+# text = Pei 30 ikia bewá jakiribi máwatiwe .
+1	Pei	_	NOUN	NOUN|nroot	_	3	obl	_	Pei
+2	30	_	NUM	NUM|numroot.c	_	1	nummod	_	30
+3	ikia	_	VERB	VERB|cmpl|int|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	4	amod	_	iki-a
+4	bewá	_	NOUN	NOUN|nroot.voc|pref	Case=Voc	6	obj	_	bewá
+5	jakiribi	_	ADV	ADV|adv|advroot|demroot|loc	Case=Loc	6	advmod	_	jakiribi
+6	máwatiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	máwati-we
+7	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 359
+# text = Jakon jawékiatitibo
+1	Jakon	_	ADJ	ADJ|adjroot|erg	_	2	amod	_	Jakon
+2	jawékiatitibo	_	VERB	VERB|	_	0	root	_	jawékiati-ti-bo
+
+# sent_id = 360
+# text = Cristóbal Colón ikia iki jawéki oma joni .
+1	Cristóbal	_	PROPN	PROPN|propnroot	_	7	nsubj	_	Cristóbal
+2	Colón	_	PROPN	PROPN|propnroot	_	1	compound	_	Colón
+3	ikia	_	VERB	VERB|cmpl|int|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	7	cop	_	iki-a
+4	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	3	aux	_	iki
+5	jawéki	_	NOUN	NOUN|nroot|priv	Case=Voc	7	nmod	_	jawéki
+6	oma	_	PART	PART|	_	5	case	_	-oma
+7	joni	_	NOUN	NOUN|nroot	_	0	root	_	joni
+8	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 361
+# text = ja n vapor marotiti atipantiyamake , ja n katiti .
+1	ja	_	PRON	PRON|3.sg|all|erg	Number=Sing|Person=3	5	nsubj	_	ja
+2	n	_	PART	PART|	_	1	case	_	-n
+3	vapor	_	NOUN	NOUN|nroot|nrootes	_	4	obj	_	vapor
+4	marotiti	_	VERB	VERB|inf|mid|vroot	VerbForm=Inf	5	obj	_	maroti-ti
+5	atipantiyamake	_	VERB	VERB|cmpl|mid|neg|pds|vroot	Aspect=Perf|Mood=Ind|Polarity=Neg|Subj=Diff|Tense=RelPrev	0	root	_	atipanti-yama-ke
+6	,	_	PUNCT	PUNCT|$.	_	5	punct	_	,
+7	ja	_	PRON	PRON|3.sg|all|erg	Number=Sing|Person=3	9	nsubj	_	ja
+8	n	_	PART	PART|	_	7	case	_	-n
+9	katiti	_	VERB	VERB|inf|vroot.i	VerbForm=Inf	5	obl	_	kati-ti
+10	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 362
+# text = ikikeanaxmabi wetsa ainbo n kimisha vapor menitia iki .
+1	ikikeanaxmabi	_	VERB	VERB|	_	7	advcl	_	iki-kean-ax-ma-bi
+2	wetsa	_	ADJ	ADJ|adjroot|advroot	_	3	amod	_	wetsa
+3	ainbo	_	NOUN	NOUN|all|erg|gen|intrss|nroot|pl	Number=Plur	7	nsubj	_	ainbo|Case=Acc,Erg,Gen
+4	n	_	PART	PART|	_	3	case	_	-n
+5	kimisha	_	NUM	NUM|numroot.c	_	6	nummod	_	kimisha
+6	vapor	_	NOUN	NOUN|nroot|nrootes	_	7	obj	_	vapor
+7	menitia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	meniti-a
+8	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	7	aux	_	iki
+9	.	_	PUNCT	PUNCT|$.	_	7	punct	_	.
+
+# sent_id = 363
+# text = Yamé jo ikiai , jain joni ikiketian .
+1	Yamé	_	ADV	ADV|advroot	_	3	advmod	_	Yamé
+2	jo	_	INTJ	INTJ|	_	3	compound	_	jo
+3	ikiai	_	VERB	VERB|inc|int|pp1|sds|vroot|vroot.i	Mood=Ind|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	iki-ai|Aspect=Imp,Perf
+4	,	_	PUNCT	PUNCT|$.	_	3	punct	_	,
+5	jain	_	ADV	ADV|advroot	_	7	advmod	_	jain
+6	joni	_	NOUN	NOUN|nroot	_	7	nsubj	_	joni
+7	ikiketian	_	VERB	VERB|ds|int|mid|p|vroot|vroot.i	Subj=Diff|Tense=RelPrev	3	advcl	_	iki-ketian
+8	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 364
+# text = Nato bewá onántiwe .
+1	Nato	_	DET	DET|demroot	_	2	det	_	Nato
+2	bewá	_	NOUN	NOUN|nroot.voc|pref	Case=Voc	3	nsubj	_	bewá
+3	onántiwe	_	VERB	VERB|imp|vroot|vroot.i	Mood=Imp	0	root	_	onánti-we
+4	.	_	PUNCT	PUNCT|$.	_	3	punct	_	.
+
+# sent_id = 365
+# text = Ochíti bake
+1	Ochíti	_	NOUN	NOUN|nroot	_	0	root	_	Ochíti|Case=Gen,Voc
+2	bake	_	NOUN	NOUN|nroot	_	1	compound	_	bake
+
+# sent_id = 366
+# text = ¿ mia n ki betiyamabiresa ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	mia	_	PRON	PRON|2.sg|abs|all|dat|loc	Case=Dat|Number=Sing|Person=2	5	nsubj	_	mia
+3	n	_	PART	PART|	_	2	case	_	-n
+4	ki	_	PART	PART|	_	5	mark	_	-ki
+5	betiyamabiresa	_	VERB	VERB|adv|cmpl|mid|neg|po>s/a|pp2|pref|vroot|vroot.i	Aspect=Perf|Mood=Nec|Polarity=Neg|Tense=Pqp|VerbForm=Part	0	root	_	beti-yama-bires-a
+6	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 367
+# text = Bueno , rama atiwe maitiatikin nato pei anichaa bitixon .
+1	Bueno	_	INTJ	INTJ|intjroot	_	4	discourse	_	Bueno
+2	,	_	PUNCT	PUNCT|$.	_	1	punct	_	,
+3	rama	_	ADV	ADV|advroot	_	4	advmod	_	rama
+4	atiwe	_	VERB	VERB|imp|mid|vroot	Mood=Imp	0	root	_	ati-we
+5	maitiatikin	_	VERB	VERB|	_	4	advcl	_	maitiati-kin
+6	nato	_	ADJ	ADJ|adjroot	_	7	amod	_	nato
+7	pei	_	NOUN	NOUN|nroot	_	9	obj	_	pei
+8	anichaa	_	ADJ	ADJ|	_	7	amod	_	ani-chaa
+9	bitixon	_	VERB	VERB|pssa|vroot	Subj=Same|Tense=RelPrev	4	advcl	_	biti-xon
+10	.	_	PUNCT	PUNCT|$.	_	4	punct	_	.
+
+# sent_id = 368
+# text = Iráke ¡ papa !
+1	Iráke	_	INTJ	INTJ|intjroot	_	3	discourse	_	Iráke
+2	¡	_	PUNCT	PUNCT|$.	_	3	punct	_	¡
+3	papa	_	NOUN	NOUN|nroot|nrootes|pref	_	0	root	_	papa
+4	!	_	PUNCT	PUNCT|$.	_	3	punct	_	!
+
+# sent_id = 369
+# text = moa ra ea a keentiyamaai .
+1	moa	_	ADV	ADV|advroot|ev	Evident=Fh	5	advmod	_	moa
+2	ra	_	PART	PART|	_	5	mark	_	-ra
+3	ea	_	PRON	PRON|	_	5	nsubj	_	ea
+4	a	_	PART	PART|	_	3	case	_	-a
+5	keentiyamaai	_	VERB	VERB|inc|neg|pp1|pref|sds|vroot|vroot.i	Polarity=Neg|Subj=Diff|Tense=RelSim|VerbForm=Part	0	root	_	keenti-yama-ai|Aspect=Imp,Perf|Mood=Ind,Nec
+6	.	_	PUNCT	PUNCT|$.	_	5	punct	_	.
+
+# sent_id = 370
+# text = bari ra naí koin man bepotike .
+1	bari	_	NOUN	NOUN|ev|loc|nroot	Evident=Fh	6	obj	_	bari
+2	ra	_	PART	PART|	_	6	mark	_	-ra
+3	naí	_	NOUN	NOUN|nroot.voc	_	4	compound	_	naí|Case=Gen,Voc
+4	koin	_	NOUN	NOUN|all|erg|gen|nroot	_	6	nsubj	_	koin|Case=Erg,Gen
+5	man	_	PART	PART|	_	4	case	_	-man
+6	bepotike	_	VERB	VERB|cmpl|pds|vroot|vroot.i	Aspect=Perf|Mood=Ind|Subj=Diff|Tense=RelPrev	0	root	_	bepoti-ke
+7	.	_	PUNCT	PUNCT|$.	_	6	punct	_	.
+
+# sent_id = 371
+# text = ¿ Jawen rayosan ki jaweatia iki ?
+1	¿	_	PUNCT	PUNCT|$.	_	5	punct	_	¿
+2	Jawen	_	DET	DET|	_	3	det	_	Jawen
+3	rayosan	_	NOUN	NOUN|dat|erg|int|loc|nroot	_	5	iobj	_	rayos-an|Case=Dat,Erg
+4	ki	_	PART	PART|	_	5	mark	_	-ki
+5	jaweatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	jaweati-a
+6	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	5	aux	_	iki
+7	?	_	PUNCT	PUNCT|$.	_	5	punct	_	?
+
+# sent_id = 372
+# text = jaskáxon ki awa kan rono n ewa bakeranon tésatia iki .
+1	jaskáxon	_	SCONJ	SCONJ|a|hsy|int|sconjroot|siml	Evident=Nfh	9	cc	_	jaskáxon
+2	ki	_	PART	PART|	_	9	mark	_	-ki
+3	awa	_	NOUN	NOUN|erg|kan|nroot	Case=Erg	9	nsubj	_	awa
+4	kan	_	PART	PART|	_	3	case	_	-kan
+5	rono	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	7	nmod	_	rono|Case=Acc,Erg,Gen
+6	n	_	PART	PART|	_	5	case	_	-n
+7	ewa	_	NOUN	NOUN|adjroot|nroot	Case=Gen	8	compound	_	ewa
+8	bakeranon	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	9	obj	_	bakeranon|Case=Acc,Erg,Gen
+9	tésatia	_	VERB	VERB|cmpl|po>s/a|pp2|vroot|vroot.i	Aspect=Perf|Tense=Pqp|VerbForm=Part	0	root	_	tésati-a
+10	iki	_	AUX	AUX|auxroot|ssss	Mood=Nec|Subj=Same|Tense=RelSim	9	aux	_	iki
+11	.	_	PUNCT	PUNCT|$.	_	9	punct	_	.
+
+# sent_id = 373
+# text = joni n ino parantini
+1	joni	_	NOUN	NOUN|all|erg|gen|intrss|nroot	_	4	nsubj	_	joni|Case=Acc,Erg,Gen
+2	n	_	PART	PART|	_	1	case	_	-n
+3	ino	_	NOUN	NOUN|nroot	_	4	obj	_	ino
+4	parantini	_	VERB	VERB|rem|vroot|vroot.i	Tense=Past	0	root	_	paranti-ni
+

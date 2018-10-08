@@ -1,0 +1,77 @@
+Ancient_Greek		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Ancient_Greek-PROIEL		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Arabic	Semitic	37A Definite affix	38A 	85A Prepositions	86A Noun-Genitive	87A Noun-Adjective	88A Demonstrative-Noun	89A Numeral-Noun
+Arabic-NYUAD		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Basque	Basque	37A Definite word distinct from demonstrative	38A Indefinite word same as &#39;one&#39;	85A Postpositions	86A Genitive-Noun	87A Noun-Adjective	88A Noun-Demonstrative	89A Numeral-Noun
+Belarusian	Slavic	37A 	38A 	85A 	86A Noun-Genitive	87A Adjective-Noun	88A Demonstrative-Noun	89A 
+Bulgarian	Slavic	37A Definite word distinct from demonstrative	38A 	85A Prepositions	86A No dominant order	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Catalan	Romance	37A 	38A Indefinite word same as &#39;one&#39;	85A Prepositions	86A Noun-Genitive	87A Noun-Adjective	88A Demonstrative-Noun	89A Numeral-Noun
+Chinese	Chinese	37A No definite, but indefinite article	38A Indefinite word same as &#39;one&#39;	85A No dominant order	86A Genitive-Noun	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Coptic	Egyptian-Coptic	37A Definite word distinct from demonstrative	38A Indefinite word distinct from &#39;one&#39;	85A Prepositions	86A Noun-Genitive	87A Noun-Adjective	88A Mixed	89A Numeral-Noun
+Croatian	Slavic	37A No definite or indefinite article	38A No definite or indefinite article	85A Prepositions	86A No dominant order	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Czech	Slavic	37A No definite or indefinite article	38A No definite or indefinite article	85A Prepositions	86A No dominant order	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Czech-CAC		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Czech-CLTT		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Czech-FicTree		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Danish	Germanic	37A Definite affix	38A Indefinite word distinct from &#39;one&#39;	85A Prepositions	86A Genitive-Noun	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Dutch	Germanic	37A Definite word distinct from demonstrative	38A Indefinite word distinct from &#39;one&#39;	85A Prepositions	86A Noun-Genitive	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Dutch-LassySmall		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+English	Germanic	37A Definite word distinct from demonstrative	38A Indefinite word distinct from &#39;one&#39;	85A Prepositions	86A No dominant order	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+English-PUD		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+English-LinES		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+English-ParTUT		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Estonian	Finnic	37A No definite or indefinite article	38A No definite or indefinite article	85A Postpositions	86A Genitive-Noun	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Finnish	Finnic	37A No definite or indefinite article	38A No definite or indefinite article	85A Postpositions	86A Genitive-Noun	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Finnish-FTB		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+French	Romance	37A Definite word distinct from demonstrative	38A Indefinite word same as &#39;one&#39;	85A Prepositions	86A Noun-Genitive	87A Noun-Adjective	88A Demonstrative-Noun	89A Numeral-Noun
+French-ParTUT		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+French-Sequoia		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Galician	Romance	37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Galician-TreeGal		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+German	Germanic	37A Definite word distinct from demonstrative	38A Indefinite word same as &#39;one&#39;	85A Prepositions	86A Noun-Genitive	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Gothic		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Greek	Greek	37A Definite word distinct from demonstrative	38A Indefinite word same as &#39;one&#39;	85A Prepositions	86A Noun-Genitive	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Hebrew	Semitic	37A Definite affix	38A Indefinite word same as &#39;one&#39;	85A Prepositions	86A Noun-Genitive	87A Noun-Adjective	88A Noun-Demonstrative	89A Numeral-Noun
+Hindi	Indic	37A No definite or indefinite article	38A No definite or indefinite article	85A Postpositions	86A Genitive-Noun	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Hungarian	Ugric	37A Definite word distinct from demonstrative	38A Indefinite word distinct from &#39;one&#39;	85A Postpositions	86A Genitive-Noun	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Indonesian	Malayo-Sumbawan	37A Demonstrative word used as definite article	38A No indefinite, but definite article	85A Prepositions	86A Noun-Genitive	87A Noun-Adjective	88A Noun-Demonstrative	89A Numeral-Noun
+Irish	Celtic	37A Definite word distinct from demonstrative	38A No indefinite, but definite article	85A Prepositions	86A Noun-Genitive	87A Noun-Adjective	88A Noun-Demonstrative	89A Numeral-Noun
+Italian	Romance	37A Definite word distinct from demonstrative	38A Indefinite word same as &#39;one&#39;	85A Prepositions	86A Noun-Genitive	87A Noun-Adjective	88A Demonstrative-Noun	89A Numeral-Noun
+Italian-ParTUT		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Japanese	Japanese	37A No definite, but indefinite article	38A Indefinite word distinct from &#39;one&#39;	85A Postpositions	86A Genitive-Noun	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Japanese-PUD		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Kazakh	Turkic	37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Korean	Korean	37A No definite or indefinite article	38A No definite or indefinite article	85A Postpositions	86A Genitive-Noun	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Latin		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Latin-ITTB		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Latin-PROIEL		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Latvian	Baltic	37A Demonstrative word used as definite article	38A Indefinite word same as &#39;one&#39;	85A Prepositions	86A Genitive-Noun	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Lithuanian	Baltic	37A No definite or indefinite article	38A No definite or indefinite article	85A Prepositions	86A Genitive-Noun	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Norwegian-Bokmaal	Germanic	37A Definite affix	38A Indefinite word same as &#39;one&#39;	85A Prepositions	86A No dominant order	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Norwegian-NynorskLIA		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Norwegian-Nynorsk		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Old_Church_Slavonic		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Persian	Iranian	37A No definite, but indefinite article	38A 	85A Prepositions	86A Noun-Genitive	87A Noun-Adjective	88A Demonstrative-Noun	89A Numeral-Noun
+Polish	Slavic	37A No definite or indefinite article	38A No definite or indefinite article	85A Prepositions	86A Noun-Genitive	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Portuguese	Romance	37A Definite word distinct from demonstrative	38A Indefinite word same as &#39;one&#39;	85A Prepositions	86A Noun-Genitive	87A Noun-Adjective	88A Demonstrative-Noun	89A 
+Portuguese-PUD		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Portuguese-BR		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Romanian	Romance	37A Definite affix	38A Indefinite word same as &#39;one&#39;	85A Prepositions	86A Noun-Genitive	87A Noun-Adjective	88A Mixed	89A Numeral-Noun
+Russian	Slavic	37A No definite or indefinite article	38A No definite or indefinite article	85A Prepositions	86A Noun-Genitive	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Russian-SynTagRus		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Sanskrit		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Slovak	Slavic	37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Slovenian	Slavic	37A 	38A 	85A Prepositions	86A No dominant order	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Slovenian-SST		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Spanish	Romance	37A Definite word distinct from demonstrative	38A Indefinite word same as &#39;one&#39;	85A Prepositions	86A Noun-Genitive	87A Noun-Adjective	88A Demonstrative-Noun	89A Numeral-Noun
+Spanish-AnCora		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Swedish	Germanic	37A Definite affix	38A Indefinite word same as &#39;one&#39;	85A Prepositions	86A Genitive-Noun	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Swedish-LinES		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Swedish_Sign_Language		37A 	38A 	85A 	86A 	87A 	88A 	89A 
+Tamil	Southern_Dravidian	37A 	38A 	85A Postpositions	86A Genitive-Noun	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Turkish	Turkic	37A No definite, but indefinite article	38A Indefinite word same as &#39;one&#39;	85A Postpositions	86A Genitive-Noun	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Ukrainian	Slavic	37A No definite or indefinite article	38A No definite or indefinite article	85A Prepositions	86A 	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Urdu	Indic	37A No definite or indefinite article	38A No definite or indefinite article	85A Postpositions	86A Genitive-Noun	87A Adjective-Noun	88A Demonstrative-Noun	89A Numeral-Noun
+Uyghur	Turkic	37A 	38A 	85A 	86A 	87A Adjective-Noun	88A 	89A 
+Vietnamese	Viet-Muong	37A Definite word distinct from demonstrative	38A 	85A Prepositions	86A Noun-Genitive	87A Noun-Adjective	88A Noun-Demonstrative	89A Numeral-Noun
+Shipibo-Konibo	Panoan	37A No definite or indefinite article	38A No definite or indefinite article	85A Postpositions	86A Genitive-Noun	87A No dominant order	88A Demonstrative-Noun	89A Numeral-Noun

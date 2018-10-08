@@ -1,0 +1,9 @@
+bos	bos	SYM 
+de	de	SYM 
+enreemplazode	enreemplazode	SYM 
+hasta	hasta	SYM 
+mas	mas	SYM 
+nepónonxiweerror	nepónonxiweerror	SYM 
+weamamea	weamamea	SYM 
+y	y	SYM 
+yama	yama	SYM 
